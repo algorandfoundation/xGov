@@ -11,7 +11,7 @@ status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+A brief overview of the proposal and its main objectives. [xgov](xgov-1.md)
 
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
