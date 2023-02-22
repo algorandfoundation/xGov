@@ -16,7 +16,7 @@ A brief overview of the proposal and its main objectives.
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
 
-## Experience on Algorand
+## Experience with Algorand
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
 > eg
     > Using SDKs 
