@@ -1,12 +1,13 @@
 ---
-Title: <The proposal title is a few words, not a complete sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-CompanyName: <Name of the company>
-Category: <dApps,Tools,Community>
-FocusArea: <Banking, Defi, DEX, Gaming, Identity, Marketplace, Metaverse, NFT, Oracle, Storage, User Onboarding, IDE, Teal, Deployment, Libraries, Monitoring, Node, Education, Other (Please Specify)>
-OpenSource: <Yes, No>
-AmountRequested: <Amount requested in ALGO>
-Status: <Draft, Final>
+period: 1
+title: ci testing
+author: Stéphane BARROSO (@SudoWeezy)
+company_name: Algorand Foundation
+category: Community
+focus_area: Education
+open_source: Yes
+amount_requested: 0
+status: Draft
 ---
 
 ## Abstract
@@ -32,5 +33,3 @@ A description of the potential benefits that the proposal could bring to the Alg
 
 ## Additional information
 Any other relevant details or documentation that the team would like to include in the proposal.
-
-## new header
