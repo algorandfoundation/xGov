@@ -1,0 +1,33 @@
+#### Proposal Area / Category ####
+
+# Categories
+t-dapps: this?.new?.category == "dApps"
+t-tools: this?.new?.category == "Tools"
+t-community: this?.new?.category == "Community"
+
+# Focus Area
+a-banking: this?.new?.focus_area == "Banking"
+a-defi: this?.new?.focus_area == "Defi"
+a-dex: this?.new?.focus_area == "DEX"
+a-gaming: this?.new?.focus_area == "Gaming"
+a-identity: this?.new?.focus_area == "Identity"
+a-marketplace: this?.new?.focus_area == "Marketplace"
+a-metaverse: this?.new?.focus_area == "Metaverse"
+a-nft: this?.new?.focus_area == "NFT"
+a-oracle: this?.new?.focus_area == "Oracle"
+a-storage: this?.new?.focus_area == "Storage"
+a-user_onboarding: this?.new?.focus_area == "User Onboarding"
+a-ide: this?.new?.focus_area == "IDE"
+a-teal: this?.new?.focus_area == "Teal"
+a-deployment: this?.new?.focus_area == "Deployment"
+a-libraries: this?.new?.focus_area == "Libraries"
+a-monitoring: this?.new?.focus_area == "Monitoring"
+a-node: this?.new?.focus_area == "Node"
+a-education: this?.new?.focus_area == "Education"
+
+# Open Source
+o-open_source: this?.new?.open_source == "Yes"
+
+# Status
+s-draft: this?.new?.status == "Draft"
+s-final: this?.new?.status == "Final"
