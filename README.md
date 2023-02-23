@@ -20,8 +20,6 @@ The allocation of grants will be distributed taking into consideration the fundi
 
 Pull requests in this repository must pass automated validation checks:
 
-* HTML formatting and broken links are checked using [html-proofer](https://rubygems.org/gems/html-proofer).
-
 * Proposal formatting is checked using [xGov Validator](https://github.com/algorandfoundation/xgovw).
 
 To install `xgovw` and validate the xGovs repository:
@@ -31,5 +29,5 @@ To install `xgovw` and validate the xGovs repository:
 ```console
 git clone git@github.com:algorandfoundation/xgovw.git
 cargo install --path=xgovw xgovw
-xgovw /path/to/xGovs
+xgovw /path/to/xGovs/Proposals
 ```
