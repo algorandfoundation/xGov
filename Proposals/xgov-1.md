@@ -1,6 +1,6 @@
 ---
 period: 1
-title: ci testing
+title: ci testing ok
 author: Stéphane BARROSO (@SudoWeezy)
 company_name: Algorand Foundation
 category: Community
