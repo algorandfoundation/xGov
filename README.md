@@ -7,7 +7,7 @@ It is submitted
 
 ## Submitting a Proposal
 To submit a proposal, a proposer needs to create a pull request on the repository. 
-Proposals must follow the provided [template form](./TemplateForm.md) and be submitted to the folder  `/Proposals/xgov-X.md`, where X is the pull request number (e.g., xgov-1.md). Proposals must have the status Final before the end of the temperature check.
+Proposals must follow the provided <a href="https://github.com/algorandfoundation/ARCs/tree/main/assets/arc-0034/TemplateForm.md">template form</a> and be submitted to the folder <a href="Proposals">Proposals</a> `/Proposals/xgov-X.md`, where X is the pull request number (e.g., xgov-1.md). Proposals must have the status Final before the end of the temperature check.
 
 ## Threshold
 In order for a proposal to be approved, it is necessary for the number of votes in favor of the proposal to be proportionate to the amount of funds requested. This ensures that the allocation of funds is in line with the community's consensus and in accordance with democratic principles.
@@ -20,8 +20,6 @@ The allocation of grants will be distributed taking into consideration the fundi
 
 Pull requests in this repository must pass automated validation checks:
 
-* HTML formatting and broken links are checked using [html-proofer](https://rubygems.org/gems/html-proofer).
-
 * Proposal formatting is checked using [xGov Validator](https://github.com/algorandfoundation/xgovw).
 
 To install `xgovw` and validate the xGovs repository:
@@ -31,5 +29,5 @@ To install `xgovw` and validate the xGovs repository:
 ```console
 git clone git@github.com:algorandfoundation/xgovw.git
 cargo install --path=xgovw xgovw
-xgovw /path/to/xGovs
+xgovw /path/to/xGovs/Proposals
 ```
