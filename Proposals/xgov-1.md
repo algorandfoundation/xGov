@@ -1,35 +1,29 @@
 ---
 period: 1
-title: ci testing ok
+title: Mock Proposal
 author: Stéphane BARROSO (@SudoWeezy)
 company_name: Algorand Foundation
 category: Community
-focus_area: Education
+focus_area: User Onboarding
 open_source: Yes
-amount_requested: 0
-status: Draft
+amount_requested: 10000000000
+status: Final
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives. [xgov](xgov-1.md)
+Mock proposals in case, the voter does not want to spend his vote on other proposals available.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+ARC Manager at Algorand Foundation.
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+Member of Algorand Foundation.
 
 ## Roadmap
-A detailed plan for the development and implementation of the proposal, including timelines and milestones.
+Every quarter this will be updated to match the current period.
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
+It allows xGov voters to spend their vote even if they are not interested in other proposals.
 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
+None.
