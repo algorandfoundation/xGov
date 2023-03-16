@@ -11,6 +11,7 @@ status: Draft
 
 ## Abstract
 A brief overview of the proposal and its main objectives.
+A bit more information.
 
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
