@@ -1,7 +1,7 @@
 ---
 period: 7
 title: This is Adri's Proposal
-author: @nonfungibleab
+author: Adriana Belotti (@nonfungibleab)
 company_name: AF
 category: Community
 focus_area: User Onboarding
