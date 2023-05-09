@@ -70,7 +70,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 #### Legal
 
-- [MIT](https://mit-license.org/) or [UNLICENSE](https://unlicense.org/) license.
+- Use MIT or UNLICENSE software license.
 - No liability or warranty.
 - Do whatever with the code.
 - Request: Please don’t scam, defraud, or otherwise harm others using this code or some derivative of this code.
@@ -85,17 +85,17 @@ Simply stated on the website:
 Stellar Laboratory has a few tools, including a transaction builder. It is the inspiration for this project.
 
 - **Blockchain**: Stellar (XLM)
-- **Website**: <https://laboratory.stellar.org/>
+- **Website**: `https://laboratory.stellar.org/`
 
 #### Dappflow Composer
 
-From [Dappflow’s Dashboard page](https://app.dappflow.org/dashboard):
+From Dappflow’s Dashboard page as of May 9, 2023:
 > Composer your atomic transactions with intuitive transaction builder.
 
 Dappflow is a suite of online tools for Algorand development. One of the tools is *Composer*, a transaction builder. *Composer* at this time has limited functionality, and doesn’t allow the user to create more advanced transactions like a key registration transaction.
 
 - **Blockchain**: Algorand (ALGO)
-- **Website**: <https://app.dappflow.org/composer>
+- **Website**: `https://app.dappflow.org/composer`
 
 #### Create Bitcoin Transaction
 
@@ -105,4 +105,4 @@ From the website’s disclaimer:
 This tool is only does two things: build transactions and view transactions. It appears it was created in 2021. As of May 4, 2023, the version is v0.143 beta.
 
 - **Blockchain**: Bitcoin Satoshi Vision (BSV), Bitcoin (BTC)
-- **Website**: <https://createbitcointransaction.com/>
+- **Website**: `https://createbitcointransaction.com/`
