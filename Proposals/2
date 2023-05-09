@@ -1,0 +1,103 @@
+---
+period: 7 
+title: Livestream Integration 
+author: Christian Casini ( @Niftgen )
+company_name:Niftgen Inc  
+category: dApp 
+focus_area: SocialFi, web 3 social, and NFTs 
+open_source: No
+amount_requested: 192,000 ALGOs
+status: Draft
+---
+
+## Abstract
+A brief overview of the proposal and its main objectives.
+
+One of the main features we want to implement for Niftgen is live stream integration. 
+
+Mechanics of the live stream feature:
+Creators can live stream on Niftgen. While live streaming on Niftgen, creators can simultaneously broadcast on YouTube. Users will have the option to watch the live stream on Niftgen or YouTube. Users that watch the live stream on Niftgen will earn  POAP (Proof of Attendance Protocol). Users with a certain amount of POAPs can access features/events in the future. 
+
+If the user watches the live stream on YouTube, a link in the description will redirect them to Niftgen. To watch the live stream on Niftgen, they must create an account. For Web3 natives, connecting an existing wallet or creating a new one will be straightforward.
+
+Those new to Web3 (Web2 users) can sign up with email and password using Niftgen’s Magic Link integration. It creates an Algrorand-based wallet for them on the backend. Since users will not have to create wallets and write down seed phrases, traditional Web2 content creators can seamlessly bring their audiences into Web3. 
+
+
+## Team
+Information about the team members and their qualifications, including relevant experience and skills.
+
+<u>Christian Casini: Co-Founder </u>
+Bio: Christian is a serial entrepreneur. His first endeavor was managing high-end luxury rentals. He then went on to become a real estate specialist in Miami. His tenacious persistence, ability to connect with others, and passion for blockchain technology motivated him to start a blockchain startup. He firmly believes that blockchain technology will improve the current systems of the world for everyone. His first exposure to the blockchain industry was when he read the Bitcoin whitepaper in 2014.
+LinkedIn:https://www.linkedin.com/in/christiancasini
+
+<u>Philip Grichener: Co-Founder </u>
+Bio: Philip has a background in data analytics, which he utilized in his work as both a real estate agent and a freelance personal tutor. He first got interested in blockchain technology in 2014 after reading the Bitcoin whitepaper. His interest began in 2018 when a relative introduced him to DeFi (decentralized finance). His belief in blockchain technology disrupting humanity’s legacy systems inspired him to create a blockchain startup with this team.
+Philip Grichener | LinkedIn
+
+<u>Nikita Butenko: Full Stack and Lead Front-End Developer</u>
+Bio: Nikita started his web-development career in 2000, graduated as a Computer Networks Engineer a few years later, and continued as a full-time web and dev-ops engineer through many startups, established businesses, and government agencies such as Arbor Networks, Woolworths, and Rocket Internet. He is an author and contributor to multiple open-source projects, a speaker, and acts as a mentor to young developers. 
+LinkedIn: https://linkedin.com/in/nbutenko
+GitHub: https://github.com/nkbt
+
+<u>Etienne van Tonder: Full Stack and Lead Back-End Developer</u>
+Bio: Etienne has been a full-stack software developer since finishing his Computing degree in 1985, initially working for Telecom and Cadbury Schweppes before becoming an independent contractor in 1994. Since then, he has worked on many projects from small to very large-scale systems in various industries and for clients, including the Australian Broadcasting Corporation, Movember, Eastlink, Moreland City Council, and many more. He has extensive experience in many technologies, computing languages, and database management systems.
+Linkedin: https://www.linkedin.com/in/etienne-van-tonder-33a29811 
+
+<u>Andy Chipperfield: Product Designer</u>
+Bio: Andy has been designing experiences and interfaces since leaving University in 2001. Specializing in working with early-stage start-ups since 2013, Andy has worked with clients such as Plated, IGN, and Spotify and has recently been Lead designer at Tiltify and Snr Product Designer at Imperva.
+Personal Website: https://andychip.com
+
+<u>Matias Torres Diaz: Blockchain and Front-end Developer</u>
+Bio: Matias is a blockchain enthusiast. Upon graduation, he began working with KNOBS (2019) as a blockchain developer. Matias became a freelancer after a few years to work on more different projects and ideas, helping people develop and execute their ideas. He has worked in various blockchain ecosystems such as Ethereum, Solana, NEAR, Algorand, and BNB Chain.
+Linkedin: https://www.linkedin.com/in/matiastorresdiaz 
+GitHub: https://github.com/Tias84 
+
+
+## Experience with Algorand
+Details about the team's experience with the Algorand protocol and any previous projects built on it.
+> eg
+    > Using SDKs 
+    > Building applications
+    > Understanding of DApps
+    > Knowledge about the ecosystem
+    > Running nodes
+    
+    We built Niftgen on Algorand. Our smart contract developer has worked on numerous projects in the Algorand ecosystem, particularly in the DeFi space. We are very familiar with the different projects on Algorand and how they leverage the tech of the protocol for their dApps. We view Algorand as the best platform to create and launch Web3 applications. 
+
+
+## Roadmap
+A detailed plan for the development and implementation of the proposal, including timelines and milestones.
+
+The job will take 6 to 8 weeks. These are the different milestones: 
+    (1) Implement live streaming on Niftgen 
+    (2) Creators can also broadcast their live streams on YouTube 
+    (3) Users can easily switch between watching the live stream on YouTube to watching it on Niftgen. 
+    (4) Potential: Users who watch live streams on Niftgen will receive POAPs  
+
+## Benefits for the community
+A description of the potential benefits that the proposal could bring to the Algorand community and its users.
+
+<u>Benefits to the ecosystem:</u>
+Integrating live streaming and UI/UX improvements will make Niftgen more attractive to both Web3 and Web2 natives. This will bring an influx of new users to Algorand. It will also bring in an influx of Web3 and Web2 native video creators, who will grow their viewership and brands on Niftgen. 
+
+Niftgen aims to show how Web3 dApps can help video creators better monetize their content. This will get traditional Web2 creators and users interested in blockchain applications, which will help make Web3 mainstream. It will be a testament that projects built using Algorand technology can provide a great experience. 
+
+Currently, Niftgen is the sole SocialFi/Web 3 social dApp in Algorand. A successful Web3 social dApp will prove that Algorand is the place to build and grow social, consumer-oriented dApps. These dApps can help bring billions of users into Web3 (similar to how social media companies helped bring billions of active users into Web2) and grow the ecosystem.  
+
+<u>Benefits to other projects:</u>
+We collaborate with Algorand gaming and music companies. The gaming companies will have accounts on Niftgen. Video creators will create content by playing their games. The gaming companies will drive users to subscribe to Niftgen to access exclusive content. The gaming companies will keep a share of the revenue generated from their subscribers to Niftgen. Musicians will also have live-stream concerts on Niftgen. We will have a revenue share model for the music companies that refer musicians to Niftgen. 
+
+This is part of the strategy to onboard Web 2 users into the Algorand ecosystem. Niftgen can be the fun social dApp that users go to. We are using Magic Link for easy user onboarding. Once there, users can discover other dApps ( for example, gaming companies) and then actually try out their games. 
+
+## Additional information
+Any other relevant details or documentation that the team would like to include in the proposal.
+
+<u>A brief overview of Niftgen:</u>
+Niftgen is a hub for video creators to monetize their content better. There are over 60 million video creators on YouTube and Twitch. 98% earn less than $12,000 annually. These creators spend 500 to 1,000 hours annually producing video content. The problem is that creators have low engagement rates ( average <2%). Rates are low because users are not rewarded for their engagement with video content. On Niftgen, users will be rewarded for their engagement with utility tokens. These tokens will be used to access features on the platform. 
+
+<u>Project current stage:</u>
+We are live on Mainet ( www.niftgen.com). We are onboarding both creators and subscribers.
+
+<u>Contact information:</u>
+Christian - christian.c@niftgen.com
+Philip - pg@niftgen.com 
