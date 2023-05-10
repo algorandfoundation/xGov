@@ -1,7 +1,7 @@
 ---
 period: 9
 title: AWallet 
-author: Ludovit Scholtz (LudovitScholtz#9304) (@EAlgonaut)
+author: Ludovit Scholtz (@scholtz)
 company_name: Scholtz & Co
 category: Wallets
 focus_area: Open source algorand wallets
