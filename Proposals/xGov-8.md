@@ -18,9 +18,9 @@ holders of collections and multimint assets.
 We hope to continue to add more mass tools like Mass Freeze, Mass Clawback, Mass Asset Destroy, while also improving the UI/UX we already have built. 
 
 ## Team
-LoafPickle - Project Manager. I have 10 years of Project Management experience working in NYC on large scale construction projects. In addition, I am an OG in the Algorand NFT Space and have been helping develop utility 
+LoafPickle - Project Manager. I have 10 years of Project Management experience working in NYC on large scale construction projects. In addition, I am a long timer in the Algorand NFT Space and have been helping develop utility 
 projects on the chain since May 2021. I am currently the Head of Strategy and Community for Thurstober Digital Studios.
-ByKewel - Tool Developer. Kewel is another Algorand NFT OG that was the first to create wallet holding, sales, and listing discord bots that projects were able to incorporate into the ecosysytem. They also built the first
+ByKewel - Tool Developer. Kewel is another Algorand NFT long timer that was the first to create wallet holding, sales, and listing discord bots that projects were able to incorporate into the ecosysytem. They also built the first
 on-chain DAO tool back in February 2022. 
 Jenna (thurstober) - Project Lead.
 
