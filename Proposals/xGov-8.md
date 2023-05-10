@@ -34,6 +34,14 @@ Evil Tools Website: https://evil-tools.thurstober.com/
 Brrrrrrr Mode:
 A way for users to get away from the Pera limitations of only being able to sign 64 tx at a time.
 
+The site does not store any information. We would have a means for a creator to enter their keys and connect right to the SDK.
+
+With the inclusion of rekey tech, creators can rekey to a burner wallet and use that to enter the seed of the burner, then rekey back to their private keys. For the Airdrop tool, an escrow wallet could be used. I would write out guides and warnings so people feel their comfiest, but they can always sign through Pera if they feel uncomfortable.
+
+I recently minted a 2270 series for a creator and having to sign so many times made me want to lose my mind, especially being spoiled my myalgo's 1024 max cap. With Series sizes in the thousands and airdrops going to hundreds of wallets, the tools are meant to be able to scale infinitely and it feels lame having such a hinderance.
+
+Heavy NFT users typically have more than 64 assets at a time so if you wanted to send 256 assets to another wallet, you would need to sign 12 times to add, send, and opt out of the asset compared to just 3.
+
 Arc19 Collection Information:
 Pulls the on chain metadata for ARC19 Series so Creators can easily update and re-upload.
 
