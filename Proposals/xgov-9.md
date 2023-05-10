@@ -5,7 +5,7 @@ author: Ludovit Scholtz (LudovitScholtz#9304) (@EAlgonaut)
 company_name: Scholtz & Co
 category: Wallets
 focus_area: Open source algorand wallets
-open_source: yes
+open_source: Yes
 amount_requested: 10,000A
 status: Draft
 ---
