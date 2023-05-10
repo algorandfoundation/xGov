@@ -1,12 +1,12 @@
 ---
 period: 8
-title: Evil Tools 
-author: Joseph Glenn (LoafPickle) (@LoafPickleWW)
+title: Evil Tools
+author: Joseph Glenn (@LoafPickleWW)
 company_name: Thurstober Digital Studios LLC
 category: Tools
-focus_area: No-Code Tooling for Non-Developers to help onboard people to algorand
+focus_area: User Onboarding
 open_source: Undecided
-amount_requested: 10,000A
+amount_requested: 10000
 status: Draft
 ---
 
