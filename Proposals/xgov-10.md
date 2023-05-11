@@ -17,6 +17,7 @@ The goal of YourPlace is to give all the power and decisions back to the user, w
 We are trying to create a truly open and cryptographically enforced free-speech platform to connect people and ideas across the world. We aim for fun and freedom, with no compromise on safety.
 
 This xGov proposal is for the seed funding of YourPlace Inc. which will allow us to expand beyond our current solo-developer work stream.
+Currently, about 60% of the code for the open alpha has been developed and about 70% of the v1 [white paper](https://whitepaper.yourplace.network) has been written.
 YourPlace Inc. is requesting 1M ALGO (~$170k @ today's valuation) to fund infrastructure and engineering resources to get the project out into the public domain. This will allow us to run for at least 1 year, and potentially longer depending on future ALGO growth.
 
 ## Team
