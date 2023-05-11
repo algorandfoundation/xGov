@@ -1,7 +1,7 @@
 ---
 period: 10
 title: YourPlace
-author: Austin Lawrence (nops.algo)
+author: Austin Lawrence (@0x9090)
 company_name: YourPlace Inc
 category: dApp
 focus_area: Identity
