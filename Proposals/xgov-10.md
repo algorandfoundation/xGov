@@ -21,8 +21,8 @@ YourPlace Inc. is requesting 1M ALGO (~$170k @ today's valuation) to fund infras
 
 ## Team
 [Nops](https://www.linkedin.com/in/0x9090) is a veteran of the software security industry and has founded engineering teams at major companies like Coinbase, AWS, SpaceX, HubSpot and IBM.
-He is a proven leader who has grown teams and secured hyper growth companies through more than one successful IPO. Nops has founded small businesses, worked for Fortune 10 companies, and done a little of everything in-between.
-Nops is passionate about freedom, software and security, and is now looking to shake up the social media formula with his latest blockchain project, YourPlace.
+He is a proven leader who has grown teams and secured hyper growth companies through more than one successful IPO. Nops has founded small businesses, worked for Fortune 10 companies and done a little of everything in-between.
+Nops is passionate about freedom, software and security. And now he is now looking to shake up the social media formula with his latest blockchain project, YourPlace.
 
 This xGov proposal will help to fund the contracting of two junior level engineers to work directly under Nops. Their only focus will be to help develop the YourPlace software towards the open beta in 2024.
 
