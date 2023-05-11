@@ -7,7 +7,7 @@ category: dApp
 focus_area: Identity
 open_source: Yes
 amount_requested: 1000000
-status: Final
+status: Draft
 ---
 
 ## Abstract
