@@ -1,7 +1,7 @@
 ---
 period: 7
 title: Proposal to do great things for Algorand ecosystem
-author: algohodl (algohodl)
+author: algohodl (@algohodl)
 company_name: none
 category: Community
 focus_area: Education
