@@ -11,7 +11,7 @@ status: Draft
 ---
 
 ## Abstract
-[YourPlace](https://yourplace.network) is a decentralized, uncensorable, social media protocol build on IPFS and the Algorand blockchain. This open source software was built to distribute social media posts, profiles and content.
+[YourPlace](https://yourplace.network) is a decentralized, uncensorable, social media protocol built on IPFS and the Algorand blockchain. This open source software was built to distribute social media posts, profiles and content.
 The goal of YourPlace is to give all the power and decisions back to the user, while taking away as much control from the developer as possible. This is in keeping with open source and blockchain principals, but applied to social media.
 
 We are trying to create a truly open and cryptographically enforced free-speech platform to connect people and ideas across the world. We aim for fun and freedom, with no compromise on safety.
@@ -41,10 +41,15 @@ Every year the company will update its roadmap to reflect the quarterly prioriti
 * Q1 2024 - Open Beta, rich searching & curated feeds
 
 ## Benefits for the community
-YourPlace is a dApp which allows the public to create communities and self-publish content, with Algorand and IPFS being the hearts of the network. This gives Algorand users a digital, on-chain home to call their own. YourPlace also integrates with NFD and other Algo ecosystem providers, encouraging their usage.
-YourPlace is based on the native ALGO token. All non-fungible actions are stored as an Algo transaction, so it should drastically increase the usage of the Algorand blockchain. This increase in usage would ideally increase the price for the Algo token for all holders.
+YourPlace is a dApp which allows the public to create communities and self-publish content, with Algorand and IPFS being the hearts of the network. This gives Algorand users a digital, on-chain home to call their own. 
+
+YourPlace also integrates with NFD and other Algo ecosystem providers, encouraging their usage.
+
+YourPlace is based on the native ALGO token. All non-fungible actions are stored as an Algo transaction, so it should drastically increase the usage of the Algorand blockchain. This increase in demand would ideally increase the price for the Algo token for all holders.
+
+Freedom of speech is a cryptographically enforced principal in YourPlace and we've replaced centralized content moderation with decentralized, personal content controls. Subscriptions and dynamic block lists allow the user to find their communities, while also avoiding others. We've enforced freedom of speech, without compromising on personal responsibility.
+
 Being an open social media protocol gives users the ability to extend and modify the protocol to deliver content and services of all types. We want to bring back the fun and profile customization from social media of old, while preserving the features and safety mechanisms you'd expect to see today.
-Freedom of speech is a cryptographically enforced principal in YourPlace and we've replaced centralized content moderation with decentralized, personal content controls.
 
 ## Additional information
 * [YourPlace Beta](https://beta.yourplace.network)
