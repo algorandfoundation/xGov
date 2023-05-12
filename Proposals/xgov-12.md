@@ -1,5 +1,4 @@
 ---
-period: 1
 title: My Proposal
 author: algohodl (@algohodl)
 company_name: none
@@ -8,6 +7,7 @@ focus_area: User Onboarding
 open_source: Yes
 amount_requested: 1000
 status: DRAFT
+period: TBD
 ---
 
 ## Abstract
