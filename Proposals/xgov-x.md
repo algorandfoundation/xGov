@@ -1,13 +1,13 @@
 ---
 period: 1
-title: Mock Proposal
-author: Stéphane BARROSO (@SudoWeezy)
-company_name: Algorand Foundation
+title: My Proposal
+author: algohodl (@algohodl)
+company_name: none
 category: Community
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 10000000000
-status: Final
+amount_requested: 1000
+status: DRAFT
 ---
 
 ## Abstract
