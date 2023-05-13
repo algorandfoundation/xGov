@@ -11,7 +11,7 @@ status: Draft
 ---
 
 ## Abstract
-AWallet is [first open source](https://forum.algorand.org/t/algorand-wallet-open-source/3497) Algorand wallet. Wallet allows multisig features, ledger powered accounts, rekeying, making account online and protect algorand network, vanity account generation, ARC14 support, contains algorand native payment gateway, and more. AWallet is built as docker image so that anybody can run it locally in their environment and debug for example sandbox accounts. 
+AWallet is <a href="https://forum.algorand.org/t/algorand-wallet-open-source/3497">first open source</a> Algorand wallet. Wallet allows multisig features, ledger powered accounts, rekeying, making account online and protect algorand network, vanity account generation, ARC14 support, contains algorand native payment gateway, and more. AWallet is built as docker image so that anybody can run it locally in their environment and debug for example sandbox accounts. 
 
 We hope to continue to add more features.
 
