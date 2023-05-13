@@ -18,7 +18,7 @@ We hope to continue to add more features.
 With this ARC43 request we seek feedback on the product and possibly the help by community. The AWallet was built by community and is meant to be for Algorand community.
 
 ## Team
-Scholtz - Product owner. Active on [algorand forum](https://forum.algorand.org/u/scholtz/summary), runs few projects in algorand ecosystem such as the [VoteCoin](https://www.vote-coin.com), [Aramid Bridge](https://aramid.finance), [Stabilitas](https://stabilitas.finance), [Diatomix](https://www.diatomix.xyz). Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
+Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.diatomix.xyz">Diatomix</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
 
 ## Experience with Algorand
 Scholtz & Co is relay node runner.
