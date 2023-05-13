@@ -25,7 +25,7 @@ Scholtz & Co is relay node runner.
 
 We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
 
-[Everyday Algonaut channel](https://youtube.com/@EverydayAlgonaut)
+<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Roadmap
 Feedback:
