@@ -70,7 +70,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 #### Legal
 
-- <a href="https://mit-license.org/">MIT</a> or <a href="https://unlicense.org/">UNLICENSE</a> license.
+- <a href="https://mit-license.org/">MIT</a> or <a href="https://github.com/aws/mit-0/blob/master/MIT-0">MIT No Attribution (MIT-0)</a> license.
 - No liability or warranty.
 - Do whatever with the code.
 - Request: Please don’t scam, defraud, or otherwise harm others using this code or some derivative of this code.
