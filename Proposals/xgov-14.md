@@ -3,10 +3,10 @@ period: 12
 title: Fund Unnamed Wallet
 author: Liquid Glass (@0xLiquidGlass)
 company_name: "Unnamed"
-category: Tools, Community
-focus_area: Wallets
+category: Tools
+focus_area: Wallet
 open_source: Yes
-amount_requested: 6101 Algos
+amount_requested: 6101
 status: Draft
 ---
 
@@ -63,3 +63,6 @@ If you have any questions related to donations, you may ask them in the <i>#crow
 
 ## Benefits for the community
 With your donations, we are able to give you a better experience when using our wallet and dedicate more of our time towards the development of Unnamed
+
+## Additional information
+None
