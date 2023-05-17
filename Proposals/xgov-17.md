@@ -14,7 +14,7 @@ status: V1 Live
 A dedicated permissionless secure high odds lottery webapp running on the Algorand blockchain!
 
 ## Team
-Pax | Tinyleafgreens | Capt Mark
+Pax | Tinyleafgreens | Capt Mark 
 
 ## Experience with Algorand
 We have previously built 2 web apps using the Algorand Blockchain, and have 2 years of experience building web apps using Algorand.
