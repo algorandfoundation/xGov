@@ -1,5 +1,5 @@
 ---
-period: 12
+period: 14
 title: Fund Unnamed Wallet
 author: Liquid Glass (@0xLiquidGlass)
 company_name: "Unnamed"
@@ -7,7 +7,7 @@ category: Tools
 focus_area: Wallet
 open_source: Yes
 amount_requested: 6101
-status: Draft
+status: Final
 ---
 
 ## Abstract
