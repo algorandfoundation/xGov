@@ -1,7 +1,7 @@
 ---
 title: <Building the Future of Competitive Gaming: Grant Proposal for Our Free-to-Play Blockchain Game>
 author:  Aquiles benitez ( @aquilesdel90) <benitez.aquiles@gmail.com>
-company_name: <Gunny games studios>
+company_name: "Gunny games studios"
 category: Community
 focus_area: Gaming,Metaverse,Monitoring,NFT
 open_source:  No
