@@ -5,7 +5,7 @@ company_name: "Gunny games studios"
 category: Community
 focus_area: Gaming,Metaverse,Monitoring,NFT
 open_source:  No
-amount_requested:1562000
+amount_requested: 1562000
 status: Draft
 ---
 
