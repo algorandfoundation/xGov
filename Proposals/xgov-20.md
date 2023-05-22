@@ -7,7 +7,7 @@ category: Community
 focus_area: Gaming,Metaverse,Monitoring,NFT
 open_source:  No
 amount_requested:1562000
-status: MVP/Demo
+status: Draft
 ---
 
 ## Abstract
