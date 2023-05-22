@@ -1,5 +1,4 @@
 ---
-Period: 7
 title: <Building the Future of Competitive Gaming: Grant Proposal for Our Free-to-Play Blockchain Game>
 author:  Aquiles benitez ( @aquilesdel90) <benitez.aquiles@gmail.com>
 company_name: <Gunny games studios>
@@ -145,3 +144,9 @@ Change weapon: Q.
 You will be able to switch between two characters and different Inugis. Click "Play" and wait for a minute for the game to start.
 
 We appreciate your understanding and respect for our intellectual property rights.
+
+
+
+
+
+
