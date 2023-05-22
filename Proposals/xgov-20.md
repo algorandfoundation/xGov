@@ -78,9 +78,10 @@ Additionally, we will launch the first Gunny tournaments and showcase high-quali
 This milestone represents a significant step in establishing Gunny as a leading player in the blockchain gaming industry. We are excited about the impact we will make on the gaming community.
 
 ### Milestone 2 
-Date:30/07/2023
+Date:15/12/2023
 Amount: 1249000 
 In Milestone 2, we are taking the valuable feedback obtained from the demo testing to elevate the game to new heights with a host of thrilling features. Our primary focus is on expanding the gameplay experience by introducing an array of exciting elements.
+Our proposed timeline demonstrates the estimated duration for accomplishing the outlined objectives. The game will receive continuous updates, progressively introducing the mentioned elements to enrich the gaming experience.
 
 First and foremost, we are expanding the arsenal of weapons available to players, introducing new and diverse options that will cater to different playstyles. 
 This will provide players with a broader selection and allow for more strategic decision-making on the battlefield.
