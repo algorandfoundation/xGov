@@ -10,7 +10,7 @@ status: Draft
 ---
 
 ## Abstract
-The aim is to finish the implementation of the coq-avm library for version 8 af the AVM. A summary of
+The aim is to finish the implementation of the coq-avm library for version 8 af the AVM. An introduction of
 the library can be found here: [coq-avm-introduction.pdf][1]
 
 [1]: coq-avm-introduction.pdf
@@ -31,7 +31,7 @@ Description:
   - implementation of the interpreter for logicsig mode
 
 ### Milestone 2
-Date: 6 weeks  
+Date: 8 weeks  
 Amount: 75000  
 Description:
   - implementation of the cryptographic op codes: sha256, keccak256, sha512_256, ed25519verify, ecdsa_verify,
@@ -45,14 +45,15 @@ Description:
   - goal: 100% matching in behaviour
 
 ## Benefits for the community
-- Executable semantics for TEAL programs.
-- Formal verification of Algorand smart contracts using Coq.
-- Development of formal specification on the behaviour of op codes.
-- Potential to provide formal proofs on smart contract/logicsig execution consistency between
-  different versions of AVM. Prerequisite: implementation of the interpreter for other versions.
-- Providing alternative to the AVM semantic library of the K Framework.
-- Toolset/tactics for developers to create formal proofs of AVM programs.
+- executable semantics for AVM programs
+- aid the formal verification of Algorand smart contracts using Coq
+- formal specification on the behaviour of op codes
+- potentially provide formal proofs on smart contract/logicsig execution consistency between
+  different versions of AVM
+- providing alternative to the AVM semantic library of the K Framework
+- toolset/tactics for developers to create formal proofs of AVM programs
 
 ## Additional information
+- Formal verification: https://en.wikipedia.org/wiki/Formal_verification
 - Information about the Coq proof assistant: https://coq.inria.fr/ , https://en.wikipedia.org/wiki/Coq
 - K framework AVM semantics implementation: https://github.com/runtimeverification/avm-semantics
