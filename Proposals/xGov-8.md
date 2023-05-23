@@ -5,7 +5,7 @@ author: Joseph Glenn (@LoafPickleWW)
 company_name: Thurstober Digital Studios LLC
 category: Tools
 focus_area: User Onboarding
-open_source: Undecided
+open_source: No
 amount_requested: 10000
 status: Draft
 ---
@@ -31,7 +31,8 @@ Website: https://thurstober.com/
 Evil Tools Website: https://evil-tools.thurstober.com/
 
 ## Roadmap
-Brrrrrrr Mode:
+Brrrrrrr Mode: - This is built. renamed to infinity mode.
+
 A way for users to get away from the Pera limitations of only being able to sign 64 tx at a time.
 
 The site does not store any information. We would have a means for a creator to enter their keys and connect right to the SDK.
