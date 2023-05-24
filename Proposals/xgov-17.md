@@ -1,13 +1,13 @@
 ---
 period: 7
 title: V2 Dotty the DeFi Lottery
-author: Kejon Fubler (PaxSomnius)
+author: Kejon Fubler (@paxsomnius)
 company_name: Rodella UK LTD
 category: dApps
 focus_area: Gaming
-open_source: Undecided
+open_source: Yes
 amount_requested: 1
-status: V1 Live
+status: Final
 ---
 
 ## Abstract
