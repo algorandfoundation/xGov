@@ -43,7 +43,7 @@ I recently minted a 2270 series for a creator and having to sign so many times m
 
 Heavy NFT users typically have more than 64 assets at a time so if you wanted to send 256 assets to another wallet, you would need to sign 12 times to add, send, and opt out of the asset compared to just 3.
 
-Arc19 Collection Information:
+Arc19 Collection Information: - This is built
 Pulls the on chain metadata for ARC19 Series so Creators can easily update and re-upload.
 
 Mass Asset Destroy:
