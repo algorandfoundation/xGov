@@ -1,9 +1,9 @@
 ---
 title: Algorand Foundation market operations dashboard
-author: Sot Papasot (papasotiriou)
+author: Sot Papasot (@papasotiriou)
 company_name: datascientist.algo
 category: Tools
-focus_area: Analytics
+focus_area: Monitoring
 open_source: Yes
 amount_requested: 4000
 status: Draft
