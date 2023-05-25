@@ -10,7 +10,13 @@ status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+In this proposal I give an example of unemployment in Indonesia.
+
+The unemployment rate in Indonesia is 59th out of 100 countries according to the IMF or 5.45% in February 2023 according to BPS. Unemployment occurs because the growth in the labor force is higher than the growth in existing jobs.
+
+Okay, now let's look at the year before the existence of an online motorcycle taxi platform, let's take the example of online motorcycle taxis because the social impact is very high, it is predicted to reduce unemployment, and indeed in 2014 the unemployment rate according to BPS was 5.94%, then in 2016 and In 2019 the average was 5.34%, had increased again during the pandemic to 5.83% then now in 2013 it has fallen again to 5.45% meaning there is recovery again.
+
+Apart from the pandemic, several platforms that affect the level of social or social impact, such as online motorcycle taxis, are able to reduce the unemployment rate, meaning that this platform which is massive & easy to implement by various groups is quite right on target.
 
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
