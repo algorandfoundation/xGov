@@ -5,7 +5,7 @@ company_name: "Gunny games studios"
 category: Community
 focus_area: Gaming
 open_source:  No
-amount_requested: 1562000
+amount_requested: 833000
 status: Draft
 ---
 
