@@ -12,6 +12,8 @@ status: Draft
 ## Abstract
 In this proposal I give an example of unemployment in Indonesia.
 
+I live in an environment where education is a luxury item, not even a few of them end up dropping out of school, hidden talents are like black pearls. I also often see those who have expertise being colonized by the company, to work hard even though the grade is given the lowest, those without a diploma even work harder than those who already have a diploma, because for them proof is not a piece of paper, but a dedication. a reason why they should be accepted.
+
 The unemployment rate in Indonesia is 59th out of 100 countries according to the IMF or 5.45% in February 2023 according to BPS. Unemployment occurs because the growth in the labor force is higher than the growth in existing jobs.
 
 Okay, now let's look at the year before the existence of an online motorcycle taxi platform, let's take the example of online motorcycle taxis because the social impact is very high, it is predicted to reduce unemployment, and indeed in 2014 the unemployment rate according to BPS was 5.94%, then in 2016 and In 2019 the average was 5.34%, had increased again during the pandemic to 5.83% then now in 2013 it has fallen again to 5.45% meaning there is recovery again.
