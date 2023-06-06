@@ -1,13 +1,13 @@
 ---
 period: 9
-title: AWallet 
+title: AWallet
 author: Ludovit Scholtz (@scholtz)
 company_name: Scholtz & Co
 category: Wallets
-focus_area: Open source algorand wallets
+focus_area: Wallet
 open_source: Yes
 amount_requested: 10000
-status: Draft
+status: Final
 ---
 
 ## Abstract
