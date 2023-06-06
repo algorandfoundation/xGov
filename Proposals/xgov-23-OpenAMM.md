@@ -1,13 +1,13 @@
 ---
 period: 9
-title: OpenAMM 
+title: OpenAMM
 author: Ludovit Scholtz (@scholtz)
 company_name: Scholtz & Co
-category: DeFi
-focus_area: Open source AMM with concentrated liquidity
+category: dApps
+focus_area: Defi
 open_source: Yes
 amount_requested: 200000
-status: Draft
+status: Final
 ---
 
 ## Abstract
