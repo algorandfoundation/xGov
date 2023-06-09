@@ -7,7 +7,7 @@ category: dApps
 focus_area: User Onboarding
 open_source: No
 amount_requested: 95700
-status: Final
+status: Draft
 ---
 
 ## Abstract
