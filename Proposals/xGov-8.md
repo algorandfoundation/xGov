@@ -46,10 +46,10 @@ Heavy NFT users typically have more than 64 assets at a time so if you wanted to
 Arc19 Collection Information: - This is built
 Pulls the on chain metadata for ARC19 Series so Creators can easily update and re-upload.
 
-Mass Asset Destroy:
+Mass Asset Destroy: - This is built
 Destroys creator made assets.
 
-Premium Send:
+Premium Send: - This is built
 Allows users to customize the note for their airdrops.
 
 Mass Clawback:
