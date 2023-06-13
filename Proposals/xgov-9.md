@@ -3,7 +3,7 @@ period: 9
 title: AWallet
 author: Ludovit Scholtz (@scholtz)
 company_name: Scholtz & Co
-category: Wallets
+category: Tools
 focus_area: Wallet
 open_source: Yes
 amount_requested: 10000
