@@ -1,7 +1,7 @@
 ---
 title: Algorand SVM Chain Proposal Technical Deep Dive
 author: Neel Somani <neel@eclipse.builders>, David Lin <david@eclipse.builders>, Grant Gerber <grant@eclipse.builders>, Veronica <veronica@eclipse.builders>, Pratham Prasoon (@PrasoonPratham)
-company_name: Eclipse
+company_name: "Eclipse"
 category: Tools
 focus_area: Deployment
 open_source: Yes
