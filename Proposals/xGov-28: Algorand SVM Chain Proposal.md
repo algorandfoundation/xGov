@@ -19,7 +19,7 @@ Eclipse(https://eclipse.builders) is a customizable rollup provider that allows 
 
 
 
-1. The first-ever rollup deployed to Algorand
+1. The first-ever SVM rollup deployed to Algorand
 2. A Solana virtual machine execution layer, so Solana programs can deploy to Algorand
 
 
