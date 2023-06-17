@@ -32,7 +32,7 @@ The AVM already allows for some decimal math; this change would complete it to a
 1m1 has 30+ years of experience creating technological solutions to complex problems in the intersection of computer science, math, economics, sociology. 1m1 has worked at large firms as well as startups in various roles. see https://1m1.io for a novel style cv.
 
 ## Experience with Algorand
-grant recipient from the foundation for 2i2i, completed all milestones on time. speaker at Decipher 2022. codes in TEAL and tealish, runs local node, has built dApps including purely web3 (ipfs+Algorand) and web2. also sometimes live streams coding of Algorand dApps.
+grant recipient from the foundation for 2i2i, completed all milestones on time. speaker at Decipher 2022. can code in any language, runs local node, has built dApps including purely web3 (ipfs+Algorand) and web2. also sometimes live streams coding of Algorand dApps.
 
 ## Roadmap
 
