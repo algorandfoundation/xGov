@@ -10,7 +10,7 @@ status: Draft
 ---
 
 ## Abstract
-This smart contract solves the problem of credit-risk-free coin transfer and vesting.
+This smart contract solves the problem of credit-risk-free coin transfer, founders vesting and fair inheritance.
 
 Many employers pay their employees once a month, at the end of month. That leaves the entire credit-risk with the employee. If they paid at the beginning of the month, all the credit-risk would be with the employer. To reduce credit-risk, some employers pay weekly.
 
@@ -21,7 +21,6 @@ An employer locks coins in the smart contract and an employee can pull coins out
 The same smart contract works for founders vesting their project coins. Or parents giving an inheritance to their progeny, over time rather than all at once.
 
 It is efficient as the beneficiary optimizes for itself and decides whenever it wants to pull the coins.
-
 In the modern world, employees would probably pull their coins after each working day, if not even more often, especially if each transaction costs as little as Algorand makes it.
 
 It gives a beneficiary access to it's capital as soon as earned, instead of the letting the e.g. employer earn all the yield, as currently the case.
