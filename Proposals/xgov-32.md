@@ -38,7 +38,7 @@ grant recipient from the foundation for 2i2i, completed all milestones on time. 
 ### Milestone 1
 Date: 3 months
 Amount: 300000
-Description: Conceptualization
+Description: Conceptualization/White paper
 
 ### Milestone 1
 Date: 3 months
