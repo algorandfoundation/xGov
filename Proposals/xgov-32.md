@@ -52,6 +52,7 @@ Description: Verification
 
 ## Benefits for the community
 "The truth is alive on Algorand" gives Algorand a stable and importance position in the world.
+Benefits to the world are timely, given fake news, etc.
 
 ## Additional information
 https://github.com/1m1-github/wiki3
