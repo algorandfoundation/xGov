@@ -1,5 +1,5 @@
 ---
-title: Add arbitrary precision exp, log, pow to the AVM
+title: Add arbitrary decimal precision exp, log, pow to the AVM
 author: 1m1 (1m1-github)
 company_name: 2i2i
 category: AVM
