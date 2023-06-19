@@ -5,8 +5,8 @@ company_name: 679 Labs AB
 category: dApp
 focus_area: DEX
 open_source: Yes
-amount_requested: ??? Algo
-status: Draft
+amount_requested: 180000 Algo
+status: Final
 ---
 
 ## Abstract
@@ -43,24 +43,25 @@ Amount: 0
 Description: https://github.com/HashMapsData2Value/gjallarbro/tree/main/modgunn Barebones PoC
 
 ### Convert PoC into proper Beaker & Algokit code
-Date: DD/MM/YYYY
-Amount: ???
-Description: Since I wrote the PoC lots of nice things have happened on Algorand. I need to recreate it with AlgoKit and into Beaker. 
+Date: 1 month
+Amount: 30000
+Description: 
+- Since I wrote the PoC lots of nice things have happened on Algorand. I need to recreate it with AlgoKit and into Beaker, adding tests and so on.
+- I also need to add a logicsig that will fund a transaction group allowing a new Algorand account with 0 Algo to claim Algo. 
 
 ### CLI Tool
-Date: DD/MM/YYYY
-Amount: ???
+Date: 4 months
+Amount: 120000
 Description: 
 - With the CLI tool you'll be able to set the parameters for the trade, confirm with the counter-part, publish the contract, and then follow through with the steps of the protocol.
 - CLI tool will assume you have an Algorand and Monero node available, as well as the wallets for each.
 - Will include video tutorial. 
 
 ### Make everything compatible with XMR/ASA 
-Date: DD/MM/YYYY
-Amount: ???
+Date: 1 month
+Amount: 30000
 Description: 
 - Convert everything to be able to handle trades between XMR and ASA. In particular will require looking at opt-ins, how to ensure MBR Algo is available, etc.
-
 
 ## Benefits for the community
 
