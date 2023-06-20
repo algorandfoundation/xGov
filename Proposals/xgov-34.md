@@ -5,7 +5,7 @@ company_name: 679 Labs AB
 category: dApp
 focus_area: DEX
 open_source: Yes
-amount_requested: 180000 Algo
+amount_requested: 30000 Algo
 status: Final
 ---
 
