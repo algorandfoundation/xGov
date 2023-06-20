@@ -7,7 +7,7 @@ category: dApps
 focus_area: User Onboarding
 open_source: No
 amount_requested: 95700
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -24,9 +24,18 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Roadmap
-1)We intend to build a basic address-to-address chat application and integrate it into our current application.<br>
 
-2)Release apis as a service so that projects can integrate them.
+### Build Chat Application.
+Date: 3 months
+Amount: 85000
+Description:
+    -We intend to build a basic address-to-address chat application and integrate it into our current application
+
+### APIs as service
+Date: 1 month
+Amount: 10700
+Description:
+    -Release apis as a service so that projects can integrate chat app into their web3 application.
 
 ## Benefits for the community
 1) Community members can interact with each other by using an algorand address as their identity. Currently, members have to expose their web2 identities, like email-id or phone numbers via a web2 platform to interact with other members or web3 projects.
