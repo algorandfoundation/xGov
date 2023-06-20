@@ -5,7 +5,7 @@ company_name: 679 Labs AB
 category: dApp
 focus_area: DEX
 open_source: Yes
-amount_requested: 90000 Algo
+amount_requested: 100000 Algo
 status: Final
 ---
 
@@ -44,7 +44,7 @@ Description: https://github.com/HashMapsData2Value/gjallarbro/tree/main/modgunn 
 
 ### Milestone 1: Convert PoC into proper Beaker & Algokit code, pull down 
 Date: 3 month
-Amount: 90000
+Amount: 100000
 Description: 
 - Since I wrote the PoC lots of nice things have happened on Algorand. I need to recreate it with AlgoKit and into Beaker, adding tests and so on.
 - Scripts that install and set up the local Algorand and Monero nodes.
@@ -53,7 +53,7 @@ Description:
 
 ### Future Milestones: CLI tool & Trade Daemon & Make everything compatible with XMR/ASA
 Date: 3 months
-Amount: 90000
+Amount: 100000
 Description: 
 - With the CLI tool you'll be able to set easily the parameters for the trade and pass the proposal to the counterpart.
 - "Daemon" that will follow through with the steps of the protocol, communicate with wallets, query node indexers, break off trade or punish counterpart.
