@@ -6,7 +6,7 @@ category: Tools
 focus_area: Defi
 open_source: No
 amount_requested: 75000
-status: Draft
+status: Final
 ---
 
 ## Abstract
