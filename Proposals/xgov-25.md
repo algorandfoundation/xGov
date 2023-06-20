@@ -27,13 +27,17 @@ Website: https://notiboy.com/
 
 ### Build Chat Application.
 Date: 3 months
+
 Amount: 85000
+
 Description:
     -We intend to build a basic address-to-address chat application and integrate it into our current application
 
 ### APIs as service
 Date: 1 month
+
 Amount: 10700
+
 Description:
     -Release apis as a service so that projects can integrate chat app into their web3 application.
 
