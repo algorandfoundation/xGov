@@ -48,6 +48,13 @@ Developed tools for Android Studio as well as several other internal developer t
 
 In crypto since 2015: Arbitrage and market-making bots, 25% volume of the Stellar DEX was traded by Valery's bot in 2017.
 
+### Richard Sterling: Community Manager
+
+https://twitter.com/Richflairstv
+
+Has a **rich** experience in community management.
+
+Maintains Algorand ecosystem review streams: https://www.twitch.tv/bartherapymag
 
 ## Experience with Algorand
  
@@ -83,14 +90,14 @@ Some features could be replaced with community suggestions, since our goal is no
 But please keep in mind, that some features could be harder to implement thus could not fit in the budget.
 
 ## Benefits for the community
-<b>Benefits to the ecosystem:</b>
+### Benefits to the ecosystem
 
 * Reliable staking platform with convenient and fast UI/UX.
 * Maximizing profits for stakers.
 * NFT rewards which is fun.
 * More activities for the community, which is also fun and profitable.
 
-<b>Benefits to other projects:</b>
+### Benefits to other projects
 * Ability to create a robust staking for their tokens at any moment.
 * Ability to add NFT rewards for their pools at any moment to attract more stakers.
 * Being sure that all our users will always know about the creation of their pools immediately.
@@ -102,7 +109,7 @@ We are not getting funds to finish the LaaS, since it requires much more. For th
 
 The sum would be enough for 2 months work, after which platform would be fully autonomous and should work like clockwork. We hope that after that we'll have bigger revenue, which would allow us to continue developing on our own.
 
-## Contact information.
+### Contact information.
 * Discord: nikitacometa 
 * Telegram: https://t.me/nikitacometa 
 * Email: wackloner@gmail.com
