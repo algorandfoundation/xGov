@@ -78,23 +78,23 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 ### Mockups
 
 <figure>
-    <img style="max-height: 500px" src="xgov-6_files/compose_tx_app_call_blank.png"
+    <img height="500" src="xgov-6_files/compose_tx_app_call_blank.png"
          alt="Screenshot of the compose transaction form for application call">
     <figcaption>Composing an application call transaction</figcaption>
 </figure>
 
 <figure>
-    <img style="max-height: 500px" src="xgov-6_files/compose_tx_keyreg_filled.png" alt="Screenshot of the compose transaction form for key registration">
+    <img height="500" src="xgov-6_files/compose_tx_keyreg_filled.png" alt="Screenshot of the compose transaction form for key registration">
     <figcaption>Composing a key registration transaction</figcaption>
 </figure>
 
 <figure>
-    <img style="max-height: 500px" src="xgov-6_files/sign_tx_signed.png" alt="Screenshot of the review-and-sign page with message saying transaction has been signed">
+    <img height="500" src="xgov-6_files/sign_tx_signed.png" alt="Screenshot of the review-and-sign page with message saying transaction has been signed">
     <figcaption>The transaction has been signed but hasn’t been sent yet</figcaption>
 </figure>
 
 <figure>
-    <img style="max-height: 500px" src="xgov-6_files/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
+    <img height="500" src="xgov-6_files/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
     <figcaption>The transaction has been successfully sent</figcaption>
 </figure>
 
