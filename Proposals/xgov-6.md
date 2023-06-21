@@ -12,7 +12,7 @@ status: Draft
 
 ## Abstract
 
-The “Transaction Builder UI” (name not final) will be an online tool that provides an easy and user-friendly way to create just about any transaction on Algorand. Creating and sending a transaction on Algorand without an existing tool for that particular type of transaction requires using the SDK or `goal`, which requires programming knowledge and/or a node setup. Just about every wallet makes simple payment transactions easy. However, many of the more advanced transactions are either difficult or impossible within the wallets’ UIs. Most wallets don’t allow most types of Algorand transactions for security and user experience reasons.
+The “Transaction Builder UI” (name not final) will be an online tool that provides an easy and user-friendly way to create just about any transaction on Algorand. Creating and sending a transaction on Algorand without an existing tool for that particular type of transaction requires using the SDK or `goal`, which requires programming knowledge and/or a node setup. Just about every wallet makes simple payment transactions easy. However, many of the more advanced transactions are either difficult or impossible within the wallets’ UIs. This creates a large gap where a non-programmer user cannot conveniently use many of Algorand’s more advanced features. The purpose of the Transaction Builder UI is to fill in this gap.
 
 ## Team
 
@@ -33,7 +33,7 @@ A lone web developer for over 10 years. In September 2021, she became interested
 
 ## Benefits for the community
 
-Having an easy-to-use user interface (UI) for creating and sending transactions of almost any level of difficulty would make Algorand an easier blockchain to use. More advanced and complex transactions would be easier and safer for users of various knowledge levels to create and send. An easy-to-use UI would also allow users to obtain a better understanding of what transaction(s) they are sending and how transactions work in general.
+Having an easy-to-use user interface (UI) for creating and sending transactions of almost any level of difficulty would make Algorand an easier blockchain to use. More advanced and complex transactions would be easier and safer for users of various knowledge levels to create and send. Easier access to Algorand’s more advanced features will make Algorand a more useful tool for more people. An easy-to-use UI would also allow users to obtain a better understanding of what transaction(s) they are sending and how transactions work in general.
 
 ## Additional information
 
@@ -64,7 +64,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 - For Algorand only.
 - Code must be open source and available to the public, preferably in a publicly accessible Git repository like GitHub.
-- Code should be well documented, usually through code comments and some external documents, such as a README.
+- Code should be well documented, usually through code comments and some external documentation, such as a README.
 - Code should be well organized.
 - Project should have "clean code"; in other words, it shouldn’t have more code than necessary for the software to function well.
 
