@@ -22,7 +22,7 @@ A lone web developer for over 10 years. In September 2021, she became interested
 
 ## Experience with Algorand
 
-### No-Cash-7970’s Experience
+### No-Cash-7970’s experience
 
 - Using and experimenting with the JavaScript and Python SDKs
 - Built a working prototype game using Reach
@@ -37,9 +37,9 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 ## Additional information
 
-### Project Features/Requirements
+### Project features &amp; requirements
 
-#### User Interface and User Experience
+#### User interface and user experience
 
 - Focused. The Transaction Builder UI is solely tool for creating Algorand transactions.
 - Simple. Building an Algorand transaction can get very complex very quickly, so the UI shouldn’t add to that complexity. However, the UI shouldn’t completely hide complex details either. Allow the user to see more of the details if they want to.
@@ -49,12 +49,12 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 - Allow the user to easily use and switch between MainNet, TestNet, and BetaNet.
 - Allow the user to specify a custom `algod` node.
 
-#### Economics and Finance
+#### Economics and finance
 
 - The user must not be charged a fee other than the Algorand network fee(s).
 - The need for a web server should be kept to a minimum. Preferably, the Transaction Builder UI wouldn’t need a back-end web server, so cost of maintaining the Transaction Builder UI is as low as possible.
 
-#### Security and Privacy
+#### Security and privacy
 
 - No personal information is to be collected and stored.
 - Never directly collect or store a user’s private key or passphrase. Use a trustworthy wallet service to connect to a user’s wallet.
@@ -93,7 +93,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 <img width="500" src="xgov-6_files/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
 
-### Similar Projects
+### Similar projects
 
 #### Stellar Laboratory
 
