@@ -7,7 +7,7 @@ category: Tools
 focus_area: User Onboarding
 open_source: No
 amount_requested: 10000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -16,6 +16,8 @@ To Date, we have developed Mass Mint Tools for ARC3, ARC19, ARC69, Mass Updater 
 holders of collections and multimint assets.
 
 We hope to continue to add more mass tools like Mass Freeze, Mass Clawback, Mass Asset Destroy, while also improving the UI/UX we already have built. 
+
+We have also made the decision to Open Source the Tools once we integrate everything. 
 
 ## Team
 LoafPickle - Project Manager. I have 10 years of Project Management experience working in NYC on large scale construction projects. In addition, I am a long timer in the Algorand NFT Space and have been helping develop utility 
@@ -51,6 +53,15 @@ Destroys creator made assets.
 
 Premium Send: - This is built
 Allows users to customize the note for their airdrops.
+
+Asset Opt In Check:
+Add the ability to see wallets who have opted into an ASA to our existing multi-mint holder tool.
+
+Premium Multi-mint Holder Check:
+Add NFD support filters to check if people who are holding/opted in have an NFD and verified socials to reduce farmers.
+
+Simple Mass Opt-in/out, Mass Send, and Mass Destroy:
+Create a mobile friendly layout that uses text boxes over CSV.
 
 Mass Clawback:
 Allows creators to clawback assets in bulk.
