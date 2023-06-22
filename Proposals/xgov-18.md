@@ -6,7 +6,7 @@ category: Tools
 focus_area: Teal
 open_source: Yes
 amount_requested: 250000
-status: Draft
+status: Final
 ---
 
 ## Abstract
