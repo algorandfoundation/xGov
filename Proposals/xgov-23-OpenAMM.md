@@ -33,6 +33,20 @@ We will work using LeSS principles, with 2w sprints & product increments.
 
 Estimated project delivery is 3 months from the project funding.
 
+### Milestone 1 - Project approved (prepayment)
+
+Date: T
+Amount: 100000 ALGO
+
+Description: We require half of the funds to be prepaid, so that we can pay salaries for developers
+
+### Milestone 2 - Project delivery
+
+Date: T + 3 months
+Amount: 100000 ALGO
+
+Description: We will deliver smart contract and web with abilities to open new lp pool with concentrated liquidity, do swaps and manage the liqudity
+
 ## Benefits for the community
 The Algorand community stands to benefit significantly from the development and implementation of an open-source Automated Market Maker (AMM) with concentrated liquidity. Here are some key benefits that such a project can bring to the Algorand ecosystem:
 - Enhanced Liquidity Efficiency: AMMs with concentrated liquidity allow liquidity providers (LPs) to optimize their capital utilization by concentrating funds within specific price ranges. This concentration leads to increased liquidity depth and reduced slippage, ultimately improving the overall efficiency of the Algorand ecosystem. Traders will experience improved trade execution and reduced trading costs, attracting more participants to the platform.
@@ -49,3 +63,5 @@ In conclusion, the development of an open-source AMM with concentrated liquidity
 We seek to establish new legal entity for this project and comply with MiCA regulations.
 
 This grant request does not include audits, however we are open to cooperate with any auditors on audits. We assume in next period we will request funding for audits.
+
+We have created project discord - https://discord.com/invite/Z3yQkU3kbT . Please sign in and lets have a chat.
