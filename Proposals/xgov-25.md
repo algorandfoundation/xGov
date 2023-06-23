@@ -31,7 +31,8 @@ Date: 3 months
 Amount: 85000
 
 Description:
-    -We intend to build a basic address-to-address chat application and integrate it into our current applicationgit 
+    -We intend to build a basic address-to-address chat application and integrate it into our current application.
+    - Featutrs include 1) Ping an address to start a chat 2) Start chat on approval from the pinged address. 
 
 ### Future Milestones: APIs as service
 Date: 1 month
