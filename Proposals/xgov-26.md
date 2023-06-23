@@ -100,7 +100,7 @@ If the other participant (NFT holder) is willing to accept the offer, but with t
 
 On top of such a utility aspect of the ASA Stats Offer NFTs, it is expected that some NFTs can be sold on the open market for an increased price. Sometimes that will be caused just by the interesting content of the offer itself, while sometimes a possibility to reach and communicate in the chat (for whatever reason) with the other holder of the NFT may set a higher price than just a usual minting cost.
 
-It is planned that the research and development lasts for 9 months (three  governance cycles). For the starting date of 30/09/2023, the date of deployment is set to be 30/06/2024.
+It is planned that the research and development lasts for 9 months (three governance cycles). For the starting date of 9/30/2023, the date of deployment is set to be 6/30/2024.
 
 The ASA Stats Offer is an integral part of the ASA Stats project. As always in ASA Stats, bug fixing and the implementation of new dApps are always prioritized over the other subprojects, so the suggested timeframe is set based on the ASA Stats team's predictions of time consumed for both proposal's requirements and implementation of new dApps in the core ASA Stats engine.
 
