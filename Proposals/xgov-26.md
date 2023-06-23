@@ -5,7 +5,7 @@ company_name: ASA Stats
 category: Tools
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 250000
+amount_requested: 55000
 status: Draft
 ---
 
@@ -57,10 +57,10 @@ Every authenticated ASA Stats user will be able to send an offer to any availabl
 
 If the target address - to which the offer refers - hasn't been connected to an ASA Stats user then a transaction is sent to the target address with the minimal amount of ALGO needed to trigger a notification on major wallet apps. The transaction's note carries an invitation to join ASA Stats for free and without any obligation, in order to see and analyze the received offer.
 
-By default, registered users won't be notified of any newly arrived offer:
+By default, registered users won't be notified of any newly arrived offer:  
 <img src="https://github.com/ipaleka/xGov/assets/49662536/24c8caa0-5260-4c20-b200-5dc0c4e89ed4" width="400">
 
-However, if they select such an option in the ASA Stats user settings page then the website UI will inform the user upon login if there are new offers for the user.
+However, if they select such an option in the ASA Stats user settings page then the website UI will inform the user upon login if there are new offers for the user.  
 <img src="https://github.com/ipaleka/xGov/assets/49662536/372624d2-b69f-442f-be2e-7a5f9537ad76" width="400">
 
 ### Offer page
@@ -80,15 +80,15 @@ After both participants accept the offer, they both sign the related atomic tran
 
 After the second participant signs their transaction and both escrows are filled with all the assets, an NFT named **ASA Stats Offer #xy** is created. Its total supply is always 2 and each offer's participant gets one of those. The NFT's URL field leads to a newly created IPFS containing the offer in JSON and PDF formats, with recorded offer assets.
 
-Besides the regular blockchain fees for the escrow creation and atomic transfers, the cost to create an offer comes down to NFT minting cost. Here are the suggested prices in ASA Stats Token (ASASTATS; ID 393537671) as of June 2023:
+Besides the regular blockchain fees for the escrow creation and atomic transfers, the cost to create an offer comes down to NFT minting cost. Here are the suggested prices in ASA Stats Token (ASASTATS; ID 393537671; 100 ASASTATS can be purchased for about 0.035 ALGO on the open market) as of June 2023:
 
-100 ASASTATS - for all offers to up to 10 ALGO in total
-100-200 ASASTATS - for the offers from 10 to 100 ALGO in total
-200-250 ASASTATS - for the offers from 100 to 1,000 ALGO in total
-250-300 ASASTATS - for the offers from 1,000 to 10,000 ALGO in total
-300-350 ASASTATS - for the offers from 10,000 to 100,000 ALGO in total
-350-500 ASASTATS - for the offers from 100,000 to 1,000,000 ALGO in total
-500-1000 ASASTATS - for the offers from 1,000,000 to 1,000,000,000 ALGO in total
+100 ASASTATS - for all offers to up to 10 ALGO in total  
+100-200 ASASTATS - for the offers from 10 to 100 ALGO in total  
+200-250 ASASTATS - for the offers from 100 to 1,000 ALGO in total  
+250-300 ASASTATS - for the offers from 1,000 to 10,000 ALGO in total  
+300-350 ASASTATS - for the offers from 10,000 to 100,000 ALGO in total  
+350-500 ASASTATS - for the offers from 100,000 to 1,000,000 ALGO in total  
+500-1000 ASASTATS - for the offers from 1,000,000 to 1,000,000,000 ALGO in total  
 
 The needed ASASTATS is collected from the offer creator's account if that's possible, and eventually from the other participant. If the required amount in ASASTATS can't be collected, then a swap transaction would be added in the first atomic group to buy 500 ASASTATS (or more if it is one of high costs offers) on some AMM on behalf of the offer creator.
 
@@ -100,83 +100,42 @@ If the other participant (NFT holder) is willing to accept the offer, but with t
 
 On top of such a utility aspect of the ASA Stats Offer NFTs, it is expected that some NFTs can be sold on the open market for an increased price. Sometimes that will be caused just by the interesting content of the offer itself, while sometimes a possibility to reach and communicate in the chat (for whatever reason) with the other holder of the NFT may set a higher price than just a usual minting cost.
 
-It is planned that the research and development lasts for 8 months. For the starting date of 31/08/2023, the date of deployment is set to be 30/04/2024.
+It is planned that the research and development lasts for 9 months (three  governance cycles). For the starting date of 30/09/2023, the date of deployment is set to be 30/06/2024.
 
 The ASA Stats Offer is an integral part of the ASA Stats project. As always in ASA Stats, bug fixing and the implementation of new dApps are always prioritized over the other subprojects, so the suggested timeframe is set based on the ASA Stats team's predictions of time consumed for both proposal's requirements and implementation of new dApps in the core ASA Stats engine.
 
 Some of the core technologies that this subproject depends on are already scheduled for development in the ASA Stats Roadmap document. Among others, those include NFT price evaluation (early 2023Q3), user authentication (2023Q3), and real-time data refresh using WebSockets (2023Q4).
 
-### Milestone 1: Proof of concept for the user authentication
+### Milestone 1: Proofs of concepts, database design, WebSocket server deployment, and NFT royalties research in a public discussion
 
-Date: 31/10/2023  
-Amount: 2,000  
-Description: Research existing technologies and possible ways for creating a transaction that will prove the user's ownership of an Algorand address. Create a working prototype.
+Date: 3 months  
+Amount: 55,000  
+Description:  In the first phase, the team will be focused on the following tasks:  
+- POC for creating a transaction that will prove the user's ownership of an Algorand address.
+- POC for creating the escrows and signing the atomic transfers from and to them from the user accounts. Define limits for the number of different ASA that can be involved in an offer and propose the optimal and maximum numbers.
+- POC for creating a transaction that should be sent in a case when the target address (to which the offer refers) hasn't been connected to an ASA Stats user with the minimal amount of ALGO needed to trigger a notification on major wallet apps.
+- Researching and selecting the most suitable SQL or NoSQL database system that is going to be used in the ASA Stats Offer backend. Design of the database (as well as creating the documentation) that will record offers and chat messages.
+-  Designing, developing, and deployment of a WebSocket server that will allow transmitting of the offers' data being edited to both offer's participants in real-time.
+- Opening a public discussion and communicating with the NFT creators about the optimal implementation of the NFT creators' royalties in the ASA Stats Offer workflow.
 
-### Milestone 2: Proof of concept for the atomic transfers to and from the escrows
+### Milestone 2: Development of the Offer backend and related API
 
-Date: 31/12/2023  
-Amount: 8,000  
-Description: Research existing technologies and possible ways for creating the escrows and signing the atomic transfers from and to them from the user accounts. Define limits for the number of different ASA that can be involved in an offer and propose the optimal and maximum numbers. Create a working prototype.
+Date: 3 months  
+Amount: 95,000  
+Description: In the second phase, the team will be focused on the following tasks:  
+- Designing and developing all the backend logic responsible for saving offers and chat data to the database, as well as transmitting all the messages to the users through the WebSocket server.
+- Creating the ASA Stats API part which will be responsible for evaluating the offer's assets in real-time using the existing ASA Stats engine.
 
-### Milestone 3: Proof of concept for the non-users' notification transaction creation
+### Milestone 3: POC integration, frontend design and development, mobile app development, and beta testing
 
-Date: 31/10/2023  
-Amount: 2,000  
-Description: If the target address - to which the offer refers - hasn't been connected to an ASA Stats user then a transaction should be sent to the target address with the minimal amount of ALGO needed to trigger a notification on major wallet apps. Research, develop, and deploy a prototype.
-
-### Milestone 4: Database design and deployment
-
-Date: 31/10/2023  
-Amount: 10,000  
-Description: Research and find the most suitable SQL or NoSQL database system that is going to be used in the ASA Stats Offer backend. Design and deploy one or two databases that will record offers and chat messages.
-
-### Milestone 5: NFT royalties research and public discussion 
-
-Date: 31/01/2024  
-Amount: 2,000  
-Description: Open public discussion and communicate with the NFT creators about the optimal implementation of the NFT creators' royalties in the ASA Stats Offer workflow.
-
-### Milestone 6: Development and deployment of a WebSocket server
-
-Date: 30/11/2023  
-Amount: 18,000  
-Description: Design, develop, and deploy a WebSocket server that will allow transmitting editing of offers data in real-time to both offer's participants.
-
-### Milestone 7: Backend development
-
-Date: 31/12/2023  
-Amount: 43,000  
-Description: Design and develop all the backend logic responsible for saving offers and chat data to the database, as well as transmitting all the messages to the users.
-
-### Milestone 8: Development and deployment of the related ASA Stats API
-
-Date: 31/01/2024  
-Amount: 45,000  
-Description: If a user has got opened a list of offers or an offer page then the offers' data will be updated in real time through the WebSocket server. The requests and responses will be integrated into the ASA Stats API which will be the only way to process assets evaluation using the existing ASA Stats engine.
-
-### Milestone 9: POC integration
-
-Date: 31/12/2023  
-Amount: 42,000  
-Description: Implementation of Milestones 1-3 proofs of concept into the ASA Stats Offer workflow.
-
-### Milestone 10: Frontend design and development
-
-Date: 31/03/2024  
-Amount: 38,000  
-Description: Design and develop all the website pages and integrate them the backend.
-
-### Milestone 11: Mobile app development
-
-Date: 31/03/2024  
-Amount: 25,000  
-Description: Upgrade the mobile app for IOS and Android to use the data delivered in real-time from the WebSocket server using ASA Stats API (extended with the ASA Stats Offer features).
-
-### Milestone 12: Deployment of the Beta testing platform and beta testing
-
-Date: 30/04/2024  
-Amount: 15,000  
-Description: Before actual deployment for the users of the ASA Stats, a testing platform will be developed and deployed online. It will be used by users selected from the ASA Stats community. Final testing of the ASA Stats Offer application will be conducted by the members of the ASA Stats community using the beta testing platform deployed in Milestone 11.
+Date: 3 months  
+Amount: 100,000  
+Description: In the final phase, the team will be focused on the following tasks:  
+- Implementation of Milestone 1's proofs of concept into the ASA Stats Offer workflow.
+- Designing and developing all the website pages and their integration with the backend.
+- Upgrading the mobile app for IOS and Android to use the data delivered in real-time from the WebSocket server using ASA Stats API (extended with the ASA Stats Offer features).
+- Developing and deploying a beta testing platform for the ASA Stats Offer.
+- Beta testing of the ASA Stats Offer application conducted by the members of the ASA Stats community.
 
 ## Benefits for the community
 
@@ -200,7 +159,7 @@ The development and administration of ASA Stats were funded by a few early adopt
 
 From the very start, the ASA Stats team creates monthly transparency reports and publishes them on the ASA Stats website (https://www.asastats.com/tokenomics/). It is expected that all the funds from this proposal get related entries in future transparency reports.
 
-### Project's links
+### Project links
 
 https://www.asastats.com/  
 https://www.asastats.com/whitepaper.pdf  
