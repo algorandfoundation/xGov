@@ -6,7 +6,7 @@ company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
 open_source: No
-amount_requested: 95700
+amount_requested: 85000
 status: Final
 ---
 
