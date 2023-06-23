@@ -25,15 +25,15 @@ Website: https://notiboy.com/
 
 ## Roadmap
 
-### Build Chat Application.
+### Milestone 1: Build Chat Application.
 Date: 3 months
 
 Amount: 85000
 
 Description:
-    -We intend to build a basic address-to-address chat application and integrate it into our current application
+    -We intend to build a basic address-to-address chat application and integrate it into our current applicationgit 
 
-### APIs as service
+### Future Milestones: APIs as service
 Date: 1 month
 
 Amount: 10700
