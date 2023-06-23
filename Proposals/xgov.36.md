@@ -5,19 +5,14 @@ company_name: Choice Coin DAN
 category: dApps
 focus_area: Gaming
 open_source: Yes
-amount_requested: 60,000.00
+amount_requested: 9,999.00
 status: Draft
 ---
 
 ## Abstract
-Choice Coin DAN is a decentralized autonomous network, choice software platform, and R&D hub that uses the Choice Coin cryptocurrency to power its predictions and software systems. The goal for this project is to create a decentralized slot machine and betting platform using the Algorand blockchain. The project will have three parts.
+Choice Coin DAN is a decentralized autonomous network, choice software platform, and R&D hub that uses the Choice Coin cryptocurrency to power its predictions and software systems. The goal for this project is to create a decentralized slot machine and betting platform using the Algorand blockchain. 
 
-1. First, the project will develop a smart contract for autonomous and on-chain slot betting distribution with Choice Coin.
-   
-2. Second, the project will create a new front end interface to allow easy Algorand wallet connectivity.
-   
-3. Third, the project will have a deployment and beta-testing phase with results reporting and user feedback for improvements.
-
+The project will develop a smart contract for autonomous and on-chain slot betting distribution with Choice Coin. The code for the project will be written with PyTEAL and have an on-chain application ID.
 
 
 <img width="896" alt="Screenshot 2023-06-21 at 5 31 31 PM" src="https://github.com/Bhaney44/xGov/assets/43055154/acf6fcd6-c60b-4686-8e61-c54f9f99ccb0">
@@ -59,9 +54,8 @@ A detailed plan for the development and implementation of the proposal, includin
 
 ### Milestone 1
 #### Backend
-Date: 01/08/23
+Date of Delivery: 01/08/23
 
-Amount: 20,000.00 ALGO
 
 Description: Autonomous and on-chain slot machine betting distribution.
 This milestone will include producing OSS for an open source smart contract for a slot machine.
@@ -69,27 +63,16 @@ Users will be able to submit the Algorand Standard Asset, Choice, to the smart c
 The results will be based on randomized functions.
 The milestone will also include a final report detailing the software contributions.
 
-### Milestone 2 
-#### Frontend
-Date: 01/09/23
+Deliverables: 
+1. Open source repo with PyTeal code for slot machine smart contract.
 
-Amount: 20,000.00 ALGO
+2. Apache License.
 
-Description: Front end interface to allow easy Algorand wallet connectivity.
-This phase will include developing a front end react application to connect to the smart contract.
-This will bring the application to users and let anyone with an Algorand wallet connect and play via the Internet.
-The milestone will also include a final report detailing the software contributions.
+3. Readme file with software description.
 
-### Milestone 3
-#### Beta Testing
-Date: 01/10/23
-Amount: 20,000.00 ALGO
+4. Video demo on YouTube.
 
-Description: Deployment and beta-testing phase with results reporting and user feedback.
-This phase will include deployment of the full stack software for beta testing.
-I will also solicit feedback from users to identify opportunities for improvement.
-I will also host a bug bounty program to help improve the security of the application.
-The milestone will also include a final report detailing the user feedback, bug bounty, and improvements to be made.
+5. Project report and overview.
 
 ...
 
