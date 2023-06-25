@@ -6,7 +6,7 @@ category: dApps
 focus_area: Defi
 open_source: Yes
 amount_requested: 400000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -37,18 +37,8 @@ grant recipient from the foundation for 2i2i, completed all milestones on time. 
 
 ### Milestone 1
 Date: 3 months
-Amount: 100000
-Description: UI/API
-
-### Milestone 1
-Date: 3 months
-Amount: 100000
-Description: Add non-linear schedules
-
-### Milestone 1
-Date: 3 months
-Amount: 200000
-Description: Audit
+Amount: 400000
+Description: UI/API, add non-linear schedules, verification (audit)
 
 ## Benefits for the community
 A common credit-risk-free transfer of coins. Algorand, the champion of the credit-risk bearer (employees). Algorand, the inheritance problem solver (when should I award my kids with inheritance ~ do it over time).
