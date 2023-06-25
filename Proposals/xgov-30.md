@@ -5,8 +5,8 @@ company_name: 2i2i
 category: dApps
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 200000
-status: Draft
+amount_requested: 300000
+status: Final
 ---
 
 ## Abstract
@@ -38,14 +38,14 @@ grant recipient from the foundation for 2i2i, completed all milestones on time. 
 ## Roadmap
 
 ### Milestone 1
-Date: 2 months
-Amount: 100000
-Description: $ALGO borrowing and debt issuing smart contract
+Date: 3 months
+Amount: 300000
+Description: Whitepaper and implementation of $ALGO borrowing, debt issuing and credit rating smart contracts
 
 ### Milestone 2
-Date: 2 months
-Amount: 100000
-Description: Credit rating providing smart contract
+Date: 3 months
+Amount: 300000
+Description: Verification (audit) and UI/API
 
 ## Benefits for the community
 Bring new people on-chain, increase Algorand popularity.
