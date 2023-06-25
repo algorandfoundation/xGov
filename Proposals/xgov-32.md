@@ -5,8 +5,8 @@ company_name: 2i2i
 category: dApps
 focus_area: Social
 open_source: Yes
-amount_requested: 1000000
-status: Draft
+amount_requested: 200000
+status: Final
 ---
 
 ## Abstract
@@ -27,6 +27,8 @@ The voting is incentivised via reward coins, which could be traded in open marke
 
 We would start with universities, by handing out academic identities via academic emails. The burden of identity checking is kept with universities. After, institutes of accreditation can be added (e.g. Lawyers, Doctors, etc.). Eventually, governments will be giving their citizens identities on-chain. Any and all reliable on-chain identity providers can be added to the system.
 
+We get a single source to check the veracity level of any statement for any given group.
+
 ## Team
 1m1 has 30+ years of experience creating technological solutions to complex problems in the intersection of computer science, math, economics, sociology. 1m1 has worked at large firms as well as startups in various roles. see https://1m1.io for a novel style cv.
 
@@ -37,21 +39,21 @@ grant recipient from the foundation for 2i2i, completed all milestones on time. 
 
 ### Milestone 1
 Date: 3 months
-Amount: 300000
+Amount: 200000
 Description: Conceptualization/White paper
 
-### Milestone 1
+### Milestone 2
 Date: 3 months
-Amount: 400000
-Description: Implementation at MIT
+Amount: 500000
+Description: Implementation of white paper and verfication (audit)
 
-### Milestone 1
+### Milestone 3
 Date: 3 months
 Amount: 300000
-Description: Verification
+Description: Partnering with a university like MIT to pilot
 
 ## Benefits for the community
-"The truth is alive on Algorand" gives Algorand a stable and importance position in the world.
+"The truth is alive on Algorand" gives Algorand a stable and important position in the world.
 Benefits to the world are timely, given fake news, etc.
 
 ## Additional information
