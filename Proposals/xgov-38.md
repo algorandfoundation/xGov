@@ -40,16 +40,27 @@ The third component is a fully decentralized perpetual margin trading platform, 
 ## Experience with Algorand
 For the past several years, the Vestige team has been dedicated to developing cutting-edge solutions exclusively within the Algorand ecosystem. With a track record of successfully completing three grants, the team has proven itself to be an invaluable asset to the Algorand community.  
 The teams combined experience includes:
+
 > Multiple Algorand Foundation Grant recipient with matching a perfect completion rate
+
 > Building Applications and Services
+
 > ASA Charting Service https://vestige.fi
+
 > ASA Price API https://free-api.vestige.fi/docs
+
 > Multi-Dex Aggregator Swap https://vestige.fi/swap
+
 > Vaults https://vestige.fi/vaults
+
 > Launchpads https://vestige.fi/launchpads
+
 > Discord ASA Price Bot
+
 > Using SDKs
+
 > Running Nodes
+
 > And so much more!
 
 
@@ -60,9 +71,13 @@ The sections below outline the details supporting the funding request which incl
 # Aggregation and Smart-Router Improvements (100,000A)
 
 > Developing and integrating support for stableswaps in the existing smart router
+
 > Developing and integrating support for lending pools in the existing smart router 
+
 > Full Open sourcing of the smart router and smart contract.
+
 > Developing and implementing backend logic for calculating swaps through stableswap pools 
+
 > Developing and implementing backend logic for calculating swaps through lending pools 
 
 Estimated completion by Q1 2024
@@ -70,7 +85,9 @@ Estimated completion by Q1 2024
 # Decentralized Liquidity Aggregator (100,000A)
 
 > Constructing the logic for a decentralized oracle 
+
 > Developing and implementing a decentralized liquidity aggregator
+
 > Full open sourcing of the decentralized liquidity aggregator
 
 Estimated completion by Q1 2024.
@@ -78,7 +95,9 @@ Estimated completion by Q1 2024.
 # Decentralized Perpetual Margin Exchange (150,000A)
 
 > Creating and deploying the core margin trading systems, which include liquidity provisions, rewards staking and core order logic 
+
 > Developing an open-source liquidation bot which will allow anyone to help secure the protocol 
+
 > Launching the protocol as a Minimum Viable Product (MVP) in beta testing status.
 
 Estimated completion by Q2 2024.
@@ -88,14 +107,23 @@ Estimated completion by Q2 2024.
 The development of a decentralized perpetuals trading platform and the expansion of the Vestige.Fi analytics platform will deliver a multitude of advantages to the Algorand community.  These advantages include:
 
 > Expansion of DeFi offerings in the Algorand network, promoting creativity, innovation and progress
+
 > Boosted on-chain transaction volume due to perpetuals trading, which in turn results in improved network liquidity
+
 > Refined asset price discovery through support for both long and short positions which lead to increased market efficiency
+
 > Augmented dependability and precision in asset pricing via a decentralized oracle integration
+
 > Enriched analytics and DeFi tools, drawing more users to the Algorand ecosystem
+
 > Launching the aggregator as a white label service, allowing other projects to utilize Vestige.Fi's analytical prowess, stimulating cooperation and innovation
+
 > Simple chart embeddable that inspires content creators to share Algorand-based initiatives as well as projects having easy access to their financial information.
+
 > Broader liquidity access through comprehensive ecosystem integration
+
 > Streamlined access to financial data for simplified developer onboarding
+
 > Easier access to core infrastructure for the development of new and inventive products
 
 
