@@ -29,7 +29,7 @@ A lone web developer for over 10 years. In September 2021, she became interested
 
 ## Roadmap
 
-**Q3 2023** - The Transaction Builder UI will be available to the public to use to create payment, key registration, asset configuration, asset freeze, asset transfer, and application call transactions.
+**Q4 2023** - The Transaction Builder UI will be available to the public to use to create payment, key registration, asset configuration, asset freeze, asset transfer, and application call transactions.
 
 ## Benefits for the community
 
