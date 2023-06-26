@@ -7,7 +7,7 @@ category: dApps
 focus_area: Defi
 open_source: Yes
 amount_requested: 350000
-status: Final
+status: Draft
 ---
 
 ## Abstract
@@ -40,24 +40,14 @@ The third component is a fully decentralized perpetual margin trading platform, 
 ## Experience with Algorand
 For the past several years, the Vestige team has been dedicated to developing cutting-edge solutions exclusively within the Algorand ecosystem. With a track record of successfully completing three grants, the team has proven itself to be an invaluable asset to the Algorand community.  
 The teams combined experience includes:
-> Multiple Algorand Foundation Grant recipient with matching a perfect  completion rate
+> Multiple Algorand Foundation Grant recipient with matching a perfect completion rate
 > Building Applications and Services
-	> ASA Charting Service
-		> https://vestige.fi
-	> ASA Price API 
-> https://free-api.vestige.fi/docs
-	> Multi-Dex Aggregator Swap 
-> https://vestige.fi/swap
-	> Vaults
-> https://vestige.fi/vaults
-			> Time Capsule
-			> Interval
-			> Halving
-			> Burn
-	> Launchpads 
-> https://vestige.fi/launchpads
+> ASA Charting Service https://vestige.fi
+> ASA Price API https://free-api.vestige.fi/docs
+> Multi-Dex Aggregator Swap https://vestige.fi/swap
+> Vaults https://vestige.fi/vaults
+> Launchpads https://vestige.fi/launchpads
 > Discord ASA Price Bot
-
 > Using SDKs
 > Running Nodes
 > And so much more!
