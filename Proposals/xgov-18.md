@@ -11,9 +11,7 @@ status: Final
 
 ## Abstract
 The aim is to finish the implementation of the coq-avm library for version 8 af the AVM. An introduction of
-the library can be found here: [coq-avm-introduction.pdf][1]
-
-[1]: https://drive.google.com/file/d/1lafzfhvD-R5va4YQjO-yxfwnHskgCC0a/view
+the library can be found here: <a href="https://drive.google.com/file/d/1lafzfhvD-R5va4YQjO-yxfwnHskgCC0a/view">coq-avm-introduction.pdf</a>
 
 ## Team
 Mark is a software engineer specializing in functional programming and formal methods.
