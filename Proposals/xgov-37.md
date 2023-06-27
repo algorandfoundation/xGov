@@ -6,7 +6,7 @@ category: dApps
 focus_area: Defi,NFT
 open_source: Yes
 amount_requested: 985000
-status: Draft
+status: Final
 ---
 
 ## Abstract
