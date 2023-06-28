@@ -54,10 +54,10 @@ Destroys creator made assets.
 Premium Send: - This is built
 Allows users to customize the note for their airdrops.
 
-Asset Opt In Check:
+Asset Opt In Check: - This is built
 Add the ability to see wallets who have opted into an ASA to our existing multi-mint holder tool.
 
-Premium Multi-mint Holder Check:
+Premium Multi-mint Holder Check: - This is built
 Add NFD support filters to check if people who are holding/opted in have an NFD and verified socials to reduce farmers.
 
 Simple Mass Opt-in/out, Mass Send, and Mass Destroy:
