@@ -5,7 +5,7 @@ company_name: CoinAlpha
 category: Tools
 focus_area: DEX
 open_source: Yes
-amount_requested: 3850
+amount_requested: 320000
 status: Draft
 ---
 
