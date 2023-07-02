@@ -37,7 +37,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 ## Additional information
 
-### Project features &amp; requirements
+### Project requirements
 
 #### User interface and user experience
 
@@ -66,14 +66,13 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 - Code must be open source and available to the public, preferably in a publicly accessible Git repository like GitHub.
 - Code should be well documented, usually through code comments and some external documentation, such as a README.
 - Code should be well organized.
-- Project should have "clean code"; in other words, it shouldn’t have more code than necessary for the software to function well.
+- Project should have “clean code”; in other words, it shouldn’t have more code than necessary for the software to function well.
 
 #### Legal
 
 - <a href="https://mit-license.org/">MIT</a> or <a href="https://github.com/aws/mit-0/blob/master/MIT-0">MIT No Attribution (MIT-0)</a> license.
 - No liability or warranty.
 - Do whatever with the code.
-- Request: Please don’t scam, defraud, or otherwise harm others using this code or some derivative of this code.
 
 ### Mockups
 
