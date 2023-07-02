@@ -6,7 +6,7 @@ category: Tools
 focus_area: User Onboarding
 open_source: Yes
 amount_requested: 55000
-status: Draft
+status: Final
 ---
 
 ## Abstract
