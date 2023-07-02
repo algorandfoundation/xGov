@@ -37,6 +37,13 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 ## Additional information
 
+### Project use cases (non-exhaustive)
+
+- A new Algorand user who wants to explore and learn what Algorand can do in an easy and hands-on way.
+- A DApp user who doesn’t know how to code and wants to clear or close out an application (smart contract) to decrease the minimum balance of their account.
+- A participation node runner who needs to quickly mark their account as “offline” but their node is out of sync.
+- A tinkerer who wants an easier way to experiment with odd types of transactions on TestNet, BetaNet, or their sandbox.
+
 ### Project requirements
 
 #### User interface and user experience
