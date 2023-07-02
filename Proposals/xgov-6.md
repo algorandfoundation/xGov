@@ -46,7 +46,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 ### Project requirements
 
-#### User interface and user experience
+#### User interface and user experience requirements
 
 - Focused. The Transaction Builder UI is solely tool for creating Algorand transactions.
 - Simple. Building an Algorand transaction can get very complex very quickly, so the UI shouldn’t add to that complexity. However, the UI shouldn’t completely hide complex details either. Allow the user to see more of the details if they want to.
@@ -56,18 +56,18 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 - Allow the user to easily use and switch between MainNet, TestNet, and BetaNet.
 - Allow the user to specify a custom `algod` node.
 
-#### Economics and finance
+#### Economics and finance requirements
 
 - The user must not be charged a fee other than the Algorand network fee(s).
 - The need for a web server should be kept to a minimum. Preferably, the Transaction Builder UI wouldn’t need a back-end web server, so cost of maintaining the Transaction Builder UI is as low as possible.
 
-#### Security and privacy
+#### Security and privacy requirements
 
 - No personal information is to be collected and stored.
 - Never directly collect or store a user’s private key or passphrase. Use a trustworthy wallet service to connect to a user’s wallet.
 - The software must not access funds or ASAs without the user’s permission.
 
-#### Development
+#### Development requirements
 
 - For Algorand only.
 - Code must be open source and available to the public, preferably in a publicly accessible Git repository like GitHub.
@@ -75,7 +75,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 - Code should be well organized.
 - Project should have “clean code”; in other words, it shouldn’t have more code than necessary for the software to function well.
 
-#### Legal
+#### Legal requirements
 
 - <a href="https://mit-license.org/">MIT</a> or <a href="https://github.com/aws/mit-0/blob/master/MIT-0">MIT No Attribution (MIT-0)</a> license.
 - No liability or warranty.
@@ -99,7 +99,7 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 <img width="500" src="xgov-6_files/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
 
-### Similar projects
+### Existing similar projects
 
 #### Stellar Laboratory
 
