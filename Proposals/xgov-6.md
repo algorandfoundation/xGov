@@ -1,5 +1,4 @@
 ---
-period: 8
 title: Transaction Builder UI
 author: No-Cash-7970 (@No-Cash-7970)
 company_name: <None>
