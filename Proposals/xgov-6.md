@@ -84,19 +84,19 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 #### Composing an application call transaction
 
-<img height="500" src="xgov-6_files/compose_tx_app_call_blank.png" alt="Screenshot of the compose transaction form for application call">
+<img height="500" src="../assets/xgov-6/compose_tx_app_call_blank.png" alt="Screenshot of the compose transaction form for application call">
 
 #### Composing a key registration transaction
 
-<img height="500" src="xgov-6_files/compose_tx_keyreg_filled.png" alt="Screenshot of the compose transaction form for key registration">
+<img height="500" src="../assets/xgov-6/compose_tx_keyreg_filled.png" alt="Screenshot of the compose transaction form for key registration">
 
 #### Transaction signed but not sent yet
 
-<img height="500" src="xgov-6_files/sign_tx_signed.png" alt="Screenshot of the review-and-sign page with message saying transaction has been signed">
+<img height="500" src="../assets/xgov-6/sign_tx_signed.png" alt="Screenshot of the review-and-sign page with message saying transaction has been signed">
 
 #### Transaction successfully sent
 
-<img width="500" src="xgov-6_files/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
+<img width="500" src="../assets/xgov-6/send_tx_success.png" alt="Screenshot of send transaction page with a message saying transaction is confirmed">
 
 ### Existing similar projects
 
