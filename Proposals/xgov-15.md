@@ -1,10 +1,10 @@
----
+Algorand Inside 
 title: Algorand Inside
 author: Trendheo (@hungstock1)
 category: Community
 focus_area: Social
 open_source: Yes
-amount_requested: 9000/month
+amount_requested: 90000
 status: Final
 ---
 
