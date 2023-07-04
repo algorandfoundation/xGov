@@ -1,3 +1,4 @@
+---
 Algorand community
 title: Algorand Inside
 author: Trendheo (@hungstock1)
@@ -6,6 +7,7 @@ focus_area: Social
 open_source: Yes
 amount_requested: 9000/month
 status: Final
+---
 
 ## Abstract
 Bringing the Algorand community the latest ecosystem news
