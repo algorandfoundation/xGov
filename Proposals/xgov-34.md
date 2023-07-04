@@ -1,11 +1,11 @@
 ---
 title: Algorand-Monero Swaps
-author: Yared Afework (@HashMapsData2Value) 
+author: Yared Afework (@HashMapsData2Value)
 company_name: 679 Labs AB
-category: dApp
-focus_area: DEX
+category: dApps
+focus_area: Dex
 open_source: Yes
-amount_requested: 100000 Algo
+amount_requested: 100000
 status: Final
 ---
 
