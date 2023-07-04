@@ -3,7 +3,7 @@ title: NFT Lending – dApp
 author: Benedetto Biondi <benedetto@folks.finance>, Gidon Katten (@gidonkatten), Stefano Faieta (@stefanofa), Ibu Karel <ibu@folks.finance>, Giuseppe Palazzolo (@palace22)
 company_name: Folks Finance
 category: dApps
-focus_area: Defi,NFT
+focus_area: Defi
 open_source: Yes
 amount_requested: 985000
 status: Final
