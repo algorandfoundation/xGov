@@ -1,5 +1,4 @@
 ---
-Algorand community
 title: Algorand Inside
 author: Trendheo (@hungstock1)
 category: Community
