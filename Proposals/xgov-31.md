@@ -1,9 +1,9 @@
 ---
 title: Add arbitrary decimal precision exp, log, pow to the AVM
-author: 1m1 (1m1-github)
+author: 1m1 (@1m1-github)
 company_name: 2i2i
-category: AVM
-focus_area: Defi, Science, Math
+category: Tools
+focus_area: Defi
 open_source: Yes
 amount_requested: 200000
 status: Final
@@ -44,3 +44,6 @@ Description: Write all code for all new opcodes including tests
 
 ## Benefits for the community
 An entire extra univerise of dApps become possible on the AVM, at no extra cost. Lots more possible dApps => lots more dApps => lots more users.
+
+## Additional information
+None
