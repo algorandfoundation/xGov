@@ -5,8 +5,8 @@ company_name: "Gunny games studios"
 category: Community
 focus_area: Gaming
 open_source:  No
-amount_requested: 833000
-status: Draft
+amount_requested: 350000
+status: Final
 ---
 
 ## Abstract
@@ -72,7 +72,7 @@ A detailed plan for the development and implementation of the proposal, includin
 
 ### Milestone 1 Game Demo Improvement and Launch
 Date: 07/30/2023
-Amount: 95000
+Amount: 350000
 
 ### Objectives
 Refine and polish details in the game demo.
@@ -82,22 +82,6 @@ Creation and distribution of Inugis NFTs for the game.
 Launch and organization of weekly tournaments with prizes awarded by AF.
 Create a leaderboard database.
 Collaborations with influencers and partners to promote and expand game visibility through tournaments and advertising.
-
-### Deliverables:
-Playable online demo of Gunny for Mac and Windows.
-2 types of weapons.
-2 characters.
-3 Inugis (pets).
-1 game mode.
-1 map.
-Leaderboard.
-This milestone represents a significant step in establishing Gunny as a leading game in the blockchain-based gaming industry. The cost was reduced thanks to the support of Pigi Head of Gaming and AF.
-
-### Milestone 2 Lore Development, New Characters, Pets, and Environments, and Token Implementation
-Date: 09/15/2023
-Amount: 300000
-
-### Objectives
 Design, illustration, and modeling of 3 new characters.
 Design, illustration, and modeling of 3 pets with unique abilities.
 Research, design, illustration, and 3D modeling for the creation of 1 new environment.
@@ -108,59 +92,23 @@ Optional sale of Inugis NFTs for those who prefer to acquire them with Algos.
 (Inugis can also be obtained for free by playing and winning tournaments).
 Creation of the Gunny token. Users will earn it by winning matches and can use it to buy accessories, upgrade items, improve weapons, use the gacha system, or sell them through a P2P marketplace.
 
+
 ### Deliverables:
+Playable online demo of Gunny for Mac and Windows.
+2 types of weapons.
+2 characters.
+3 Inugis (pets).
+1 game mode.
+1 map.
+Leaderboard.
 3 characters modeled, textured, and animated.
 3 Inugis modeled, textured, animated, and with 3 unique abilities.
 New scenario for Gunny matches.
 Comic introducing the Gunny story.
 First optional sale of Inugis NFTs.
+This milestone represents a significant step in establishing Gunny as a leading game in the blockchain-based gaming industry. The cost was reduced thanks to the support of Pigi Head of Gaming and AF.
 
-### Milestone 3 Arsenal Diversity and Customization
-Date: 10/30/2023
-Amount: 219000
 
-### Objectives
-Research and design of 3 new weapons.
-Implementation of customization options with 1 skin for each weapon (NFTs).
-Creation of corresponding NFTs for each item.
-Implementation of these improvements in the game.
-Creation of a weapon upgrade system through accessories.
-Research and illustration of accessories.
-Creation and implementation of NFTs for the accessories in the game.
-
-### Deliverables:
-3 different functional 3D weapons.
-3 NFTs for each weapon.
-4 types of weapon accessories in the game that modify weapon statistics.
-4 NFT designs for the accessories.
-5 skins for the 5 types of weapons.
-
-### Milestone 4 Collaborations with Other Algorand NFT Projects
-Date: 11/20/2023
-Amount: 94000
-
-### Objectives
-
-Research, design, illustration, 3D modeling, and animation of 2 characters and 2 Inugis based on Algorand's NFT projects.
-Implementation in the game.
-Integration of the NFTs from the projects into the Gunny game.
-
-### Deliverables:
-2 characters in 3D, animated, and textured based on other NFT projects.
-2 Inugis in 3D, animated, and textured based on other NFT projects.
-This milestone aims to collaborate with Algorand's NFT projects by creating characters and items based on other projects in the network (Algopard - Alchemon - proyectR4V3N-Algoleagues, among others). This will incentivize users who already own NFTs from these projects, providing utility and fostering exchanges. This collaboration will benefit the projects, the people involved, the Gunny community, and the Algorand network as a whole.
-
-### Milestone 5 Marketplace - Facilitating Game Item Exchange
-Date: 10/15/2024
-Amount: 125000
-
-marketplace design and ilustrations
-Development of marketplace
-Creation of a secure and efficient infrastructure to support a high volume of transactions.
-
-Deliverables:
-100% functional marketplace for P2P item trading in Gunny.
-This milestone focuses on creating a marketplace within the Gunny game that will enable players to exchange valuable items in a P2P market. This will encourage interaction and participation from the player community, generating a significant volume of transactions that will benefit both Algorand and Gunny through associated fees and commissions.
 
 ### Total Distribution of Funds:
 
