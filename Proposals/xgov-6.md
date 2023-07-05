@@ -62,9 +62,11 @@ Having an easy-to-use user interface (UI) for creating and sending transactions 
 
 #### Security and privacy requirements
 
-- No personal information is to be collected and stored.
+- No personal information (name, email address, etc.) is to be collected and stored.
+- All application state is to be stored *only* locally on the user’s device, not on a server.
+- Never transmit any application state outside the user’s device without their permission.
 - Never directly collect or store a user’s private key or passphrase. Use a trustworthy wallet service to connect to a user’s wallet.
-- The software must not access funds or ASAs without the user’s permission.
+- Never access the user’s funds or assets without their permission.
 
 #### Development requirements
 
