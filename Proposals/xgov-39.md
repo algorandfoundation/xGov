@@ -76,7 +76,7 @@ Case Studies
 
 ## Roadmap
 
-> IMPORTANT: This is a multi-phase project, this proposal requests funds to develop phase #4 (real-life perks). I expect 
+> IMPORTANT: This is a multi-phase project, this proposal requests funds to develop phase #5 Physical Perks.
 
 ### #1 NFT Explorer (90% progress)
 
