@@ -1,9 +1,9 @@
 ---
 title: Project Galapago - NFT Lending Protocol
-author: Jack Hui <jack@galapago.app>, Vivian Wang <vivian@galapago.app>
+author: Jack Hui (@jack-jackhui), Vivian Wang <vivian@galapago.app>
 company_name: Poject Galapago
 category: dApps
-focus_area: Defi,NFT
+focus_area: Defi
 open_source: Yes
 amount_requested: 1255000
 status: Draft
