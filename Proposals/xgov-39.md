@@ -3,7 +3,7 @@ title: Humble.sh Hummingbot connector
 author: Martin Sigwald (@tinchosig)
 company_name: CoinAlpha
 category: Tools
-focus_area: DEX
+focus_area: Dex
 open_source: Yes
 amount_requested: 320000
 status: Draft
