@@ -1,24 +1,18 @@
 ---
-title: Choice Coin Slot Machine
+title: Choice Coin Compliance
 author:  Brian Haney @Bhaney44
 company_name: Choice Coin DAN
 category: dApps
-focus_area: Gaming
+focus_area: Governance
 open_source: Yes
 amount_requested: 9,999.00
 status: Draft
 ---
 
 ## Abstract
-Choice Coin DAN is a decentralized autonomous network, choice software platform, and R&D hub that uses the Choice Coin cryptocurrency to power its predictions and software systems. The goal for this project is to create a decentralized slot machine and betting platform using the Algorand blockchain. 
+Choice Coin DAN is a decentralized autonomous network, choice software platform, and R&D hub that uses the Choice Coin cryptocurrency to power its software systems. The goal for this project is to create a decentralized compliance mechanism for digital assets on Algorand. 
 
-The project will develop a smart contract for autonomous and on-chain slot betting distribution with Choice Coin. The code for the project will be written with PyTEAL and have an on-chain application ID.
-
-
-<img width="896" alt="Screenshot 2023-06-21 at 5 31 31 PM" src="https://github.com/Bhaney44/xGov/assets/43055154/acf6fcd6-c60b-4686-8e61-c54f9f99ccb0">
-
-*Preliminary Design*
-
+One of the key features of governance software infrastructure currently missing from solutions on Algorand is compliance. As such, this grant will be for a web application and open source software for Choice Coin compliance software, which will be available to the Algorand network to help assist in the compliance process.
 
 ## Team
 Brian Haney
@@ -54,25 +48,26 @@ A detailed plan for the development and implementation of the proposal, includin
 
 ### Milestone 1
 #### Backend
-Date of Delivery: 01/08/23
+Date of Delivery: 15/08/23
 
 
-Description: Autonomous and on-chain slot machine betting distribution.
-This milestone will include producing OSS for an open source smart contract for a slot machine.
-Users will be able to submit the Algorand Standard Asset, Choice, to the smart contract and recieve a reward if they win.
-The results will be based on randomized functions.
-The milestone will also include a final report detailing the software contributions.
+Description: 
+The web app for compliance software is an innovative project aimed at developing a user-friendly and comprehensive compliance solution for the Algorand community. This project leverages Algorand technologies to create a web-based application that assists participants in navigating regulatory requirements, particularly in the context of securities and commodities compliance.
+
+The compliance software web app is designed to provide a centralized platform for users to access to compliance tools and resources. The app aims to simplify the complexities of compliance by providing intuitive interfaces and streamlined workflows.
 
 Deliverables: 
-1. Open source repo with PyTeal code for slot machine smart contract.
+1. Open source repo with code autonomous compliance software for digital assets on Algorand.
+   
+2. Web App
 
-2. Apache License.
+3. Apache License.
 
-3. Readme file with software description.
+4. Readme file with software description.
 
-4. Video demo on YouTube.
+5. Video demo on YouTube.
 
-5. Project report and overview.
+6. Project report and overview.
 
 ...
 
@@ -80,19 +75,27 @@ Deliverables:
 ## Benefits for the community
 A description of the potential benefits that the proposal could bring to the Algorand community and its users.
 
-*Innovation:* A decentralized slot machine application would encourage innovation on the Algorand blockchain. Developers would be able to experiment with new slot machine games and features, which would help to make the blockchain more user-friendly and efficient.
+Enhanced Regulatory Compliance: The development of compliance software can help the Algorand community ensure adherence to regulatory requirements, particularly in the context of securities and commodities compliance. This can promote a more compliant ecosystem and mitigate legal and regulatory risks for participants.
 
-*Transparent:* The code for the application would be open source, so anyone could see how it works. This would increase trust among users and make the application more secure.
+Industry Leadership: By actively supporting and funding compliance software development, the Algorand community can establish itself as a leader in compliance within the blockchain industry. This can enhance the reputation and credibility of Algorand as a platform that takes compliance seriously and is committed to ethical practices.
 
-*Secure:* The application would be built on the Algorand blockchain, which is a very secure blockchain. This would help to protect users' funds and ensure that the application is not hacked.
+Increased Adoption and Participation: A robust compliance software solution can attract institutional investors, businesses, and developers who prioritize regulatory compliance. The availability of reliable compliance tools may encourage a wider range of entities to engage with the Algorand ecosystem, driving increased adoption and participation.
 
-*Use case:* Decentralized slot machines would be a real use case for blockchain because they would solve a real problem. The problem of fairness in slot machines is a major one, and decentralized slot machines would offer a solution that is transparent, fair, and secure.
+Open Source Collaboration: Open-source development fosters collaboration among developers, researchers, and the broader community. By funding the open-source compliance software project, the Algorand community can leverage the expertise and contributions of a diverse range of individuals and organizations, leading to a more comprehensive and robust solution.
 
-*Solving real problems:* It is important for projects to focus on use for blockchain and solving real problems because this is what will ultimately drive adoption. If blockchain projects are not solving real problems, then they will probably not be successful. Here, the problem we are solving is the slot machine problem, which refers to fundemental unfairness and local limitations of existing slot machines. For example, the odds of winning in slot machine games are traditionally overwhelmingly against players and this project will help to solve that problem with a new solution leveraging Algorand.
+Transparent and Trustworthy Ecosystem: Compliance software can contribute to building a transparent and trustworthy ecosystem on Algorand. By providing tools that enable participants to navigate regulatory requirements, it becomes easier to establish trust among stakeholders. This can attract both individual and institutional users who value transparency and compliance.
 
-Decentralized slot machines would address both of these problems. They would be provably fair, so players could be sure that the results of the games are random. This would help to prevent cheating and ensure that players have a fair chance of winning. Additionally, decentralized slot machines would be more affordable for players. The fees for using decentralized slot machines would be lower than the fees for using traditional slot machines. This is because there would be no need for a centralized authority to take a cut of the winnings. 
+Regulatory Innovation: The development of compliance software on Algorand can serve as a catalyst for regulatory innovation within the blockchain space. By actively engaging with compliance challenges and finding innovative solutions, the Algorand community can influence regulatory discussions and potentially shape the future regulatory landscape in a favorable manner.
 
-As a result, decentralized slot machines would be a real use case for blockchain and would solve a real problem.  Overall, a decentralized slot machine application would be a valuable asset to the Algorand community. It would be transparent, fair, and secure, and it would encourage innovation on the blockchain.
+Community Empowerment: Open-source development empowers the community by providing access to compliance tools and resources. Funding the development of compliance software demonstrates a commitment to empowering the Algorand community, enabling participants to navigate compliance requirements more effectively and fostering a supportive environment for developers and entrepreneurs.
+
+Knowledge Sharing and Learning: The development process of compliance software involves extensive research and collaboration with legal and regulatory experts. The insights gained during this process can be shared with the broader community, contributing to knowledge sharing and education around compliance in the blockchain industry. This can help educate participants about compliance best practices and enable them to make informed decisions.
+
+Positive Network Effects: A well-developed compliance software solution can have positive network effects on the Algorand ecosystem. As more participants adopt the software and engage in compliant activities, it creates a virtuous cycle where the network becomes more attractive to new users, leading to further growth and development.
+
+Long-Term Sustainability: By investing in the open-source development of compliance software, the Algorand community lays the foundation for long-term sustainability and resilience. Compliance is an ongoing concern for blockchain platforms, and having dedicated software and ongoing support ensures that the Algorand ecosystem remains adaptable to evolving regulatory landscapes.
+
+
 
 ## Additional information
 
