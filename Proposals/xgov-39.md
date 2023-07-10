@@ -6,7 +6,7 @@ category: Tools
 focus_area: Dex
 open_source: Yes
 amount_requested: 320000
-status: Draft
+status: Final
 ---
 
 ## Abstract
