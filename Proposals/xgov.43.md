@@ -1,12 +1,12 @@
 ---
 title: Choice Coin Compliance
-author:  Brian Haney @Bhaney44
+author:  Brian Haney
 company_name: Choice Coin DAN
 category: dApps
 focus_area: Governance
 open_source: Yes
-amount_requested: 9,999.00
-status: Draft
+amount_requested: 9999
+status: Final
 ---
 
 ## Abstract
