@@ -28,12 +28,12 @@ I have 8 years of experience as a software engineer consultant. During these yea
 
 ## Experience with Algorand
 
-Currently I am working full-time on [MINTHOL.ART](https://www.minthol.art/landing), which is a multi-phase Algorand project.
+Currently I am working full-time on <a href="https://www.minthol.art">MINTHOL.ART</a>, which is a multi-phase Algorand project.
 
 So far I:
 
 - Created a launchpad that generated and launched the mOOfys and Gekofam MIA collections.
-- Created a [subdomain site](https://www.gekofam.minthol.art/) for the Gekofam projects.
+- Created a <a href="https://www.gekofam.minthol.art">subdomain site</a> for the Gekofam projects.
 - Created a general NFT explorer, showcasing around 3800 Algorand NFT projects and countless NFD and user profiles
 - I have a clear plan to generalize and unify these building blocks into a single coherent product - detailed in this document.
 
@@ -85,14 +85,14 @@ Case Studies
 
 MINTHOL uses NFTs as coupons behind the scenes and aims to target the existing NFT scene on top of newly created coupons. The NFT browser functionality will be expanded to multiple chains and rebranded as a coupon, business, and interest browser while still seamlessly supporting existing NFTs.
 
-The current state of this phase can be viewed on [minthol.art](https://www.minthol.art/landing).
+The current state of this phase can be viewed on <a href="https://www.minthol.art">minthol.art</a>.
 
 ### #2 Curated Sites (50% progress)
 
 **Date**: independent of this proposal, will be done by the time of the grant
 **Requested amount**: 0 Algos
 
-The main MINTHOL site will encourage everyone to create coupons and won’t censor legal content. Content curation will be handled by the community via the curator role instead. Users can become curators for a monthly fee and launch subdomain sites like the [gekofam.minthol.art](https://www.gekofam.minthol.art/).
+The main MINTHOL site will encourage everyone to create coupons and won’t censor legal content. Content curation will be handled by the community via the curator role instead. Users can become curators for a monthly fee and launch subdomain sites like the <a href="https://www.gekofam.minthol.art">gekofam.minthol.art</a>.
 
 These sites can limit the displayed collections to a smaller scope, which may be a thematic one - like photography - or a collection/business-specific one.
 
