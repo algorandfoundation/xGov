@@ -6,7 +6,7 @@ company_name: Cometa
 category: dApps
 focus_area: Defi
 open_source: Yes
-amount_requested: 70000
+amount_requested: 55000
 status: Draft
 ---
 
