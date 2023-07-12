@@ -10,7 +10,6 @@ amount_requested: 85000
 status: Final
 ---
 
-
 ## Abstract
 In web3 an identity is represented by an address rather than a username or password. When a web3 entity try to communicate with other entities using web2 social media platforms, they find it difficult because of this difference in identity. We at notiboy are building applications that will make communication more effective for algofam. Our notification service helps the web3 projects to effectively communicate with end-user addresses. As a next step, we would like to build a web3 specific chat application that will facilitate address-to-address communication. This application will be integrated into our web and mobile apps. APIs will be made available that can be integrated by the web3 projects to provide a in-app chat experience for their end-users.  
 
