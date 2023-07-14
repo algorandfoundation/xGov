@@ -5,8 +5,8 @@ company_name: Poject Galapago
 category: dApps
 focus_area: Defi
 open_source: Yes
-amount_requested: 1255000
-status: Draft
+amount_requested: 880000
+status: Final
 ---
 
 ## Abstract
@@ -85,13 +85,13 @@ Consequently, the requisite ALGO amount for ensuing milestones might undergo adj
 ### Milstone 1
 Title: **MainNet Debut with Instant Lending Peer-to-Pool Functionality**
 
-Date: 20th Dec 2023
+Date: 20th Oct 2023
 
-Estimated Duration: 10 weeks
+Estimated Duration: 8 weeks
 
-Amount: 1250000 (development & audit costs)
+Amount: 880000 (development costs)
 
-Overview: This milestone marks the initial launch of Project Galapago on MainNet. This phase includes the introduction of an innovative instant lending peer-to-pool feature, alongside a security audit.
+Overview: This milestone marks the full development of Project Galapago for MainNet with a potential soft launch(if possible). This phase includes the introduction of an innovative instant lending peer-to-pool feature, with all contracts fully developed and in-house tested.
 Features:
 - instant NFT-backed loans with whitelisted NFT collections (initially 10)
 - multi-collaterals
@@ -103,15 +103,29 @@ Features:
 
 ### Milestone 2
 
+Title: **Mainnet launch and contract audit**
+
+Date: 18th DEC 2024
+Eatimated Duration: 3 weeks
+
+Amount: 375000 ALGO (development & audit costs)
+
+Description:
+This milestone marks the Mainnet launch of Project Galapago with the completion of a full security audit for all the smart contracts to ensure maximum security.
+This also includes addressing any potential security vulnerabilities identified through the audit.
+This milestone will see we launch on mainnet with iniitally operating 2 liqduidity pools, ALGO and USDC for deposit and borrow operations.
+
+### Milestone 3
+
 Title: **NFT lending: Peer-to-peer market**
 
-Date: 22/05/2024
+Date: 22nd May 2024
 Eatimated Duration: 13 weeks
 
 Amount: 983000 ALGO (development & audit costs)
 
 Description:
-Milestone 2 will deliver a Peer to Peer lending market on top of the delivered peer to pool application from Milestone 1 with the following features:
+Milestone 3 will deliver a Peer to Peer lending feature on top of the delivered peer to pool application from previouse milestones with the following features:
 - peer-to-peer perpetual lending protocol that supports arbitrary collateral, including NFTs.
 - loans have fixed rates and never expire, allowing borrowing positions to remain open indefinitely until liquidated.
 - borrowers have the flexibility to repay their loans at any time, while lenders can exit their positions by triggering a Dutch auction to find a new lender at a new rate. If the auction fails, the borrower is liquidated, and the lender takes possession of the collateral.
