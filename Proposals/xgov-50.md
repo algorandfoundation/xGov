@@ -5,7 +5,7 @@ company_name: LOOPWEB3.IO
 category: dApps
 focus_area: <Education,NFT,User Onboarding,Wallet>
 open_source: YES
-amount_requested: 26OOO USD/ALGO
+amount_requested: 217556.84 $ALGO
 status: Draft
 ---
 
