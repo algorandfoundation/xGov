@@ -40,46 +40,6 @@ Details about the team's experience with the Algorand protocol and any previous 
 ## Roadmap
 A detailed plan for the development and implementation of the proposal, including timelines.
 Use subtitles as shown below:
-
-
-July 2022:
--Cultura C3 is born
-
-August 2022:
--Crypto Event with 70 attendees. Topics: History of money, Blockchain Talk, Mining, NFT, Arbitrage and Cybersecurity.
-- EthLATAM Side Event.
-
-October 2022:
-- LABITCONF side event in collaboration with Wonder, with 90 attendees. Workshop about building in the Sandbox metaverse.
-- Event organized by C3 at UTN Medrano with 80 attendees to learn about Blockchain technology. Topics covered: history of money, Blockchain, NFT, and Metaverse.
-
-November 2022:
-- We managed the Labitconf volunteer program with over 120 volunteers. Co-founders' talk on the plaza stage about web3 communities.
-- Event for volunteers in Patagonia, 110 attendees.
-
-December 2022:
-- Cultura C3 Year-end Event in Blockhouse with 100 attendees.
-
-January 2023:
-- Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
-
-March 2023:
-- Event with W3M in Mendoza with 100 attendees, discussing web 3 communities.
-- Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
-
-April 2023:
-- ITJOVEN Event: we hosted a Blockchain presentation, attended by 20,000 young people.
-- Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
-
-May 2023:
-- Virtuality event: Cultura C3 had a booth to onboard.
-- Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
-
-June 2023:
-- Tech Talk Event in Bariloche with 60 attendees.
-- Live stream with Polygon, discussing communities.
-- Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
-
 July 2023:
 - UTN x Bitget Event.
 - Monthly Meetup: in collaboration with Pinta Token, held every second Friday of the month.
@@ -143,7 +103,6 @@ Amount: 10.000ALGO
 
 ## Benefits for the community
 The main benefit for the Algorand community as well as the C3 community is that we aim to bring Algorand, its technology and various resources to different regions of Argentina and LATAM through events, onboarding and education provided by our core team as well as members of our community.
-
 
 ## Additional information
 Any other relevant details or documentation that the team would like to include in the proposal. 
