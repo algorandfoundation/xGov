@@ -1,11 +1,11 @@
 ---
-title: SureBlocks - Certification of originality and authenticity of products with NFTs. For drinks, food, electronics, clothes, and more
-author: Santiago Albiero <albierosantiago@live.com.ar>
+title: SureBlocks - Certification of authenticity.
+author: Santiago Albiero <salbiero>
 company_name: LOOPWEB3.IO
 category: dApps
-focus_area: <Education,NFT,User Onboarding,Wallet>
+focus_area: <NFT>
 open_source: YES
-amount_requested: 217556.84 $ALGO
+amount_requested: 217556 $ALGO
 status: Draft
 ---
 
