@@ -1,3 +1,4 @@
+---
 title: xGov-52 Integrating the world of DeFi and the real economy
 author: Jose Luis Uribe (@AtticusLScott), Camilo Cordovez <camilo.cordovez@primecap.com.co>, Juan Pablo Londono <jp@technovation.com.co> , Mario Castro <mario@coink.com>
 company_name: Pack
@@ -6,7 +7,7 @@ focus_area: Defi
 open_source: Yes
 amount_requested: 1750000
 status: Draft
-
+---
 
 ## Abstract
 We have identified 2 main problems:
