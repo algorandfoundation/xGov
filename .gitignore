@@ -6,3 +6,4 @@ vendor
 .bundle
 .vscode/
 *.csv
+.prettierrc
