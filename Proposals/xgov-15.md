@@ -1,6 +1,7 @@
 ---
 title: Algorand Inside
-author: Trendheo (@hungstock1)
+author: Trendheo (@hungstock1) 
+company_name: Algorand Inside
 category: Community
 focus_area: Social
 open_source: Yes
