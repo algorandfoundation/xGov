@@ -1,9 +1,9 @@
 ---
 title: Choice Coin Compliance
-author:  Brian Haney
+author: Brian Haney (@Bhaney44)
 company_name: Choice Coin DAN
 category: dApps
-focus_area: Governance
+focus_area: Banking
 open_source: Yes
 amount_requested: 9999
 status: Final
@@ -20,28 +20,28 @@ Brian Haney
 In 2020, I successfully completed a yearlong Fellowship at Stanford Law School focusing on software patents for machine learning and successfully publishing several scholarly research papers. 
 In 2021, I was on the Algorand Autonomous team that won top prize at the 2021 MIT Bitcoin Hackathon.
 I have written several research papers about Algorand, developed substantial software on Algorand, and have successfully managed and contributed to open-source software development on Algorand. 
-I am also active in the Algorand community including the [Developer Forum](https://forum.algorand.org/u/bhaney44/summary).
+I am also active in the Algorand community including the <a href="https://forum.algorand.org/u/bhaney44/summary">Developer Forum</a>.
 
 ## Experience with Algorand
 I have full stack OSS experience building on Algorand.
 
-[Choice Coin v2](https://github.com/ChoiceCoin/v2)
+<a href="https://github.com/ChoiceCoin/v2">Choice Coin v2</a>.
 
-[Choice Coin Compliance](https://github.com/ChoiceCoin/Compliance) 
+<a href="https://github.com/ChoiceCoin/Compliance">Choice Coin Compliance</a>.
 
-[Choice Coin Voting](https://github.com/ChoiceCoin/Voting)
+<a href="https://github.com/ChoiceCoin/Voting">Choice Coin Voting</a>.
 
 I have contributed a tutorial to the Algorand Developer Portal.
 
-[Voting using Choice Coin and Algorand Python SDK](https://developer.algorand.org/tutorials/voting-using-choice-coin/?from_query=voting%20with%20python)
+<a href="https://developer.algorand.org/tutorials/voting-using-choice-coin/?from_query=voting%20with%20python">Voting using Choice Coin and Algorand Python SDK/a>.
 
 I also have extensive experience writing research on Algorand.
 
-[Smart Contracts on Algorand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3887719)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3887719">Smart Contracts on Algorand</a>.
 
-[Decentralized Decisions on Algorand with Choice Coin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316">Decentralized Decisions on Algorand with Choice Coin</a>.
 
-[Algorand Autonomous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055">Algorand Autonomous</a>.
 
 ## Roadmap
 A detailed plan for the development and implementation of the proposal, including timelines and milestones.
