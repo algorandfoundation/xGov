@@ -1,6 +1,6 @@
 ---
 title: wiki3
-author: 1m1 (1m1-github)
+author: 1m1 (@1m1-github)
 company_name: 2i2i
 category: dApps
 focus_area: Social
