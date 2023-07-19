@@ -1,11 +1,11 @@
 ---
-title: SureBlocks Certification of authenticity.
-author: Santiago Albiero <Salbiero>
+title: SureBlocks Certification of authenticity
+author: Santiago Albiero (@Salbiero)
 company_name: LOOPWEB3.IO
 category: dApps
 focus_area: NFT
 open_source: Yes
-amount_requested: 217556 $ALGO
+amount_requested: 217556
 status: Draft
 ---
 
