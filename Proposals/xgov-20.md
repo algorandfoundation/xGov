@@ -1,10 +1,10 @@
 ---
 title: Building the Future of Competitive Gaming Grant Proposal for Our Free-to-Play Blockchain Game
-author: Aquiles benitez (@aquilesdel90) <benitez.aquiles@gmail.com>
+author: Aquiles benitez (@aquilesdel90), Aquiles benitez <benitez.aquiles@gmail.com>
 company_name: "Gunny games studios"
 category: Community
 focus_area: Gaming
-open_source:  No
+open_source: No
 amount_requested: 350000
 status: Final
 ---
@@ -140,6 +140,11 @@ You will be able to switch between two characters and different Inugis. Click "P
 
 We appreciate your understanding and respect for our intellectual property rights.
 
+## Benefits for the community
+None
+
+## Additional information
+None
 
 
 
