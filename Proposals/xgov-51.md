@@ -1,3 +1,4 @@
+---
 title:Cultura C3: Empowering Argentina Through Blockchain Education and Web 3 Adoption 
 author: Lucho Torres <luchotorres1812@gmail.com>
 company_name: <Cultura C3>
