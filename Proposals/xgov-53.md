@@ -6,7 +6,7 @@ category: dApps
 focus_area: Defi
 open_source: No
 amount_requested: 300000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -62,4 +62,6 @@ Subscription contracts have huge convenience features for the community like sup
 
 ## Additional information
 How it Works:
-A user 'mints' a subscription either to a 'Merchant Offering' or with whatever parameters they'd like (recipients address, token, amount, interval). The subscription acts as an escrow with the intial payment going through immediately. The contract charges a 4% fee with 0.5% going to the account that triggers the payment during a valid payment window. Simplified diagram (https://cdn.akita.community/diagrams/subscriptions_simplified.png).
+A user 'mints' a subscription either to a 'Merchant Offering' or with whatever parameters they'd like (recipients address, token, amount, interval). The subscription acts as an escrow with the intial payment going through immediately. The contract charges a 4% fee with 0.5% going to the account that triggers the payment during a valid payment window. Payments are automated and will be triggered by a scheduling program that watches the chain for valid payment windows. As long as the subscription escrow has the funds to disperse to the merchant the payment can be triggered by anyone ( during the valid window ) and at any time the end user can delete the contract to return whatever funds are escrowed back. We decided to use an escrow system as opposed to delegated logic signatures because it was clear our ecosystem wallets are hesitant to support them due to the risks they create. Over time the escrow design grew on us because it offers more control to the user for little trade off.
+
+Simplified diagram (https://cdn.akita.community/diagrams/subscriptions_simplified.png).
