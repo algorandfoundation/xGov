@@ -86,9 +86,9 @@ But please keep in mind, that some features could be harder to implement thus co
 ### Benefits to the ecosystem
 
 * Reliable staking/farming platform with convenient and fast UI/UX.
-* Maximizing profits for stakers, making DeFi more yummy.
+* Increasing profits for stakers, providing the info about optimal APY.
 * NFT rewards, which connects DeFi and NFTs.
-* More activities for the community, which radically improves the sentiment.
+* Adding more features for the community providing a go-to hub for everyone.
 
 ### Benefits to other projects
 * Ability to create a robust staking for their tokens at any moment.
@@ -96,11 +96,9 @@ But please keep in mind, that some features could be harder to implement thus co
 * Being sure that all our users will always know about the creation of their pools immediately and not asking us to announce manually.
 * Cross-marketing to help smaller projects gain attention, so the ecosystem could grow faster as a whole.
 
-## Additional information
+## Summary
 
-We are not getting funds to finish the LaaS, since it requires much more. For that we still need investment. If we are lucky to finally get it, it will be done.
-
-The sum would be enough for 3 months work, after which platform would be fully autonomous and should work like clockwork. We hope that after that we'll have bigger revenue, which would allow us to continue developing on our own.
+The sum would be enough for 3 months work, after which platform will be fully autonomous and will work like clockwork. We will have the ability to capitalize on profits which will allow us to continue building more efficiently after the upgrades.
 
 ### Contact information.
 * Discord: nikitacometa 
