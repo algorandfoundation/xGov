@@ -27,5 +27,3 @@ xgovw /path/to/xGovs/Proposals
 At the start of each governance period, the governance team will start the procedures to create a new xGov Voting Session. 
 
 To ensure your proposal is included in the quarter's voting round, make sure that your proposal status is set to "Final" no later than two weeks after the start of the governance period.
-
-For example, xGov Voting Session 1 (Term Pool 1) will be in August 2023, and only proposals that fit the criteria and have status set to 'final' by COB Singapore time on 15 August 2023 will be included.
