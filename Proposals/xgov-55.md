@@ -1,9 +1,9 @@
 ---
 period: 1
 title: GoPlausible Multi-Chain milestone
-author: MG (@emg110), Sheghzo <@sheghzo>
+author: MG (@emg110), Sheghzo (@sheghzo)
 company_name: GoPlausible
-category: Utility/Service
+category: Tools
 focus_area: NFT
 open_source: Yes
 amount_requested: 120000
@@ -28,7 +28,8 @@ Being with Algorand since early 2021 gave the team members to have a good track 
 
 Open source tools, bridge projects, pioneering tech features, and also direct contributions in code bases along with helping many other ecosystem projects in the total sense of friendly collaborations and partnerships are among the GoPlausible team's experience and journey with Algorand so far!
 
-## Roadmap (this milestone roadmap has 2 phases, both covered with the requested amount)
+## Roadmap
+This milestone-based roadmap has 2 phases, both covered with the requested amount:
 
 ### Phase 1
 Deliverable: 30 working days
