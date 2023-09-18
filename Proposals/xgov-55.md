@@ -6,8 +6,8 @@ company_name: GoPlausible
 category: Utility/Service
 focus_area: NFT
 open_source: Yes
-amount_requested: 125000
-status: Draft
+amount_requested: 120000
+status: Final
 ---
 
 ## Abstract
