@@ -37,18 +37,18 @@ Version 1 of the contracts are already written and have been checked thoroughly 
 - Family Plans ( up to 5 on a single subscription )
 
 ### Step 1
-Date: 01/10/2023
+Date: 01/12/2023
 Description: Frontend development for the subscription platform
 
 - interfaces for end users to subscribe to other users & offerings
 - interfaces for merchants to create offerings, manage subscribers and ban lists
 
 ### Step 2
-Date: 01/12/2023
+Date: 01/02/2023
 Description: Javascript SDK / React hooks for the subscription contracts allowing for easy integration into any dApp on Algorand.
 
 ### Step 3
-Date 01/02/2024
+Date 01/05/2024
 Description: Extend the contracts with two major features:
 
 - price pinning
