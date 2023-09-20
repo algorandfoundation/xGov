@@ -1,9 +1,9 @@
 ---
-title: Chaintrail - Uncovering Algorand 
-author: Leander <@nfnomad>, founder of Chaintrail <@chain_trail>
+title: Chaintrail - Uncovering Algorand
+author: Leander, Chaintrail (@ChainTrail)
 company_name: Chaintrail
-category: Blockchain Analytics & Intelligence
-focus_area: Algorand,insights,intelligence,dapp activity,nft performance,tvl,rwa.
+category: Tools
+focus_area: Monitoring
 open_source: No
 amount_requested: 30000
 status: Draft
