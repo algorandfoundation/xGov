@@ -17,7 +17,7 @@ Founded by Leander (@nfnomad). 15+ years of experience in building (mobile) apps
 
 Links:
 
-* Platform: http://chaintrail.io/
+* Platform: https://chaintrail.io/
 * X: https://twitter.com/chain_trail
 * Reddit: https://www.reddit.com/r/ChainTrail/
 
