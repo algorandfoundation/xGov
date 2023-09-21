@@ -44,13 +44,16 @@ See which DeFi pools are yielding the best APR across multiple platforms.
 API: 
 Made it possible for external platforms to easily use data aggregated by chaintrail. 
 
-The coming months are set out to launch the following:
-- Continue improving coverage of current and new dApps built.
-- Improve interface of our NFT, TVL, Dapp & Stablecoin section.
-- Expand our TVL section with more RWA projects.
-- Combine dapp data from several sections into one insightful overview.
+The coming months are set out to launch the following new features:
+- Elevating dApp Coverage: We're constantly enhancing the coverage, bringing you the latest developments from both existing and emerging dApps built on Algorand.
+- Add more extensive insights onto our NFT, TVL and Dapp section.
+- Launch our Stablecoin section (so it separates from the TVL) + making sure all stables are covered on-chain.
+- Unveiling New RWA Projects: Our TVL section is expanding, introducing even more cutting-edge RWA projects for you to explore.
+- Comprehensive Insights: We're consolidating data from various sections to provide you with a holistic and insightful overview of the dapp landscape.
 
-Whether or not this grant will pass. Chaintrail will still continue to develop further. As we have the backing of at least 40 paid community members at the moment (who pays $2.5 per month), which grows by the week. This grant will help make Chaintrail reach operational profitability in the short-term (next 3-6 months). However, our focus continues on selling pro memberships. Whereas the revenue results can be found here: https://chaintrail.io/revenue
+With your help through this grant, I can supercharge the commitment for Chaintrail, ensuring that exciting new features are brought to life faster than ever before. Join us in making a difference!
+
+Did you know that Chaintrail is proudly supported by over 42 dedicated community members, each investing just $2.5 per month? And that number keeps growing every week! 🚀 Chaintrail is not profitable yet, but we have a plan to get there in the coming year(s).
 
 ## Benefits for the community
 We're the only blockchain insights project that's focussed on one single blockchain: Algorand. This gives us the advantage that we can move a lot quicker and uncover data that hasn't been uncovered before. We did this already with NFT sales from TravelX & Fifa+ Collect, but also Agrotoken, Exodus their EXIT shares, Anote Music and many more in the near future. 
@@ -60,6 +63,8 @@ Plus our Dapps Activity (which is the fundament of Chaintrail) shows many insigh
 This all benefits the community in terms of insights, knowing how Algorand is doing as an ecosystem. But also makes it easy to uncover new projects that you might not have seen before.
 
 ## Additional information
-As stated before. This grant will contribute on keeping the lights on (the servers up and running) and support the project to continue growing further more easily. We published our current revenue stream (the amount of memberships sold): https://chaintrail.io/revenue. This will remain our main focus in terms of growing the project in a healthy manner. More on this can be read in our blog post: https://chaintrail-io.medium.com/publishing-our-revenue-13f4e659cf0b
+We're on a mission to uncover the entire Algorand ecosystem for you. But we need your help! The grant we're seeking is a push in the right direction. The funding will be used to fund our new features, enhance our coverage and support on our infrastructure growth costs. 
 
-The grant I'm asking for is merely half of what is needed to keep the servers running and other costs. It doesn't count for future growth, as our engine continues to grow. So does the Algorand blockchain and the data we're tracking. Which means we slowly have to expand our infrastructure to keep a high-performing platform. Therefore we plan to submit a xGov proposal each quarter, while keeping the amount small and hopefully pass the bar for xGovs members. 
+As the Algorand blockchain evolves, we're committed to providing you with a high-performing platform. That's why we're planning to submit xGov proposals every quarter, taking small but meaningful steps towards our vision.
+
+We published our current revenue stream (the amount of memberships sold) here: https://chaintrail.io/revenue. This will remain our long-term focus to ensure we built a healthy project that can sustain itself in the future. More on this can be read in our blog post: https://chaintrail-io.medium.com/publishing-our-revenue-13f4e659cf0b
