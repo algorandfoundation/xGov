@@ -1,12 +1,14 @@
 ---
+id: 19
 title: Algorand Foundation market operations dashboard
 author: Sot Papasot (@papasotiriou)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/19
 company_name: datascientist.algo
 category: Tools
 focus_area: Monitoring
 open_source: Yes
 amount_requested: 4000
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -22,6 +24,8 @@ Building data analytics for Algorand DeFi and NFT protocols. I can aggregate dat
 
 https://flipsidecrypto.xyz/Papasot
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 The beta version is already available here. 
 

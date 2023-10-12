@@ -1,12 +1,14 @@
 ---
+id: 49
 title: Algo Wallet Library for SolidJS Web Apps
 author: Brian Whippo (@SilentRhetoric)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/49
 company_name: Distributed Ledger Technologies
 category: Tools
 focus_area: Libraries
 open_source: Yes
 amount_requested: 10000
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -29,6 +31,8 @@ Brian has been an active developer and contributor in the Algorand community sin
 - Runs two participation nodes and is a Community Relay Champion in partnership with AlgoNode to encourage DIY relay node runners  
 - Created an explanatory <a href="https://twitter.com/SilentRhetoric/status/1677710463885295619?s=20">diagram</a> for the xGov program schedule
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 
 Solid Algo Wallet aims to make it easier to launch an Algorand dApp by abstracting away the complicated parts of connecting a web app to Algorand wallets and nodes so that the app's users can sign and send transactions.

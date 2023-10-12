@@ -1,12 +1,14 @@
 ---
+id: 6
 title: Transaction Builder UI
 author: No-Cash-7970 (@No-Cash-7970)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/6
 company_name: <None>
 category: Tools
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 1
-status: Final
+amount_requested: 0001
+status: Approved
 ---
 
 ## Abstract
@@ -26,6 +28,8 @@ A lone web developer for over 10 years. In September 2021, she became interested
 - Using and experimenting with the JavaScript and Python SDKs
 - Built a working prototype game using Reach
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 
 **Q4 2023** - The Transaction Builder UI will be available to the public to use to create payment, key registration, asset configuration, asset freeze, asset transfer, and application call transactions.

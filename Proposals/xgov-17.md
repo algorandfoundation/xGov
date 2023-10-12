@@ -1,12 +1,14 @@
 ---
+id: 17
 title: ASA Stats Point in Time - tax reporting reference for US citizens
 author: Ivica Paleka (@ipaleka)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/17
 company_name: ASA Stats
 category: Tools
 focus_area: Defi
 open_source: No
 amount_requested: 20000
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -47,6 +49,8 @@ Eric Cho is an experienced tester with a plethora of contributions to the ASA St
 
 David Farrior is one of the creators of the ASA Stats rewards system which he administrates. His work on proposal implies research and testing.
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 It is planned that the research and development lasts for 9 months (three governance cycles). For the starting date of 9/30/2023, the date of deployment is set to be 6/30/2024.
 

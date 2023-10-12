@@ -1,13 +1,14 @@
 ---
-period: 14
+id: 14
 title: Fund Unnamed Wallet
 author: Liquid Glass (@0xLiquidGlass)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/14
 company_name: "Unnamed"
 category: Tools
 focus_area: Wallet
 open_source: Yes
 amount_requested: 6101
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -28,6 +29,8 @@ The names given would be in their Github username and their information will be 
 
 Unnamed was built on Algorand Python SDK, and there is currently one project, which is Unnamed Wallet. We are new to Algorand and we are aware of Dapps (i.e. used them, exploring how Dapps work on Algorand)
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 
 Unnamed Wallet has currently finished building the fundemental part of the wallet, which can handle the generation of new addresses and basic transactions. There is till more work to do to make Unnamed Wakket the wallet that many people will use:

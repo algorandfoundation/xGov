@@ -1,13 +1,14 @@
 ---
-period: 8
+id: 8
 title: Evil Tools
 author: Joseph Glenn (@LoafPickleWW)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/8
 company_name: Thurstober Digital Studios LLC
 category: Tools
 focus_area: User Onboarding
 open_source: No
 amount_requested: 10000
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -32,6 +33,8 @@ All of us have been in the Algorand NFT Space since May 2021. Thurstober Digital
 Website: https://thurstober.com/
 Evil Tools Website: https://evil-tools.thurstober.com/
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 Brrrrrrr Mode: - This is built. renamed to infinity mode.
 
