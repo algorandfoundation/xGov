@@ -2,7 +2,7 @@
 id: 0
 title: <The proposal title is a few words, not a complete sentence>
 author: FirstName LastName (@GitHubUsername)
-discussions-to: https://github.com/
+discussion-to: https://github.com/
 company_name: <Name of the company>
 category: Other
 focus_area: Other
