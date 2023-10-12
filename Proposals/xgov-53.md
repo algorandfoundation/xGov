@@ -1,6 +1,8 @@
 ---
+id: 53
 title: Recurrent Payments / Contract Call Platform
-author: Kyle Breeding aka krby.algo (@kylebeee)
+author: Kyle Breeding (@kylebeee)
+discussions-to: https://forum.algorand.org/t/xgov-53-recurrent-payments-contract-call-platform/10479
 company_name: Akita
 category: dApps
 focus_area: Defi
@@ -10,10 +12,10 @@ status: Final
 ---
 
 ## Abstract
-Subscription payments are a common feature across most industries and are essential to bridging the rest of the world to Algorand. Akita is building a first class subscription system & platform that will bring the next generation of recurring payment rails to Algorand. In a multitude of ways, our smart contract design will streamline control, accessibility and management of subscriptions for both businesses and end users on Algorand. With version 1.0 of the contracts already written; Akita is looking to build out the UI interfaces and expand on their functionality (More details below in the Roadmap section). These contracts will serve both businesses on Algorand via Javascript SDKs and the Akita creator subscription platform.
+Subscription payments are a common feature across most industries and are essential to bridging the rest of the world to Algorand. Akita is building a first class subscription system & platform that will bring the next generation of recurring payment rails to Algorand. In a multitude of ways, our smart contract design streamlines control, accessibility and management of subscriptions for both businesses and end users on Algorand. With version 1.0 of the contracts already written; Akita is looking to build out the UI interfaces and expand on their functionality (More details below in the Roadmap section). These contracts will serve both businesses on Algorand via Javascript SDKs and the Akita creator subscription platform.
 
 ## Team
-Krby (https://twitter.com/kylebeeeee) has been a full time software engineer for over 7 years and has been spending his evenings building Akita for the better part of the last 2 years following the original dev teams departure. He's built a number of massive features for the Akita community including a staking platform, discord payment & verification bot (integrated with NFD's), Yoink Ball (an in person king of the hill game utilizing Freeze & Clawback) and a permissionless Community spec.
+Krby (https://twitter.com/kylebeeeee) has been a full time software engineer for over 7 years and has been spending his evenings building Akita for the better part of the last 2 years following the original dev teams departure. He's built a number of massive features for the Akita community including a staking platform, discord payment & verification bot (integrated with NFD's), Yoink Ball (an in person king of the hill game utilizing Freeze & Clawback) and a permissionless Community spec (ARC-53).
 
 ## Experience with Algorand
 For nearly the last 2 years Krby has been spending his evenings building on Algorand. From writing PyTeal smart contracts to building the base components of a longer term vision; a social platform built ontop of Algorand, NFDs, subscriptions & the community page spec. To date he's delivered an astounding amount of value to the Algorand / Akita community and has been the driving force behind the growth of the Akita platform:
@@ -24,10 +26,10 @@ For nearly the last 2 years Krby has been spending his evenings building on Algo
 - A permissionless community spec that enables NFT and project exploration with some of the best UX on Algorand
 - A shuffle system for Akita Omnigems where the NFTs have no data attached to them before sale
 
-## Roadmap
+## Present Proposal
 Version 1 of the contracts are already written and have been checked thoroughly by Algorand Foundation Developers. The features for version 1 include:
 
-- Recurring payments:
+- Automated Recurring payments:
     - any token
     - any interval
     - any amount
