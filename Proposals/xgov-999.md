@@ -2,12 +2,12 @@
 id: 0
 title: <The proposal title is a few words, not a complete sentence>
 author: FirstName LastName (@GitHubUsername)
-discussion-to: https://github.com/
+discussions-to: https://github.com/
 company_name: <Name of the company>
 category: Other
 focus_area: Other
 open_source: Yes
-amount_requested: 999
+amount_requested: 1000
 status: Approved
 ---
 
