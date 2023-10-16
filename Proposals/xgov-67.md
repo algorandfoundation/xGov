@@ -107,178 +107,178 @@ Use the presented data just as a starting point as we're fully open for suggesti
 
 1. dragmz
 
-Role: First Developer
-Model on: https://avatars.githubusercontent.com/u/447143?v=4
-Description: The ecosystem's human Oracle.
-Value: 5.6
+Role: First Developer  
+Model on: https://avatars.githubusercontent.com/u/447143?v=4  
+Description: The ecosystem's human Oracle.  
+Value: 5.6  
 
 2. AlgoRhythMatic
 
-Role: First Writer
-Model on: https://www.youtube.com/watch?v=D8MFhizIs_8
-Description: He has established the ASA Stats rewards system and he *dances* it out every month.
-Value: 4.0
+Role: First Writer  
+Model on: https://www.youtube.com/watch?v=D8MFhizIs_8  
+Description: He has established the ASA Stats rewards system and he *dances* it out every month.  
+Value: 4.0  
 
 3. TresTres
 
-Role: OG
-Model on: https://www.google.com/search?q=flamingo&tbm=isch
-Description: If you think ASA Stats documents are well-crafted then you've found who to blame for.
-Value: 3.8
+Role: OG  
+Model on: https://www.google.com/search?q=flamingo&tbm=isch  
+Description: If you think ASA Stats documents are well-crafted then you've found who to blame for.  
+Value: 3.8  
 
 4. kerr
 
-Role: First Admin
-Model on: https://www.google.com/search?&q=german+shepherd&tbm=isch
-Description: ASA Stats' Renaissance man, or rather to say Renaissance *dog* (from the nick origin).
-Value: 3.7
+Role: First Admin  
+Model on: https://www.google.com/search?&q=german+shepherd&tbm=isch  
+Description: ASA Stats' Renaissance man, or rather to say Renaissance *dog* (from the nick origin).  
+Value: 3.7  
 
 5. GamingToups
 
-Role: OG
-Model on: https://www.google.com/search?q=bear&tbm=isch
-Description: Those who are cautious sound like bears in the world of bulls,
-Value: 3.4
+Role: OG  
+Model on: https://www.google.com/search?q=bear&tbm=isch  
+Description: Those who are cautious sound like bears in the world of bulls,  
+Value: 3.4  
 
 6. ipaleka
 
-Role: OG
-Model on: https://www.google.com/search?q=alpaca&tbm=isch
-Description: Some community members visualize nick `ipaleka` as alpaca.
-Value: 3.2
+Role: OG  
+Model on: https://www.google.com/search?q=alpaca&tbm=isch  
+Description: Some community members visualize nick `ipaleka` as alpaca.  
+Value: 3.2  
 
 7. moloch10
 
-Role: OG
-Model on: https://www.google.com/search?q=ant&tbm=isch
-Description: ASA Stats' top contributor.
-Value: 3.2
+Role: OG  
+Model on: https://www.google.com/search?q=ant&tbm=isch  
+Description: ASA Stats' top contributor.  
+Value: 3.2  
 
 8. SCN9A
 
-Role: First Debater
-Model on: https://www.google.com/search?q=wise+owl&tbm=isch
-Description: ASA Stats' voice of reason.
-Value: 3.1
+Role: First Debater  
+Model on: https://www.google.com/search?q=wise+owl&tbm=isch  
+Description: ASA Stats' voice of reason.  
+Value: 3.1  
 
 9. Damo
 
-Role: First Contributor
-Model on: https://www.google.com/search?q=hammer+shark&tbm=isch
-Description: He breaks every system with his hammer. There are many damos, but only one Damo.
-Value: 2.7
+Role: First Contributor  
+Model on: https://www.google.com/search?q=hammer+shark&tbm=isch  
+Description: He breaks every system with his hammer. There are many damos, but only one Damo.  
+Value: 2.7  
 
 10. Babbexx22
 
-Role: OG
-Model on: https://www.google.com/search?q=horse&tbm=isch
-Description: His hard work and dedication allowed us to shape the ASA Stats community for the future. kerr pretty much took over his legacy.
-Value: 2.3
+Role: OG  
+Model on: https://www.google.com/search?q=horse&tbm=isch  
+Description: His hard work and dedication allowed us to shape the ASA Stats community for the future. kerr pretty much took over his legacy.  
+Value: 2.3  
 
 11. Investordooh
 
-Role: First Investor
-Model on: https://www.google.com/search?q=bull&tbm=isch
-Description: No person has been more bullish on ASA Stats.
-Value: 2.0
+Role: First Investor  
+Model on: https://www.google.com/search?q=bull&tbm=isch  
+Description: No person has been more bullish on ASA Stats.  
+Value: 2.0  
 
 12. UncleDooom
 
-Role: OG
-Model on: https://www.google.com/search?q=dragon&tbm=isch
-Description: Boom shaka laka dooom!
-Value: 2.0
+Role: OG  
+Model on: https://www.google.com/search?q=dragon&tbm=isch  
+Description: Boom shaka laka dooom!  
+Value: 2.0  
 
 13. motuwagon
 
-Role: OG
-Model on: https://www.google.com/search?&q=cat&tbm=isch
-Description: If we can make sound come out of our Discord, it would be purring.
-Value: 1.6
+Role: OG  
+Model on: https://www.google.com/search?&q=cat&tbm=isch  
+Description: If we can make sound come out of our Discord, it would be purring.  
+Value: 1.6  
 
 14. Urtho
 
-Role: governor coming from the Algorand community
-Model on: https://www.google.com/search?&q=albatross&tbm=isch
-Description: The ecosystem's most important individual.
-Value: 1.0
+Role: governor coming from the Algorand community  
+Model on: https://www.google.com/search?&q=albatross&tbm=isch  
+Description: The ecosystem's most important individual.  
+Value: 1.0  
 
 15. Unohim
 
-Role: First Community Manager
-Model on: https://www.google.com/search?q=dolphin&tbm=isch
-Description: He's saving the planet for us.
-Value: 0.9
+Role: First Community Manager  
+Model on: https://www.google.com/search?q=dolphin&tbm=isch  
+Description: He's saving the planet for us.  
+Value: 0.9  
 
 16. Milesmile
 
-Role: Asastatser
-Model on: https://www.google.com/search?&q=chameleon&tbm=isch
-Description: Yep, he's over there, take a closer look.
-Value: 0.9
+Role: Asastatser  
+Model on: https://www.google.com/search?&q=chameleon&tbm=isch  
+Description: Yep, he's over there, take a closer look.  
+Value: 0.9  
 
 17. Mocha
 
-Role: Asastatser
-Model on: https://www.google.com/search?&q=dromedary&tbm=isch
-Description: I'm easy, easy like Sunday morning.
-Value: 0.9
+Role: Asastatser  
+Model on: https://www.google.com/search?&q=dromedary&tbm=isch  
+Description: I'm easy, easy like Sunday morning.  
+Value: 0.9  
 
 18. Algoworm
 
-Role: Asastatser
-Model on: https://www.google.com/search?&q=worm+cartoon&tbm=isch
-Description: Like a sculptor who sees contours inside a stone, he sees a hole ready to be dug in every system.
-Value: 0.9
+Role: Asastatser  
+Model on: https://www.google.com/search?&q=worm+cartoon&tbm=isch  
+Description: Like a sculptor who sees contours inside a stone, he sees a hole ready to be dug in every system.  
+Value: 0.9  
 
 19. rach
 
-Role: Asastatser
-Model on: https://www.google.com/search?&q=lioness&tbm=isch
-Description: AlgoRhythMatic and SCN9A took over her legacy.
-Value: 0.6
+Role: Asastatser  
+Model on: https://www.google.com/search?&q=lioness&tbm=isch  
+Description: AlgoRhythMatic and SCN9A took over her legacy.  
+Value: 0.6  
 
 20. RandomTask
 
-Role: OG
-Model on: https://www.google.com/search?&q=sea+turtle&tbm=isch
-Description: Who said Redditors can't Discord?
-Value: 0.6
+Role: OG  
+Model on: https://www.google.com/search?&q=sea+turtle&tbm=isch  
+Description: Who said Redditors can't Discord?  
+Value: 0.6  
 
 21. Kenny | TGA
 
-Role: OG
-Model on: https://www.google.com/search?&q=golden+retriever&tbm=isch
-Description: Our first Reddit admin and "Tasker".
-Value: 0.6
+Role: OG  
+Model on: https://www.google.com/search?&q=golden+retriever&tbm=isch  
+Description: Our first Reddit admin and "Tasker".  
+Value: 0.6  
 
 22. LudovitScholtz
 
-Role: governor coming from the Algorand community
-Model on: https://www.google.com/search?&q=giraffe&tbm=isch
-Description: One of the most prominent ecosystem's contributors who acts as the opposition.
-Value: 0.5
+Role: governor coming from the Algorand community  
+Model on: https://www.google.com/search?&q=giraffe&tbm=isch  
+Description: One of the most prominent ecosystem's contributors who acts as the opposition.  
+Value: 0.5  
 
 23. Swenor
 
-Role: governor coming from the Algorand community
-Model on: https://i.imgur.com/hqYjPkg.png
-Description: Main character in a popular ecosystem's game.
-Value: 0.5
+Role: governor coming from the Algorand community  
+Model on: https://i.imgur.com/hqYjPkg.png  
+Description: Main character in a popular ecosystem's game.  
+Value: 0.5  
 
 24. Shaman
 
-Role: governor coming from the Algorand community
-Model on: https://www.google.com/search?&q=fox&tbm=isch
-Description: The ecosystem's spiritual leader.
-Value: 0.5
+Role: governor coming from the Algorand community  
+Model on: https://www.google.com/search?&q=fox&tbm=isch  
+Description: The ecosystem's spiritual leader.  
+Value: 0.5  
 
 25. patrick.algo
 
-Role: governor coming from the Algorand community
-Model on: https://www.google.com/search?&q=whale&tbm=isch
-Description: He names things.
-Value: 0.5
+Role: governor coming from the Algorand community  
+Model on: https://www.google.com/search?&q=whale&tbm=isch  
+Description: He names things.  
+Value: 0.5  
 
 -----
 
@@ -300,7 +300,7 @@ The existing ASA Stats DAO governors (https://github.com/asastats/channel/wiki/G
 ## Future Blueprint
 ### Milestone 1: VPSes purchase and setup; NFT research
 Date: 3 months  
-Amount: 42,000  
+Amount: 42,000    
 Description: In the first phase, the team will be focused on the following tasks:  
 - Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats API server in the first year.
 - Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats Web server in the first year.
@@ -310,7 +310,7 @@ Description: In the first phase, the team will be focused on the following tasks
 
 ### Milestone 2: VPSes and Load Balancer purchases and setup: Users authentication NFT minting
 Date: 3 months  
-Amount: 58,000  
+Amount: 58,000    
 Description: In the second phase, the team will be focused on the following tasks:  
 - Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats WebSocket server in the first year.
 - Purchasing and setting up a Load Balancer for the first year.
