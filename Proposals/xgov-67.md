@@ -1,8 +1,8 @@
 ---
-id: {ID}
+id: 67
 title: Securing ASA Stats API high availability for the next 2 years
 author: Ivica Paleka (@ipaleka)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/{ID}
+discussions-to: https://github.com/algorandfoundation/xGov/pull/67
 company_name: ASA Stats
 category: Tools
 focus_area: Other
