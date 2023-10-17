@@ -1,11 +1,11 @@
 ---
 title: SureBlocks Certification of authenticity
 author: Santiago Albiero (@Salbiero)
-company_name: LOOPWEB3.IO
+company_name: Sureblocks
 category: dApps
 focus_area: NFT
-open_source: Yes
-amount_requested: 237556
+open_source: No
+amount_requested: 277556
 status: Final
 ---
 
@@ -31,36 +31,13 @@ Details about the team's experience with the Algorand protocol and any previous 
 A detailed plan for the development and implementation of the proposal, including timelines.
 Use subtitles as shown below:
 
-### Step 1
-Date: 10/07/2023
-Description:
-- Register the web domain.
-- Agree with devs partners
-- Development of drafts
-- Analysis of how viable it is to develop the dapp
-- Analysis of possible improvements
-- Customer analysis
-
-### Step 2 
-Date: 20/07/2023
-Description:
-- The development of the dapp begins.
-- Development of social networks
-- The loopweb3.io shillers team is dedicated to offering this product to potential customers.
-- The clients that I have already contacted, I have to finish closing the agreement. these are vineyards
-
- ### Step 3 
-Date: 30/08/2023
-Description: 
-- Dapp testing
-
- ### Step 4
-Date: 07/09/2023
+ ### Step 1
+Date: 01/11/2023
 Description: 
 - Install the product on our customer's products and train the customer
 
- ### Step 5
-Date: 15/09/2023
+ ### Step 2
+Date: 15/12/2023
 Description:
 - Launch of the dapp
 - Start of promo with youtubers and with shillers.
@@ -77,3 +54,7 @@ Description:
 ## Additional information
 We already have agreements with important wineries to progressively introduce this system on their products.
 We already have the entire team assembled, developers, managers and publicity.
+
+### Project links
+https://sureblocks.io/
+https://sureblocks.io/login
