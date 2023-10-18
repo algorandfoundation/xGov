@@ -1,6 +1,8 @@
 ---
+id: 50
 title: SureBlocks Certification of authenticity
 author: Santiago Albiero (@Salbiero)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/50
 company_name: Sureblocks
 category: dApps
 focus_area: NFT
@@ -27,7 +29,7 @@ Details about the team's experience with the Algorand protocol and any previous 
 > We know Algorand from visiting their boxes at face-to-face events and from what can be read on social media.
 > We have contact with some of the algorand employees and would be happy to work with you.
 
-## Roadmap
+## Present Proposal
 A detailed plan for the development and implementation of the proposal, including timelines.
 Use subtitles as shown below:
 
@@ -42,8 +44,6 @@ Description:
 - Launch of the dapp
 - Start of promo with youtubers and with shillers.
 - Promotion with ad packs (meta, youtube, google).
-  
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
 
 
 ## Benefits for the community
