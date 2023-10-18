@@ -26,4 +26,4 @@ xgovw /path/to/xGovs/Proposals
 
 At the start of each governance period, the governance team will start the procedures to create a new xGov Voting Session. 
 
-To ensure your proposal is included in the quarter's voting round, make sure that your proposal status is set to "Final" no later than two weeks after the start of the governance period.
+To ensure your proposal is included in the quarter's voting round, make sure that your proposal status is set to "Final" before the start of the next xGov voting session.
