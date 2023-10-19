@@ -1,6 +1,8 @@
 ---
+id: 72
 title: Algorand Inc structured selling dashboard
 author: Sot Papasot (@papasotiriou)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/72
 company_name: datascientist.algo
 category: Tools
 focus_area: Monitoring
@@ -22,7 +24,7 @@ Building data analytics for Algorand DeFi and NFT protocols. I can aggregate dat
 
 https://flipsidecrypto.xyz/Papasot
 
-## Roadmap
+## Present Proposal
 The Algorand Foundation version is available here. 
 
 https://geniidata.com/user/papasotiriou/algorand-foundation-market-operations
