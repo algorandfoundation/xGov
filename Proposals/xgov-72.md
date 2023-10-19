@@ -35,7 +35,7 @@ My goal is to duplicate that dashboard.
 Based on my research, I have discovered the Algorand account that is related to the Algorand Inc. 
 Please bear in mind that my findings may not be 100% accurate, since there is no transparency report to verify them. 
 
-The reason why I am requesting more Algo than my previous xgov proposal (xgov-19) is the lower $ price of Algo. 
+The reason why I am requesting more Algo than my initial xgov proposal is the lower $ price of Algo. 
 
 I will be available for feedback from the community in order to improve or add more charts to the dashboard. 
 
