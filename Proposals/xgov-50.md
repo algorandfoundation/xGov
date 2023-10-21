@@ -29,7 +29,8 @@ Details about the team's experience with the Algorand protocol and any previous 
 > We know Algorand from visiting their boxes at face-to-face events and from what can be read on social media.
 > We have contact with some of the algorand employees and would be happy to work with you.
 
-## Present ProposalThis proposal was developed based on using the blockchain on a daily basis for all people but without people knowing that they are using web3 technology. Sureblocks will ensure the origin and originality of any daily use product with notarial level validation.
+## Present Proposal
+This proposal was developed based on using the blockchain on a daily basis for all people but without people knowing that they are using web3 technology. Sureblocks will ensure the origin and originality of any daily use product with notarial level validation.
 For example:
 Have you ever bought a Nike, Lacoste, Adidas, etc. t-shirt? and you are not sure of its originality? ... Sureblocks.io is the definitive solution to all types of piracy and can be included in consumables, clothing, medicines, etc.
 How does Sureblocks.io work?
