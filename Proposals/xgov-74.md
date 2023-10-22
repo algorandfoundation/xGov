@@ -12,7 +12,7 @@ status: Draft
 ---
 
 ## Abstract
-We at Notiboy has a vision to make web3 communication more efficient. That means the algorand addresses should be able to communicate with each other by maintaining their privacy. So we are developing a chat application which will help the addresses to chat between each other in an anonymous way. There will also be a fcility for group chat which will formation and development of web3 communites. The users will also be able to transfer assets between addresses during their chat.
+We at Notiboy has a vision to make web3 communication more efficient. That means the algorand addresses should be able to communicate with each other by maintaining their privacy. So we are developing a chat application which will help the addresses to chat between each other in an anonymous way. There will also be a facility for group chat which will help formation and development of web3 communites. The users will also be able to send/transfer assets between addresses during their chat.
 
 ## Team
 AP - CEO. I have 7 years of experience in sales and marketing of mobile handsets for multiple MNCs in India. I have been an active member in the Algorand community since August 2021 and is involved with the Angry Penguins NFT project.
