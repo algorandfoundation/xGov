@@ -2,11 +2,12 @@
 id: 74
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
+discussions-to: <Indicating the URL where the proposal is being discussed>
 company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 30,000
+amount_requested: 30000
 status: Draft
 ---
 
@@ -30,7 +31,7 @@ In web3 an identity is represented by an address rather than a username or passw
 ### Milestone 1: Build Chat Application.
 Time Taken : 3 months
 
-Amount: 30,000
+Amount: 30000
 
 Description:
     -We intend to build a basic address-to-address chat application and integrate it into our current application.
@@ -39,7 +40,7 @@ Description:
 ### Milestone 2: Build a Group chat feature
 Time Taken: 2 months
 
-Amount: 30,000
+Amount: 30000
 
 Description:
     - Group Chat feature which will allow cration of web3 communities without revealing any personal information of users involved.
@@ -48,7 +49,7 @@ Description:
 ### Milestone 3: Build a Group chat feature
 Time taken: 3 months
 
-Amount: 35,000
+Amount: 35000
 
 Description:
     - Swapping assets between addresses while chatting
