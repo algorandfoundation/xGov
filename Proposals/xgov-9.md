@@ -1,13 +1,14 @@
 ---
-period: 9
+id: 9
 title: AWallet
 author: Ludovit Scholtz (@scholtz)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/9
 company_name: Scholtz & Co
 category: Tools
 focus_area: Wallet
 open_source: Yes
 amount_requested: 10000
-status: Final
+status: Approved
 ---
 
 ## Abstract
@@ -27,6 +28,8 @@ We provide many open source tools to help algorand communities - https://github.
 
 <a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
+## Present Proposal
+## Future Blueprint
 ## Roadmap
 Feedback:
 Collect user requests for improvment

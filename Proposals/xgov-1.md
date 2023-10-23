@@ -1,7 +1,8 @@
 ---
-period: 1
+id: 1
 title: Mock Proposal
 author: Stéphane BARROSO (@SudoWeezy)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/1
 company_name: Algorand Foundation
 category: Community
 focus_area: User Onboarding
@@ -19,7 +20,10 @@ ARC Manager at Algorand Foundation.
 ## Experience with Algorand
 Member of Algorand Foundation.
 
-## Roadmap
+## Present Proposal
+Mock Proposal.
+
+## Future Blueprint
 Every quarter this will be updated to match the current period.
 
 ## Benefits for the community
