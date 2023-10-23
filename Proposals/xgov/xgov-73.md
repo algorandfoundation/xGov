@@ -1,13 +1,13 @@
 ---
 id: 1
-title: Amado Warlord 
-author: Goldstone (delani17)
+title: AmadoWarlord 
+author: delani17
 discussions-to: <Indicating the URL where the proposal is being discussed>
 company_name: Goldstone
-category: Gaming
+category: other
 focus_area: Gaming
 open_source: Yes
-amount_requested: 200,000
+amount_requested: 200000
 status: Draft
 ---
 
