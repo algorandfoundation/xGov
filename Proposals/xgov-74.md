@@ -2,7 +2,7 @@
 id: 74
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: https://discord.com/channels/917745024106643487/961952985125113866
 company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
@@ -46,10 +46,10 @@ Description:
     - Group Chat feature which will allow cration of web3 communities without revealing any personal information of users involved.
     - Release apis as a service so that projects can integrate chat app into their web3 application.
 
-### Milestone 3: Build a Group chat feature
+### Milestone 3: Transfer of assets on chat
 Time taken: 3 months
 
-Amount: 35000
+Amount: 40000
 
 Description:
     - Swapping assets between addresses while chatting
