@@ -1,5 +1,5 @@
 ---
-id: 76
+id: 77
 title: AlgoVerify
 author: bykewel (@algovado)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/77
