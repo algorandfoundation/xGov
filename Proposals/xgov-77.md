@@ -8,7 +8,7 @@ category: Tools
 focus_area: NFT, Authentication, Deployment
 open_source: Yes
 amount_requested: 40000
-status: Draft
+status: Final
 ---
 
 ## Abstract
