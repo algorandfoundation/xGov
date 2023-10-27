@@ -19,15 +19,19 @@ We already have serious approaches with wineries in Argentina, to incorporate nf
 Sureblocks will be a symbol of safety for people. It could even be incorporated into medicines.
 
 ## Team
-Santiago Albiero: CEO and Co-Founder at Loopweb3.io and CEO at Sureblocks. | Social Media Manager | Digital Marketing | Marketing in Web3. Business advisor on web3 | Blockchain | NFTs | Metaverses.
-Gonzalo Fernandez:  Co-Founder at Loopweb3.io | Community manager and manager of public relations.
+Santiago Albiero: CEO and Co-Founder at Loopweb3.io and CEO at Sureblocks. | Social Media Manager | Digital Marketing | Marketing in Web3. Business advisor on web3, Blockchain, NFTs and Metaverses.
+Gonzalo Fernandez: Co-Founder at Loopweb3.io | Community manager and manager of public relations.
 Alex Heikel: As the founder and former CEO of one of the most important e-commerce platforms in South America, Alex, has made a significant impact in the realm of online retail. Alex went on to establish Darwin, a development agency with over 15 years of expertise in crafting innovative products across various domains such as AI, fintech, blockchain and social media.
+Juan Salinas: Senior Software Engineer at Travelx
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> We have no experience working with Algorand.
-> We know Algorand from visiting their boxes at face-to-face events and from what can be read on social media.
-> We have contact with some of the algorand employees and would be happy to work with you.
+Our team has an algorand developer. This is Juan Salinas and his experience is:
+- He had participated on several Algorand Developer Bootcamps, in English and Spanish, viewing and practicing coding in Algorand with Pyteal, Beaker and recently TealScript. He can write smart contracts with PyTeal, Beaker, TealScript and he knows how use the Algorand's SDK: Python, JavaScript and mostly Java.
+- Here you can see his Algorand Lab repository here: https://github.com/jmsalinas88/algorand
+- He is one of the winners of the challenges that were proposed in one of the Algorand Developer Bootcamp in Spanish (he won the second price). You can see the challenges resolved here, with a video demo: https://github.com/jmsalinas88/algorand/tree/main/intro-to-smart-contracts
+- He is part of Travelx's team since December 2021, Travelx built their platform on top of Algorand. He is not working full-time in the blockchain team, but he had participated on short projects, for example, building a microservice to sign transactions on Algorand, using PureStake API and AlgoNode API
+- He is really active in the Algorand LATAM Community, You can see his POAPs here: https://explorer.perawallet.app/accounts/PYNEATGGJIV27OKWCHSAIW2VBJ4WHOIWVRFZHFIV237ZCB3I2TXP4B356E/
+- You can see his Linkedin profile here: https://www.linkedin.com/in/juan-salinas-xyz/
 
 ## Present Proposal
 This proposal was developed based on using the blockchain on a daily basis for all people but without people knowing that they are using web3 technology. Sureblocks will ensure the origin and originality of any daily use product with notarial level validation.
