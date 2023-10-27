@@ -2,7 +2,7 @@
 id: 76
 title: AlgoVerify
 author: bykewel (@algovado)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/76
+discussions-to: https://github.com/algorandfoundation/xGov/pull/77
 company_name: AlgoVerify
 category: Tools
 focus_area: NFT, Authentication, Deployment
