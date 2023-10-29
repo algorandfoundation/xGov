@@ -24,6 +24,9 @@ The successful implementation of this project will revolutionize source code man
 
 We kindly request your support in the form of a grant to bring this project to fruition and contribute to the advancement of decentralized governance within the software development ecosystem.
 
+## Present Proposal
+With this grant request we will implement source code management by DAO onchain decision making at github.
+
 ## Team
 Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.diatomix.xyz">Diatomix</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
 
