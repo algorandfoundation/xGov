@@ -20,7 +20,7 @@ Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz
 ## Experience with Algorand
 Ludo, Everyday Algonaut has hosted <a href="https://ipfs.algonode.xyz/ipfs/bafkreiaj4rlaca657ldkpmdrhncr5u37f4wlx26mynci4gztzy3ym3ecfq">Prague algorand meetup</a> last year on Feb 10th 2023 at Paralel polis. 
 
-He was also speaker at Prague BeerFi event, and speaker at Wroclaw Algorand Meetup.
+He was also speaker at ETH Denver, Prague BeerFi event, and speaker at Wroclaw Algorand Meetup.
 
 <a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
