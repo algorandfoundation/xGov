@@ -19,7 +19,14 @@ Concentrated liquidity models address these issues by allowing liquidity provide
 By supporting this grant proposal, you will contribute to the advancement of decentralized finance by addressing the limitations of traditional AMMs and enhancing capital efficiency and risk management through the implementation of concentrated liquidity models. This research and development effort will foster innovation, attract liquidity providers, and improve the overall user experience in the rapidly evolving Algorand DeFi ecosystem.
 
 ## Team
-Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.diatomix.xyz">Diatomix</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
+Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gol">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
+
+## Experience with Algorand
+Scholtz & Co is relay node runner.
+
+We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
+
+<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Present Proposal
 We will build Open source concentrated liqudity AMM integrated to at least one of the Algorand's DEX aggregotors.
@@ -51,12 +58,6 @@ Amount: 200000 ALGO
 
 Description: We will deliver smart contract and web with abilities to open new lp pool with concentrated liquidity, do swaps and manage the liqudity
 
-## Experience with Algorand
-Scholtz & Co is relay node runner.
-
-We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
-
-<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Benefits for the community
 The Algorand community stands to benefit significantly from the development and implementation of an open-source Automated Market Maker (AMM) with concentrated liquidity. Here are some key benefits that such a project can bring to the Algorand ecosystem:
