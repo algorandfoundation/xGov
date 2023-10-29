@@ -18,7 +18,7 @@ We want to build community in Central Europe - in Prague. We will host at least 
 Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gold">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
 
 ## Experience with Algorand
-Ludo, Everyday Algonaut has hosted [Prague algorand meetup](https://ipfs.algonode.xyz/ipfs/bafkreiaj4rlaca657ldkpmdrhncr5u37f4wlx26mynci4gztzy3ym3ecfq) last year on Feb 10th 2023 at Paralel polis. 
+Ludo, Everyday Algonaut has hosted <a href="https://ipfs.algonode.xyz/ipfs/bafkreiaj4rlaca657ldkpmdrhncr5u37f4wlx26mynci4gztzy3ym3ecfq">Prague algorand meetup</a> last year on Feb 10th 2023 at Paralel polis. 
 
 He was also speaker at Prague BeerFi event, and speaker at Wroclaw Algorand Meetup.
 
