@@ -2,6 +2,7 @@
 id: 80
 title: Open source concentrated liqudity AMM
 author: Ludovit Scholtz (@scholtz)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/80
 company_name: Scholtz & Co
 category: dApps
 focus_area: Defi
