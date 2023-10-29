@@ -24,6 +24,16 @@ The successful implementation of this project will revolutionize source code man
 
 We kindly request your support in the form of a grant to bring this project to fruition and contribute to the advancement of decentralized governance within the software development ecosystem.
 
+## Team
+Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gol">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
+
+## Experience with Algorand
+Scholtz & Co is relay node runner.
+
+We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
+
+<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
+
 ## Present Proposal
 With this grant request we will implement source code management by DAO onchain decision making at github.
 
@@ -36,16 +46,6 @@ Milestones:
 2) Github tool to track the result of the question and approve or deny Pull Request
 
 Estimated project delivery is 5 months from the project approval by the Foundation. It is ok for us to be paid after the project is built and working.
-
-## Team
-Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gol">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
-
-## Experience with Algorand
-Scholtz & Co is relay node runner.
-
-We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
-
-<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Benefits for the community
 - Transparent Decision-Making: The integration of onchain voting tools using Vote Coin standard on Algorand will bring transparency to the decision-making process within the GitHub community. Developers will have visibility into proposed changes, discussions, and voting outcomes, fostering trust and accountability. This transparency will enhance community collaboration, enabling stakeholders to contribute meaningfully and have a say in the direction of software projects.
