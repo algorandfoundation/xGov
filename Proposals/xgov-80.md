@@ -26,37 +26,37 @@ We will build Open source concentrated liqudity AMM integrated to at least one o
 
 With concentrated liquidity people get better swapping quotes, and liquidity providers will get higher returns on their investments.
 
-## Experience with Algorand
-Scholtz & Co is relay node runner.
-
-We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
-
-<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
-
-## Roadmap
+### Roadmap
 
 We will work using LeSS principles, with 2w sprints & product increments.
 
 Estimated project delivery is 3 months from the project funding.
 
-### Milestone 1 - Project approved (prepayment)
+#### Milestone 1 - Project approved (prepayment)
 
 Date: T
 Amount: 100000 ALGO
 
 Description: We require half of the funds to be prepaid, so that we can pay salaries for developers
 
-### Milestone 2 - Smart contract delivery
+#### Milestone 2 - Smart contract delivery
 
 Date: T + 3 months
 Amount: 200000 ALGO
 
-### Milestone 3 - Integration to DEX aggregator
+#### Milestone 3 - Integration to DEX aggregator
 
 Date: T + 6 months
 Amount: 200000 ALGO
 
 Description: We will deliver smart contract and web with abilities to open new lp pool with concentrated liquidity, do swaps and manage the liqudity
+
+## Experience with Algorand
+Scholtz & Co is relay node runner.
+
+We provide many open source tools to help algorand communities - https://github.com/scholtz?tab=repositories&q=algorand
+
+<a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Benefits for the community
 The Algorand community stands to benefit significantly from the development and implementation of an open-source Automated Market Maker (AMM) with concentrated liquidity. Here are some key benefits that such a project can bring to the Algorand ecosystem:
