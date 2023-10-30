@@ -1,7 +1,8 @@
 ---
-period: 8
-title: Lending Market, Aggregator and Oracle
+id: 84
+title: Decentralized liquidity aggregator & lending platform by Vestige
 author: Grzegorz Raczek (@grzracz), Erik Hasselwander (@ErikHasselwander), Mariano Dominguez (@BunsanMuchi), David Blazek (@Zykoz)
+discussions-to: https://discord.gg/fMqSB5vRX2
 company_name: Vestige.Fi
 category: dApps
 focus_area: Defi
@@ -55,10 +56,8 @@ The teams combined experience includes:
 - Running Nodes
 - And so much more!
 
-## Roadmap
-The sections below outline the details supporting the funding request which includes deliverables, timelines and amounts requested.  
-
-This application is for a single milestone which will be completed in its entirety by Q2 of 2024.  We believe that these components are essential for the ecosystem and this funding will provide Vestige with the necessary capital to achieve this milestone. 
+## Present Proposal
+This application is for a single milestone which will be completed in its entirety by Q2 of 2024. We believe that these components are essential for the ecosystem and this funding will provide Vestige with the necessary capital to achieve this milestone. 
 
 
 # Aggregation and Smart-Router Improvements (100,000A)
@@ -94,3 +93,10 @@ The development of a decentralized lending platform and the expansion of the Ves
 - Augmented dependability and precision in asset pricing via a decentralized oracle integration
 - Enriched analytics and DeFi tools, drawing more users to the Algorand ecosystem
 - Launching the aggregator as a white label service, allowing other projects to utilize Vestige.Fi's analytical prowess, stimulating cooperation and innovation
+
+## Additional information
+- https://vestige.fi
+- https://swap.vestige.fi
+- https://about.vestige.fi
+- https://twitter.com/@vestigefi
+- https://discord.gg/fMqSB5vRX2
