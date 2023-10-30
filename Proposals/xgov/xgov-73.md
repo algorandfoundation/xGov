@@ -16,7 +16,7 @@ Build a 3rd person fighting game on Algorands blockchain using Algorands SDK for
 best 2/3 in terms of rounds with a 4 minute time limit per round. Players would be allowed to customize their own character however armor would have to be bought since it would be an NFT. One piece armor with different style armor for male and female. 
 This would be a PC, Xbox and Playstation game and maybe mobile depending on its success. Its very similar to Mortal Kombat but with a God of War 3 style camera and abilities. 
 ## Team
-Gradian team members, two blender modelers, 1 character modeler, 1 environmental artist and 1 gameplay designer/programmer.
+Software Engineer. two blender modelers, 1 character modeler, 1 environmental artist and 1 gameplay designer/programmer and more depending on funding approval.
 
 ## Experience with Algorand
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
