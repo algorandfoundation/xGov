@@ -1,6 +1,7 @@
 ---
 title: MINTHOL.ART, the next-generation loyalty program and coupon platform (launchpad phase)
 author: Bertalan Miklos (@solkimicreb)
+discussions-to: https://discord.gg/473wQT6rHa
 company_name: Minthol
 category: Tools
 focus_area: NFT
@@ -74,13 +75,22 @@ Coupon managers may earn money to balance subscription fees via sponsorship and 
 Curators may launch scoped “name.minthol.art” subdomain sites with custom branding. Curated sites may limit visible collections to a theme - like photography - or a specific creator or business. Large businesses will likely be coupon managers and curators too, to fully manage their loyalty programs.
 Case Studies
 
-## Roadmap
-
 > IMPORTANT: This is a multi-phase project, this proposal requests funds to develop phase #3 Launchpad.
+
+## Present Proposal
+
+The launchpad is necessary to create and distribute new collections and requires a tighter blockchain integration. While existing collections will be supported by a wide range of blockchains, the launchpad will mint new collections on Algorand.
+
+Collection authors from outside the Algorand ecosystem will be able to manage their existing and new collections without noticing the differing underlying blockchain tech.
+
+The launchpad successfully launched the MIA NFT project and is currently under a feature flag. <a href="https://photos.app.goo.gl/jAkjEWmwne9eoPhe9">This video</a> demonstrates the currently available functionalities.
+
+## Future Blueprint
 
 ### #1 NFT Explorer (90% progress)
 
-**Date**: will be done by the time of the grant
+**Date**: 
+independent of this proposal, will be done by the time of the grant
 **Requested amount**: 0 Algos
 
 MINTHOL uses NFTs as coupons behind the scenes and aims to target the existing NFT scene on top of newly created coupons. The NFT browser functionality will be expanded to multiple chains and rebranded as a coupon, business, and interest browser while still seamlessly supporting existing NFTs.
@@ -89,7 +99,7 @@ The current state of this phase can be viewed on <a href="https://www.minthol.ar
 
 ### #2 Curated Sites (50% progress)
 
-**Date**: independent of this proposal, will be done by the time of the grant
+**Date**: independent of this proposal
 **Requested amount**: 0 Algos
 
 The main MINTHOL site will encourage everyone to create coupons and won’t censor legal content. Content curation will be handled by the community via the curator role instead. Users can become curators for a monthly fee and launch subdomain sites like the <a href="https://www.gekofam.minthol.art">gekofam.minthol.art</a>.
@@ -100,18 +110,18 @@ Curated sites provide custom themes and texts and various monetization options: 
 
 ### #3 Launchpad (70% progress)
 
-**Date**: independent of this proposal, will be done by the time of the grant
+**Date**: Depends of the time of the grant, I expect to finish this in 3 months.
 **Requested amount**: 100000 Algos
 
 The launchpad is necessary to create and distribute new collections and requires a tighter blockchain integration. While existing collections will be supported by a wide range of blockchains, the launchpad will mint new collections on Algorand.
 
 Collection authors from outside the Algorand ecosystem will be able to manage their existing and new collections without noticing the differing underlying blockchain tech.
 
-The launchpad successfully launched the MIA NFT project and is currently under a feature flag. This video demonstrates the currently available functionalities. 
+The launchpad successfully launched the MIA NFT project and is currently under a feature flag. <a href="https://photos.app.goo.gl/jAkjEWmwne9eoPhe9">This video</a> demonstrates the currently available functionalities. 
 
 ### #4 Platform Perks (40% progress)
 
-**Date**: independent of this proposal, will be done by the time of the grant
+**Date**: independent of this proposal, will be done later in a separate grant
 **Requested amount**: 0 Algos
 
 The first perks will be non-core functionalities on the MINTHOL site. Collection managers will subscribe to these perks for a monthly per-NFT fee.
@@ -120,7 +130,7 @@ Some features - like the NFT swapper - will become solely accessible for holders
 
 ### #5 Physical Perks (0% progress)
 
-**Date**: Depends of the time of the grant, I expect to finish this in 3 months.
+**Date**: independent of this proposal, will be done later in a separate grant
 **Requested amount**: 0 Algos
 
 Physical perks will be implemented via ownership verification QR codes and NFC technology. Business owners can scan users’ QR codes or read their NFC chips to verify and apply the eligible perks. The whole process is handled inside the MINTHOL app for both the user and the business owner.
