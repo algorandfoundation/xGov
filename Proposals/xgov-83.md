@@ -1,5 +1,5 @@
 ---
-id: <proposal number (same as PR)>
+id: 83
 title: Algo Community Collab - 3D Game NFTs
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://discord.gg/cosmicchamps
@@ -8,7 +8,7 @@ category: Community
 focus_area: Gaming
 open_source: No
 amount_requested: 30000
-status: Draft
+status: Final
 ---
 
 ## Abstract
