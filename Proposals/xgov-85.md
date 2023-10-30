@@ -1,4 +1,5 @@
 ---
+id: 85
 title: MINTHOL.ART, the next-generation loyalty program and coupon platform (launchpad phase)
 author: Bertalan Miklos (@solkimicreb)
 discussions-to: https://discord.gg/473wQT6rHa
@@ -38,43 +39,6 @@ So far I:
 - Created a general NFT explorer, showcasing around 3800 Algorand NFT projects and countless NFD and user profiles
 - I have a clear plan to generalize and unify these building blocks into a single coherent product - detailed in this document.
 
-## Keywords
-
-### Perk
-
-A perk is a benefit a business is willing to provide to coupon owners. Some examples are shop discounts, online game boosts, closed chat access, or recurring donations to charities.
-
-Businesses may provide perks for free - as a marketing or charitable effort - or charge a recurring per-coupon fee for it.
-
-### Coupon
-
-Coupons are NFTs with perks. MINTHOL will hide blockchain usage as a tech detail but will seamlessly work with existing NFTs.
-
-Coupons inherit all added benefits of NFTs. They may be tradeable and programmable, and they may showcase custom art and traits.
-End-User
-End-users are coupon owners. They can discover, purchase, and use coupons. Coupon ownership is verified via QR codes and NFC technology for real-world cases and a public API for online cases.
-
-End-users may freely trade coupons among themselves.
-
-### Business Owner
-Business owners may provide discounts and benefits as perks. They can stop here or become coupon managers and curators too, to fully manage their loyalty programs.
-
-Business owners may charge a monthly fee for their perks to generate predictable income. Alternatively, they may provide free perks as a marketing effort.
-
-### Coupon Manager
-
-Coupon managers may subscribe existing or newly created collections to perks. They may pick multiple perks from a range of businesses for a single collection. Two interesting strategies would be thematic and geo-localized coupons.
-
-Thematic coupons include perks from multiple businesses with a single theme. A coffee-related coupon collection could provide discounts to multiple cafes and online coffee shops around the world.
-Geo-localized coupons provide multiple perks in a single neighborhood to help residents save money.
-
-Coupon managers may earn money to balance subscription fees via sponsorship and subscription programs, ads, royalties, and new coupon sales. Coupon managers and business owners are not exclusive. A business may launch its own coupons to create a more traditional loyalty program.
-
-### Curator
-
-Curators may launch scoped “name.minthol.art” subdomain sites with custom branding. Curated sites may limit visible collections to a theme - like photography - or a specific creator or business. Large businesses will likely be coupon managers and curators too, to fully manage their loyalty programs.
-Case Studies
-
 > IMPORTANT: This is a multi-phase project, this proposal requests funds to develop phase #3 Launchpad.
 
 ## Present Proposal
@@ -86,6 +50,43 @@ Collection authors from outside the Algorand ecosystem will be able to manage th
 The launchpad successfully launched the MIA NFT project and is currently under a feature flag. <a href="https://photos.app.goo.gl/jAkjEWmwne9eoPhe9">This video</a> demonstrates the currently available functionalities.
 
 ## Future Blueprint
+
+### Keywords
+
+#### Perk
+
+A perk is a benefit a business is willing to provide to coupon owners. Some examples are shop discounts, online game boosts, closed chat access, or recurring donations to charities.
+
+Businesses may provide perks for free - as a marketing or charitable effort - or charge a recurring per-coupon fee for it.
+
+#### Coupon
+
+Coupons are NFTs with perks. MINTHOL will hide blockchain usage as a tech detail but will seamlessly work with existing NFTs.
+
+Coupons inherit all added benefits of NFTs. They may be tradeable and programmable, and they may showcase custom art and traits.
+End-User
+End-users are coupon owners. They can discover, purchase, and use coupons. Coupon ownership is verified via QR codes and NFC technology for real-world cases and a public API for online cases.
+
+End-users may freely trade coupons among themselves.
+
+#### Business Owner
+Business owners may provide discounts and benefits as perks. They can stop here or become coupon managers and curators too, to fully manage their loyalty programs.
+
+Business owners may charge a monthly fee for their perks to generate predictable income. Alternatively, they may provide free perks as a marketing effort.
+
+#### Coupon Manager
+
+Coupon managers may subscribe existing or newly created collections to perks. They may pick multiple perks from a range of businesses for a single collection. Two interesting strategies would be thematic and geo-localized coupons.
+
+Thematic coupons include perks from multiple businesses with a single theme. A coffee-related coupon collection could provide discounts to multiple cafes and online coffee shops around the world.
+Geo-localized coupons provide multiple perks in a single neighborhood to help residents save money.
+
+Coupon managers may earn money to balance subscription fees via sponsorship and subscription programs, ads, royalties, and new coupon sales. Coupon managers and business owners are not exclusive. A business may launch its own coupons to create a more traditional loyalty program.
+
+#### Curator
+
+Curators may launch scoped “name.minthol.art” subdomain sites with custom branding. Curated sites may limit visible collections to a theme - like photography - or a specific creator or business. Large businesses will likely be coupon managers and curators too, to fully manage their loyalty programs.
+Case Studies
 
 ### #1 NFT Explorer (90% progress)
 
