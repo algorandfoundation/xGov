@@ -27,6 +27,8 @@ He was also speaker at ETH Denver, Prague BeerFi event, and speaker at Wroclaw A
 ## Present Proposal
 We will build smart contract which will give to the voter's of this proposal the right to select the token which they want to support. After the end of the xGov session, we will create a smart contract where you as voter for this proposal can choose your token which you want to support. The smart contract will buy this token in Algorand DeFi. 30% of collected money will go to development of this smart contract, and rest will be deposited to the smart contract. Each expert algorand governor who voted for this proposal  will controll their portion of the vote.
 
+We will not allow fraundlent users to get use these rewards. Before we submit to smart contract list of users and their respectful balances, we will compare the recipient with the list of fraudlent addresses created from for example my algo or tinyman hacks.
+
 ## Benefits for the community
 
 - Expert governors will support algorand's tokens
