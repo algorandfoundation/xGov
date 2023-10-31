@@ -6,7 +6,7 @@ discussions-to: https://forum.algorand.org/t/xgov-53-recurrent-payments-contract
 company_name: Akita
 category: dApps
 focus_area: Defi
-open_source: No
+open_source: Yes
 amount_requested: 300000
 status: Final
 ---
