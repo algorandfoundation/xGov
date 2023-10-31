@@ -39,7 +39,7 @@ I will build Bonfire, a web app that implements a user interface for <a href="ht
 The project will be completed in Q1 2024.  
 
 ## Benefits for the community
-ARC-54 and a user interface to burn ASAs will help the community by enabling tokens to be easily, permissionlessly, permanently, and verifiably burned.  By standardizing how ASAs are burned in the ecosystem, the burning address can be known to defi sites like DefiLlama that track circulating supply metrics and exclude tokens burned there.  Projects which want to burn tokens to reduce their supply can use the ARC-54 burning approach to avoid any doubts about how or where the tokens were burned.
+ARC-54 and a user interface to burn ASAs will help the community by enabling tokens to be easily, permissionlessly, permanently, and verifiably burned.  By standardizing how ASAs are burned in the ecosystem, the known burning address can allow block explorers and defi research sites like DefiLlama to exclude tokens burned there from circulating supply metrics.  Projects which want to burn tokens to reduce their supply can use the ARC-54 burning approach to avoid any doubts about how or where the tokens were burned.  Note that other token burning tools have been created (and abandoned) over the years, but there is currently no solution with a user interface or that can meet the specifications of ARC-54.  
 
 ## Additional information
 For fun, I will aim to light the Bonfire on February 7th as a poetic nod to the "Bonfire of the Vanities" on 7 February 1497, when supporters of the Dominican friar Girolamo Savonarola collected and burned thousands of objects such as cosmetics, art, and books in the public square of Florence, Italy, on the occasion of Shrove Tuesday, martedí grasso.
