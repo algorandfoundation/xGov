@@ -23,7 +23,7 @@ Brian Whippo is a self-taught, full-stack software developer passionate about br
 ## Experience with Algorand
 Brian has been an active developer and contributor in the Algorand community since 2021 in various capacities:
 
-- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating several wallets into a web site, a project funded by xGov #49
+- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating several wallets into a web site, a project funded by [xGov-49](xgov-49.md)
 - Created the open source <a href="https://xgov-viewer.netlify.app">xGov Viewer</a> app for reviewing xGov proposals and analyzing proposal voting data
 - Completed the Encode x Algorand Bootcamp and won a 3rd place prize in the 2022 Encode x Algorand Hackathon
 - Collaborated with Joe Polny (@joe-polny) from Algorand Foundation to draft the ARC-12 standard for "claimable" assets.  Notably, this xGov proposal seeks to address one use case which we had intended to be solved by ARC-12.
