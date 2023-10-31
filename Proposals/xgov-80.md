@@ -12,6 +12,8 @@ status: Final
 ---
 
 ## Abstract
+We will improve Algorand's DeFi ecosystem and with concentrated liquidity AMM we will give users better swap quotes and liquidity providers better yields in comparision with using traditional AMMs.
+
 This grant proposal aims to advance the development and open source implementation of Automated Market Makers (AMMs) with concentrated liquidity. AMMs have emerged as a crucial component of decentralized finance (DeFi), providing efficient and decentralized mechanisms for trading digital assets. However, traditional AMMs suffer from certain limitations, such as inefficient capital utilization and vulnerability to impermanent loss.
 
 Concentrated liquidity models address these issues by allowing liquidity providers (LPs) to concentrate their funds within specific price ranges, thereby enhancing capital efficiency and reducing the risk of impermanent loss. This proposal seeks funding to support research, development, and implementation efforts focused on creating open source algorand AMM smart contract.
@@ -56,8 +58,24 @@ Amount: 200000 ALGO
 Date: T + 6 months
 Amount: 200000 ALGO
 
+#### Milestone 4 - Audits (not in scope of current grant round)
+
+Date: T + 18 months
+Amount: TBE
+
 Description: We will deliver smart contract and web with abilities to open new lp pool with concentrated liquidity, do swaps and manage the liqudity
 
+### Community
+
+Please join our discord at https://discord.com/invite/Z3yQkU3kbT
+
+### White Paper
+
+https://cloudflare-ipfs.com/ipfs/QmagzMhx2dqgAH9YePwx2UhgnMdvNG3whauLZriUunufTH
+
+### Video presentation
+
+https://www.youtube.com/watch?v=wqZYZzO059M
 
 ## Benefits for the community
 The Algorand community stands to benefit significantly from the development and implementation of an open-source Automated Market Maker (AMM) with concentrated liquidity. Here are some key benefits that such a project can bring to the Algorand ecosystem:
