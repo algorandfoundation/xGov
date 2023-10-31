@@ -25,22 +25,22 @@ Brian Whippo is a self-taught, full-stack software developer passionate about br
 ## Experience with Algorand
 Brian has been an active developer and contributor in the Algorand community since 2021 in various capacities:
 
-- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating several wallets into a web site, a project funded by xGov #49
+- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating several wallets into a web site, a project funded by [xGov-49](xgov-49.md)
 - Created the open source <a href="https://xgov-viewer.netlify.app">xGov Viewer</a> app for reviewing xGov proposals and analyzing proposal voting data
 - Completed the Encode x Algorand Bootcamp and won a 3rd place prize in the 2022 Encode x Algorand Hackathon
 - Runs two participation nodes in Algorand consensus
 
 ## Present Proposal
-The app will be deployed for hands-on user testing and feedback in a non-production environmentin Q1 2024.  The smart contract will be developed alongside an automated unit testing suite and deployed to Algorand TestNet for users to experience through a web-based interface accompanied by a knowledge portal to build understanding of escrow, Alright, and how to use it for remote purchases.  
+The app will be deployed for hands-on user testing and feedback in a non-production environmentin Q1 2024.  The smart contract will be developed alongside an automated unit testing suite and deployed to Algorand TestNet for users to experience through a web-based interface accompanied by a knowledge portal to build understanding of escrow, Alright, and how to use it for remote purchases.  The smart contract will be open source.
 
 ## Future Blueprint
-#### Launch on MainNet 
+### Launch on MainNet 
 Launch the app for people to use in a real money environment in Q2 2024.  Following completion of thorough testing, the smart contract will be deployed to Algorand MainNet for people to agree real deals through a stable web application interface.
 
-#### Cross-Chain Capabilities
+### Cross-Chain Capabilities
 Enable people to deal with more trading partners by enabling cross-chain transfer capabilities via the Wormhole protocol in 2H 2024.
 
-#### Adjust Product-Market Fit 
+### Adjust Product-Market Fit 
 This phase of the project from 2025 will focus on gathering feedback from deal-makers and refining the user experience in preparation to scale.  Provide users with seamless on-boarding, fiat on- and off-ramping, and wrap-around services integrated with DeFi, social channels, and other software.  Build out a legal framework to allow Alright to succeed in relevant uses case contexts and jurisdictions.  
 
 ## Benefits for the community
