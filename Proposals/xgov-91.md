@@ -1,13 +1,13 @@
 ---
 id: 91
-title: Algorand Tokenomics Support 600K
+title: Algorand Tokenomics Support 300K
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/91
 company_name: Scholtz & Co
 category: Tools
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 600000
+amount_requested: 300000
 status: Final
 ---
 
