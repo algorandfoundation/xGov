@@ -12,7 +12,7 @@ status: Final
 ---
 
 ## Abstract
-Burn ASAs by throwing them into the Bonfire--a standard, permissionless, and verifiable way to take ASAs out of circulation forever by implementing standard ARC-54: ASA Burning App.
+Burn ASAs by throwing them into the Bonfire--a standard, permissionless, and verifiable way to take ASAs out of circulation forever by implementing an interface for ARC-54: ASA Burning App.
 
 ## Team
 Brian Whippo is a self-taught, full-stack software developer passionate about bringing the promises of blockchain to the people.  When he is not trying to build a better world with the Algofam, he is leading strategic technology transformation at a top financial institution, where he has been designing better ways to manage derivatives and commodities for over 14 years.  
