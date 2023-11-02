@@ -7,7 +7,7 @@ company_name: Scholtz & Co
 category: dApps
 focus_area: Defi
 open_source: Yes
-amount_requested: 500000
+amount_requested: 300000
 status: Final
 ---
 
