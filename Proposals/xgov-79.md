@@ -7,7 +7,7 @@ company_name: Scholtz & Company, jsa
 category: Community
 focus_area: Deployment
 open_source: Yes
-amount_requested: 150000
+amount_requested: 120000
 status: Final
 ---
 
