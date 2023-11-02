@@ -7,7 +7,7 @@ company_name: Scholtz & Co
 category: Tools
 focus_area: Libraries
 open_source: Yes
-amount_requested: 200000
+amount_requested: 100000
 status: Final
 ---
 
