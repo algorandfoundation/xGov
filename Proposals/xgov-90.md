@@ -7,7 +7,7 @@ company_name: Scholtz & Co
 category: Tools
 focus_area: Banking
 open_source: Yes
-amount_requested: 100000
+amount_requested: 60000
 status: Final
 ---
 
