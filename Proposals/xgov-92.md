@@ -73,8 +73,8 @@ The example of the use case for foundation purposes, which describes how Algoran
 ## Additional information
 Currently, our product is on Testnet. DAOsign already allows users to store proofs of signature in the IPFS, Ethereum launch is planned in the nearest time. Also, recently, we received grants from SUI and Polkadot, so DAOsign users will be able to use these blockchains for proofs storing purposes soon as well. Our team is working on expanding the number of use cases (we would be happy to tell you more about that during the call, if appropriate). Furthermore, recently we signed our first commercial project with a logistics grain company.
 
-- [Website](https://daosign.org/)
+- Website: https://daosign.org/
 
-- [Twitter](https://twitter.com/dao_sign)
+- Twitter: https://twitter.com/dao_sign
 
-- [LinkedIn](https://www.linkedin.com/company/daosign)
+- LinkedIn: https://www.linkedin.com/company/daosign
