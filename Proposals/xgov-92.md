@@ -1,7 +1,7 @@
 ---
 id: 92
-title: DAOsign Platform
-author: Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Misha Kushka, Oleksandra Burmenska <sandra@daosign.org>
+title: DAOsign
+author: Eugene Fine (@ConsiderItDone) <eugene@daosign.org>, Ramil Amerzyanov (@ramilexe), Misha Kushka (@kushkamisha), Oleksandra Burmenska (@Burmenska) <sandra@daosign.org>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/92
 company_name: DAOsign
 category: Tools
@@ -78,3 +78,5 @@ Currently, our product is on Testnet. DAOsign already allows users to store proo
 - Twitter: https://twitter.com/dao_sign
 
 - LinkedIn: https://www.linkedin.com/company/daosign
+
+- Testnet: https://testnet.daosign.org/
