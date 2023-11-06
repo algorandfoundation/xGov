@@ -1,10 +1,10 @@
 ---
-id: 1
-title: Amado Warlord 
-author: Goldstone
-discussions-to: <Indicating the URL where the proposal is being discussed>
+id: 73
+title: Amado Warlord
+author: Goldstone (@delani17)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/73
 company_name: Goldstone
-category: Dapps
+category: dApps
 focus_area: Gaming
 open_source: Yes
 amount_requested: 200000
