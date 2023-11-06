@@ -29,7 +29,7 @@ This open-source browser "match-2/memory" game will be available for use to anyo
 It is a fun way to ENGAGE a community and to SHOWCASE an NFT collection or a collection of NFTs from different projects. It also adds additional UTILITY to any NFT collection as it allows projects to host competitions with their NFT collections, run promotional giveaways, or just to flex their superior art in specific collections. It’s also open-sourced anyone will be able to deploy their own version with the customizations they require. 
 
 ## Additional information
-Play our game here: [https://beta.cosmicchamps.com/](https://beta.cosmicchamps.com/)
-NFT browser + 3d view: [https://nft.cosmicchamps.com/](https://nft.cosmicchamps.com/)
-Browse game characters: [https://cards.cosmicchamps.com/](https://cards.cosmicchamps.com/)
-Coorporate page: [https://cosmicchamps.com/](https://cosmicchamps.com/)
+Play our game here: <a href="https://beta.cosmicchamps.com/">https://beta.cosmicchamps.com/</a>
+NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/">https://nft.cosmicchamps.com/</a>
+Browse game characters: <a href="https://cards.cosmicchamps.com/">https://cards.cosmicchamps.com/</a>
+Coorporate page: <a href="https://cosmicchamps.com/">https://cosmicchamps.com/</a>
