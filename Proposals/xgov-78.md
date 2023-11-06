@@ -5,7 +5,7 @@ author: Joseph Glenn (@loafpickleWW)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/78
 company_name: Thurstober Digital Studios, LLC.
 category: Tools
-focus_area: Onboarding, NFT, Wallet, Tooling
+focus_area: Wallet
 open_source: Yes
 amount_requested: 15000
 status: Final
