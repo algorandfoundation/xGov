@@ -1,6 +1,5 @@
 ---
 id: 55
-period: 1
 title: GoPlausible Multi-Chain milestone
 author: MG (@emg110), Sheghzo (@sheghzo)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/55
@@ -30,7 +29,7 @@ Being focused on Algorand since 2020 gave the team members a good track record o
 
 Open source tools, bridge projects, pioneering tech features, direct contributions in code bases. plus collaboration with many ecosystem projects and contributors are all among the GoPlausible team's experience and journey with Algorand so far!
 
-## Current proposal
+## Present Proposal
 This milestone-based roadmap has 2 phases, both covered with the requested amount:
 
 ### Phase 1
