@@ -13,6 +13,8 @@ status: Final
 
 ## Abstract
 Many of the Algorand projects heavily rely on Discord for interaction between creators and community. Common feature most of the projects require is assigning user discord roles and giveaways based on NFTs held in their associated wallets. There is no reliable and customizable discord bot that projects can simply use. We are here to fix this!
+
+## Team
 https://cosmicchamps.com/#team
 
 ## Experience with Algorand
@@ -28,7 +30,7 @@ There is a lot of potential to extend this bot for more fine-grained control ove
 ## Benefits for the community
 New and existing proejcts can easily integrate the bot and instantly have more utility for their NFT collection or their token without needing to spend time and resources developing it in-house or trying to get an existing discord bot to integrate their token/collection and customize it for their needs.
 ## Additional information
-Play our game here: [https://beta.cosmicchamps.com/](https://beta.cosmicchamps.com/)
-NFT browser + 3d view: [https://nft.cosmicchamps.com/](https://nft.cosmicchamps.com/)
-Browse game characters: [https://cards.cosmicchamps.com/](https://cards.cosmicchamps.com/)
-Coorporate page: [https://cosmicchamps.com/](https://cosmicchamps.com/)
+Play our game here: <a href="https://beta.cosmicchamps.com/">https://beta.cosmicchamps.com/</a>
+NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/">https://nft.cosmicchamps.com/</a>
+Browse game characters: <a href="https://cards.cosmicchamps.com/">https://cards.cosmicchamps.com/</a>
+Coorporate page: <a href="https://cosmicchamps.com/">https://cosmicchamps.com/</a>
