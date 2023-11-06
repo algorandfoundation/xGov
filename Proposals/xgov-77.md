@@ -5,7 +5,7 @@ author: bykewel (@algovado)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/77
 company_name: AlgoVerify
 category: Tools
-focus_area: NFT, Authentication, Deployment
+focus_area: Other
 open_source: Yes
 amount_requested: 40000
 status: Final
@@ -28,7 +28,7 @@ I have been in the Algorand space since May 2020 and actively developing since J
 
 Developed a lot projects like <a href="https://algocodexnft.com">Codex</a> (NFT project), Discord bots (sale&listing, verification, game) and websites (eg. <a href="evil-tools.thurstober.com">Evil Tools</a>, <a href="https://mentalmarvin.art">Mental Marvin</a>) on Algorand. You can check my some projects <a href="https://github.com/algovado/Algorand-Community-Portfolio">here</a>.
 
-Also I received a grant from [previous xGov](https://github.com/algorandfoundation/xGov/pull/8/files) and came second in the AlgoHouse NFTNYC2023 event with the Evil Tools project with Thurstober Studios.
+Also I received a grant from <a href="https://github.com/algorandfoundation/xGov/pull/8/files">previous xGov</a> and came second in the AlgoHouse NFTNYC2023 event with the Evil Tools project with Thurstober Studios.
 
 ## Present Proposal
 I plan to update the AlgoVerify project and release an open source version.
