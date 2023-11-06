@@ -13,7 +13,7 @@ status: Final
 
 ## Abstract
 Gaming and tournament play is a powerful vehicle for attracting new users. A free entry tournament with BIG prize pool allows us to promote to and attract users from wider crypto ecosystem as well as more conventional gaming audience.
-Our game requires algorand wallet, so each new participant from these communities will directly translate into a new Algorand user. We've hosted multiple tournaments in the past with very positive results you can read a detailed report here: [https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713](https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713)
+Our game requires algorand wallet, so each new participant from these communities will directly translate into a new Algorand user. We've hosted multiple tournaments in the past with very positive results you can read a detailed report here: <a href="https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713">https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713</a>
 
 ## Team
 https://cosmicchamps.com/#team
@@ -28,7 +28,7 @@ We will promote the tournament through our broader network of partners and will 
 
 We are building a real-time, tower defence, web3, mobile game that has a fun and exciting user experience. The game is currently accessible on Android and iOS devices via a mobile app and PC via a web browser.
 
-We've hosted multiple tournaments in the past with very positive results you can read a detailed report on our very first tournament here: [https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713](https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713)
+We've hosted multiple tournaments in the past with very positive results you can read a detailed report on our very first tournament here: <a href="https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713">https://medium.com/cosmic-champs/tournament-wrap-up-d1b5d8ff8713</a>
 
 ## Future Blueprint
 -
@@ -37,7 +37,7 @@ We've hosted multiple tournaments in the past with very positive results you can
 We will attract new users to the Algorand ecosystem who will all be set-up with an Algorand wallet, making them ready to start exploring the ecosystem.
 
 ## Additional information
-Play our game here: [https://beta.cosmicchamps.com/](https://beta.cosmicchamps.com/)
-NFT browser + 3d view: [https://nft.cosmicchamps.com/](https://nft.cosmicchamps.com/)
-Browse game characters: [https://cards.cosmicchamps.com/](https://cards.cosmicchamps.com/)
-Coorporate page: [https://cosmicchamps.com/](https://cosmicchamps.com/)
+Play our game here: <a href="https://beta.cosmicchamps.com/">https://beta.cosmicchamps.com/</a>
+NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/">https://nft.cosmicchamps.com/</a>
+Browse game characters: <a href="https://cards.cosmicchamps.com/">https://cards.cosmicchamps.com/</a>
+Coorporate page: <a href="https://cosmicchamps.com/">https://cosmicchamps.com/</a>
