@@ -1,6 +1,6 @@
 ---
 id: 98
-title: SmartContract Audits and Compliance/License completion
+title: Launch of Nimblr - Audits, Licensing, & GO LIVE!
 author: Adam Hofmann (ahrevival) 
 discussions-to: 
 company_name: Nimblr
@@ -12,8 +12,9 @@ status: Draft
 ---
 
 ## Abstract
-Nimblr is a pioneering decentralized insurance platform seeking support form the xgov program to enhance the integratity and functionality of our system. Leveraging Algorand's
-speed, security, and efficiency, Nimblr's aim is to change the insurance industry by seamlessly integrating insurance professionals, carriers, capital providers, 
+This is the FINAL STEP in getting Nimblr Insurance to mainnet on Algorand.
+
+Nimblr is a pioneering decentralized insurance platform seeking support form the xgov program to enhance the integratity and functionality of our system. Leveraging Algorand's speed, security, and efficiency, Nimblr's aim is to change the insurance industry by seamlessly integrating insurance professionals, carriers, capital providers, 
 and insureds. The grant proposal focuses on three critical areas: funding comprehensive smart contract audits, covering regulatory license fees and costs, and supporting
 launch roadmap expenses. 
 
