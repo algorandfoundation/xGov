@@ -46,13 +46,5 @@ Based on community feedback, future proposals will focus on:
 - **Practical Learning:** Offers hands-on experience through guided tutorials.
 - **Innovation Stimulus:** Encourages the creation of new, blockchain-integrated projects.
 
-## Contact and Follow-up
-For further inquiries or to track the progress of this project, please contact Costa Leo at atsoc1993@gmail.com or via GitHub @atsoc1993.
-
 ---
 
-**Costa Leo**
-Email: atsoc1993@gmail.com
-GitHub: [@atsoc1993](https://github.com/atsoc1993)
-
----
