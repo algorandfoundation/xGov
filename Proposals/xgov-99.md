@@ -4,13 +4,14 @@ title: Algorand-Based Discord Bot Lecture Series and Open-Sourcing
 author: 
   - Name: Costa Leo
   - Email: atsoc1993@gmail.com
-  - GitHub: @atsoc1993
+  - GitHub: "@atsoc1993"
 category: Education, Tools
 focus_area: Blockchain Utility for Project Discords
 open_source: Yes
 amount_requested: 75000
 status: Draft
 ---
+
 
 
 ## Abstract
