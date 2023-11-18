@@ -1,13 +1,17 @@
 ---
 id: 99
 title: Algorand-Based Discord Bot Lecture Series and Open-Sourcing
-author: Costa Leo, atsoc1993@gmail.com | GitHub: @atsoc1993
+author: 
+  - Name: Costa Leo
+  - Email: atsoc1993@gmail.com
+  - GitHub: @atsoc1993
 category: Education, Tools
 focus_area: Blockchain Utility for Project Discords
 open_source: Yes
 amount_requested: 75000
 status: Draft
 ---
+
 
 ## Abstract
 This proposal outlines a comprehensive educational initiative aimed at empowering new developers in the blockchain space, particularly within the Algorand ecosystem. The project centers on a 10-part YouTube series dedicated to developing Discord bots, a common entry point for many aspiring blockchain developers. The series will be complemented by open-sourcing all related code, thus providing a valuable resource for practical learning and innovation in the community.
