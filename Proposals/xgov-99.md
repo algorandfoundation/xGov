@@ -31,7 +31,7 @@ The intersection of blockchain technology and Discord bot development presents a
 ## Detailed Proposal
 **Series Outline:**
 1. **Episide 1: Basic Setup:** Discord bot token generation, Algorand node setup, Python/Pip installation, module installations (AlgoSDK, aiohttp, Discord.py), and setting up Visual Studio Code and Ubuntu terminals on Windows.
-2. **Episodes 2 - 10. Advanced Techniques and Applications:** Detailed tutorials on wallet syncing, node connectivity, presenting ASA balance and metadata, converting in-game data to ASAs, interactive game development, and more.
+2. **Episodes 2 - 10: Advanced Techniques and Applications:** Detailed tutorials on wallet syncing, node connectivity, presenting ASA balance and metadata, converting in-game data to ASAs, interactive game development, and more.
 
 **Timeline:**
 - The series will be released bi-weekly over the course of 20 weeks, ensuring ample time for community feedback and iteration.
