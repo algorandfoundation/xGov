@@ -21,7 +21,7 @@ This proposal outlines a comprehensive educational initiative aimed at empowerin
 The intersection of blockchain technology and Discord bot development presents a unique opportunity for aspiring developers. However, the lack of open-source resources and comprehensive guides has created a barrier to entry. This initiative seeks to address this gap by leveraging the Algorand blockchain's capabilities.
 
 ## Author’s Credentials
-- **Name:** Costa, Leo CPhT-Adv
+- **Name:** Leo Costa, CPhT-Adv
 - **Experience:**
   - Two years of development experience on the Algorand blockchain.
   - Created and assisted in developing multiple Discord bots
