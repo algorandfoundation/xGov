@@ -1,5 +1,5 @@
 ---
-id: x
+id: 99
 title: Algorand-Based Discord Bot Lecture Series and Open-Sourcing
 author: Costa Leo, atsoc1993@gmail.com | GitHub: @atsoc1993
 category: Education, Tools
