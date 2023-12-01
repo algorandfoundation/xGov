@@ -2,7 +2,7 @@
 id: 101
 title: Visual Studio Code Extension for TEAL
 author: Marcin Zawiejski (@dragmz)
-discussions-to: TBA
+discussions-to: https://github.com/algorandfoundation/xGov/pull/101
 company_name: return4
 category: Tools
 focus_area: Teal
