@@ -2,7 +2,7 @@
 id: 100
 title: GPU-based vanity address generator for Algorand
 author: Marcin Zawiejski (dragmz)
-discussions-to: TBA
+discussions-to: https://github.com/algorandfoundation/xGov/pull/100
 company_name: return4
 category: Tools
 focus_area: Other
