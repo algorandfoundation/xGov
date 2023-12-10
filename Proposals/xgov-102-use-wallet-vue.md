@@ -35,7 +35,6 @@ Build the library and publish an NPM package.
 Developers using Vue.js framework will find it easier to build faster UI for algorand. More UI developers attracted to the ecosystem.
 
 ## Additional information
-## Additional information
 Twitter: https://twitter.com/notiboyproject <br>
 Discord: discord.gg/GdJyPP598W <br>
 Medium: https://medium.com/@Notiboy
