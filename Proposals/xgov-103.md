@@ -3,11 +3,11 @@ id: 103
 title: Neighborhood Vehicle Share Tokenization
 author: William Hinkle <williamhinkle232@gmail.com>
 discussions-to: none
-company_name: none
+company_name: LIVSHARE -proposed-
 category: Community
 focus_area: Deployment
 open_source: No
-amount_requested: 75000
+amount_requested: 250000
 status: Draft
 ---
 
@@ -28,7 +28,6 @@ Our development team envisions raising the standard of living for millions acros
 
 ## Future Blueprint
 The project aims to raise upwards of $5 million through the fair presale of up to 65% of the total token supply with 30% reserved for community initiatives and staking rewards.  
-This will encourage the community to start staking the ASA tokens as soon as possible, adding to token stability. 
 The funds raised will be used to provide research and development (coding/programming intensive) with operational expenses -aside from marketing- not to exceed 5% of the total funds raised during the first year.  
 After the first year of operation, the development team can only spend a maximum of 10% annually from the post-market treasury funds only. 
 This assures investors that no rug-pulls can be carried out with respect to the project.  
@@ -38,7 +37,7 @@ The initial token price will begin at the price of $0.001 USDC or USDT and incre
 The entire balance of requested ALGOs are immediately payable back to the Foundation having provided them upon expiration of the token presale - with a break-even point of 25,000 investors worldwide (each pays 10 to get in).
 
 ## Benefits for the community
-This is a perfect trial use case for the burgeoning technology. This project will increase daily transaction throughput, accelerate the deflationary mechanism inherent in the ALGO, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.
+This is a perfect trial use case for the burgeoning technology. WEB3 dapps. This project will increase daily transaction throughput, accelerate the deflationary mechanism inherent in the ALGO, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.
 
 ## Additional information
-The timing for this project is perfect given Bitcoin's impending upward leg.
+The timing for this project is perfect. Divine inspiration at play here Algonauts! A slashing mechanism will be in place to punish end-users who behave dishonestly.
