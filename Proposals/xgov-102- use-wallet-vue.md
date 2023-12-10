@@ -1,4 +1,4 @@
-id: 94
+id: 102
 title: Use Wallet Library for vue.js 
 author:AP (@Vidhyanandcs) 
 discussions-to: <Indicating the URL where the proposal is being discussed>
