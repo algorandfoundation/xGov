@@ -15,7 +15,7 @@ status: Draft
 We plan to build a wallet aggregator library for vue.js which will help UI developers building on algorand to make wallet integration to applications much more easier.
 
 ## Team
-AP - CEO. I have 7 years of experience in sales and marketing  multiple MNCs in India. I have been an active member in the Algorand community since August 2021 and is involved with Notiboy project.
+AP - CEO. I have 7 years of experience in sales and marketing for multiple MNCs in India. I have been an active member in the Algorand community since August 2021 and is involved with Notiboy project.
 
 Deepak -CTO. Deepak has a Masters in computer science and has worked in product design & development for leading payment companies in the world. He is well versed in the Algorand smart contracts and SDKs and has been leading the design and development of Notiboy project.
 
