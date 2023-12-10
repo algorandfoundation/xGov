@@ -1,13 +1,13 @@
 ---
 id: 102
 title: Use Wallet Library for vue.js 
-author:AP (@Vidhyanandcs) 
+author: AP(@Vidhyanandcs) 
 discussions-to: https://forum.algorand.org/
 company_name: Securecerts Technologies
 category: Tools
 focus_area: Libraries
 open_source: Yes
-amount_requested: TBD
+amount_requested: 50000
 status: Draft
 ---
 
