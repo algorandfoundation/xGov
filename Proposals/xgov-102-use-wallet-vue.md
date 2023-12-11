@@ -1,7 +1,7 @@
 ---
 id: 102
-title: Use Wallet Library for vue.js 
-author: AP <vidhyanand@notiboy.com>
+title: Use wallet vue
+author: AP (@Vidhyanandcs)
 discussions-to: https://forum.algorand.org/
 company_name: Securecerts Technologies
 category: Tools
