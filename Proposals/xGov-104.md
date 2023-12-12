@@ -24,7 +24,8 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Present Proposal
-In web3 an identity is represented by an address rather than a username or password. When a web3 entity try to communicate with other entities using web2 social media platforms, they find it difficult because of this difference in identity. We at notiboy are building applications that will make communication more effective for algofam. Our notification service helps the web3 projects to effectively communicate with end-user addresses. As a next step, we would like to build a web3 specific chat application that will facilitate address-to-address communication. This application will be integrated into our web and mobile apps. APIs will be made available that can be integrated by the web3 projects to provide a in-app chat experience for their end-users. This will have address to address chat feature, group chat feature which helps in development of web3 communities. The users will also be able to swap/transfer assets while chatting which adds to convenience of web3 ecosystem on Algorand. 
+In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. Also this will help them to maintain 
+privacy. We will implement end to end encryption for better safety. NFDomains will be integrated for better user experience while chatting.
 
 ## Future Blueprint
 
@@ -48,7 +49,7 @@ Description:
     - Integrate NFDomains for better chat experience.
 
 ### Milestone 3: Transfer of assets on chat
-Time taken: 2 months
+Time taken: 1 months
 
 Amount: 50000
 
