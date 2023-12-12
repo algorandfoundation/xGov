@@ -24,19 +24,12 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Present Proposal
-In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. Also this will help them to maintain 
-privacy. We will implement end to end encryption for better safety. NFDomains will be integrated for better user experience while chatting.
+In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. 
+Also this will help them to maintain privacy. 
+We will implement end to end encryption for better safety. 
+NFDomains will be integrated for better user experience while chatting.
 
 ## Future Blueprint
-
-### Milestone 1: Build Chat Application.
-Time Taken : 3 months
-
-Amount: 30000
-
-Description:
-    - We intend to build a basic address-to-address chat application and integrate it into our current application.
-    - Featutrs include 1) Ping an address to start a chat 2) Start chat on approval from the pinged address. 
 
 ### Milestone 2: Build a Group chat feature
 Time Taken: 2 months
