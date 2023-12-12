@@ -2,8 +2,8 @@
 
 id: 105  
 title: "Cheaper USDC Onramp/Offramp for US Algorand Users" 
-author: pescennius (pescenius.algo.xyz) 
-discussions-to: <https://github.com/algorandfoundation/xGov/pull/105>
+author: pescennius ([pescenius.algo.xyz](https://pescenius.algo.xyz))
+discussions-to: https://github.com/algorandfoundation/xGov/pull/105
 company_name: Anonymous Individual
 category: Liquidity
 focus_area: Accessibility
