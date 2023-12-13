@@ -7,7 +7,7 @@ company_name: LIVSHARE
 category: Community
 focus_area: Deployment
 open_source: No
-amount_requested: 125000
+amount_requested: 175000
 status: Draft
 ---
 
@@ -18,7 +18,7 @@ This project aims to transform vehicle rental/operation for members of society w
 Managing Partner: B.A. of Business Administration with a degree in Business Management.  Technical Advisor: Ph. D in Computer Science and is a managing partner at the Burcamp Advisory Group in San Antonio, Texas.  Developer: unknown currently - we won't hire a fulltime developer until the expiration of the token presale.  
 
 ## Experience with Algorand
-No programming experience - are planning to contract developers for the intial necessary smart contracts.  I, the managing director, have been closely following Algorand's progress for almost 3 years now.  The technical advisor has a Ph.D in Computer Science and is a mangaing partner at the Burcamp Advisory Group in San Antonio, Texas.
+No programming experience - are planning to contract developers for the intial necessary smart contracts.  I, the managing partner, have been closely following Algorand's progress for almost 3 years now.  The technical advisor has a Ph.D in Computer Science and is a mangaing partner at the Burcamp Advisory Group in San Antonio, Texas.
 
 ## Present Proposal
 The end-user will be able to use a NFT (non-fungible token) in combination with the existing NFC technology in their smartphones as the “keys” to a vehicle.  It is assumed that governments will authorize at least one form of digital payment -either stablecoin or CBDC- in the coming age, and we want the Algorand infrastructure to be ready when it does.  This functionality is currently thought to be necessary for our project regarding the purchasing of gasoline/refilling the vehicle in our proposed operating environment.
@@ -36,7 +36,7 @@ The initial token price will begin at the price of $0.01 USD for the first milli
 
 
 ## Benefits for the community
-This is a perfect trial use case for these burgeoning technologies and WEB3 dapps.  This project will increase daily transaction throughput, accelerate the deflationary mechanism inherent in the ALGO, will be great publicity for the Algorand brand, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.  The requested Algos are needed to cover the cost of having our smart contract audited and chiefly to fund the advertising campaign to direct traffic to the presale website.  In fact, the Algorand Foundation can even maintain these Algos and use them to oversee that proccess.  Just assign a staffer maybe, cause I'm sure you all know way more about that than I do.  And maybe the $6M goal can be realized without using that entire amount.
+This is a perfect trial use case for these burgeoning technologies and WEB3 dapps.  This project will increase daily transaction throughput, accelerate the deflationary mechanism inherent in the ALGO, will be great publicity for the Algorand brand, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.  The requested Algos are needed to cover the cost of having our smart contract audited and chiefly to fund the advertising campaign to direct traffic to the presale website.  In fact, the Algorand Foundation can even maintain these Algos and use them to oversee that proccess.  Maybe assign a staffer since it can't be that complicated, and I'm sure you all know way more about that than I do.  And just maybe the $6M goal can be realized without using that entire amount especially given your existing ability to influence - should you choose to use it supporting this project.
 
 ## Additional information
 The timing for this project is perfect.  Divine inspiration at play here Algonauts!  A slashing mechanism will ultimately be in place to punish end-users who behave dishonestly.  Initial stakers will be allowed to unstake after 7 days have passed since completion of our ASA token distribution to the investors - which admittedly might contribute to some downward price action, but that potentiality can't possibly cause severe devaluation.  Final token distribution will be completed no later than 30 days after the expiration of the token presale.  The managing director will provide bi-weekly updates to the community through a designated social media account and our company's website.  
