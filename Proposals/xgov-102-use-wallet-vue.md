@@ -30,6 +30,8 @@ to integrate wallets to dApps. We would like to provide same experience for Vue.
 
 ## Future Blueprint
 Build the library and publish an NPM package.
+Support new developers usng the library.
+Maintain the library adding new features as per request.
 
 ## Benefits for the community
 Developers using Vue.js framework will find it easier to build faster UI for algorand. More UI developers attracted to the ecosystem.
