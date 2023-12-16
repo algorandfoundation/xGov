@@ -1,8 +1,8 @@
 ---
 id: 103
 title: Neighborhood Vehicle Share Tokenization
-author: William Hinkle <williamhinkle232@gmail.com>
-discussions-to: https://github.com/algorandfoundation/xGov/pull/103
+author: William Hinkle <managingpartner@vidachida.com>
+discussions-to: https://github.com/algorandfoundation/xGov/pull/103, @WILLIAMH76301 -Instagram- 
 company_name: LIVSHARE
 category: Community
 focus_area: Deployment
@@ -15,7 +15,7 @@ status: Draft
 This project aims to transform vehicle rental/operation for members of society who have not previously been able to afford such a luxury.  This is not the tokenization of assets explicitly, but a rather similar idea functionally.  This is a methodicl business plan/implementation, not some attempted moonshot coin.  The tokens are essentially stocks in the company that people have the opportunity to buy in on the ground floor. 
 
 ## Team
-Managing Partner: B.A. of Business Administration with a degree in Business Management.  Technical Advisor: Ph. D in Computer Science and is a managing partner at the Burcamp Advisory Group in San Antonio, Texas.  We will contract developers   
+Managing Partner: B.A. of Business Administration with a degree in Business Management.  I have plenty of skin in this project already.  Technical Advisor: Ph. D in Computer Science and is a managing partner at the Burcamp Advisory Group in San Antonio, Texas.  We will contract developers   
 
 ## Experience with Algorand
 No programming experience as we are contracting a developer for the intial necessary smart contract.  I, the managing partner, have been closely following Algorand's progress for almost 3 years now.  
@@ -31,11 +31,10 @@ The funds raised from this grant will be used to cover the advertising campaign 
 
 Excess capital that is raised from the presale that is not needed until Phase 3 will generate revenue by contributing to DeFi ecosystem liquidity pools.  As long as the Algorand Foundation can assure there are no rull-pulls in that environment, and no inscrupulous behavior on the part of Pera or Defly - our company is guaranteed to positively contribute to Algorand's ecosystem.  The smart contract will contain language that limits outflows from the account where the raised funds are sent that caps them at 10% throughout a rolling 365 day period beginning with the contract's deployment until day 730 at which time that limit will be increased to 10% of total market capitalization. This aspect assures investors that no rug-pulls can be carried out with respect to this project.    
 
-The initial token price will begin at the price of $0.01 USD and a timed escalation mechanism -5 days- will increase by $0.001 each successive round and will not be offered in the U.S.A.  Radio ads to direct native Spanish speakers to the website will be effective - I'm fluent and vidachida means "cool life".  I can hardly believe I was able to procure that domain name, even one I tried before that one -vidamejor- was being sold for $9,000.  
+The initial token price will begin at the price of $0.01 USD and a timed escalation mechanism -5 days- will increase by $0.001 each successive round and will not be offered in the U.S.A.  Radio ads to direct native Spanish speakers to the website will be effective - I'm fluent and vidachida means "cool life".  I can hardly believe I was able to procure that domain name at the undervalued rate -sound familiar Algonauts- even one I tried before that -vidamejor- was being sold for $9,000.  This one is better anyway, woohoo!  It's honestly the singular thing that makes me know the token sale will be successful. 
 
 ## Benefits for the community
-This is a perfect use case for these burgeoning technologies and WEB3 dapps.  The project will contribute to the delationary mechanism inherent in the ALGO since plenty of minimum reserve balances will be created, it will be great publicity for the Algorand brand, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.  
-
+This is a perfect use case for these burgeoning technologies and WEB3 dapps.  The project will contribute to the delationary mechanism inherent in the ALGO since plenty of minimum reserve balances will be created, it will be great publicity for the Algorand brand, and add significant robustness to the liquidity pools of the ALGO/ASA ecosystem.  At minimum, hundreds of thousands will have to opt-in to both Algo and STBL.  I think I'll even switch that halfway through the token sale to STBL2.
 
 
 ## Additional information
