@@ -2,12 +2,12 @@
 id: 104
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
-discussions-to: https://discord.com/channels/917745024106643487/961952985125113866
+discussions-to: https://forum.algorand.org/t/xgov-104-notiboy-web3-chat-milestone-2/10809
 company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 50000
+amount_requested: 60000
 status: Final
 ---
 
@@ -34,12 +34,12 @@ NFDomains will be integrated for better user experience while chatting.
 ### Milestone 2: Build a Group chat feature
 Time Taken: 2 months
 
-Amount: 50000
+Amount: 60000
 
 Description:
-    - Group Chat feature which will allow cration of web3 communities without revealing any personal information of users involved.
+    - Group Chat feature which will allow creation of web3 communities without revealing any personal information of users involved (mobile).
     - End to end encryption for better safety.
-    - Integrate NFDomains for better chat experience.
+    - Integrate NFDomains for better chat experience (mobile).
 
 ### Milestone 3: Transfer of assets on chat
 Time taken: 1 months
@@ -47,8 +47,9 @@ Time taken: 1 months
 Amount: 50000
 
 Description:
-    - Swapping assets between addresses while chatting
-    - Sending assets between addresses while chatting
+    - Implemeting web3 chat in webapp.
+    - Swapping assets between addresses while chatting.
+    - Sending assets between addresses while chatting.
     - Release apis as a service so that projects can integrate chat app into their web3 application.
 
 
