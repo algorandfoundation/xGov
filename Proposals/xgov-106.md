@@ -108,5 +108,6 @@ XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem
 #### Additional Information
 
 - [XBallot Website](https://xballot.net)
+- [XBallot Codebase](https://github.com/headline-design/xballot)
 - [API Docs](https://indexer.mainnet.xballotapi.com/api-dev/v1)
 - [Promo Video](https://twitter.com/headline_crypto/status/1737885720532963711)
