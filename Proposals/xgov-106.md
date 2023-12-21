@@ -51,7 +51,6 @@ The Account Toolkit is set to redefine user interaction within the blockchain. B
 - Twitter: <https://twitter.com/HEADLINE_Ethan>
 
 - Krisztian Somodi, Fullstack engineer
-
   - Github: <https://github.com/crissCM>
 
 - Senior Smart Contract Engineers
@@ -103,7 +102,7 @@ Our grant application targets two critical milestones:
 XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem. It promises to:
 
 - Empower communities with robust governance tools
-- Ensure unassailable security and transparency
+- Ensure security and transparency
 - Catalyze innovation and participation within the Algorand network
 
 #### Additional Information
