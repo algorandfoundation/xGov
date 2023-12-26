@@ -13,7 +13,7 @@ status: Draft
 
 ## Abstract
 
-Airgap vault helps algorand community  to convert their old mobile phone to a cold storage for generation and management of private keys. Airgap wallet is an open-source wallet with web, android, iOS, mac, windows and linux support. It currently supports BTC, ETH, XTZ, DOT, GLMR, ATOM, ICP, RBTC & more. Unlike other wallet ecosystems, your private key (seed phrase) is never stored in the wallet app but in the vault. We are proposing a plan to integrate airgap vault and wallet via isolated modules to algorand.
+Airgap is an open-source vault that helps algorand community  to convert their old mobile phone to a cold storage for generation and management of private keys. Airgap wallet is an open-source wallet with web, android, iOS, mac, windows and linux support. It currently supports BTC, ETH, XTZ, DOT, GLMR, ATOM, ICP, RBTC & more. Unlike other wallet ecosystems, your private key (seed phrase) is never stored in the wallet app but in the vault. We are proposing a plan to integrate airgap vault and wallet via isolated modules to algorand.
 
 ## Team
 
@@ -23,11 +23,11 @@ Deepak -CTO. Deepak has a Masters in computer science and has worked in product 
 
 ## Experience with Algorand
 
-We have been building notiboy project which is a notification and web3 chat application for algorand.
+We have been building notiboy project which is a notification and web3 chat application on algorand.
 
 ## Present Proposal
 
-As My Algo Wallet announced sunset, we were looking for an alternative multi chain wallet that can be used by community to operate hardware wallet. We stumbled upon airgap which was recommended to us by a community member. It has two features. Airgap vault and Airgap wallet.
+As My Algo Wallet announced sunset, we were looking for an alternative multi-chain wallet that can be used by community to operate hardware wallet. We stumbled upon airgap which was recommended to us by a community member. It has two features. Airgap vault and Airgap wallet.
 
 The AirGap Vault is responsible for secure secret recovery phrase generation and storage, as well as air-gapped transaction signing through QR codes. The Vault is installed on a dedicated device with no network connection, thereby protecting your secret recovery phrase from attackers. Even if you choose to install the Vault on a device with network connectivity, the Vault application still stays offline.
 
@@ -35,15 +35,13 @@ The AirGap Wallet creates transactions, broadcasts transactions and shows a port
 
 We intend to integrate airgap vault and airgap wallet to algorand via isolated modules.
 
-
-
 ## Future Blueprint
 
 Update the isolated modules wrt updates in the ecosystem.
 
 ## Benefits for the community
 
-1) New members joining crypto and algorand ecosystem may not be willing to buy a hardware wallet as their crypto investments may be lower. But using a hot wallet has its own risks. Airgap vault shall be a viable alternative for newer community members with old phones as they can be converted into cold wallet to securly store ASAs.
+1) New members joining crypto and algorand ecosystem may not be willing to buy a hardware wallet as their crypto investments may be lower. But using a hot wallet has its own risks. Airgap vault shall be a viable alternative for newer community members with old phones as they can be converted into cold storage to securly store ASAs.
 
 2)Airgap web wallet has support for ledger.
 
