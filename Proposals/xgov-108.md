@@ -1,5 +1,5 @@
 ---
-id: 107
+id: 108
 title: Airgap vault & wallet integration via isolated modules
 author: AP (@Vidhyanandcs)
 discussions-to: https://forum.algorand.org/
