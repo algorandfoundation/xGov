@@ -1,5 +1,5 @@
 ---
-id: 106
+id: 107
 title: XBallot governance protocol by HEADLINE
 author: Aaron Martinez (@headline-design)
 discussions-to: https://forum.algorand.org/t/xballot-advancing-dao-management-on-algorand/9823
