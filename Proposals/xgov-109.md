@@ -5,7 +5,7 @@ author: Leander <nfnomad@chaintrail.io>, Chaintrail (@Chaintrail)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/109
 company_name: Chaintrail
 category: Tools
-focus_area: Other
+focus_area: Monitoring
 open_source: No
 amount_requested: 95000
 status: Draft
@@ -29,7 +29,7 @@ Involved in Algorand blockchain since early 2021 (mostly as a user). Experimente
 Furthermore tracking lots of projects in the ecosystem. However, I noticed a platform was missing in the ecosystem where it was all brought together and truly uncover the value that Algorand blockchain contains. Therefore decided to build Chaintrail in order to uncover such value.
 
 ## Present Proposal
-This proposal is a continuance of our previous proposal xGov 61 from Q4 2023. For next quarter we want to:
+This proposal is a continuance of our previous proposal xGov-61 from Q4 2023. For next quarter we want to:
 
 Show why Algorand is *the* RWA blockchain
 uncovering the true RWA (Real World Assets) value of almost all that is currently tokenized on Algorand blockchain: 
