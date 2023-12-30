@@ -13,7 +13,7 @@ status: Draft
 
 ## Abstract
 
-Airgap is an open-source vault that helps algorand community  to convert their old mobile phone to a cold storage for generation and management of private keys. Airgap wallet is an open-source wallet with web, android, iOS, mac, windows and linux support. It currently supports BTC, ETH, XTZ, DOT, GLMR, ATOM, ICP, RBTC & more. Unlike other wallet ecosystems, your private key (seed phrase) is never stored in the wallet app but in the vault. We are proposing a plan to integrate airgap vault and wallet via isolated modules to algorand.
+Airgap vault is an open-source vault that helps algorand community  to convert their old mobile phone to a cold storage for generation and management of private keys. Airgap wallet is an open-source wallet with web, android, iOS, mac, windows and linux support. It currently supports BTC, ETH, XTZ, DOT, GLMR, ATOM, ICP, RBTC & more. Unlike other wallet ecosystems, your private key (seed phrase) is never stored in the wallet app but in the vault. We are proposing a plan to integrate airgap vault and wallet via isolated modules to algorand.
 
 ## Team
 
