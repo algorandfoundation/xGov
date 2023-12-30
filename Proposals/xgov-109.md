@@ -37,6 +37,12 @@ uncovering the true RWA (Real World Assets) value of almost all that is currentl
 - Daily, weekly and monthly tokenization volume & trendlines.
 - Insights on total tokenized volume over-time
 
+Improve performance
+Ensure Chaintrail can keep up with the increased adoption happening on Algorand. This will be critical to make sure chaintrail can be your most trusted Algorand intelligence platform that you can rely on for real-time data intelligence, no matter how high the TPS. 
+
+- Rewrite our data ingestion engine in Node.JS to match transactions concurrently. 
+- Improve our data matching algorithms 
+
 Explorer (historic)
 Starting to support historic data for block rounds & transactions
 - Being able to identify what happened in any block processed on chain (not only the last 48 hours). 
