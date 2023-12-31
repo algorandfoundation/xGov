@@ -8,7 +8,7 @@ category: Tools
 focus_area: Monitoring
 open_source: No
 amount_requested: 95000
-status: Draft
+status: Final
 ---
 
 ## Abstract
