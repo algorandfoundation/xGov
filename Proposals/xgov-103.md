@@ -3,7 +3,7 @@ id: 103
 title: Neighborhood Vehicle Share Tokenization
 author: William H. <managingpartner@vidachida.com>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/103, @WILLIAMH76301 -Instagram- 
-company_name: Lifeshare Revolution, LIVSHARE token
+company_name: Lifeshare Revolution, ASA already created
 category: Community
 focus_area: Deployment
 open_source: Yes
