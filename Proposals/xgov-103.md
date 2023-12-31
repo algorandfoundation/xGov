@@ -3,19 +3,19 @@ id: 103
 title: Neighborhood Vehicle Share Tokenization
 author: William H. <managingpartner@vidachida.com>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/103, @WILLIAMH76301 -Instagram- 
-company_name: Lifeshare Revolution
+company_name: Lifeshare Revolution, LIVSHARE token
 category: Community
 focus_area: Deployment
 open_source: Yes
 amount_requested: 250000
-status: Draft
+status: Final
 ---
 
 ## Abstract
 This project aims to transform vehicle rental/operation for members of society who have not previously been able to afford such a luxury.  This is not the tokenization of assets explicitly, but a rather similar idea functionally.  This is a methodical business plan/implementation, not some attempted moonshot coin.  The tokens are essentially stocks in the company that people have the opportunity to buy in on the ground floor. 
 
 ## Team
-Managing Partner: B.A. of Business Administration with a degree in Business Management and Master's level degree in Education - emphasis on secondary mathematics.  I have plenty of skin in this project already, over $20,000.  I'm not sure how/if the community can check that - but the AF has already audited our token/ASA LIVSHARE and can vouch/verify - I would think.  Technical Advisor: Ph. D in Computer Science and operates his own business -as well as lectures to students- out of San Antonio, Texas.  We will contract developers for the smart contract stuff, but the initial deployment to ensure the viability of LIVSHARE's tokenomics has already been facilitated by a good friend - it shoould be noted that that aspect is all pretty basic.   
+Managing Partner: B.A. of Business Administration with a degree in Business Management and Master's level degree in Education - emphasis on secondary mathematics.  I have plenty of personal skin in this project already, over $20,000.  I'm not sure how/if the community can check that - but the AF has already audited our token/ASA LIVSHARE and can vouch/verify - I would think.  Technical Advisor: Ph. D in Computer Science and operates his own business -as well as lectures to students- out of San Antonio, Texas.  We will contract developers for the smart contract stuff, but the initial deployment to ensure the viability of LIVSHARE's tokenomics has already been facilitated by a good friend - it shoould be noted that that aspect is all pretty basic.   
 
 ## Experience with Algorand
 No programming experience as we will contract developers for all things smart contract related.  I, the managing partner, have been closely following Algorand's progress for almost 3 years now.  I know how impactful it is - what Silvio has actually done with the solid state proofs and instant finality.  As long as the AF vows to assist me with some of the more technical details that I'm not 100% on, this would be a marriage made in heaven
