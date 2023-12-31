@@ -1,9 +1,9 @@
 ---
 id: 103
 title: Neighborhood Vehicle Share Tokenization
-author: William Hinkle <managingpartner@vidachida.com>
+author: William H. <managingpartner@vidachida.com>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/103, @WILLIAMH76301 -Instagram- 
-company_name: LIVSHARE
+company_name: Lifeshare Revolution
 category: Community
 focus_area: Deployment
 open_source: Yes
