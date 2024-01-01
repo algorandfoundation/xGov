@@ -74,11 +74,9 @@ Involved in the development of AlgoDesk, DappFlow, and PixelNode, contributing t
 
 Plans for future releases:
 
-1. Implement a user management module. 
-2. Enhance stability before node incentives go live.
-3. Display Mempool.
-4. Configure AutoSSL for accessing nodes using a domain address.
-5. Ship out-of-the-box Grafana dashboards for node metrics.
+1. Improve stability before node incentives go live.
+2. Display Mempool.
+3. Ship out-of-the-box Grafana dashboards for node metrics.
 
 
 ## Benefits for the community
