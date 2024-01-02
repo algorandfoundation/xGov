@@ -35,6 +35,8 @@ Open source Repo: https://github.com/thurstober-digital/evil-tools
 ## Present Proposal
 Asset Details - Show the name of the asset, ASA ID, Unit Name, Creator Wallet, Standard(s), Clawback/Freeze, and all of the Asset metdata for ARC3, 16, 19, 36, and 69 NFTs.
 
+Trades - The ability to easily create a swap of up to 16 assets so users can freely select and trade with each other. This will land on the Thurstober Claims page which is part of xGov-114. 
+
 ## Future Blueprint
 Build it. 
 
