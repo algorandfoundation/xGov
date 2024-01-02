@@ -4,8 +4,8 @@ title: Thurstober Tools - Onboarding Enhancements, Upgrades, and Redesign
 author: Joseph Glenn (@loafpickleWW)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/112
 company_name: Thurstober Digital Studios
-category: `Tools`
-focus_area: `User Onboarding`
+category: Tools
+focus_area: User Onboarding
 open_source: Yes
 amount_requested: 20000
 status: Final
