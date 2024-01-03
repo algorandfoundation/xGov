@@ -24,10 +24,8 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Present Proposal
-In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. 
-Also this will help them to maintain privacy. 
-We will implement end to end encryption for better safety. 
-NFDomains will be integrated for better user experience while chatting.
+In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord.Community members can join the group by just connecting their wallet. This will help them to maintain privacy. We will implement end to end encryption for better safety. 
+NFDomains will be integrated for better user experience while chatting. The address and profile picture will be replaced by NFD (if there is one) which can also be considered as a digital idenity usecase for domain name service.
 
 ## Future Blueprint
 
