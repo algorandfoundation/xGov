@@ -27,6 +27,8 @@ Website: https://notiboy.com/
 In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord.Community members can join the group by just connecting their wallet. This will help them to maintain privacy. We will implement end to end encryption for better safety. 
 NFDomains will be integrated for better user experience while chatting. The address and profile picture will be replaced by NFD (if there is one) which can also be considered as a digital idenity usecase for domain name service.
 
+Our chat application will be mobile first with implementation on iOS and Android. This is inline with the analysis that mobile phones are primarly used for chat applications when compared to web.
+
 ## Future Blueprint
 
 ### Milestone 2: Build a Group chat feature
@@ -35,9 +37,9 @@ Time Taken: 2 months
 Amount: 60000
 
 Description:
-    - Group Chat feature which will allow creation of web3 communities without revealing any personal information of users involved (mobile).
+    - Group Chat feature which will allow creation of web3 communities without revealing any personal information of users involved (Android & iOS).
     - End to end encryption for better safety.
-    - Integrate NFDomains for better chat experience (mobile).
+    - Integrate NFDomains for better chat experience.
 
 ### Milestone 3: Transfer of assets on chat
 Time taken: 1 months
