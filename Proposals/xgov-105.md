@@ -9,7 +9,7 @@ category: Liquidity
 focus_area: Accessibility
 open_source: Yes
 amount_requested: 5,000 ALGO  
-status: Pending  
+status: Final  
 ---
 
 ## Abstract
