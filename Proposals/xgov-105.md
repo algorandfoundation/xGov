@@ -5,8 +5,8 @@ title: "Cheaper USDC Onramp/Offramp for US Algorand Users"
 author: pescennius ([pescennius.algo.xyz](https://pescennius.algo.xyz))
 discussions-to: https://github.com/algorandfoundation/xGov/pull/105
 company_name: Anonymous Individual
-category: Liquidity
-focus_area: Accessibility
+category: Community
+focus_area: Onboarding
 open_source: Yes
 amount_requested: 5,000 ALGO  
 status: Final  
