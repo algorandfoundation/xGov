@@ -37,7 +37,7 @@ Technology Development (40% - 120,000 ALGO):
 Marketing and User Acquisition (20% - 60,000 ALGO):
 
  - Developing a strong, well-respected brand
- - Advertising, social media marketing, and partnerships
+ - Engaging in advertising, social media marketing, and partnerships
  - Attracting content creators through contests and referrals
 
 Research and Development (R&D) (15% - 45,000 ALGO):
@@ -60,10 +60,14 @@ Contingency Fund (1% - 3,000 ALGO):
  - Allocate funds for unexpected costs or opportunities
 
 ## Future Blueprint
-  To execute with this funding, 
+  The goal of press.algo is to onboard the next 10,000 users to Algorand. In order to do so, there needs to be an uncomplicated place on the internet for people to spend and earn their ALGO, so people can see the technology in action. press.algo will provide this, by improving upon the beta platform and ensuring a seamless user experience. Creators will earn more per view and have a wider audience. Viewers will be incentivized with every click. press.algo is not developing a social media platform, this is distinctly different. Money will be flowing to exchange ideas, in the first ever WebMarket. 
+  To accomplish this goal, press.algo will be 
 
 ## Benefits for the community
 A description of the potential benefits that the proposal could bring to the Algorand community and its users.
 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
+https://pressdotalgo.com
+https://twitter.com/pressdotalgo
+https://vestige.fi/asset/919889450
+dugan@pressdotalgo.com
