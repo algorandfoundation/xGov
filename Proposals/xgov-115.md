@@ -4,7 +4,7 @@ title: AlgoMinter - NFT Image Generator
 author: Zachary Minner (@1forh)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/115
 company_name: minner.algo
-category: dApps, Tools
+category: dApps
 focus_area: NFT
 open_source: No (but could be if needed/preferred)
 amount_requested: 40000
