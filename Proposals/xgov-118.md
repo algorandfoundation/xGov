@@ -90,7 +90,7 @@ Contingency Fund (1% - 3,000 ALGO):
 
 
 ## Benefits for the community
-  press.algo will bring new users to the Algorand ecosystem. This application of blockchain technology, micropayment monetization, is vastly underdeveloped. press.algo is looking to be the first company to break through and become a friendly platform for crypto non-natives. This is possible because the "crypto" aspect of press.algo is less pronounced. The only use of Algorand on press.algo is the transactions. There are some new rules for this new system of monetization, but otherwise press.algo is familiar to everyone. You upload content, interact with it, and now, you earn money by using it. 
+  press.algo will bring new users to the Algorand ecosystem. This application of blockchain technology, micropayment monetization, is vastly underdeveloped. press.algo is looking to be the first company to break through and become a friendly platform for crypto non-natives. This is possible because the "crypto" aspect of press.algo is less pronounced. The only use of Algorand on press.algo is the transactions. There are some new rules for this new system of monetization, but otherwise press.algo is familiar to everyone. You upload content, interact with it, and now, you earn money by engaging with it. 
 
 ## Additional information
 https://pressdotalgo.com
