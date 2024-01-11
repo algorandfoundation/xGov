@@ -1,6 +1,6 @@
 ---
 id: 99
-title: Algorand-Based Discord Bot Lecture Series and Open-Sourcing Python/Puya
+title: AlgoLearn Platform; Starting With an Algorand-Based Discord Bot Lecture Series and Open-Sourcing Python/Puya
 author: 
   - Name: Costa, Leo
   - Email: atsoc1993@gmail.com
