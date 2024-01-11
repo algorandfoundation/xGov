@@ -70,12 +70,13 @@ https://youtu.be/5SjGYC3Ub-0
 ## Future Blueprint
 Based on community feedback, future proposals will focus on:
 - Backend/frontend web application development on Algorand.
-- Development using React Native, and perhaps the Unity, Unreal or Swift SDK as per community interest.
+- Developing the AlgoLearn Platform
+- Development specifically using React Native, and perhaps the Unity, Unreal or Swift SDK as per community interest.
 
 ## Community Benefits
-- **Onboarding Platform:** Facilitates an easy entry point for community members into Algorand development.
-- **Practical Learning:** Offers hands-on experience through guided and in-depth tutorials.
-- **Innovation Stimulus:** Encourages the creation of new, blockchain-integrated projects.
+- **Onboarding Platform:** AlgoLearn, which will facilitate an easy entry point for community members into Algorand development.
+- **Practical Learning:** Offers hands-on experience through guided and in-depth tutorials and interactive web IDE's.
+- **Innovation Stimulus:** Encourages the creation of new, blockchain-integrated projects and streamlined learning/research.
 
 ---
 
