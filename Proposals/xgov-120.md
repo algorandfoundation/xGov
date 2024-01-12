@@ -19,7 +19,7 @@ I am currently in the process of redesigning and rebuilding the website using Ne
 
 https://staging.howtoalgonft.com
 
-We'll be adding well-written articles for each of the 6 "Algorand NFT Essentials" to help users with all sorts of Algorand NFT-related things.
+We'll be adding well-written articles for each of the 6 "Algorand NFT Essentials" to help users with all sorts of Algorand NFT-related topics.
 
 ## Team
 My name is Zachary Minner. I've been a Web Developer for 10+ years. I've built over 100+ websites/apps through my day job as well as over 10 different websites for Algorand NFT collections.
