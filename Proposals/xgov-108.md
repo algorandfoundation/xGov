@@ -2,13 +2,13 @@
 id: 108
 title: Airgap vault & wallet integration via isolated modules
 author: AP (@Vidhyanandcs)
-discussions-to: https://forum.algorand.org/
+discussions-to: https://forum.algorand.org/t/xgov-108-airgap-vault-wallet-integration-via-isolated-modules/11004
 company_name: Securecerts Technologies
 category: Tools
 focus_area: Deployment
 open_source: Yes
 amount_requested: 84530
-status: Draft
+status: Final
 ---
 
 ## Abstract
