@@ -1,50 +1,70 @@
 ---
 id: TBD
 title: AlgoDirectory (directory.algo)
-author: Brian Whippo (@SilentRhetoric), Christian (@tbd)
+author: Brian (@SilentRhetoric), Christian (@tak-o-kat)
 discussions-to: https://forum.algorand.org/
 company_name: Distributed Ledger Technologies
 category: dApps
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 100000
+amount_requested: 50000
 status: Draft
 ---
 
 ## Abstract
 
-AlgoDirectory will be a decentralized, on-chain directory to the Algorand ecosystem.  The Directory will help users discover all that Algorand has to offer while enabling apps, projects, tools, and people to easily create and manage their own listings.
+AlgoDirectory will help people discover all that the Algorand ecosystem has to offer while enabling users to easily create & edit listings through a decentralized model.  The Directory will be permissionless and sustainable by leveraging Algorand's powerful capabilities to put listings on chain and let owners maintain them through a novel "Vouching Protocol" smart contract.
 
 ## Team
 
-The AlgoDirectory team will consist of two members, Brian Whippo and Christian [TODO: LastName].
+The AlgoDirectory team will consist of two members, Christian and Brian.
 
-Christian [TODO: LastName] is [TODO: Insert bio here].
+**Christian (Tako)** is immensely eager to work on new and innovative blockchain projects and is a full-stack software developer with several years of experience.
 
-Brian Whippo is a self-taught, full-stack software developer passionate about bringing the promises of blockchain to the people.
+[Github - tak-o-kat](https://github.com/tak-o-kat)
 
-<a href="https://www.linkedin.com/in/brianwhippo/">LinkedIn - Brian Whippo</a>  
+**Brian (SilentRhetoric)** is a self-taught, full-stack software developer passionate about bringing the promises of blockchain to the people.
+
 <a href="https://github.com/SilentRhetoric">GitHub - SilentRhetoric</a>  
 
 ## Experience with Algorand
 
-Brian has been an active developer in the Algorand community since 2021 in various capacities:
+**Christian** has been in the Algorand community since 2021 and is learning to become an Algorand smart contract developer.
 
-- Built the open source <a href="https://thebonfire.app">Bonfire</a> app for for burning ASAs in a permissionless, verifiable, and standardized way per <a href="https://arc.algorand.foundation/ARCs/arc-0054"> ARC-54</a>.  This project was funded by proposal [xGov-86](xgov-86.md) in xGov Period 2.
-- Awarded 2nd Place in the Build-A-Bull hackathon's Interoperability category for the <a href="https://pitch.com/v/Wormhole-Connect-Algorand-c5jjuf">Wormhole Connect + Algorand</a> SDK <a href="https://www.npmjs.com/package/@wormhole-foundation/connect-sdk-algorand/v/0.3.0-beta.8">module</a>.
-- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating several wallets into a web site.  This project was funded by proposal [xGov-49](xgov-49.md) in xGov Period 1.
-- Created the open source <a href="https://xgov-viewer.netlify.app">xGov Viewer</a> app for reviewing xGov proposals and visualizing xGov voting data.  
-- Awarded 3rd place prize in the 2022 Encode x Algorand Hackathon for a prototype of the <a href="https://alright.app">Alright</a> agreements protocol.
-- Runs a residential participation node in Algorand consensus.
+- Built the <a href="https://block-poser.vercel.app/">block-posr</a> tool that enables node runners to monitor the number of blocks the address has proposed to the chain in a time range.  The tool integrates with NFD and Algonode’s GraphQL API.
+- Has run Algorand participation nodes since summer 2022.
+
+**Brian** has been an active developer in the Algorand community since 2021 in various capacities:
+
+- Built the open source <a href="https://thebonfire.app">Bonfire</a> app for burning ASAs per the <a href="https://arc.algorand.foundation/ARCs/arc-0054">ARC-54</a> standard ([xGov-86](xgov-86.md)).
+- Placed 2nd in the Build-A-Bull hackathon Interoperability category for building the <a href="https://pitch.com/v/Wormhole-Connect-Algorand-c5jjuf">Wormhole Connect + Algorand</a> open source SDK <a href="https://www.npmjs.com/package/@wormhole-foundation/connect-sdk-algorand/v/0.3.0-beta.8">module</a>.
+- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating wallets into a web app ([xGov-49](xgov-49.md)).
+- Created the open source <a href="https://xgov-viewer.netlify.app">xGov Viewer</a> app for reviewing xGov proposals and visualizing xGov voting data.
+- Place 3rd in the 2022 Encode x Algorand Hackathon for a prototype of the <a href="https://alright.app">Alright</a> agreements protocol.
+- Has run Algorand participation nodes since 2021.
 
 ## Present Proposal
 
-AlgoDirectory will be launched before the end of Q3 2024 and consist of a web user interface to view the Directory and a smart contract that manages the directory listings on chain.  Listing owners will be able to create and manage listings through a wallet connection.  Visitors will be able to browse directory listings through a web app that requires only a node connection.  
+AlgoDirectory will be launched in Q3 2024 and consist of a downloadable web app to view the Directory, create & edit listings, and maintain listings through the Vouching Protocol smart contract.  
 
 ## Benefits for the Community
 
-AlgoDirectory will be the best first stop for new users upon joining the Algorand ecosystem, a valuable reference guide for existing Algorand enthusiasts, and the premier place for projects to be listed and discovered.
+AlgoDirectory will be the best first stop for new users upon joining the Algorand ecosystem, a valuable reference guide for existing Algorand enthusiasts, and the premier place for projects to be listed and discovered.  
+
+AlgoDirectory improves upon previous Algorand directories in three key ways:
+
+### Decentralized, Permissionless, Permanent
+
+AlgoDirectory leverages Algorand's powerful on-chain capabilties to provide a directory that applies the values we love about Algorand to the Directory itself.  It will be decentralized across the node network, open to anyone through a permissionless smart contract, and permanent for the lifetime of the chain.  
+
+### Designed for Quality and Freshness
+
+A central challenge of directories is keeping their information up to date so it is useful to people.  AlgoDirectory will use a novel Vouching Protocol to automate the process of determining if listings are still valid and active.  Listing owners will effectively vouch for their listings by providing a guarantee and interacting with them regularly.  With this system, listings will be self-cleaning so that active listings get the visibility they deserve while stale ones are discoverable but de-ranked.  
+
+### Sustainable for the Long Term
+
+Another key objective of AlgoDirectory is to be sustainable so that it outlasts the efforts of its creators and any centralized website hosting.  Algorand has had several directories over the years, some of which are now gone because their creators are no longer curating them and their Web2 sites.  By putting the Directory on chain and providing open source code to interact with it, listings on AlgoDirectory will always be accessible.  
 
 ## Additional Information
 
-AlgoDirectory will be the spiritual successor to directorydotalgo.xyz, a "Web2" directory site created and maintained by @tomonalgo until it became clear that a hand-curated model was unsustainable.  A central objective of AlgoDirectory is to actualize a protocol that decentralizes the creation and maintenance of directory listings to listing owners.  With data stored on chain and automated mechanisms to manage it, AlgoDirectory will live forever and enable custom interfaces to be made by the community.
+AlgoDirectory will be the spiritual successor to directorydotalgo.xyz, a "Web2" directory site created and maintained by @tomonalgo until it became clear that a hand-curated model was unsustainable.  
