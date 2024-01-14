@@ -21,7 +21,7 @@ The AlgoDirectory team will consist of two members, Christian and Brian.
 
 **Christian (Tako)** is immensely eager to work on new and innovative blockchain projects and is a full-stack software developer with several years of experience.
 
-[Github - tak-o-kat](https://github.com/tak-o-kat)
+<a href="https://github.com/tak-o-kat">GitHub - takokat</a>  
 
 **Brian (SilentRhetoric)** is a self-taught, full-stack software developer passionate about bringing the promises of blockchain to the people.
 
@@ -47,7 +47,7 @@ The AlgoDirectory team will consist of two members, Christian and Brian.
 
 AlgoDirectory will be launched in Q3 2024 and consist of a downloadable web app to view the Directory, create & edit listings, and maintain listings through the Vouching Protocol smart contract.  
 
-## Benefits for the Community
+## Benefits for the community
 
 AlgoDirectory will be the best first stop for new users upon joining the Algorand ecosystem, a valuable reference guide for existing Algorand enthusiasts, and the premier place for projects to be listed and discovered.  
 
@@ -65,6 +65,6 @@ A central challenge of directories is keeping their information up to date so it
 
 Another key objective of AlgoDirectory is to be sustainable so that it outlasts the efforts of its creators and any centralized website hosting.  Algorand has had several directories over the years, some of which are now gone because their creators are no longer curating them and their Web2 sites.  By putting the Directory on chain and providing open source code to interact with it, listings on AlgoDirectory will always be accessible.  
 
-## Additional Information
+## Additional information
 
 AlgoDirectory will be the spiritual successor to directorydotalgo.xyz, a "Web2" directory site created and maintained by @tomonalgo until it became clear that a hand-curated model was unsustainable.  
