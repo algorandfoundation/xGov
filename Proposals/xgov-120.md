@@ -1,12 +1,12 @@
 ---
 id: 120
-title: How to ALGO NFT - Explore our resources, tutorials, and community insights to become an Algorand NFT expert.
+title: How to ALGO NFT - Explore our articles/tutorials to become an Algorand NFT expert.
 author: Zachary Minner (@1forh)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/X
 company_name: minner.algo
 category: dApps
 focus_area: User Onboarding
-open_source: No (but could be if needed/preferred)
+open_source: No
 amount_requested: 10000
 status: Final
 ---
