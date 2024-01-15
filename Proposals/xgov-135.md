@@ -1,5 +1,6 @@
 ---
 id: 135
+period: 3
 title: AlgoROSSA
 author: SilentRhetoric (@SilentRhetoric)
 discussions-to: https://forum.algorand.org
@@ -7,7 +8,6 @@ company_name: N/A
 category: Other
 focus_area: Other
 open_source: Yes
-period: 3
 amount_requested: 10000
 status: Final
 ---
