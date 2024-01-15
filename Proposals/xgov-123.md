@@ -1,5 +1,6 @@
 ---
 id: 123
+period: 3
 title: AlgoDirectory (directory.algo)
 author: Brian (@SilentRhetoric), Christian (@tak-o-kat)
 discussions-to: https://forum.algorand.org/
