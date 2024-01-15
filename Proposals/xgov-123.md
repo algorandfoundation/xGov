@@ -13,7 +13,7 @@ status: Draft
 
 ## Abstract
 
-AlgoDirectory will help people discover all that the Algorand ecosystem has to offer while enabling users to easily create & edit listings through a decentralized model.  The Directory will be permissionless and sustainable by leveraging Algorand's powerful capabilities to put listings on chain and let owners maintain them through a novel "Vouching Protocol" smart contract.
+AlgoDirectory will help people discover all that the Algorand ecosystem has to offer while enabling users to easily create & edit listings through an on-chain model.  The Directory will become permissionless and sustainable by leveraging Algorand's powerful capabilities to put listings on chain and let owners maintain them through a novel "Vouching Protocol" smart contract.
 
 ## Team
 
@@ -45,7 +45,7 @@ The AlgoDirectory team will consist of two members, Christian and Brian.
 
 ## Present Proposal
 
-AlgoDirectory will be launched in Q3 2024 and consist of a downloadable web app to view the Directory, create & edit listings, and maintain listings through the Vouching Protocol smart contract.  
+AlgoDirectory will be launched in Q3 2024 and consist of a web app at algodirectory.app that can view the Directory, create & edit listings as segments of directory.algo via NFD's API, and maintain listings through the Vouching Protocol smart contract.  
 
 ## Benefits for the community
 
