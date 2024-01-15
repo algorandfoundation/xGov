@@ -1,7 +1,7 @@
 ---
-id: 134
+id: 135
 title: AlgoROSSA
-author: @SilentRhetoric
+author: SilentRhetoric (@SilentRhetoric)
 discussions-to: https://forum.algorand.org
 company_name: N/A
 category: Other
