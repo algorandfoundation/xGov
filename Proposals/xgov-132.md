@@ -1,5 +1,5 @@
 ---
-id: 131
+id: 132
 title: AlgoROSSA
 author: SilentRhetoric
 discussions-to: https://forum.algorand.org
