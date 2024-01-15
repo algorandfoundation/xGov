@@ -6,7 +6,7 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/X
 company_name: minner.algo
 category: dApps
 focus_area: User Onboarding
-open_source: No
+open_source: Yes
 amount_requested: 10000
 status: Final
 ---
