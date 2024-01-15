@@ -6,7 +6,7 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/115
 company_name: minner.algo
 category: dApps
 focus_area: NFT
-open_source: No (but could be if needed/preferred)
+open_source: Yes
 amount_requested: 40000
 status: Final
 ---
