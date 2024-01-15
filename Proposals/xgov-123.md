@@ -45,7 +45,7 @@ The AlgoDirectory team will consist of two members, Christian and Brian.
 
 ## Present Proposal
 
-AlgoDirectory will be launched in Q3 2024 and consist of a web app at algodirectory.app that can view the Directory, create & edit listings as segments of directory.algo via NFD's API, and maintain listings through the Vouching Protocol smart contract.  
+AlgoDirectory will be launched in Q3 2024 and consist of a web app at algodirectory.app that can view the Directory, create & edit listings as segments of directory.algo via NFD's API, and maintain listings through a new Vouching Protocol smart contract.  
 
 ## Benefits for the community
 
@@ -59,7 +59,7 @@ AlgoDirectory leverages Algorand's powerful on-chain capabilties to provide a di
 
 ### Designed for Quality and Freshness
 
-A central challenge of directories is keeping their information up to date so it is useful to people.  AlgoDirectory will use a novel Vouching Protocol to automate the process of determining if listings are still valid and active.  Listing owners will effectively vouch for their listings by providing a guarantee and interacting with them regularly.  With this system, listings will be self-cleaning so that active listings get the visibility they deserve while stale ones are discoverable but de-ranked.  
+A central challenge of directories is keeping their information up to date so it is useful to people.  AlgoDirectory will use a novel Vouching Protocol to automate the process of determining if listings are still valid and active.  Listing owners will effectively vouch for their listings by providing a guarantee and interacting with them regularly.  This system will provide on-chain data about whether someone stands behind a listing and how long it has been since someone "touched" a listing.  This way, listings can be automatically sorted and filtered so that active listings people are standing behind get the visibility they deserve while stale ones or ones that have been abandoned are discoverable but de-emphasized.  
 
 ### Sustainable for the Long Term
 
@@ -68,3 +68,5 @@ Another key objective of AlgoDirectory is to be sustainable so that it outlasts 
 ## Additional information
 
 AlgoDirectory will be the spiritual successor to directorydotalgo.xyz, a "Web2" directory site created and maintained by @tomonalgo until it became clear that a hand-curated model was unsustainable.  
+
+The main technical approach to AlgoDirectory will be a wrapper around existing functionality provided by segments of the directory.algo NFD.  This enables a robust, on-chain data management process and interoperability with other parts of the Algorand ecosystem that have integrated with NFD.  We acknowledge that utilizing NFD's API means there is some short-term dependency on NFD, but decentralization absolutists should note that all of the data management does occur on-chain, the smart contracts are technically permissionless and can be locked for immutability, and NFD has a roadmap to further decentralziation of their platform.  We think this is a reasonable and practical approach to bootstrapping an on-chain directory.
