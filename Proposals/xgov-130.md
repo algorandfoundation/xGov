@@ -32,6 +32,6 @@ The funds awarded to AlgoROSSA will be used at SilentRhetoric's sole discretion 
 
 Funding this proposal will enable xGov grant funding to be appropriated through an additional channel.  Currently, the xGov grant process runs quarterly and so it takes three months or more for any proposal to make it through the process and receive payment, and lots of people argue about it the entire time.  AlgoROSSA will be faster, less bureaucratic, and much less democratic because I'll decide the best time and way to direct the funds.
 
-## Additional Iiformation
+## Additional information
 
 Vote for as many iterations of this proposal as you want to fund.
