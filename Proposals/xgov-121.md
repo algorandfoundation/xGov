@@ -5,8 +5,8 @@ author: The Next Block (@thenextblock3)
 discussions-to: 
 company_name: The Next Block
 category: Community
-focus_area: Community engagement, education, and user onboarding
-open_source: yes
+focus_area: Social, Education, User Onboarding
+open_source: Yes
 amount_requested: 25000
 status: Draft
 ---
@@ -33,7 +33,8 @@ We also have deep knowledge of how Algorand works and can effectively communicat
 
 The Next Block: https://www.youtube.com/channel/UCE4o509uGtygf_gAEbVgH0A
 TravelX interview: https://youtu.be/USaedpzrRCg?si=yslwGqKmJ2jvHNAg
-Staci Warden interview: https://www.youtube.com/live/-GxS_aBLQM0?si=Tmgrno2N5hhao_bn
+Algorand CTOs interview: https://www.youtube.com/live/-GxS_aBLQM0?si=Tmgrno2N5hhao_bn
+Staci Warden interview: https://youtube.com/live/6nEuotx0DAI?feature=share
 Fracctal Monsters interview: https://www.youtube.com/live/kKp1m65w9MA?si=4Or72GrVIblQuL76
 
 ## Present Proposal
