@@ -1,36 +1,39 @@
 ---
 id: 96
-title: Open source Discord bot for NFTs and tokens
+period: 3
+title: Algo Community Collab - 3D Game NFTs
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://discord.gg/cosmicchamps
 company_name: Cosmic Champs International Limited
-category: Tools
-focus_area: Libraries
-open_source: Yes
-amount_requested: 100000
+category: Community
+focus_area: Gaming
+open_source: No
+amount_requested: 30000
 status: Final
 ---
 
 ## Abstract
-Many of the Algorand projects heavily rely on Discord for interaction between creators and community. Common feature most of the projects require is assigning user discord roles and giveaways based on NFTs held in their associated wallets. There is no reliable and customizable discord bot that projects can simply use. We are here to fix this!
+In last period we added MNGO & AL GOANNA characters to Cosmic Champs PVP battle arena and they were both a huge hit. There is many more Algorand projects that are a great fit for our game. Unfortunatelly it's cost prohibitive for us to do such fun collabs as making a fully animated, game ready 3d NFT takes lots of resources. If funded, we will create and distribute these NFTs for free to help promote Algorand projects to our players and our game to the Algorand community. win-win
 
 ## Team
-https://cosmicchamps.com/#team
+<a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
 
 ## Experience with Algorand
 For the last 2 years, we have been building a p2e game on Algorand called Cosmic Champs. We are innovators in the 3d NFT space with our fully animated 3d NFTs that are used in our game and also have utility outside of the game itself (3d viewer, AR viewer).
 We have a strong understanding of the NFT space, the technical specifications, and the supporting infrastructure available. This positions us well to deliver a strong product for other Algorand projects to use and benefit from.
 
 ## Present Proposal
-We will create and maintain an open source discord bot that allows users to associate wallet with their discord account. This will allow for easily assigning discord user roles based on the associated wallet inventory. Such as NFT holder, token holder, token tiers etc... We will provide a streamlined way to easily modify the bot for individual ASA project needs.
+After our proposal was approved in last period we have seen great success with the two proejcts that were selected (Al Goanna and MNGO). We would like to repeat this cross community collabs and bring some healty engagement between some of the OG Algorand communities. We will again select two proejcts that are a good fit and will for each one create a signature NFT character (multimint) that will be fully functional in our game.
+We will provide these NFTs for free to their projects/communities and they can use them how they see fit. For an example to reward their communtiy or to run a competition. To get better idea here is two of our recent collab NFTs that are playable in our game: <a href="https://nft.cosmicchamps.com/nft/1280977773" target="_blank">MNGO</a> ,<a href="https://nft.cosmicchamps.com/nft/1108380528" target="_blank">PEPE</a> 
 
 ## Future Blueprint
-There is a lot of potential to extend this bot for more fine-grained control over wallet inventories and event's based on that. Tipping, Giveaway feature, NFT battles, holder flexing, PFP/meme generating etc.
+In future we would like to create more of these NFTs to help cross promote Algorand Projects to our players and our game to Algorand ecosystem.
 
 ## Benefits for the community
-New and existing proejcts can easily integrate the bot and instantly have more utility for their NFT collection or their token without needing to spend time and resources developing it in-house or trying to get an existing discord bot to integrate their token/collection and customize it for their needs.
+These NFTs will have multiple benefits. They will promote other Algorand projects to players of our game and tehy will promote our game to wider NFT community. We will provide these NFTs (at no cost) for other projects to use within their community in any way they like. This will also help push narrative that NFTs can be so much more than just 2d pictures.
+
 ## Additional information
-Play our game here: <a href="https://beta.cosmicchamps.com/">https://beta.cosmicchamps.com/</a>
-NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/">https://nft.cosmicchamps.com/</a>
-Browse game characters: <a href="https://cards.cosmicchamps.com/">https://cards.cosmicchamps.com/</a>
-Coorporate page: <a href="https://cosmicchamps.com/">https://cosmicchamps.com/</a>
+Play our game here: <a href="https://beta.cosmicchamps.com/" target="_blank">https://beta.cosmicchamps.com/</a>
+NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/" target="_blank">https://nft.cosmicchamps.com/</a>
+Browse game characters: <a href="https://cards.cosmicchamps.com/" target="_blank">https://cards.cosmicchamps.com/</a>
+Coorporate page: <a href="https://cosmicchamps.com/" target="_blank">https://cosmicchamps.com/</a>
