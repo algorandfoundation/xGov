@@ -9,7 +9,7 @@ category: Community
 focus_area: Defi
 open_source: Yes
 amount_requested: 380000
-status: Draft
+status: Final
 ---
 
 ## Abstract
