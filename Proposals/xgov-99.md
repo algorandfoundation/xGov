@@ -2,7 +2,7 @@
 id: 99
 period: 10
 title: AlgoLearn Platform; Open-sourced Lecture Series
-author: Costa, Leo, Email: atsoc1993@gmail.com, GitHub: @atsoc1993
+author: "Costa, Leo (@atsoc1993), Email: atsoc1993@gmail.com"
 discussions-to: https://forum.algorand.org/t/xgov-99-algolearn-platform-starting-with-an-algorand-based-discord-bot-lecture-series-and-open-sourcing-python-puya/10791/4
 company_name: Independent
 category: Education, Tools
