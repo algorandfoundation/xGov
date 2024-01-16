@@ -61,8 +61,6 @@ https://youtu.be/5SjGYC3Ub-0
 
 **EPISODE 10 - Preparing for the Second Series, Intro to Javascript and Web Applications**
 
-**Timeline:**
-- The series will be released bi-weekly over the course of 20 weeks, (3 episodes have already been released) ensuring ample time for community feedback and iteration.
 
 ## Future Blueprint
 Based on community feedback, future proposals will focus on:
@@ -77,7 +75,7 @@ The intersection of blockchain technology and Discord bot development presents a
 - **Innovation Stimulus:** Encourages the creation of new, blockchain-integrated projects and streamlined learning/research.
 - 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+**Timeline:**
+- The series will be released bi-weekly over the course of 20 weeks, (3 episodes have already been released) ensuring ample time for community feedback and iteration.
+
 
