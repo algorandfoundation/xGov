@@ -1,5 +1,6 @@
 ---
 id: 119
+period: 3
 title: Zorkin - Social Login for Self-Custodial Account Authentication with ZK-SNARKs
 author: Winton Nathan-Roberts (@mangoplane)
 discussions-to: https://forum.algorand.org/t/xgov-119-zorkin/
