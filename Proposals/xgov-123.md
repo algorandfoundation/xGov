@@ -22,26 +22,26 @@ The AlgoDirectory team will consist of two members, Christian and Brian.
 
 **Christian (Tako)** is immensely eager to work on new and innovative blockchain projects and is a full-stack software developer with several years of experience.
 
-<a href="https://github.com/tak-o-kat">GitHub - takokat</a>  
+<a href="https://github.com/tak-o-kat" target="_blank">GitHub - takokat</a>  
 
 **Brian (SilentRhetoric)** is a self-taught, full-stack software developer passionate about bringing the promises of blockchain to the people.
 
-<a href="https://github.com/SilentRhetoric">GitHub - SilentRhetoric</a>  
+<a href="https://github.com/SilentRhetoric" target="_blank">GitHub - SilentRhetoric</a>  
 
 ## Experience with Algorand
 
 **Christian** has been in the Algorand community since 2021 and is learning to become an Algorand smart contract developer.
 
-- Built the <a href="https://block-poser.vercel.app/">block-posr</a> tool that enables node runners to monitor the number of blocks the address has proposed to the chain in a time range.  The tool integrates with NFD and Algonode’s GraphQL API.
+- Built the <a href="https://blocki.app/" target="_blank">Blocki</a> tool that enables node runners to monitor the number of blocks the address has proposed to the chain in a time range.  The tool integrates with NFD and Algonode’s GraphQL API.
 - Has run Algorand participation nodes since summer 2022.
 
 **Brian** has been an active developer in the Algorand community since 2021 in various capacities:
 
-- Built the open source <a href="https://thebonfire.app">Bonfire</a> app for burning ASAs per the <a href="https://arc.algorand.foundation/ARCs/arc-0054">ARC-54</a> standard ([xGov-86](xgov-86.md)).
-- Placed 2nd in the Build-A-Bull hackathon Interoperability category for building the <a href="https://pitch.com/v/Wormhole-Connect-Algorand-c5jjuf">Wormhole Connect + Algorand</a> open source SDK <a href="https://www.npmjs.com/package/@wormhole-foundation/connect-sdk-algorand/v/0.3.0-beta.8">module</a>.
-- Built the open source <a href="https://solid-algo-wallets-example.netlify.app">Solid Algo Wallets</a> Javascript library for integrating wallets into a web app ([xGov-49](xgov-49.md)).
-- Created the open source <a href="https://xgov-viewer.netlify.app">xGov Viewer</a> app for reviewing xGov proposals and visualizing xGov voting data.
-- Place 3rd in the 2022 Encode x Algorand Hackathon for a prototype of the <a href="https://alright.app">Alright</a> agreements protocol.
+- Built the open source <a href="https://thebonfire.app" target="_blank">Bonfire</a> app for burning ASAs per the <a href="https://arc.algorand.foundation/ARCs/arc-0054" target="_blank">ARC-54</a> standard ([xGov-86](xgov-86.md)).
+- Placed 2nd in the Build-A-Bull hackathon Interoperability category for building the <a href="https://pitch.com/v/Wormhole-Connect-Algorand-c5jjuf" target="_blank">Wormhole Connect + Algorand</a> open source SDK <a href="https://www.npmjs.com/package/@wormhole-foundation/connect-sdk-algorand/v/0.3.0-beta.8" target="_blank">module</a>.
+- Built the open source <a href="https://solid-algo-wallets-example.netlify.app" target="_blank">Solid Algo Wallets</a> Javascript library for integrating wallets into a web app ([xGov-49](xgov-49.md)).
+- Created the open source <a href="https://xgov-viewer.netlify.app" target="_blank">xGov Viewer</a> app for reviewing xGov proposals and visualizing xGov voting data.
+- Place 3rd in the 2022 Encode x Algorand Hackathon for a prototype of the <a href="https://alright.app" target="_blank">Alright</a> agreements protocol.
 - Has run Algorand participation nodes since 2021.
 
 ## Present Proposal
