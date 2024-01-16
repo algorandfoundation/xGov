@@ -1,15 +1,15 @@
 ---
-id: <99>
-period: <10>
-title: <AlgoLearn Platform; Open-sourced Lecture Series>
-author: <Name: Costa, Leo, Email: atsoc1993@gmail.com, GitHub: @atsoc1993>
-discussions-to: <https://forum.algorand.org/t/xgov-99-algolearn-platform-starting-with-an-algorand-based-discord-bot-lecture-series-and-open-sourcing-python-puya/10791/4>
-company_name: <Independent>
-category: <Education, Tools>
-focus_area: <Lecture Series introducing new developers to back-end development and showcasing work through a simple Discord bot front-end>
-open_source: <Yes>
-amount_requested: <150000>
-status: <Final>
+id: 99
+period: 10
+title: AlgoLearn Platform; Open-sourced Lecture Series
+author: Name: Costa, Leo, Email: atsoc1993@gmail.com, GitHub: @atsoc1993
+discussions-to: https://forum.algorand.org/t/xgov-99-algolearn-platform-starting-with-an-algorand-based-discord-bot-lecture-series-and-open-sourcing-python-puya/10791/4
+company_name: Independent
+category: Education, Tools
+focus_area: Lecture Series introducing new developers to back-end development and showcasing work through a simple Discord bot front-end
+open_source: Yes
+amount_requested: 150000
+status: Final
 ---
 
 ## Abstract
