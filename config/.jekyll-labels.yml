@@ -31,3 +31,12 @@ o-open_source: this?.new?.open_source == "Yes"
 # Status
 s-draft: this?.new?.status == "Draft"
 s-final: this?.new?.status == "Final"
+
+# Periods
+p-3: this?.new?.period == "3"
+p-4: this?.new?.period == "4"
+p-5: this?.new?.period == "5"
+p-6: this?.new?.period == "6"
+p-7: this?.new?.period == "7"
+p-8: this?.new?.period == "8"
+p-9: this?.new?.period == "9"
