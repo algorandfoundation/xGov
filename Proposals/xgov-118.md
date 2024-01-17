@@ -12,7 +12,7 @@ status: Draft
 ---
 
 ## Abstract
-  press.algo is creating the first ever WebMarket on Algorand. A WebMarket is an internet content marketplace where text, audio, and video are bought and sold. The monetization system on press.algo is simple. Using a pay-per-view system, press.algo ensures that the creator is paid for every view of their work, in perpetuity. The advantage of using Algorand for this type of system is the micropayments. Other content monetization services similar to press.algo like Patreon or Substack rely on credit cards and the traditional financial system, making it infeasible to run a micropayment marketplace for content. press.algo is a one-of-a-kind, novel, unique, platform for the internet. 
+  press.algo is creating the first ever WebMarket on Algorand. A WebMarket is an internet content marketplace where text, audio, and video are bought and sold. The monetization system on press.algo is simple. Using a pay-per-view system, press.algo ensures that the creator is paid for every view of their work, in perpetuity. The advantage of using Algorand for this type of system is the micropayments. Other content monetization services similar to press.algo like Patreon or Substack rely on credit cards and the traditional financial system, making it infeasible to run a micropayment marketplace for content. press.algo is a one-of-a-kind, novel, and unique, platform for the internet. 
 
 
 ## Team
@@ -22,13 +22,15 @@ Scott Bolasevich (FlippingAlgos) - Lead Full-stack Developer
 
 
 ## Experience with Algorand
-  Dugan has been a member of the Algorand community since August 2022. He developed the idea for press.algo in September 2022. Since then, he has worked to make his idea a reality. His accolades include 3rd place at the AlgoHouse NYC pitch competition, 1st place at the AXL Ventures virtual pitch competition, and 2nd place at the Build-A-Bull hackathon. He's also had the chance to shake Silvio's hand at Decipher 2022. 
+  Dugan has been a member of the Algorand community since August 2022. He developed the idea for press.algo in September 2022. Since then, he has worked to make his idea a reality. His accolades include 3rd place at the AlgoHouse NYC pitch competition, 1st place at the AXL Ventures virtual pitch competition, and 2nd place at the Build-A-Bull hackathon.
 
-  Scott is a full-stack Algorand developer with 20+ years of experience in front-end, back-end, and smart contract work. 
+  Scott is a full-stack developer with 20+ years of experience. He has worked for shufl.app, Goanna, flippingalgos.xyz, 
 
 ## Present Proposal
-  press.algo is looking to use the 500,000 ALGO to develop a new platform. After receiving second place at the Build-A-Bull hackathon, press.algo has lacked the runway to develop a real business. The beta platform that currently exists is the result of a week of work. With funding, press.algo would be able to create a new platform that is user-friendly, efficient, and full of potential.
-
+  press.algo is looking to use the 500,000 ALGO to develop a new platform. After receiving second place at the Build-A-Bull hackathon, press.algo has lacked the runway to develop a strong website. The beta platform that currently exists is the result of a few days of work. With funding, press.algo would be able to create a new platform that is user-friendly, efficient, and full of potential.
+  To accomplish this, Dugan and Scott are preparing wire frames, workflows, and concepts to produce plans for the press.algo platform. They will do preparation work until funds are available for Scott to begin his development work. Scott will be working for 750 ALGO/hour for a total of 500 hours. This should be ample time to implement the plans that Dugan and Scott are preparing.
+  press.algo is designed to be a sustainable business. This grant is meant to be a one time deal. press.algo will utilize the funds to develop a website that is self-sustaining, and will not rely on handouts to stay afloat. Every user on press.algo is a paying, incentivized customer. Using the press.algo monetization system benefits everyone. 
+  
 
 ## Future Blueprint
   The goal of press.algo is to onboard the next 10,000 users to Algorand. In order to do so, there needs to be an uncomplicated place on the internet for people to spend and earn their ALGO, so people can see the technology in action. press.algo will provide this, by improving upon the beta platform and ensuring a seamless user experience. Creators will earn more per view and have a wider audience. Viewers will be incentivized with every click. press.algo is not developing a social media platform, this is something distinctly different. Money will be flowing to exchange ideas, in the first ever WebMarket. 
