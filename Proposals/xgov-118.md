@@ -16,16 +16,15 @@ status: Draft
 
 
 ## Team
-Dugan Messman - Founder, CEO of press.algo
+Dugan Messman (dugan.algo) - Founder, CEO of press.algo
 
-Scott Bolasevich - Lead Full-stack Developer
-
-If this proposal is passed, press.algo will be able to expand the team.
+Scott Bolasevich (FlippingAlgos) - Lead Full-stack Developer
 
 
 ## Experience with Algorand
   Dugan has been a member of the Algorand community since August 2022. He developed the idea for press.algo in September 2022. Since then, he has worked to make his idea a reality. His accolades include 3rd place at the AlgoHouse NYC pitch competition, 1st place at the AXL Ventures virtual pitch competition, and 2nd place at the Build-A-Bull hackathon. He's also had the chance to shake Silvio's hand at Decipher 2022. 
 
+  Scott is a full-stack Algorand developer with 20+ years of experience in front-end, back-end, and smart contract work. 
 
 ## Present Proposal
   press.algo is looking to use the 500,000 ALGO to develop a new platform. After receiving second place at the Build-A-Bull hackathon, press.algo has lacked the runway to develop a real business. The beta platform that currently exists is the result of a week of work. With funding, press.algo would be able to create a new platform that is user-friendly, efficient, and full of potential.
