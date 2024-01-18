@@ -1,5 +1,6 @@
 ---
 id: 142
+period: 3
 title: Composable Marketplace by Asalytic
 author: Vilijan Monev (@Vilijan)
 discussions-to: https://discord.gg/pdGsbnFvpK
