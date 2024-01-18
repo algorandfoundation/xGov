@@ -12,7 +12,7 @@ status: Draft
 ---
 
 ## Abstract
-  press.algo is creating the first ever WebMarket on Algorand. A WebMarket is an internet content marketplace where text, audio, and video are bought and sold. The monetization system on press.algo is simple. Using a pay-per-view system, press.algo ensures that the creator is paid for every view of their work, in perpetuity. The advantage of using Algorand for this type of system is the micropayments. Other content monetization services similar to press.algo like Patreon or Substack rely on credit cards and the traditional financial system, making it infeasible to run a micropayment marketplace for content. press.algo is a one-of-a-kind, novel, and unique, platform for the internet. 
+  There currently is no widely used application that uses blockchain technology. The average person still does not use blockchain to make transactions. They are stuck in the financial past. In the future, everyone will use Algorand like digital cash -- paying one another with peer-to-peer payments. press.algo is one of the first steps to achieving that future: a micropayment monetization system for internet content is vital infrastructure for onboarding every human on the planet to Algorand. With this grant, press.algo will develop a platform to onboard the next million crypto non-natives to Algorand, all the while developing never seen before use of the technology. 
 
 
 ## Team
@@ -24,11 +24,13 @@ Scott Bolasevich (FlippingAlgos) - Lead Full-stack Developer
 ## Experience with Algorand
   Dugan has been a member of the Algorand community since August 2022. He developed the idea for press.algo in September 2022. Since then, he has worked to make his idea a reality. His accolades include 3rd place at the AlgoHouse NYC pitch competition, 1st place at the AXL Ventures virtual pitch competition, and 2nd place at the Build-A-Bull hackathon.
 
-  Scott is a full-stack developer with 20+ years of experience. He has worked for shufl.app, Goanna, flippingalgos.xyz, 
+  Scott is a full-stack developer with 20+ years of experience. He has worked on over 30 projects in the Algorand ecosystem, including Nexus, Tucan Tribe, Jimcoin, THC, Buttcoin, Spawnlings, Al Goanna, Shufl, Taco Coin, Peperium, Outsyde, PRDAO, and many more. He developed the beta platform for press.algo in less than a week, which went on to win 2nd place at the Build-A-Bull hackathon. 
 
 ## Present Proposal
   press.algo is looking to use the 500,000 ALGO to develop a new platform. After receiving second place at the Build-A-Bull hackathon, press.algo has lacked the runway to develop a strong website. The beta platform that currently exists is the result of a few days of work. With funding, press.algo would be able to create a new platform that is user-friendly, efficient, and full of potential.
   To accomplish this, Dugan and Scott are preparing wire frames, workflows, and concepts to produce plans for the press.algo platform. They will do preparation work until funds are available for Scott to begin his development work. Scott will be working for 750 ALGO/hour for a total of 500 hours. This should be ample time to implement the plans that Dugan and Scott are preparing.
+  This new platform will be a complete redesign of the existing beta platform. The core concept is the same -- allow creators to monetize their work to earn in perpetuity. The idea is simple, but expansive. There are so many ways to monetize clicks on the platform. Viewers will now have the chance to earn simply for using the platform. press.algo's idea enables a complete re-structuring of what we know about the internet.
+    press.algo is targeting a non-crypto audience for this platform. This is why Algorand is the only blockchain for the job. No down-time, sub three second block times, and instant finality. The user experience on press.algo must be top class. To get the non-natives to stay, press.algo must act, look, and talk like a Web2 website. pressdot 
   press.algo is designed to be a sustainable business. This grant is meant to be a one time deal. press.algo will utilize the funds to develop a website that is self-sustaining, and will not rely on handouts to stay afloat. Every user on press.algo is a paying, incentivized customer. Using the press.algo monetization system benefits everyone. 
   
 
