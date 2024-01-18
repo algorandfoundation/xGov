@@ -27,7 +27,7 @@ A tool for generating Algorand vanity addresses using GPU acceleration.
 - The tool will be provided as a command line utility for systems that can run Python 3.11+ and have OpenCL 3.0 capable NVIDIA GPU
 - It can lookup for multiple prefixes at the same run, making the process more efficient compared to a single prefix search
 - The prefixes to look for can be specified as a command line argument or a text file
-- License: MIT
+- Licence: MIT
 
 ## Benefits for the community
 Allows the community to quickly and securely generate recognizable Algorand addresses for their projects or personal use.
