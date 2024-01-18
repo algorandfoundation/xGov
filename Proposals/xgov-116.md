@@ -1,5 +1,6 @@
 ---
 id: 116
+period: 3
 title: Subscription Payments
 author: krby.algo (@kylebeee)
 discussions-to: https://forum.algorand.org/t/xgov-111-subscription-payments/10875
