@@ -7,39 +7,53 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/147
 company_name: TealCraft
 category: Tools
 focus_area: DevTools
-open_source: NO
+open_source: yes
 amount_requested: TBD
 status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+Remix-like web IDE to write, compile, test, and deploy smart contracts on Algorand using TealScript.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+Shivaprasad - Developer
+- 10 years of experience in building web applications.
+- Core expertise in TypeScript.
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+Involved in the development of AlgoDesk, DappFlow, and PixelNode, contributing to the Algorand ecosystem over the past 2 years.
 
 ## Present Proposal
-A detailed plan for the development and implementation of the proposal.
 
-## Future Blueprint
-> This part can be optional for one shot grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
+Develop web-based IDE for TealScript, similar to Remix for solidity.
 
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
+But why? 
+1. No setup needed. All you need is Chrome.
+2. Workflow is simple, just write the contract in TealCraft IDE which supports complete TealScript IntelliSense, Compile, Deploy, and Test.
+3. share your contracts with anyone with a simple button click.
+4. New developer's onboarding becomes easy with an easy-to-use interface.
+
+Competitor blockchains already have this kind of IDE.
+Examples: 
+    1. Flow blockchain (https://play.flow.com)
+    2. Ethereum (https://remix.ethereum.org/)
+    3. Solana (https://beta.solpg.io/)
+    4. Aptos (https://playground.pontem.network/)
+
+Don't you think we need a similar IDE for Algorand ? Especially TealScript is going to attract the TypeScript developers.
+
+
+Here is the list of features:
+
+
+
+
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
+
+    1. Onboarding new developers is as simple as just sharing a simple workspace URL containing the contract. instead of asking them to set up everything.
+    2. The ability to share contracts and workspaces with a simple URL makes it easy to collaborate.
+    3. Are you trying to invoke someone else's contract ? TealCraft makes it easy to understand the application structure like methods(), states etc...
 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+<a href="https://tealcraft.org" target="_blank" >TealCraft</a>
