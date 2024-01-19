@@ -69,7 +69,7 @@ Online educational platform to teach crypto and fungi cultivation. Online market
 ## Benefits for the community
 
 #### Genuine Rewards Program
-The SPORE token’s only purpose is as a rewards and discount token for our products. This token will not be available on decentralized exchanges or other decentralized finance applications. SPORE can be used with out products to get up to a 20% discount, the amount of SPORE needed to get the full 20% discount will be voted on by our community.
+The SPORE token’s only purpose is as a rewards and discount token for our products. This token will not be available on decentralized exchanges or other decentralized finance applications. SPORE can be used with our products to get up to a 20% discount, the amount of SPORE needed to get the full 20% discount will be voted on by our community.
 
 #### Educational
 The on-boarding of new Algorand users will occur with each new student that completes our courses. Courses will explain how the Algorand blockchain works and how we integrate our farms with the technology.
