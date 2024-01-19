@@ -1,5 +1,6 @@
 ---
 id: 110
+period: 3
 title: Pixelnode - Oneclick node manager
 author: Shivaprasad Manupadi (@shivamanupadi)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/110
@@ -18,9 +19,10 @@ Offering a seamless installation process and an intuitive web interface for easy
 
 Links:
 
-* [![Website](https://img.shields.io/badge/Website-PixelNode-blue)](https://www.pixelnode.org)
-* [![Twitter](https://img.shields.io/badge/Twitter-%40pixelnode_-informational)](https://twitter.com/pixelnode_)
-* [![Discord](https://img.shields.io/badge/Discord-Pixelnode-brightgreen)](https://discord.gg/HeegumVJwb)
+* https://www.pixelnode.org
+* https://twitter.com/pixelnode_
+* https://discord.gg/HeegumVJwb
+
 
 
 ## Team
@@ -68,11 +70,13 @@ Involved in the development of AlgoDesk, DappFlow, and PixelNode, contributing t
   2. Update PixelNode with a single click if a new version is released.
   3. Restart your PixelNode instance.
   4. Factory reset PixelNode.
+  5. Setup Env variables GOGC=50, GOMEMLIMIT=90% of memory by install/upgrade script
+  6. Ability to download PM@ logs and DMESG logs to debug incase of node crash.
 
 
 ## Future Blueprint
 
-Plans for future releases:
+Plans for future releases (Not part of this milestone):
 
 1. Improve stability before node incentives go live.
 2. System monitor to check CPU usage, Disk usage, etc. (probably use netdata)
