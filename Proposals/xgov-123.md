@@ -3,7 +3,7 @@ id: 123
 period: 3
 title: AlgoDirectory (directory.algo)
 author: Brian (@SilentRhetoric), Christian (@tak-o-kat)
-discussions-to: https://forum.algorand.org/
+discussions-to: https://forum.algorand.org/t/xgov-123-algodirectory-directory-algo/11078
 company_name: Distributed Ledger Technologies
 category: dApps
 focus_area: User Onboarding
