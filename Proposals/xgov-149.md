@@ -2,7 +2,7 @@
 id: 149
 period: 3
 title: CompX - Farm Rewards with Lock Weighting
-author: @xxiled-plastic-cat for CompXLabs
+author: Kieran Nelson (@xxiled-plastic-cat )
 discussions-to: https://github.com/algorandfoundation/xGov/pull/149
 company_name: CompX Labs
 category: dApps
@@ -13,12 +13,17 @@ status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+
+AT CompX we pride ourselves on bringing innovative solutions to the Algorand DeFi ecosystem. Our auto-compounding farms give users new strategies to earn higher yield in a more efficient manner. To further enhance our auto-compounding farm product we want to introduce a mechanism where users can yield additional rewards on top of the farm APR and the auto-compounding bonus.
+
+
 
 ## Team
+
 Information about the team members and their qualifications, including relevant experience and skills.
 
 ## Experience with Algorand
+
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
 > eg
     > Using SDKs 
@@ -28,18 +33,16 @@ Details about the team's experience with the Algorand protocol and any previous 
     > Running nodes
 
 ## Present Proposal
-A detailed plan for the development and implementation of the proposal.
 
-## Future Blueprint
-> This part can be optional for one shot grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
+We propose to create a mechanism that gives CompX the ability to add targeted rewards to our auto-compounding farms and rewarding users with additional yield if they hold their position in that farm for a specified amount of time. However, these lock up periods are not mandatory and users can exit their positions at any time however they will forfeit an amount of their additional rewards based on the time left in the lock-up period for the farm position.
 
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
+Development plan
+> Creation of reward payout mechanism tied to function of users time within a farm position
+> Front-end changes to allow for review of additional rewards and lock up periods
+> Update to back end databases to allow for multiple farms of the same type with different lock up period to allow more diverse strategies for users.
+> Test on staging via testnet to gather feedback and implement further changes if necessary.
+
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
 
-## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+Giving the community different avenues to gain further yield on their tokens empowers users with more options and strategies for their DeFi. Additionally incentivising our auto-compounding farms leads to additional transaction volume for Algorand blockchain as a whole.
