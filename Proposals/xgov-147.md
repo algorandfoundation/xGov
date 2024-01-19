@@ -1,9 +1,9 @@
 ---
-id: 146
+id: 147
 period: 3
-title: TealCraft - Remix like IDE for TealScript
+title: TealCraft - Remix-like IDE for TealScript
 author: Shivaprasad Manupadi (@shivamanupadi)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/146
+discussions-to: https://github.com/algorandfoundation/xGov/pull/147
 company_name: TealCraft
 category: Tools
 focus_area: DevTools
