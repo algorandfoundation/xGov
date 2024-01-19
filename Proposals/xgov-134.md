@@ -3,7 +3,7 @@ id: 134
 period: 3
 title: AlgoROSSA
 author: SilentRhetoric (@SilentRhetoric)
-discussions-to: [https://forum.algorand.org](https://forum.algorand.org/t/xgov-130-139-algorossa/11079)
+discussions-to: https://forum.algorand.org/t/xgov-130-139-algorossa/11079
 company_name: N/A
 category: Other
 focus_area: Other
