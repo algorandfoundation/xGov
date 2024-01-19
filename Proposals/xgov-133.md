@@ -34,4 +34,4 @@ Funding this proposal will enable xGov grant funding to be appropriated through 
 
 ## Additional information
 
-Vote for as many iterations of this proposal as you want to fund.
+The AlgoROSSA proposal has been submitted in ten shards of 10kA each rather than one large request of 100kA.  Please vote for as many shards as you want to fund.
