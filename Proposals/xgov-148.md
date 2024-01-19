@@ -13,33 +13,45 @@ status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+
+So you’ve found the next 100x coin, your excited! You bought some yesterday and you bought some today - but the price changed in that time - green candles of course! - but how does that affect your return? What’s your average buying price? What happened in between your buys, what was the volume?
+
+Coin Tracker+ is another innovative feature brought to you by CompX. Analytics are great but personalised analytics are even better. Select any coin/token/ASA/NFT and get a personalised dashboard related to your holdings, buying, selling, average prices and overall P+L. Find farming/staking opportunities to your holdings and get alerts on price changes.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+
+### Development Team
+
+> Kieran Nelson - Development Lead
+    > Former Algogator.finance CEO
+    > Full stack development
+    > 12+ years development experience
+> Ronan Clooney - Smart Contract Specialist
+    > smart contract development experience from CompX and Algomint
+> Guarev - Front end Developer
+    > Responsible for front end development across CompX, Algomint, Meld Gold
 
 ## Experience with Algorand
+
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+> Total team experience
+    > Highly experienced using Algorand sdks
+    > Previously buitl and repsonsible for 5 applications on Algorand - Algogator, Algomint, xBacked, Meld Gold, X-NFT
+    > Combined 7 years experience creating dApps on Algorand
+    > Well versed in Algorand smart contracts
 
 ## Present Proposal
-A detailed plan for the development and implementation of the proposal.
 
-## Future Blueprint
-> This part can be optional for one shot grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
+CoinTracker+ will provide a detrailed and personalised dashboard for ASAs that you follow and are invested in. The following features will be available within CoinTracker+:
+> Available pools/farms or staking opportunities
+> Network analytics - volume, price movement, holders
+> Current profit and loss
+> DCA position with 24hr change
+> Graphical representation of current position including yields
+> Easily add and remove ASAs from CoinTracker+ with one click.
 
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
+CoinTracker+ will be a feature within the CompX dApp, accesible via the main navigation menu and from the portfolio dashboard. Chosen ASAs will be saved against wallet inforamtion to ensure that your tracked ASAs are available whenever you enter tyhe CompX dApp.
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
 
-## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+Allowing Algorand users to better understand their position against various ASAs over time to identify if they are up, down or neutral. Will also serve as nroute to find new opportunities for the selected ASAs. Users can add up to 10 individual ASAs to CoinTracker+ providing them with personalised stats for each.
