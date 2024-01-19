@@ -2,7 +2,7 @@
 id: 148
 period: 3
 title: CompX - CoinTracker+
-author: @xxiled-plastic-cat for CompXLabs
+author: Kieran Nelson (@xxiled-plastic-cat)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/148
 company_name: CompX Labs
 category: dApps
