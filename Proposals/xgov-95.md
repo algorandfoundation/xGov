@@ -13,7 +13,7 @@ status: Final
 ---
 
 ## Abstract
-Develop a "match-2/memory" open-source browser game with scoring that showcases algorand NFT collections. It provides a fun and competitive experience of discovering different algorand NFTs for exisitng or new community members. It can also be used as a tool for giveaways/competitions.
+Develop a "match-2/memory" open-source browser game with scoring that showcases algorand NFT collections. It provides a fun and competitive experience of discovering different algorand NFTs for exisitng or new community members. It can also be used as a tool for giveaways/competitions. In the future we would like to expand this to crosschain platform to help with onboarding new users to algorand NFT scene.
 ## Team
 <a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
 
@@ -25,10 +25,10 @@ We have a strong understanding of the NFT space, the technical specifications, a
 This open-source browser "match-2/memory" game will be available for use to anyone in the Algorand community. It is a fun way to ENGAGE a community and to SHOWCASE an NFT collection or a collection of NFTs from different projects (you can fill the tiles with your own NFTs, or randomly with NFTs from different NFT collections). It also adds additional UTILITY to an NFT collection as it allows projects to host competitions for their community, run promotional giveaways, or just to flex their superior art. We will maintain the platform and rotate “spotlight” collections, but as it’s also open-sourced other projects or community will be able to deploy their own version with the customizations they require. Try the MVP version of the game here:  <a href="https://cosmic-match.vercel.app" target="_blank">https://cosmic-match.vercel.app</a>
 
 ## Future Blueprint
-The platform has huge potential for future development by adding s simple self-hosted competition/giveaways options for proejcts to gain exposure and to engage their own and new communities.
+The platform has huge potential for future development by going cross chain, so it can engage wider blockchain NFT community. It can we updated by adding s simple self-hosted competition/giveaways options for proejcts to gain exposure and to engage new communities.
 
 ## Benefits for the community
-It is a fun way to ENGAGE a community and to SHOWCASE an NFT collection or a collection of NFTs from different projects. It also adds additional UTILITY to any NFT collection as it allows projects to host competitions with their NFT collections, run promotional giveaways, or just to flex their superior art in specific collections. It’s also open-sourced anyone will be able to deploy their own version with the customizations they require. 
+It is a fun way to ENGAGE a community and to SHOWCASE an NFT collection or a collection of NFTs from different projects. It also adds additional UTILITY to any NFT collection as it allows projects to host competitions with their NFT collections, run promotional giveaways, or just to flex their superior art in specific collections. It’s also open-sourced anyone will be able to deploy their own version with the customizations they require. In the future it can be expanded to support multiple chains, end thus enabling onbloarding new communities.
 
 ## Additional information
 Play our game here: <a href="https://beta.cosmicchamps.com/" target="_blank">https://beta.cosmicchamps.com/</a>
