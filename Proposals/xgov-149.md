@@ -2,7 +2,7 @@
 id: 149
 period: 3
 title: CompX - Farm Rewards with Lock Weighting
-author: Kieran Nelson (@xxiled-plastic-cat )
+author: Kieran Nelson (@xxiled-plastic-cat)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/149
 company_name: CompX Labs
 category: dApps
