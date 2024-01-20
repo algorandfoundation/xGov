@@ -7,8 +7,8 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/149
 company_name: CompX Labs
 category: dApps
 focus_area: DeFi
-open_source: TBD
-amount_requested: 50000
+open_source: No
+amount_requested: 200000
 status: Draft
 ---
 
@@ -16,21 +16,27 @@ status: Draft
 
 AT CompX we pride ourselves on bringing innovative solutions to the Algorand DeFi ecosystem. Our auto-compounding farms give users new strategies to earn higher yield in a more efficient manner. To further enhance our auto-compounding farm product we want to introduce a mechanism where users can yield additional rewards on top of the farm APR and the auto-compounding bonus.
 
-
-
 ## Team
 
-Information about the team members and their qualifications, including relevant experience and skills.
+### Development Team
+
+> Kieran Nelson - Development Lead
+    > Former Algogator.finance CEO
+    > Full stack development
+    > 12+ years development experience
+> Ronan Clooney - Smart Contract Specialist
+    > smart contract development experience from CompX and Algomint
+> Guarev - Front end Developer
+    > Responsible for front end development across CompX, Algomint, Meld Gold
 
 ## Experience with Algorand
 
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+> Total team experience
+    > Highly experienced using Algorand sdks
+    > Previously buitl and repsonsible for 5 applications on Algorand - Algogator, Algomint, xBacked, Meld Gold, X-NFT
+    > Combined 7 years experience creating dApps on Algorand
+    > Well versed in Algorand smart contracts
 
 ## Present Proposal
 
