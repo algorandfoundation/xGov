@@ -1,13 +1,13 @@
 ---
 id:  150
-period:10
-title: Cross-Chain community collaberation
+period:3
+title: Cross-Chain community collaboration
 author: Linnen @ambassador-linnen
 discussions-to: https://twitter.com/ambassadorsalgo
 company_name: ambassadors.algo
 category: Community
-focus_area: Cross-Chain community partnerships
-open_source: Yes
+focus_area: social
+open_source: no
 amount_requested: 15000
 status:Final
 ---
