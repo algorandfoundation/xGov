@@ -42,8 +42,6 @@ Share your TealScript contracts effortlessly. TealCraft IDE simplifies collabora
 **Onboarding Simplicity:**
 Facilitate the onboarding process for new developers with an easy-to-use interface. TealCraft IDE aims to make the Algorand ecosystem accessible to developers of all skill levels.
 
-Don't you think we need a similar IDE for Algorand? Especially TealScript.
-
 **Key Features:**
 
 **Workspace Management:**
