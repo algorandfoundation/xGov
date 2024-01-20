@@ -7,8 +7,8 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/148
 company_name: CompX Labs
 category: dApps
 focus_area: Tools
-open_source: TBD
-amount_requested: 30000
+open_source: No
+amount_requested: 50000
 status: Draft
 ---
 
