@@ -47,6 +47,7 @@ Development plan
 > Front-end changes to allow for review of additional rewards and lock up periods
 > Update to back end databases to allow for multiple farms of the same type with different lock up period to allow more diverse strategies for users.
 > Test on staging via testnet to gather feedback and implement further changes if necessary.
+> Smart Contract audit
 
 
 ## Benefits for the community
