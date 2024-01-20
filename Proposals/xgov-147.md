@@ -42,13 +42,6 @@ Share your TealScript contracts effortlessly. TealCraft IDE simplifies collabora
 **Onboarding Simplicity:**
 Facilitate the onboarding process for new developers with an easy-to-use interface. TealCraft IDE aims to make the Algorand ecosystem accessible to developers of all skill levels.
 
-Competitor blockchains already have this kind of IDE.
-Examples: 
-    1. Flow blockchain (https://play.flow.com)
-    2. Ethereum (https://remix.ethereum.org/)
-    3. Solana (https://beta.solpg.io/)
-    4. Aptos (https://playground.pontem.network/)
-
 Don't you think we need a similar IDE for Algorand? Especially TealScript.
 
 **Key Features:**
