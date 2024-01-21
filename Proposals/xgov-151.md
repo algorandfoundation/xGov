@@ -1,14 +1,14 @@
 ---
-id: X
+id: 151
 title: Honeypot
 author: Concerned xGov (@concernedxgov)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/XX
+discussions-to: https://github.com/algorandfoundation/xGov/pull/151
 company_name: xGov Honeypot Inc.
 category: Other
 focus_area: Other
 open_source: Yes
 amount_requested: 10000
-status: Draft
+status: Final
 ---
 
 ## Abstract
