@@ -15,7 +15,7 @@ status: Final
 ## Abstract
 Gaming will onboard the next big wave of users to Algorand. As one of the oldest and biggest games on algorand we are uniquely positioned to to carry lions share of that influx. Our recent nomination for best blockchain game of 2023 is a good indicator of that. 
 
-To help establish the narrative that Algorand is great for gaming it is crucial that games are secure, performant and ideally built to appeal the masses (e.g. actually fun to play) - all of which Cosmic Champs is!
+To help establish the narrative that Algorand is great for gaming it is crucial that lead games are secure, performant and ideally built to appeal the masses (e.g. actually fun to play) - all of which Cosmic Champs is!
 
 To date, we are the only game that supports real time 3d PVP, with authoritative servers (more secure) on Algorand. This increased security and performance - which are both crucial as they implicity represent Algorand itself (to an uneducated user, a buggy/slow game equals algorand is buggy and slow) are incuring high infrastructure costs for our project and our platform. 
 
@@ -39,7 +39,7 @@ The funds will be allocated 50% to our AWS account where we are subscribing our 
 
 The other 50% will be allocated towards dev work involved with migrating the fleet and updating the server code as well as to cover other costs such as Certificates, subscriptions and non-AWS infrastructure for next few months (we try to disperse our infrastructure(within reason) so we don't have a single point of failure).
 
-To date we have built and maintaned entire Cosmic champs platform (android + ios + browser game, 4 utility web pages and 2 seasons of innovative fully animated 3d game-ready AR compatibile NFTs) on our own (and VC) funding, we weren't recipient of any of the $8MM+ in grants that were allocated to the "algorand gaming" scene by the foundation, yet we can easily be considered benchmark in the space.
+To date we have built and maintaned entire Cosmic champs platform (android + ios + browser game, 4 utility web pages and 2 seasons of innovative fully animated 3d game-ready AR compatibile NFTs) on our own (and VC) funding, we weren't recipient of any of the $8MM+ in grants that were allocated to the "algorand gaming" scene by the foundation neither have we received direct investment from them, yet we can easily be considered benchmark in the space.
 
 We are hopefull xgovs will recognize our contribution and value we bring to the ecosystem and will support our endeavours to ensure we remain on top of our game and fully prepared for the upcomming bull.
 
