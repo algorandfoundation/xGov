@@ -3,7 +3,7 @@ id: 156
 period: 3
 title: Open Source ARC53 Tooling
 author: krby.algo (@kylebeee)
-discussions-to: https://forum.algorand.org/
+discussions-to: https://forum.algorand.org/t/xgov-156-open-source-arc53-tooling/11112
 company_name: Akita
 category: dApps
 focus_area: Defi
