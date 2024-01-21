@@ -1,7 +1,7 @@
 ---
 id: 152
 period: 3
-title: Algorand as go-to chain for Gaming (establishing the RWA narrative)
+title: Algorand is the go-to chain for Gaming (establishing the RWA narrative)
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://discord.gg/cosmicchamps
 company_name: Cosmic Champs International Limited
@@ -17,7 +17,7 @@ Gaming will onboard the next big wave of users to Algorand. As one of the oldest
 
 To help establish the narrative that Algorand is great for gaming it is crucial that lead games are secure, performant and ideally built to appeal the masses (e.g. actually fun to play) - all of which Cosmic Champs is!
 
-To date, we are the only game that supports real time 3d PVP, with authoritative servers (more secure) on Algorand. This increased security and performance - which are both crucial as they implicity represent Algorand itself (to an uneducated user, a buggy/slow game equals algorand is buggy and slow) are incuring high infrastructure costs for our project and our platform. 
+To date, we are the only game that supports real time 3d PVP, with authoritative servers (more secure) on Algorand. This increased security and performance - which are both crucial as they implicity represent Algorand itself (to an uneducated user, a buggy or slow game experience can easily be turned into misconception that Algorand is buggy and slow) are incuring high infrastructure costs for our project and our platform. 
 
 To meet the increasing userbase and be prepared for future influx on gamers, we need to migrate our server fleet to a more powerful instances that will be able to handle sudden spikes in active game sessions better. Xgov grant will help us to maintain the industry standard performance without introducing friction to the new people entering Algorand ecosystem for the intermediate time until we reach critical mass to become profitable.
 
@@ -54,6 +54,8 @@ To date, we are the only game that supports real time 3d PVP, with authoritative
 Cosmic Champs has been recognized with a nomination for the best blockchain game of 2023 by PlayToEarn. This nomination is a testament to the game’s impact and potential in the blockchain gaming community. Even more so as we were the only Algorand game that was nominated. 
 
 We are constantly looking for new ways how to empower other Algorand projects (cross community NFT collabs, branded prize bots in our game) so they can benefit from our exposure and success and vice-versa.
+
+Recently we've seen Blockchains or L2 solutions that heavily focus on gaming constantly topping the charts on dapradar, by either UAW or tx count - simply because gaming is sich a huge market. Algorand's tech is perfect fit, let's push this the narrative together.
 
 ## Additional information
 Play our game here: <a href="https://beta.cosmicchamps.com/" target="_blank">https://beta.cosmicchamps.com/</a>
