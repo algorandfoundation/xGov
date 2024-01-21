@@ -9,7 +9,7 @@ category: dApps
 focus_area: DeFi
 open_source: No
 amount_requested: 200000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -27,14 +27,14 @@ AT CompX we pride ourselves on bringing innovative solutions to the Algorand DeF
 > Ronan Clooney - Smart Contract Specialist
     > smart contract development experience from CompX and Algomint
 > Guarev - Front end Developer
-    > Responsible for front end development across CompX, Algomint, Meld Gold
+    > Responsible for front end development across CompX and Algomint
 
 ## Experience with Algorand
 
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
 > Total team experience
     > Highly experienced using Algorand sdks
-    > Previously buitl and repsonsible for 5 applications on Algorand - Algogator, Algomint, xBacked, Meld Gold, X-NFT
+    > Previously built and repsonsible for 5 applications on Algorand - Algogator, Algomint, xBacked, Meld Gold, X-NFT
     > Combined 7 years experience creating dApps on Algorand
     > Well versed in Algorand smart contracts
 
