@@ -1,13 +1,13 @@
 ---
 id: 157
 period: 3 
-title: Centralised Bridge Proposal: "Cardano (ADA) to Algorand (Algo)"
-author:  "Giles Campbell & Ronan Clooney (@clooneyr)"
+title: Centralised Bridge Proposal - Cardano (ADA) to Algorand (Algo)
+author:  Giles Campbell & Ronan Clooney (@clooneyr)
 discussions-to: https://discord.gg/hMcQcDWptY
 company_name: Algomint
 category: dApps
 focus_area: Cross-chain
-open_source: "No (Centralised Bridge)"
+open_source: No (Centralised Bridge)
 amount_requested: 260,000A
 status: Final
 ---
