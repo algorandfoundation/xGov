@@ -7,23 +7,15 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/110
 company_name: Pixelnode
 category: Tools
 focus_area: Node
-open_source: Yes
-amount_requested: TBD
-status: Draft
+open_source: NO
+amount_requested: 250000
+status: Final
 ---
 
 ## Abstract
 
-PixelNode is a user-friendly solution for Algorand node management.
+PixelNode is a user-friendly One-click node solution for Algorand node management.
 Offering a seamless installation process and an intuitive web interface for easy interaction with Algorand nodes.
-
-Links:
-
-* https://www.pixelnode.org
-* https://twitter.com/pixelnode_
-* https://discord.gg/HeegumVJwb
-
-
 
 ## Team
 
@@ -71,7 +63,7 @@ Involved in the development of AlgoDesk, DappFlow, and PixelNode, contributing t
   3. Restart your PixelNode instance.
   4. Factory reset PixelNode.
   5. Setup Env variables GOGC=50, GOMEMLIMIT=90% of memory by install/upgrade script
-  6. Ability to download PM@ logs and DMESG logs to debug incase of node crash.
+  6. Ability to download PM2 logs and DMESG logs to debug incase of node crash.
 
 
 ## Future Blueprint
@@ -89,4 +81,11 @@ Plans for future releases (Not part of this milestone):
 People without technical knowledge can self-host Algorand nodes and manage participation keys effortlessly.
 
 ## Additional information
+Installation command:
 ```sudo curl -L http://get.pixelnode.org | sudo bash```
+
+Links:
+
+* https://www.pixelnode.org
+* https://twitter.com/pixelnode_
+* https://discord.gg/HeegumVJwb
