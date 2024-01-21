@@ -8,7 +8,7 @@ category: dApps
 focus_area: Governance, Smart Contracts, Tooling, Wallets
 open_source: Yes
 amount_requested: 375000
-status: Draft
+status: Final
 ---
 
 # Abstract
