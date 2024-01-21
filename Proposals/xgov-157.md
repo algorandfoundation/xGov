@@ -38,12 +38,6 @@ Algomint is a pivotal contributor to the Algorand ecosystem, specialising in a c
 ## Present Proposal
 This proposal seeks funding of 260,000A  to develop a centralised bridge between Cardano and Algorand, providing users with a reliable means to transfer and both ADA and ALGO across these ecosystems, with bridged assets securely held in cold storage through our custody provider.
 
-## Future Blueprint
-> This part can be optional for one shot grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
-
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
-
 ## Benefits for the community
 This opens up the ability to collaborate with Cardano projects and incentivise Cardano users to bridge and try Algorand technology, DeFi and general ecosystem.
 
