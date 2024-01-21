@@ -1,5 +1,5 @@
 ---
-id: <proposal number (same as PR)>
+id: 157
 period: 3 
 title: Centralised Bridge Proposal: Cardano (ADA) to Algorand (Algo)
 author:  Giles Campbell & Ronan Clooney (@clooneyr)
