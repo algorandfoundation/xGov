@@ -1,5 +1,6 @@
 ---
 id: 151
+period: 3
 title: Honeypot
 author: Concerned xGov (@concernedxgov)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/151
