@@ -7,7 +7,7 @@ company_name: Anonymous Individual
 category: Community
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 5,000 ALGO  
+amount_requested: 10,000 ALGO  
 status: Draft  
 ---
 
