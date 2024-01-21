@@ -19,13 +19,14 @@ Subscription payments are a common feature across most industries and are essent
 Krby (https://twitter.com/kylebeeeee) has been a full time software engineer for over 7 years and has been spending his evenings building Akita for the better part of the last 2 years following the original dev teams departure. He's built a number of massive features for the Akita community including a staking platform, discord payment & verification bot (integrated with NFD's), Yoink Ball (an in person king of the hill game utilizing Freeze & Clawback) and a permissionless Community spec (ARC-53).
 
 ## Experience with Algorand
-For nearly the last 2 years Krby has been spending his evenings building on Algorand. From writing PyTeal smart contracts to building the base components of a longer term vision; a social platform built ontop of Algorand, NFDs, subscriptions & the community page spec. To date he's delivered an astounding amount of value to the Algorand / Akita community and has been the driving force behind the growth of the Akita platform:
+For nearly the last 2 years Krby has been spending his evenings building on Algorand. From writing smart contracts to building the base components of a longer term vision; a social platform built ontop of Algorand, NFDs, subscriptions & the community page spec. To date he's delivered an astounding amount of value to the Algorand / Akita community and has been the driving force behind the growth of the Akita platform:
 
 - The most flexible staking platform on Algorand
 - A discord bot that enables payments, verification, and more
 - Yoink Ball, an in person game of king of the hill utilizing Freeze & Clawback
-- A permissionless community spec that enables NFT and project exploration with some of the best UX on Algorand
+- Author of ARC53, a permissionless community spec that enables NFT and project exploration with some of the best UX on Algorand
 - A shuffle system for Akita Omnigems where the NFTs have no data attached to them before sale
+- Co-Author of ARC58, the Abstracted Account spec.
 
 ## Present Proposal
 The features for version 1 include:
