@@ -24,7 +24,7 @@ For nearly the last 2 years Krby has been spending his evenings building on Algo
 - The most flexible staking platform on Algorand
 - A discord bot that enables payments, verification, and more
 - Yoink Ball, an in person game of king of the hill utilizing Freeze & Clawback
-- A permissionless community spec that enables NFT and project exploration with some of the best UX on Algorand
+- Author of ARC53, a permissionless community spec that enables NFT and project exploration with some of the best UX on Algorand
 - A shuffle system for Akita Omnigems where the NFTs have no data attached to them before sale
 - Co-Author of ARC58, the Abstracted Account spec.
 
