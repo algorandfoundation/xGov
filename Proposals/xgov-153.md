@@ -1,9 +1,9 @@
 ---
-id: <proposal number (same as PR)>
-period: 4
+id: 153
+period: 3
 title: Neighborhood Vehicle Share -mobility-as-a-service application-
 author: William H. (@dangnangdang)
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: Proposals/xGov-153.md
 company_name: Coollife
 category: dApp, NFT
 focus_area: Deployment,NFT
@@ -21,7 +21,7 @@ Project manager: B.A. of Business Administration with a degree in Business Manag
 Developer: We will use contractors until the point in time whereby the dApp is needed to be created/maintained.  We are hoping to trade equity to a trusted group of unicorn developers when that time comes.
 
 ## Experience with Algorand
-We have minted our ASA - and we have two to choose from.  One has 4B total supply and one has 8B - both are adequately positioned pricewise to offer a low entry point to investors in the token presale. 
+We have minted our ASA - and we have two to choose from.  One has 4B total supply and one has 8B - both are adequately positioned price-wise to offer a low entry point to investors in the token presale. 
 
 ## Present Proposal
 Phase 1 - grant proposal, incorporation & legal/accoounting setup, token presale
@@ -36,16 +36,19 @@ Their length of subscription will determine the hierarchy of reservation - meani
 We envision young people starting out - either in a committed relationship or just friendships - being able to cheuffeur one another to work/errands.  We share Algorand's goal of making better-life things possible.
 
 ## Future Blueprint
-We have a 3-4 year plan to have vehicles available to the end-user/subscriber.  Then to expand as the financial health of the company allows from year 4-5 onward.  This is the reason it is currently considered 
-desireable to only presale between 10-15% of the company's shares.  Our currently proposed pricing/entry point easily allows for $6 million to be generated from the 'presale' of this percentage.  This is accepted
+We have a 3-4 year plan to have vehicles available to the end-user/subscriber.  Then we hope to expand as the financial health of the company allows from year 4-5 onward.  This is the reason it is currently considered 
+desireable to only presale between 10-15% of the company's shares/tokens.  Our currently proposed pricing/entry point easily allows for $6 million to be generated from the 'presale' of this percentage.  This is considered
 as being enough to fund the project through phase 3.
 
 ## Benefits for the community
-The benefits to the community are impossible to overstate.  Lots of new wallets, lots of MRB/Vs, lots of opt-ins to USDCgo, robust support to the Algorand defy sector, and of course daily transaction volume.
+The benefits to the community are impossible to overstate.  Lots of new wallets, lots of MRB/Vs, lots of opt-ins to USDCgo, robust support to the Algorand defy sector, and of course daily transaction volume.  We plan to use a WEB3 payments widget on the 
+presale website - which I've received estimates of over $20,000 + 5% commission as the cost associated with this and is a critical element prompting the necessity of this grant - to require a double transaction to/with Algorand for a minimum of USDC to enter the 'contract' along with the Algorand -ALGO, to swap for our tokens.
 
 ## Additional information
 
-We will not sell our token in the United States.  We have a marketing strategy and website to target native Spanish speakers.  Coollife in Spanish is Vida Chida - www.vidachida.com is all ours!
+We will not sell our token in the United States.  We have a marketing strategy and website to target native Spanish speakers.  The proposed project manager is a fluent Spanish speaker.  Coollife in Spanish is vida chida - www.vidachida.com is all ours!
+
+The project manager cashed out his government retirement account to invest around $20,000 in the project's establishment/success.  So a huge thing on the line and plenty of personal 'skin in the game'.
 
 We plan to use an NFT as the membership card to our service - which also serves as the keys to the vehicle by utilizing the internet connection to the vehicle or cellphone NFC technology
 interacting with either our dApp or the Pera/Defly wallet.  This NFT will require an amount of our ASA to be burned to create - which will create a steady supply of market token buyers.  
