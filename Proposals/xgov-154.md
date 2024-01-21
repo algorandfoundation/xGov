@@ -6,7 +6,7 @@ author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://discord.gg/cosmicchamps
 company_name: Cosmic Champs International Limited
 category: Community
-focus_area: Onboarding
+focus_area: User Onboarding
 open_source: No
 amount_requested: 250000
 status: Final
