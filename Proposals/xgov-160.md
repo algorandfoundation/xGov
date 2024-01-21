@@ -3,7 +3,7 @@ id: <proposal number (same as PR)>
 period: 3 
 title: Centralised Bridge Proposal: Cardano (ADA) to Algorand (Algo)
 author:  Giles Campbell & Ronan Clooney (@clooneyr)
-discussions-to: [discord](https://discord.gg/hMcQcDWptY)
+discussions-to: https://discord.gg/hMcQcDWptY
 company_name: Algomint
 category: dApps
 focus_area: Cross-chain
