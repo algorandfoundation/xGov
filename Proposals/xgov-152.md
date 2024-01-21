@@ -19,7 +19,7 @@ To help establish the narrative that Algorand is great for gaming it is crucial 
 
 To date, we are the only game that supports real time 3d PVP, with authoritative servers (more secure) on Algorand. This increased security and performance - which are both crucial as they implicity represent Algorand itself (to an uneducated user, a buggy/slow game equals algorand is buggy and slow) are incuring high infrastructure costs for our project and our platform. 
 
-To meet the increasing userbase and be prepared for future influx on gamers, we need to migrate our server fleet to a more powerful instances that will be able to handle sudden spikes in active game sessions better. Xgov grant will help us to maintain the industry standard performance without introducing friction to the new people entering Algorand ecosystem for the intermediate time untill we reach critical masss to become profitable.
+To meet the increasing userbase and be prepared for future influx on gamers, we need to migrate our server fleet to a more powerful instances that will be able to handle sudden spikes in active game sessions better. Xgov grant will help us to maintain the industry standard performance without introducing friction to the new people entering Algorand ecosystem for the intermediate time until we reach critical mass to become profitable.
 
 ## Team
 <a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
@@ -33,7 +33,7 @@ Blockchain Gaming will onboard the next big wave of users to Algorand. As one of
 
 To meet the increasing userbase and be prepared for future influx on gamers, we need to migrate our server fleet to a more powerful instances that will be able to handle sudden spikes in active game sessions better.
 
-Xgov grant will help us to maintain the industry standard performance without introducing friction to the new people entering Algorand ecosystem for the intermediate time untill we reach critical masss to become profitable.
+Xgov grant will help us to maintain the industry standard performance without introducing friction to the new people entering Algorand ecosystem for the intermediate time until we reach critical mass to become profitable.
 
 The funds will be allocated 50% to our AWS account where we are subscribing our server fleet which we scale to meet the demand with increasing user base. We are happy to take/convert to AWS credits to ensure the funds are locked for this particular use.
 
