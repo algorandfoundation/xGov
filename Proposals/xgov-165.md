@@ -2,10 +2,10 @@
 id: 165
 period: 3
 title: Messina.one Algorand <=> EVM NFT Bridge
-author: @FoundryKev, @rh-low, @miketsl
+author: @FoundryKev Community, Partnerships, and Business Manager at Messina/AlgoFoundry
 company_name: Messina.one
 category: Tools
-focus_area: NFT, Infrastructure
+focus_area: NFT
 open_source: Yes
 amount_requested: 300000
 status: Draft
