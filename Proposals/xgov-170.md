@@ -26,7 +26,6 @@ LinkedIn: https://www.linkedin.com/in/luca-jesco-brandt-b73079243/
 
 GitHub: https://github.com/heartberg
 
-
 Mark Crae
 
 Product manager / designer with 10+ years of professional experience
