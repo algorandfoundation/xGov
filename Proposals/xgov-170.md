@@ -2,7 +2,7 @@
 id: 170
 period: 3
 title: A Highly Intuitive Decentralized Voting System with Customizable Contract Deployer
-author: Mark Craemer (@tropical-vacay), Jesco Brandt (@heartberg)
+author: Mark Crae (@tropical-vacay), Jesco Brandt (@heartberg)
 discussions-to: https://discord.gg/x4tExuwVXV
 company_name: Everyone
 category: dApps, Infrastructure
@@ -18,7 +18,7 @@ This proposal aims to build a highly intuitive, no-code voting system that enabl
 With a focus on accessibility and a streamlined user-experience, the platform aims to onboard teams and communities from within and outside the Algorand ecosystem. We aim to create the most user-friendly voting system within crypto, while supporting a range of voting models and use cases.
 
 ## Team
-#### Jesco Brandt
+Jesco Brandt
 
 Full Stack Engineer with 3 years of professional experience
 
@@ -27,7 +27,7 @@ LinkedIn: https://www.linkedin.com/in/luca-jesco-brandt-b73079243/
 GitHub: https://github.com/heartberg
 
 
-#### Mark Craemer
+Mark Crae
 
 Product manager / designer with 10+ years of professional experience
 
@@ -35,8 +35,6 @@ LinkedIn: https://www.linkedin.com/in/craemer
 
 ## Experience with Algorand
 Jesco has been actively developing Algorand based projects for >3 years. In this time he has created ~20 PyTeal smart contracts and multiple Front / Back ends to support this. The smart contracts cover a wide range of application types, including staking, vesting, trading, and more.
-
-Mark has worked as a Product Manger / Product Designer on many projects including mobile apps, enterprise web apps, and web3 projects.
 
 Together, Mark and Jesco have been building the www.everyone.space platform for the past year. When launched, Everyone will provide key tokenization and NFT infrastructure for the Algorand ecosystem.
 
