@@ -38,7 +38,7 @@ The extension adds a support for TEAL to Visual Studio Code.
 
 - It comes with a Language Server Protocol server for TEAL that can be potentially used with other LSP-compatible editors.
 - The extension will be publicly available from the Visual Studio Code Marketplace. Once installed, it's ready to use with no extra configuration.
-- Licence: GPLv3
+- Licence: compatible with https://github.com/algorand/go-algorand
 - Includes best-effort maintenance for at least 3 months from the date of the first release
 - Delivery date: up to 3 months after receiving a confirmation that the xGov funding for the proposal has been secured
 
