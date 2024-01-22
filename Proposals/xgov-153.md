@@ -9,7 +9,7 @@ category: dApp, NFT
 focus_area: Deployment,NFT
 open_source: No
 amount_requested: 250000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -32,7 +32,7 @@ Phase 5 - Expand as the financial health of the company allows.
 
 The end product/subscription is aptly categorized as mobility-as-a-service.  The member will have the priviledge of using a motor vehicle for two separate 90 minute blocks per day - that they are allwoed to reserve.  
 Their length of subscription will determine the hierarchy of reservation - meaning they will get the same 'place in line' every reservation sign-up period opening.  It's is thought that 
-3 vehicles will be in the designated location - or at least 2, to allow for some inevitable friction within the operational environment.  The cost to these members will be around 60-80% of the local one-way rideshare cost.
+3 vehicles will be in the designated location - or at least 2, to allow for some inevitable friction within the operational environment.  The daily cost to these members will be around 60-80% of the local one-way rideshare cost.
 We envision young people starting out - either in a committed relationship or just friendships - being able to cheuffeur one another to work/errands.  We share Algorand's goal of making better-life things possible.
 
 ## Future Blueprint
@@ -50,7 +50,7 @@ We will not sell our token in the United States.  We have a marketing strategy a
 
 The project manager cashed out his government retirement account to invest around $20,000 in the project's establishment/success.  So a huge thing on the line and plenty of personal 'skin in the game'.
 
-We plan to use an NFT as the membership card to our service - which also serves as the keys to the vehicle by utilizing the internet connection to the vehicle or cellphone NFC technology
+We plan to use an NFT as the membership card to our service - which also serves as the keys to the vehicle by utilizing the internet connection to the vehicle and/or cellphone NFC technology
 interacting with either our dApp or the Pera/Defly wallet.  This NFT will require an amount of our ASA to be burned to create - which will create a steady supply of market token buyers.  
 If it's deemed a subscription to the dApp is better functionally, then say maybe half of the fee will automatically be used to burn tokens off the open market.  This is not some meme or moonshot coin.
 Our ASA is tantamount to the new 'shares' of stock in a company.  Our plan is viable and our vision is supernatural.  This is a perfect trial use-case for this wonderful technology - thanks SM! 
