@@ -28,7 +28,7 @@ Meld Gold proposes to have GOLD$ & SILVER$ ASA’s listed on a global centralise
 -   Michael Simpson
 -   AJ Milne
 
-Team and advisor backgrounds are available [here](https://www.meld.gold/about).
+Team and advisor backgrounds are available here: https://www.meld.gold/about
 
 ## Experience with Algorand
 
