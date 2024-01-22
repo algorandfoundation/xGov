@@ -1,14 +1,15 @@
 ---
 id: 158
 title: X-NFT Cardano Integration
+period: 3
 author: Giles Campbell (@GilesTNT)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/158
 company_name: X-NFT
-category: DeFi
+category: Defi
 focus_area: Cross-Chain Marketing Program
 open_source: Yes
 amount_requested: 170000
-status: Proposal
+status: Draft
 ---
 
 ## Abstract
