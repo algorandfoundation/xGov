@@ -9,7 +9,7 @@ category: Defi
 focus_area: Cross-Chain Marketing Program
 open_source: Yes
 amount_requested: 170000
-status: Draft
+status: Final
 ---
 
 ## Abstract
