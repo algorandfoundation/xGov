@@ -1,7 +1,7 @@
 ---
 id: 167
 period: 3
-title:
+title: Token CEX Listing Proposal for Meld Gold Assets
 author: Michael Cotton & Dominic Hawton
 discussions-to: https://github.com/algorandfoundation/xGov/pull/167
 company_name: Meld Gold Pty Ltd
