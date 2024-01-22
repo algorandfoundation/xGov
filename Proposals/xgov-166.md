@@ -3,7 +3,7 @@ id: 166
 period: 3
 title: Simon Says - Experimental ASA trading program
 author: SimonB (@simonbelingar)
-discussions-to: N/A
+discussions-to: https://forum.algorand.org/t/xgov-166-simon-says-experimental-asa-trading-program/11132
 company_name: N/A
 category: Community
 focus_area: User Onboarding
