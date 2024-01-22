@@ -1,14 +1,14 @@
 ---
 id: 157
-period: 3 
+period: 3
 title: Centralised Bridge Proposal - Cardano (ADA) to Algorand (Algo)
-author:  Giles Campbell & Ronan Clooney (@clooneyr)
+author: Giles Campbell & Ronan Clooney (@clooneyr)
 discussions-to: https://discord.gg/hMcQcDWptY
 company_name: Algomint
 category: dApps
-focus_area: Cross-chain
-open_source: No (Centralised Bridge)
-amount_requested: 260,000A
+focus_area: Defi
+open_source: No
+amount_requested: 260000
 status: Final
 ---
 
@@ -50,6 +50,6 @@ This opens up the ability to collaborate with Cardano projects and incentivise C
 - **Marketing:** Building a bridge between Cardano and Algorand will support cross chain marketing penetration and will open future marketing and growth opportunities for both Algomint and other ecosystem projects.
 
 ## Additional information
-[Algomint Website](https://algomint.com/)
-[Discord](https://discord.gg/hMcQcDWptY)
-[X](https://twitter.com/Algomint_io)
+Algomint Website - https://algomint.com/
+Discord - https://discord.gg/hMcQcDWptY
+X - https://twitter.com/Algomint_io
