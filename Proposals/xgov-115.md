@@ -1,5 +1,6 @@
 ---
 id: 115
+period: 3
 title: AlgoMinter - NFT Image Generator
 author: Zachary Minner (@1forh)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/115
@@ -64,7 +65,7 @@ I have a proven track record of getting shit done and done well. Building websit
 
 If you'd like to check out any of the existing stuff I've built, you can find some below.
 
-- [Shitty Kitties](https://www.shittykitties.art) - Many utilities and helpful features for Shitty Kitty holders
-- [Shitty Cities](https://www.shittycities.art) - Companion collection that allows holders to collect and update isometric City NFTs
-- [How to ALGO NFT](https://www.howtoalgonft.com) - Helpful information on all sorts of Algorand NFT topics. Working on redesigning and rebuilding this right now.
-- [NFT Missions](https://www.nftmissions.com) - Aggregates Adventure/Mission style staking from different Algorand NFT collections
+- Shitty Kitties https://www.shittykitties.art - Many utilities and helpful features for Shitty Kitty holders
+- Shitty Cities https://www.shittycities.art - Companion collection that allows holders to collect and update isometric City NFTs
+- How to ALGO NFT https://www.howtoalgonft.com - Helpful information on all sorts of Algorand NFT topics. Working on redesigning and rebuilding this right now.
+- NFT Missions https://www.nftmissions.com - Aggregates Adventure/Mission style staking from different Algorand NFT collections
