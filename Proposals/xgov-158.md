@@ -5,8 +5,8 @@ period: 3
 author: Giles Campbell (@GilesTNT)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/158
 company_name: X-NFT
-category: Defi
-focus_area: Cross-Chain Marketing Program
+category: User Onboarding
+focus_area: Defi
 open_source: Yes
 amount_requested: 170000
 status: Final
