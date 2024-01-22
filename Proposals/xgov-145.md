@@ -1,8 +1,8 @@
 ---
 id: 145
 period: 3
-title: Providing content to encourage on-chain activities among Algorand's Japanese users and acquiring new users.
-author: aper(@aper0xmei)
+title: Fostering on-chain engagement and attracting new users among Algorand's Japanese community.
+author: aper (@aper0xmei)
 discussions-to: https://discord.com/channels/947458918379040809/951901810833125416/1113392183064657961
 company_name: N/A
 category: Community
