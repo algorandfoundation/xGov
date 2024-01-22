@@ -1,9 +1,10 @@
 ---
 id: 165
 period: 3
-title: Messina.one Algorand <=> EVM NFT Bridge
-author: @FoundryKev Community, Partnerships, and Business Manager at Messina/AlgoFoundry
-company_name: Messina.one
+title: Messina one Algorand and EVM NFT Bridge
+author: Messina Team Member, Kevin Vernooij (@FoundryKev)
+discussions-to: https://github.com/algorandfoundation/xGov/pull/165
+company_name: Messina One and Algo Foundry
 category: Tools
 focus_area: NFT
 open_source: Yes
