@@ -11,7 +11,7 @@ amount_requested: 375000
 status: Final
 ---
 
-# Abstract
+## Abstract
 
 This proposal outlines the XBallot governance protocol, a pioneering initiative poised to revolutionize the Algorand ecosystem. XBallot is not just a technical solution; it's a catalyst for decentralized empowerment, fostering an environment where transparency, user agency, and community-driven development are paramount.
 
@@ -32,7 +32,7 @@ Feature 3: Account Toolkit
 
 The Account Toolkit is set to redefine user interaction within the blockchain. By providing users with tools to customize their blockchain footprint, XBallot is not just offering a service; it's inviting users to be architects of their digital identity, enhancing both personal security and engagement within the Algorand ecosystem.
 
-Team
+## Team
 
 - Aaron Martinez, Founder (XBallot)
 
@@ -58,7 +58,7 @@ Team
   - Years of experience in the blockchain industry
   - Audited smart contracts
 
-Algorand Experience
+## Experience with Algorand
 
 The team behind XBallot has been working with Algorand since 2021. We have recieved multiple development awards for our Pipeline-UI developer toolkit (which powers XBallot). We have extensive experience with the Algorand blockchain, including:
 
@@ -73,7 +73,7 @@ The team behind XBallot has been working with Algorand since 2021. We have recie
 
 - And much more!
 
-Current Proposal
+## Present Proposal
 
 Our grant application targets two critical milestones:
 
@@ -97,7 +97,7 @@ Contract Auditing (75,000A)
 
 - Comprehensive system auditing, including front-end, back-end, and smart contracts
 
-Community Benefits
+## Benefits for the Community
 
 XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem. It promises to:
 
@@ -105,7 +105,7 @@ XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem
 - Ensure security and transparency
 - Catalyze innovation and participation within the Algorand network
 
-Additional Information
+## Additional information
 
 XBallot Website: https://xballot.net<br>
 XBallot Codebase: https://github.com/headline-design/xballot <br>
