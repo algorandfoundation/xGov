@@ -4,7 +4,7 @@ period: 3
 title: Dynamic Interest Peg Stability Mechanism and Zap Vaults
 author: Giles Campbell, Nimi
 advisors: Michael Cotton, AJ Milne
-discussions-to: [Discord](https://discord.gg/3uH4fKQHpf)
+discussions-to: https://discord.gg/3uH4fKQHpf
 company_name: xBacked
 category: dApps
 focus_area: Depeg Mechanism, Dynamic Loan Rates, Zap Function
@@ -54,5 +54,7 @@ This proposal seeks funding of 175,000 ALGO to implement new and exciting featur
 Additional Information:
 
 [Website](https://www.xbacked.io)
+
 [Discord](https://discord.gg/3uH4fKQHpf)
+
 [Twitter](https://twitter.com/xbacked)
