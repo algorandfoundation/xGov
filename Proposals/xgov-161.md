@@ -3,7 +3,7 @@ id: 161
 period: 3
 title: VoteCoin - DAO Liquidity
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/81
+discussions-to: https://github.com/algorandfoundation/xGov/pull/161
 company_name: VoteCoin DAO
 category: Community
 focus_area: User Onboarding
