@@ -6,7 +6,7 @@ author: Kieran Nelson (@xxiled-plastic-cat)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/149
 company_name: CompX Labs
 category: dApps
-focus_area: DeFi
+focus_area: Defi
 open_source: No
 amount_requested: 200000
 status: Final
