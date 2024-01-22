@@ -1,7 +1,7 @@
 ---
 id: 158
 title: X-NFT Cardano Integration
-author: Giles Campbell (@xnftadmin)
+author: Giles Campbell (@GilesTNT)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/158
 company_name: X-NFT
 category: DeFi
