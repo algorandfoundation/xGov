@@ -1,45 +1,56 @@
 ---
 id: 169
 period: 3
-title: <The proposal title is a few words, not a complete sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <Indicating the URL where the proposal is being discussed>
-company_name: <Name of the company>
-category: <dApps, Tools, Community, Other>
-focus_area: <Banking,DEX,Defi,Deployment,Education,Gaming,IDE,Identity,Libraries,Metaverse,Monitoring,Node,NFT,Oracle,Social,Storage,Teal,User Onboarding,Wallet, Other>
-open_source: <Yes, No>
-amount_requested: <Amount (integer) requested in ALGO, it should be at least 10000>
-status: <Draft, Final, Approved>
+title: COSG AMM liquidity
+author: Cosmic Champs (@madshapes-dev)
+discussions-to: https://discord.gg/cosmicchamps
+company_name: Cosmic Champs International Limited
+category: Community
+focus_area: User Onboarding
+open_source: No
+amount_requested: 10000
+status: Final
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+$COSG token is participating in multiple AMM LP pools so that the algorand ecosystem has better incentivization on better DEX aggregators and for end users the swap quotes between bitcoin, algorand and usdc are better.
+
+We request grant to increase the AMM liquidity. With 10k Algos received from this grant we will split it to 4 baskets equaly - algo, usdc, btc and gold. Cosmic Champs treasury will add equal stake in $cosg tokens and will increase the liqudity in the pools.
+
+We will increase these pools:
+- COSG/Algo - 4k algo plus COSG token worth of 4k algo
+- COSG/USDC - USDC worth 2k algo plus COSG token worth of 2k algo
+- COSG/BTC - BTC worth 2k algo plus COSG token worth of 2k algo
+- COSG/Gold - Gold token worth 2k algo plus COSG token worth of 2k algo
+
+Liqudity will be held at the pools for minimum of 3 months.
+
+Liquidity will not be locked in vault, as we reserve right to rebalance the the pools to express same share between assets in long run. We will create special account for this grant so that public can oversight the usage of the funds.
+
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+<a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+For the last 2 years, we have been building a p2e game on Algorand called Cosmic Champs. We are innovators in the 3d NFT space with our fully animated 3d NFTs that are used in our game and also have utility outside of the game itself (3d viewer, AR viewer).
+We have a strong understanding of the NFT space, the technical specifications, and the supporting infrastructure available. This positions us well to deliver a strong product for other Algorand projects to use and benefit from.
 
 ## Present Proposal
-A detailed plan for the development and implementation of the proposal.
+With this grant request we will increase the liqudity of the COSG token.
+very simmilar proposal as: https://github.com/algorandfoundation/xGov/pull/161/files
+
 
 ## Future Blueprint
-> This part can be optional for one shot grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
-
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
+In the future we are looking to bringing more IPs from the collectible world and their wast audiences to algorand.
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
+- Better swap prices between algorand, bitcoin, usdc and gold.
+- Better marketing for vote coin project where community can start their own DAOs for free
+- very simmlar benefits as :https://github.com/algorandfoundation/xGov/pull/161/files
+
 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+Play our game here: <a href="https://beta.cosmicchamps.com/" target="_blank">https://beta.cosmicchamps.com/</a>
+NFT browser + 3d view: <a href="https://nft.cosmicchamps.com/" target="_blank">https://nft.cosmicchamps.com/</a>
+Browse game characters: <a href="https://cards.cosmicchamps.com/" target="_blank">https://cards.cosmicchamps.com/</a>
+Coorporate page: <a href="https://cosmicchamps.com/" target="_blank">https://cosmicchamps.com/</a>
