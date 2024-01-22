@@ -6,7 +6,7 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/158
 company_name: X-NFT
 category: DeFi
 focus_area: Cross-Chain Marketing Program
-open_source: No
+open_source: Yes
 amount_requested: 170000
 status: Proposal
 ---
