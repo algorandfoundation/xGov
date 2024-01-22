@@ -44,8 +44,8 @@ very simmilar proposal as: https://github.com/algorandfoundation/xGov/pull/161/f
 -
 
 ## Benefits for the community
-- Better swap prices between algorand, bitcoin, usdc and gold.
-- Better marketing for vote coin project where community can start their own DAOs for free
+- Better swap prices between algorand, coop, meta and alc.
+- Better marketing for COSG coin project
 - very simmlar benefits as :https://github.com/algorandfoundation/xGov/pull/161/files
 
 
