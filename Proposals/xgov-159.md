@@ -1,5 +1,5 @@
 ---
-id: 158
+id: 159
 period: 3
 title: Dynamic Interest Peg Stability Mechanism and Zap Vaults
 author: Giles Campbell, Nimi
