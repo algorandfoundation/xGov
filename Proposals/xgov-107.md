@@ -39,19 +39,19 @@ The Account Toolkit is set to redefine user interaction within the blockchain. B
   - Role: Lead dev at PIPELINE-UI
   - Expertise: Design, UI/UX, javascript frameworks, smart contract logic.
   - Responsibilities: Manages all aspects of the project.
-  - LinkedIn: <https://www.linkedin.com/in/ussaaron>
+  - LinkedIn: https://www.linkedin.com/in/ussaaron
 
 - Brian Scherlen, CMO (XBallot)
 
   - Role: An experienced marketing lead and project manager.
-  - LinkedIn: <https://www.linkedin.com/in/brian-scherlen-2091b0209>
+  - LinkedIn: https://www.linkedin.com/in/brian-scherlen-2091b0209
 
 - Ethan Welch, CFO (XBallot)
-- LinkedIn: <https://www.linkedin.com/in/ethan-welch-1762ba226>
-- Twitter: <https://twitter.com/HEADLINE_Ethan>
+- LinkedIn: https://www.linkedin.com/in/ethan-welch-1762ba226
+- Twitter: https://twitter.com/HEADLINE_Ethan
 
 - Krisztian Somodi, Fullstack engineer
-  - Github: <https://github.com/crissCM>
+  - Github: https://github.com/crissCM
 
 - Senior Smart Contract Engineers
   - 2 Senior Smart Contract Engineers
@@ -63,13 +63,13 @@ The Account Toolkit is set to redefine user interaction within the blockchain. B
 The team behind XBallot has been working with Algorand since 2021. We have recieved multiple development awards for our Pipeline-UI developer toolkit (which powers XBallot). We have extensive experience with the Algorand blockchain, including:
 
 - Pipeline-UI developer toolkit
-  - <https://github.com/headline-design/pipeline>
+  - https://github.com/headline-design/pipeline
 
 - Algo-OS Open Source Campaign
-  - <https://twitter.com/headline_crypto/status/1692964932944290294>
+  - https://twitter.com/headline_crypto/status/1692964932944290294
 
 - XBallot Governance Protocol
-  - <https://xballot.net>
+  - https://xballot.net
 
 - And much more!
 
