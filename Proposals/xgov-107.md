@@ -97,7 +97,7 @@ Contract Auditing (75,000A)
 
 - Comprehensive system auditing, including front-end, back-end, and smart contracts
 
-## Benefits for the Community
+## Benefits for the community
 
 XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem. It promises to:
 
