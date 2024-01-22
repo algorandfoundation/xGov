@@ -9,7 +9,7 @@ company_name: xBacked
 category: dApps
 focus_area: Depeg Mechanism, Dynamic Loan Rates, Zap Function
 open_source: No
-amount_requested: 175,000 ALGO
+amount_requested: 175000
 status: Final
 ---
 
