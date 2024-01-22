@@ -8,7 +8,7 @@ category: dApps
 focus_area: Other
 open_source: No
 amount_requested: 500000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -41,7 +41,7 @@ Scott Bolasevich (twitter.com/FlippingAlgos) - Lead Full-stack Developer
 ## Future Blueprint
   The goal of pressdot is to onboard the next 100,000 users to Algorand. In order to do so, there needs to be an uncomplicated place on the internet for people to spend and earn their ALGO, so people can see the technology in action. pressdot will provide this, by improving upon the beta platform and ensuring a seamless user experience. Creators will earn more per view and have a wider audience. Viewers will be incentivized with every click. pressdot is not developing a social media platform, this is something distinctly different. Money will be flowing to exchange ideas, in the first ever WebMarket. 
   
-  To accomplish this goal, pressdot will be utilizing the funds allotted in the following ways.
+  To accomplish this goal, pressdot will be using the funds allotted in the following ways.
   
 Technology Development (75% - 375,000 ALGO):
  - 375,000 ALGO for 500 hours of work at 750 ALGO per hour
@@ -60,7 +60,7 @@ Legal and Compliance (10% - 50,000 ALGO):
 
 
 ## Benefits for the community
-  pressdot will bring new users to the Algorand ecosystem. This application of blockchain technology, micropayment monetization, is vastly underdeveloped. pressdot is looking to be the first company to break through and become a friendly platform for crypto non-natives. This is possible because the "crypto" aspect of pressdot is less pronounced. The only use of Algorand on pressdot is the transactions. There are some new rules for this new system of monetization, but otherwise pressdot is familiar to everyone. You upload content, interact with it, and now, you earn money by engaging with it. 
+  pressdot will bring new users to the Algorand ecosystem. This application of blockchain technology, micropayment monetization, is vastly underdeveloped. pressdot is looking to be the first company to break through and become a friendly platform for crypto non-natives. This is possible because the "crypto" aspect of pressdot is less pronounced. The only use of Algorand on pressdot is the transactions. There are some new rules for this new system of monetization, but otherwise pressdot is familiar to everyone. You upload content, interact with it, and now, you earn money for engaging with it. 
 
 
 ## Additional information
