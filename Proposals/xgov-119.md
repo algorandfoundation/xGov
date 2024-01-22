@@ -3,7 +3,7 @@ id: 119
 period: 3
 title: Zorkin - Social Login for Self-Custodial Account Authentication with ZK-SNARKs
 author: Winton Nathan-Roberts (@mangoplane)
-discussions-to: https://forum.algorand.org/t/xgov-119-zorkin/
+discussions-to: https://github.com/algorandfoundation/xGov/pull/119
 company_name: Helium Labs
 category: dApps
 focus_area: User Onboarding
@@ -13,32 +13,52 @@ status: Draft
 ---
 
 ## Abstract
+Zorkin aims to implement a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> authentication solution that runs natively on Algorand, allowing Social Login like Facebook to authenticate access to an application specific self-custodial Algorand Account.
 
-Zorkin aims to implement a ZK-SNARK based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> authentication solution that is native to Algorand, allowing Social Login like Facebook to authenticate access to an application specific self-custodial Algorand Account. A fiat on-ramp will be integrated into the solution to enable regulatory-compliant blockchain asset purchases using major payment methods, such as credit cards. It improves upon related solutions like Web3Auth and Magic by having a competitive pricing model that is scalable & <a href="https://hacken.io/insights/sybil-attacks/" target="_blank">sybil-resistant</a> by only charging for authentication from users that transact, which is particularly relevant for Free-To-Play games where <a href="https://www.appsflyer.com/glossary/arppu/" target="_blank">typically only 2-5% of users transact</a>.
+A fiat on-ramp will be integrated into the solution to enable regulatory-compliant blockchain asset purchases using major payment methods such as credit card.
 
 ## Team
+- Winton Nathan-Roberts as Research, Design & Software Engineering lead
+- Skilled independent contractors for auxiliary tasks spanning software engineering, legal consultation, and financial services
 
-Winton Nathan-Roberts as Research, Design & Development lead. With assistance from a number of skilled independent contractors for software engineering related tasks.
+Contractor involvement in core system design and implementation will be minimal and subject to rigorous validation checks.
 
 ## Experience with Algorand
 
 Winton Nathan-Roberts is a Machine Learning PhD dropout with over 4 years of industry experience in Software Engineering working for various Startups & Blue Chip companies like <a href="https://wargaming.com/en/" target="_blank">Wargaming</a>.
 
-Over the last two years, he has been working on an Algorand-based Web3 gaming venture and solutions to onboard non-technical users. His focus now is on simplifying access to Web3 games and apps via compliant authentication and fiat on-ramping. <a href="https://github.com/Helium-Labs/" target="_blank">Helium Labs</a> on GitHub represents this work, although many of its repositories are private.
+Over the last two years, he has been working largely in silence on an Algorand-based Web3 gaming venture. His current focus is on enhancing user onboarding for Web3 dApps and games, with a specific emphasis on regulatory-compliant authentication and fiat on-ramping. <a href="https://github.com/Helium-Labs/" target="_blank">Helium Labs</a> on GitHub represents some of this work, with many of its repositories private.
 
 ## Present Proposal
 
-Zorkin allows the provision of an on-chain application called `TenantAuth` that represents supported OAuth clients, through which users can authenticate themselves with OpenIdConnect to gain access to a self-custodial account that's linked to the application and their Social Login account. Once they have proven account access via a ZK-SNARK proof, an authorized session is created that can last several hours wherein transactions are gated through an associated client-side ephemeral key. JSON Web Token (JWT) signature authenticity is verified against a cache of JSON Web Key (JWK) signing keys for each supported OAuth issuer, which is updated through infrequent decentralized HTTPS requests with a Multi-Party Computation solution like <a href="https://chain.link/" target="_blank">ChainLink</a>. Zorkin supports providers that allow customization of at least one JWT claim in the initial request, like the nonce, which includes most providers like Google and Firebase. Reliance on unnecessary dependencies, like a salting service with a user-specific salting values database, is minimized.
+Zorkin aims to implement a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> (OIDC) authentication solution, allowing Social Login like Facebook to authenticate access to an application specific self-custodial Algorand Account. A variant has been implemented by Mysten Labs for their Sui blockchain called <a href="https://sui.io/zklogin" target="_blank">ZK-Login</a>, which is only usable with Sui. Zorkin will attempt to improve upon ZK-Login, if possible. Some of Algorand's user experience (UX) challenges, like the need for explicit consent for asset Opt-In, will be mitigated by possibly leveraging <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a> whose development is proposed by XGov-117.
 
-Periodic infrastructure upgrades, including adding new OpenID Providers and ensuring protocol compatibility, are overseen by a Decentralized Autonomous Organization (DAO) to reduce centralization. Only a trusted entity can initiate updates, which must be approved through Sybil-resistant voting ballots.
+Multiple system designs are being explored, with one variant and its MVP implementation detailed at this <a href="https://github.com/Helium-Labs/Zorkin" target="_blank">Github repository</a>. However, the final deliverables will differ, as development is expected to lead to an enhanced design and implementation.
 
-User accounts are available in two forms: a Logic Signature Contract Account and a Stateful Contract Account. The Logic Signature version functions similarly to a native account, while the Stateful variant aligns with <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">Account Abstraction (ARC-58)</a>. Both types aim to ease user experience by simplifying or eliminating Algorand Asset Opt-In and Minimum-Balance Requirements (MBR). For instance, application clients can automatically opt-in authenticated LSIG accounts without requiring user consent for each transaction.
+Zorkin will be integrated with a 3rd Party Fiat On-Ramp to allow users to buy approved crypto assets using major payment methods like credit card, taking care of relevant compliance. A Fiat On-Ramp such as <a href="https://www.moonpay.com/en-au" target="_blank">MoonPay</a> will be considered for integration.
 
-We aim to integrate compliant third-party fiat on-ramp services like <a href="https://www.moonpay.com" target="_blank">MoonPay</a> and <a href="https://nftpay.xyz/" target="_blank">NFTPay</a> into Zorkin as a B2B service, allowing users to purchase approved NFTs and fungible tokens using mainstream payment methods, subject to regulatory compliance approval.
+### Deliverables
 
-### Video Presentation & Minimum-Viable Product Demo
+The deliverables of this proposal are the success criteria, against which the proposal can be considered delivered on should they be met, and are enumerated below.
 
-The following video presents Zorkin, and includes a Minimum-Viable Product demo.
+`ZorkinInfra` is defined as a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> authentication solution that authenticates access to a Self-Custodial Algorand Account, that's local to a specific tenant. A tenant is an application interface to `ZorkinInfra`, through which users can authenticate access with `ZorkinInfra` to self-custodial Algorand accounts that are local to the tenant. `PaymentInfra` is defined as payment infrastructure that allows billing of tenants for their usage of `ZorkinInfra` to cover related operating expenses (e.g. cloud hosting costs) and a pre-determined profit margin. The `Dashboard` is an area where customers can configure their tenants, and manage their billing via `PaymentInfra`. `LegalConsult` refers to consulting with a relevant legal professional to ensure the deliverables comply with relevant laws, and to assist in drafting necessary legal documents such as terms of service.
+
+In chronological order, the deliverables are:
+
+0. Development of `ZorkinInfra`
+1. Development of `Dashboard`
+1. Development of `PaymentInfra`
+2. Testnet Deployment of `ZorkinInfra`, with a tenant configurable via `Dashboard` and billed via `PaymentInfra`
+3. Integration of at least one 3rd Party Fiat On-Ramp
+4. Initiation and completion of `LegalConsult`  
+4. Refinements of `ZorkinInfra`, `Dashboard` & `PaymentInfra` against feedback on their testnet deployments & legal consultation (`LegalConsult`)
+5. Mainnet Deployment of `ZorkinInfra`, with a tenant configurable via `Dashboard` and billed via `PaymentInfra`
+
+The delivery timeline is deliberately open-ended to prioritize legal compliance and consumer safety. The deliverables will be available for public access only in jurisdictions where they fully adhere to local laws. The deliverables will be adjusted against feedback from legal consultation to ensure legal feasibility. These services will be offered as long as they are financially viable and legally permissible, with a planned legal sunsetting and exit strategy to be devised and communicated to consumers through the terms of service.
+
+### Minimum-Viable Product Demo
+
+The following video showcases an early-stage design of Zorkin, featuring a demo of the Minimum Viable Product for this variant. Please be aware that the described variant is in its early stages; the final deliverables may differ significantly as the design will be refined throughout development.
 
 <div style="text-align: center;">
     <a href="https://www.youtube.com/watch?v=ZJotF-RdKjA" target="_blank">
@@ -46,61 +66,23 @@ The following video presents Zorkin, and includes a Minimum-Viable Product demo.
     </a>
 </div>
 
-Please visit the <a href="https://github.com/Helium-Labs/Zorkin" target="_blank">Github repository for Zorkin</a> to learn more.
-
-## Future Blueprint
-
-The following sets out a roadmap of key tasks involved in delivery.
-
-### Deploy ChainLink infrastructure
-
-Implement a ChainLink EVM contract to fetch issuer JWKs from their endpoints and transmit the data to the JWK cache contract on Algorand using the <a href="https://docs.wormhole.com/wormhole/quick-start/cross-chain-dev/specialized-relayer" target="_blank">Wormhole bridge</a>.
-
-### Create Account Abstraction Variant (ARC-58)
-
-Add a user account variant based on Account Abstraction (ARC-58).
-
-### Deploy Scalable ZK-SNARK Prover Infrastructure
-
-Develop an efficient, scalable infrastructure for the computationally intensive ZK-SNARK prover, unsuitable for client-side hosting. Initially, deploy a scalable Docker Container of the prover using <a href="https://www.scaleway.com/en/containers/" target="_blank">Scaleway</a>, offering on-demand scaling. Long-term, explore <a href="https://www.ingonyama.com/" target="_blank">Ingonyama</a>'s hardware-accelerated provers for enhanced efficiency, combined with ZK-SNARK optimizations like chain-based RSA verification, pending the potential introduction of a modulo-exponentiation operator in a future AVM version.
-
-### Trust-minimized Infrastructure Upgrades with a DAO 
-
-Contract infrastructure upgrades need DAO approval, with only a Trusted Entity authorized to initiate ballots. These upgrades require a majority approval via <a href="https://axelar.network/blog/quadratic-voting-DAOs-dPoS-and-decentralization" target="_blank">Quadratic Voting</a>. To counter duplicate votes and bots, we aim to implement voter deduplication using social media verification, if feasible.
-
-### Launch on Testnet
-
-Zorkin will initially launch on Testnet to thoroughly evaluate security and legal aspects through user testing and reviews over a period of time.
-
-### Integrate 3rd Party FIAT On-Ramps
-
-Integrate a third-party fiat on-ramp, like MoonPay, enabling users to buy approved assets using major payment methods, including credit cards.
-
-### Launch on Mainnet
-
-Launch the product on mainnet, with continued maintenance & refinement.
-
-### Support Cross-Chain Assets
-
-Consider improving interoperability by supporting cross-chain assets through <a href="https://docs.wormhole.com/wormhole/quick-start/cross-chain-dev/specialized-relayer" target="_blank">Wormhole Connect token bridging</a>.
-
 ## Benefits for the community
 
-Algorand builders can offer Social Login to their dApp users, incurring costs only for authentication of transactions outside an authorized session. This sybil-resistant pricing is scalable, particularly for Free-To-Play (F2P) games where <a href="https://www.appsflyer.com/glossary/arppu/" target="_blank">typically only 2-5% of users transact</a>. Authentication costs can be recouped immediately via user-initiated atomic transactions. The integration of a fiat on-ramp eases fiat purchases, and UX friction in Opt-In and MBR procedures can be greatly reduced or eliminated.
+If implemented, developers in supported countries can provide users with a ZK-SNARK based OpenIdConnect authentication solution to access an application-specific self-custodial Algorand account linked to their OAuth credentials. The integrated 3rd party Fiat On-Ramp will enable users to buy approved crypto assets using major payment methods, including credit cards. Some of Algorand's UX challenges, like the need for explicit consent for asset Opt-In, will be mitigated by possibly leveraging <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a>. Estimates of operating expenses like cloud hosting suggest it may have competitive pricing to competitors in the space.
 
 ## Additional information
 
 ### Open Source Clarification
 
-The proposal's metadata suggests it will be Open Source, but this applies only to certain frontend-hosted application clients and components at Zorkin's discretion. The Open Source components of the solution will be licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU General Public License v3.0</a>, which applies to the code's copyright but not the intellectual property it interacts with.
+The proposal's metadata suggests it will be Open Source, but this applies only to solution components chosen at our discretion such as certain frontend application clients. Each open-source component will be subject to a separate license with respective terms and conditions that must be adhered to.
 
-### IP Ownership
+### Ownership of Deliverables & Intellectual Property
 
-Zorkin's intellectual property is fully owned by Winton Nathan-Roberts, as allowed by law. It offers unique contributions and, to our knowledge, doesn't violate any patents. Zorkin may experience ownership changes, potentially resulting in rebranding or integration with another company or product.
+The deliverables and related intellectual property (IP) will be fully owned by Winton Nathan-Roberts, who reserves the right to do anything with the property as permitted by law. To the best of our knowledge, the current IP isn't conflicting with any patents. The intellectual property and deliverables might undergo ownership transfers, leading to possible rebranding or integration with other companies or products. For instance, Zorkin could be renamed and associated with a different product the author is affiliated with under similar ownership changes. Zorkin, described by the proposal, is a commercial endeavour with the aim to profit.
 
 ### Self-Custodial Definition
 
-The proposal's Self-Custody aspect means that Zorkin does not hold users' sensitive access keys, such as private keys. Account access is restricted to the user, their Open ID provider, and the application client.
+The proposal's Self-Custody aspect means that Zorkin or its affiliates do not hold users' sensitive account access keys, such as private keys, whose possession would allow the holder access to the users' account. Account access is restricted to the user, their OAuth account provider, and potentially frontend application clients.
 
 ### Disclaimers
 
@@ -112,7 +94,7 @@ To the fullest extent permitted by law, this proposal and Zorkin are subject to 
 - INDEMNIFICATION: You must defend and indemnify us against all claims and damages from your use of the content.
 - NOT PRODUCTION READY: The content may have vulnerabilities and is not for production use.
 - USE AT YOUR OWN RISK: You are solely responsible for using the content and ensuring its legal compliance.
-UNVERIFIED CLAIMS: Claims in the content are not independently verified; do your own research before relying on them.
+- UNVERIFIED CLAIMS: Claims in the content are not independently verified; do your own research before relying on them.
 - IMPORTANT NOTICE: This document, including all disclaimers, should not be considered as legal or investment advice. The information provided is for general informational purposes only.
 
-Please note that this research-intensive development is likely to evolve, as ongoing research may reveal limitations or improvements in the initial proposal, leading to adjustments in our development trajectory. Consequently, all claims in this proposal are subject to change.
+Due to the research heavy nature of the proposal, all claims are subject to change.
