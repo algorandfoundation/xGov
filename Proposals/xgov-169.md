@@ -1,6 +1,6 @@
 ---
 id: 169
-period: <Period number (Integer) (When do you want to submit your proposal)>
+period: 3
 title: <The proposal title is a few words, not a complete sentence>
 author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 discussions-to: <Indicating the URL where the proposal is being discussed>
