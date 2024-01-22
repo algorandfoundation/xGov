@@ -7,7 +7,7 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/110
 company_name: Pixelnode
 category: Tools
 focus_area: Node
-open_source: NO
+open_source: No
 amount_requested: 250000
 status: Final
 ---
