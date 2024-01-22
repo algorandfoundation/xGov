@@ -1,5 +1,6 @@
 ---
 id: 109
+period: 3
 title: Unraveling Algorand's Real World Assets Landscape & DEX Swaps, by Chaintrail - Uncovering Algorand
 author: Leander <nfnomad@chaintrail.io>, Chaintrail (@Chaintrail)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/109
