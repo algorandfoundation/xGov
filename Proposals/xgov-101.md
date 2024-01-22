@@ -1,5 +1,6 @@
 ---
 id: 101
+period: 3
 title: Visual Studio Code Extension for TEAL
 author: Marcin Zawiejski (@dragmz)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/101
