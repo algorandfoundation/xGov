@@ -5,11 +5,11 @@ title: Neighborhood Vehicle Share -mobility-as-a-service application-
 author: William H. (@dangnangdang)
 discussions-to: Proposals/xGov-153.md
 company_name: Coollife
-category: dApp, NFT
-focus_area: Deployment,NFT
+category: dApps
+focus_area: Deployment
 open_source: No
 amount_requested: 250000
-status: Final
+status: Draft
 ---
 
 ## Abstract
