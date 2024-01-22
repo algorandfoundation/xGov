@@ -19,20 +19,20 @@ This proposal outlines the XBallot governance protocol, a pioneering initiative 
 - **Innovative On-Chain Social Feeds**: A groundbreaking feature, providing a platform for verified, immutable community interactions, setting a new standard for blockchain-based communication.
 - **Dynamic Account Toolkit**: Beyond wallet generation, this toolkit introduces a suite of services, including advanced security features, user analytics, and seamless integration with other Algorand services.
 
-## Feature 1: DAO Management
+Feature 1: DAO Management
 
 XBallot is a comprehensive governance protocol that allows users to create and manage DAOs on the Algorand blockchain. The protocol includes a variety of features that enable users to create and manage DAOs, including: voting, proposals, treasury, and more. The protocol is also fully decentralized, featuring a unique on-chain data
 aggregation system that allows users to interact with the protocol directly from their Algorand wallet. All user interaction is performed on-chain, ensuring that all data is immutable and transparent. Our custom balance indexer is critical to the protocol, as it maintains an up-to-date record of all user token balances, which in turn allows the protocol to accurately calculate voting power and other important metrics.
 
-## Feature 2: On-Chain Social Feeds
+Feature 2: On-Chain Social Feeds
 
 XBallot features a unique on-chain social feed system that allows users to post and interact with content on the blockchain. Users can post text, images, videos, and more, and other users can interact with the content by liking, commenting, and sharing. All content interaction is executed on-chain, ensuring that it is immutable and transparent. Social feeds can be utilized by DAOs to post important information, such as proposals, voting results, and more. Users can also post content to their personal social feed, which can be used to share information with other users.
 
-## Feature 3: Account Toolkit
+Feature 3: Account Toolkit
 
 The Account Toolkit is set to redefine user interaction within the blockchain. By providing users with tools to customize their blockchain footprint, XBallot is not just offering a service; it's inviting users to be architects of their digital identity, enhancing both personal security and engagement within the Algorand ecosystem.
 
-### Team
+Team
 
 - Aaron Martinez, Founder (XBallot)
 
@@ -58,7 +58,7 @@ The Account Toolkit is set to redefine user interaction within the blockchain. B
   - Years of experience in the blockchain industry
   - Audited smart contracts
 
-### Algorand Experience
+Algorand Experience
 
 The team behind XBallot has been working with Algorand since 2021. We have recieved multiple development awards for our Pipeline-UI developer toolkit (which powers XBallot). We have extensive experience with the Algorand blockchain, including:
 
@@ -73,31 +73,31 @@ The team behind XBallot has been working with Algorand since 2021. We have recie
 
 - And much more!
 
-## Current Proposal
+Current Proposal
 
 Our grant application targets two critical milestones:
 
 1. **Beta Launch**: A commitment to launching a fully operational platform within 7 days of funding, showcasing our readiness and the project's maturity.
 2. **Contract Auditing**: An exhaustive and meticulous audit, ensuring the integrity and security of our platform, to be completed within 120 days of funding.
 
-## Cost Breakdown
+Cost Breakdown
 
-### Beta Launch (150,000A)
+Beta Launch (150,000A)
 
 - Advanced R&D for a cutting-edge core system
 - Strategic deployment and scalability testing
 - Pre-auditing for optimized codebase integrity
 
-### Operation Costs & Advanced Features (150,000A)
+Operation Costs & Advanced Features (150,000A)
 
 - Continued innovation and enhancement of platform features
 - Infrastructure expansion to support growing user base
 
-### Contract Auditing (75,000A)
+Contract Auditing (75,000A)
 
 - Comprehensive system auditing, including front-end, back-end, and smart contracts
 
-### Community Benefits
+Community Benefits
 
 XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem. It promises to:
 
@@ -105,7 +105,7 @@ XBallot is more than a platform; it's a paradigm shift in the Algorand ecosystem
 - Ensure security and transparency
 - Catalyze innovation and participation within the Algorand network
 
-#### Additional Information
+Additional Information
 
 XBallot Website: https://xballot.net<br>
 XBallot Codebase: https://github.com/headline-design/xballot <br>
