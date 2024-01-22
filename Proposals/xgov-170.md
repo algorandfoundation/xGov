@@ -18,19 +18,12 @@ This proposal aims to build a highly intuitive, no-code voting system that enabl
 With a focus on accessibility and a streamlined user-experience, the platform aims to onboard teams and communities from within and outside the Algorand ecosystem. We aim to create the most user-friendly voting system within crypto, while supporting a range of voting models and use cases.
 
 ## Team
-Jesco Brandt
+Jesco Brandt (@heartberg)
+* Full Stack Engineer with 3 years of professional experience
+* GitHub: https://github.com/heartberg
 
-Full Stack Engineer with 3 years of professional experience
-
-LinkedIn: https://www.linkedin.com/in/luca-jesco-brandt-b73079243/
-
-GitHub: https://github.com/heartberg
-
-Mark Crae
-
-Product manager / designer with 10+ years of professional experience
-
-LinkedIn: https://www.linkedin.com/in/craemer
+Mark Crae (x.com/anything)
+* Product manager / designer with 10+ years of professional experience
 
 ## Experience with Algorand
 Jesco has been actively developing Algorand based projects for >3 years. In this time he has created ~20 PyTeal smart contracts and multiple Front / Back ends to support this. The smart contracts cover a wide range of application types, including staking, vesting, trading, and more.
