@@ -13,15 +13,15 @@ status: Final
 ---
 
 ## Abstract
-$COSG token is participating in multiple AMM LP pools so that the algorand ecosystem has better incentivization on better DEX aggregators and for end users the swap quotes between bitcoin, algorand and usdc are better.
+$COSG token is participating in multiple AMM LP pools so that the algorand ecosystem has better incentivization on better DEX aggregators and for end users the swap quotes between algorand, COOP and META and ALC are better.
 
-We request grant to increase the AMM liquidity. With 10k Algos received from this grant we will split it to 4 baskets equaly - algo, usdc, btc and gold. Cosmic Champs treasury will add equal stake in $cosg tokens and will increase the liqudity in the pools.
+We request grant to increase the AMM liquidity. With 10k Algos received from this grant we will split it to 4 baskets - algo, COOP and META and ALC, Cosmic Champs treasury will add equal stake in $cosg tokens and will increase the liqudity in the pools.
 
 We will increase these pools:
 - COSG/Algo - 4k algo plus COSG token worth of 4k algo
-- COSG/USDC - USDC worth 2k algo plus COSG token worth of 2k algo
-- COSG/BTC - BTC worth 2k algo plus COSG token worth of 2k algo
-- COSG/Gold - Gold token worth 2k algo plus COSG token worth of 2k algo
+- COSG/COOP - COOP worth 2k algo plus COSG token worth of 2k algo
+- COSG/META - META worth 2k algo plus COSG token worth of 2k algo
+- COSG/ALC - ALC token worth 2k algo plus COSG token worth of 2k algo
 
 Liqudity will be held at the pools for minimum of 3 months.
 
