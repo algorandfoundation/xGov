@@ -41,7 +41,7 @@ very simmilar proposal as: https://github.com/algorandfoundation/xGov/pull/161/f
 
 
 ## Future Blueprint
-In the future we are looking to bringing more IPs from the collectible world and their wast audiences to algorand.
+-
 
 ## Benefits for the community
 - Better swap prices between algorand, bitcoin, usdc and gold.
