@@ -1,5 +1,6 @@
 ---
 id: 120
+period: 3
 title: How to ALGO NFT - Explore our articles/tutorials to become an Algorand NFT expert.
 author: Zachary Minner (@1forh)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/120
