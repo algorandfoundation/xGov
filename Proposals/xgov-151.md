@@ -13,7 +13,7 @@ status: Final
 ---
 
 ## Abstract
-This is an unofficial honeypot. If you can read and understand this, DO NOT vote for this proposal. Your votes will be wasted. If this proposal passes, the funds will not be claimed. You do not have to vote for all proposals to remain eligible for the xGov program (see the notice on the [official voting page](https://xgov.algorand.foundation/)). If you vote for this proposal, you will be hurting the xGov program and the Algorand ecosystem.
+This is an unofficial honeypot. If you can read and understand this, DO NOT vote for this proposal. Your votes will be wasted. If this proposal passes, the funds will not be claimed. You do not have to vote for all proposals to remain eligible for the xGov program (see the notice on the official voting page https://xgov.algorand.foundation/). If you vote for this proposal, you will be hurting the xGov program and the Algorand ecosystem.
 
 ## Team
 Concerned xGov - a member of the Algorand community disappointed with the progress of Algorand governance programs, hoping to contribute by challenging the system.
