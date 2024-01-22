@@ -3,7 +3,7 @@ id: 160
 period: 3
 title: VoteCoin - GitHub tools
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/79
+discussions-to: https://github.com/algorandfoundation/xGov/pull/160
 company_name: Scholtz & Company, jsa
 category: Community
 focus_area: Deployment
