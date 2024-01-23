@@ -1,5 +1,6 @@
 ---
 id: 112
+period: 3
 title: Thurstober Tools - Onboarding Enhancements, Upgrades, and Redesign
 author: Joseph Glenn (@loafpickleWW)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/112
