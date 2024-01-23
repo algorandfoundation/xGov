@@ -1,5 +1,6 @@
 ---
 id: 104
+period: 3
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
 discussions-to: https://forum.algorand.org/t/xgov-104-notiboy-web3-chat-milestone-2/10809
