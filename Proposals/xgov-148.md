@@ -55,3 +55,7 @@ CoinTracker+ will be a feature within the CompX dApp, accesible via the main nav
 ## Benefits for the community
 
 Allowing Algorand users to better understand their position against various ASAs over time to identify if they are up, down or neutral. Will also serve as nroute to find new opportunities for the selected ASAs. Users can add up to 10 individual ASAs to CoinTracker+ providing them with personalised stats for each.
+
+## Additional information
+
+None
