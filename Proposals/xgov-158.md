@@ -46,7 +46,7 @@ All primary liquidity and functionality will be concentrated on Algorand.
 
 Rewards on Cardano's DeFi platforms drive engagement, eyeballs and incentivize users to bridge to Algorand.
 
-## Additional Information
+## Additional information
 
-[Website](https://www.x-nft.art/)
-[Twitter/X](https://twitter.com/xNFT_ART)
+<a href="https://www.x-nft.art"/>Website</a>
+<a href="https://twitter.com/xNFT_ART"/>Twitter/X</a>
