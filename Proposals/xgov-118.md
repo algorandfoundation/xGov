@@ -1,5 +1,6 @@
 ---
 id: 118
+period: 3
 title: The First WebMarket - A Micropayment Content Exchange
 author: Dugan Messman (@dsmessman)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/118
