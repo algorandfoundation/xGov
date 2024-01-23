@@ -2,7 +2,7 @@
 id: 143
 period: 3
 title: Educational Fungi Farm
-author: Sean Deegan (@solluna168)
+author: Sean Deegan 
 discussions-to: https://discord.gg/2NjD3wBFf4
 company_name: Solluna Mushroom Farm LLC
 category: Community
