@@ -6,7 +6,7 @@ author: Aaron Martinez (@headline-design)
 discussions-to: https://forum.algorand.org/t/xballot-advancing-dao-management-on-algorand/9823
 company_name: HEADLINE
 category: dApps
-focus_area: Tooling
+focus_area: Other
 open_source: Yes
 amount_requested: 375000
 status: Final
