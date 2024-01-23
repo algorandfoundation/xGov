@@ -1,5 +1,6 @@
 ---
 id: 114
+period: 3
 title: Thurstober Claims - Atomic Swap Creation and Redemption
 author: Joseph Glenn (@loafpickleWW)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/114
