@@ -1,11 +1,11 @@
 ---
-id: 121
+id: period 121
 title: Podcast and website expansion
 author: The Next Block (@thenextblock3)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/121
 company_name: The Next Block
 category: Community
-focus_area: Social, Education, User Onboarding
+focus_area: Education
 open_source: Yes
 amount_requested: 25000
 status: Draft
