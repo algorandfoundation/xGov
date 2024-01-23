@@ -53,3 +53,7 @@ Development plan
 ## Benefits for the community
 
 Giving the community different avenues to gain further yield on their tokens empowers users with more options and strategies for their DeFi. Additionally incentivising our auto-compounding farms leads to additional transaction volume for Algorand blockchain as a whole.
+
+## Additional information
+
+None
