@@ -1,11 +1,12 @@
 ---
 id: 107
+period: 3
 title: XBallot governance protocol by HEADLINE
 author: Aaron Martinez (@headline-design)
 discussions-to: https://forum.algorand.org/t/xballot-advancing-dao-management-on-algorand/9823
 company_name: HEADLINE
 category: dApps
-focus_area: Governance, Smart Contracts, Tooling, Wallets
+focus_area: Tooling
 open_source: Yes
 amount_requested: 375000
 status: Final
