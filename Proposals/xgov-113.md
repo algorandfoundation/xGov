@@ -1,5 +1,6 @@
 ---
 id: 113
+period: 3
 title: Thurstober Wallet Enhancer - Asset Details and Atomic Swaps
 author: Joseph Glenn (@loafpickleWW)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/113
