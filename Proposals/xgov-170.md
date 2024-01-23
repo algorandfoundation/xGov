@@ -6,7 +6,7 @@ author: Mark Crae (@tropical-vacay), Jesco Brandt (@heartberg)
 discussions-to: https://discord.gg/x4tExuwVXV
 company_name: Everyone
 category: dApps, Tools
-focus_area: Voting, Community, DAO, User Onboarding
+focus_area: Social, User Onboarding, Other
 open_source: No
 amount_requested: 50000
 status: Draft
