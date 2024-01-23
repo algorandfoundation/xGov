@@ -1,7 +1,7 @@
 ---
 id: 158
-title: X-NFT Cardano Integration
 period: 3
+title: X-NFT Cardano Integration
 author: Giles Campbell (@GilesTNT)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/158
 company_name: X-NFT
@@ -22,7 +22,7 @@ The X-NFT team proposes to create a targeted release to bring Cardano users to A
 -   Michael Cotton - Co-Founder
 -   Dom - Core Blockchain Developer
 
-## Advisors
+### Advisors
 
 -   AJ Milne - Advisor
 
