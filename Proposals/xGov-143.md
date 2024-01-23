@@ -1,15 +1,15 @@
 ---
-ID: 143
-Period: 3
-Title: Educational Fungi Farm
-Author: Sean Deegan
-Discussions- to: https://discord.gg/2NjD3wBFf4 
-Company_name: Solluna Mushroom Farm LLC
-Category: Community
-Focus_area: Education,NFT, User Onboarding
-Open_source: Yes
-Amount_requested: 55,000
-Status: Final
+id: 143
+period: 3
+title: Educational Fungi Farm
+author: Sean Deegan
+discussions-to: https://discord.gg/2NjD3wBFf4
+company_name: Solluna Mushroom Farm LLC
+category: Community
+focus_area: Other
+open_source: Yes
+amount_requested: 55000
+status: Final
 ---
 
 ## Abstract
