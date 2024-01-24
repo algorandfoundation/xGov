@@ -6,7 +6,7 @@ author: Eric Kirse (@kirse)
 discussions-to: https://forum.algorand.org/
 company_name: BlockStalker.IO
 category: Tools
-focus_area: Monitoring,NFT,User Onboarding
+focus_area: Monitoring
 open_source: No
 amount_requested: 77350
 status: Final
@@ -41,5 +41,5 @@ The long-term vision is to grow our integrations / partnerships and build out a 
 ## Benefits for the community
 BlockStalker reduces the cognitive load of figuring out "what's happening on Algorand?" by translating boring transaction IDs and wallet addresses into plain English.  It drives whole-Algorand ecosystem activity by enabling users to subscribe to Address/NFT/App events and take ecosystem-driving actions based on those events.
 
-## Additional Information
+## Additional information
 Vote YES on the BlockStalker v1.0 Feature Set today!
