@@ -9,7 +9,7 @@ category: Tools
 focus_area: Monitoring,NFT,User Onboarding
 open_source: No
 amount_requested: 77350
-status: Draft
+status: Final
 ---
 
 ## Abstract
