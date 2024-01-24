@@ -3,7 +3,7 @@ id: 104
 period: 3
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
-discussions-to: https://forum.algorand.org/t/xgov-104-notiboy-web3-chat-milestone-2/10809
+discussions-to: https://forum.algorand.org/t/xgov-104-notiboy-web3-chat-milestone-2-group-chat-encryption-and-nfd-integration/11194
 company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
