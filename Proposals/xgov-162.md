@@ -1,7 +1,7 @@
 ---
 id: 162
 period: 3
-title: ASA.Gold - increase gold reserves
+title: ASA.Gold - Introduction Video
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/162
 company_name: ASA.Gold DAO
@@ -28,13 +28,18 @@ We provide many open source tools to help algorand communities - https://github.
 <a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Present Proposal
-With this grant request we request funds to buy physical gold, increase gold reserves and deposit it to amm with gold dao token.
+With this grant request we request funds to create introduction video with minimum content:
+
+- How to buy gold token using asa.gold website
+- How to buy gold token using AWallet
+- How to sell gold token
+- How to buy gold item from reserves (NFT)
+- How to do secondary sale of the NFT
+- How to request physical delivery of real world gold coin using the ownership of the NFT
 
 ## Benefits for the community
 
-- Better swap quotes for gold
 - Better marketing for asa.gold project and showcase of algorand as great blockchain for RWA use cases
 
 ## Additional information
 
--
