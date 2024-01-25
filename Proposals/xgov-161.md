@@ -1,7 +1,7 @@
 ---
 id: 161
 period: 3
-title: VoteCoin - DAO Liquidity
+title: VoteCoin - Introductionary video
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/161
 company_name: VoteCoin DAO
@@ -13,19 +13,9 @@ status: Final
 ---
 
 ## Abstract
-Vote Coin DAO incentivizes low AMM LP fee pools so that the algorand ecosystem has better incentivization on better DEX aggregators and for end users the swap quotes between bitcoin, algorand and usdc are better.
+Vote Coin DAO created onchain voting standard and open source solutions capable of efficient onchain community decision making. This includes the fractionalized and categorized delegation of the voting power, encrypted voting, trusted list management and results calculation by multiple functions. 
 
-We request grant to increase the AMM liquidity. With 16k Algos received from this grant we will split it to 4 baskets equaly - algo, usdc, btc and gold. Vote coin DAO will add equal stake in $vote tokens and will increase the liqudity in the pools.
-
-We will increase these pools:
-- Vote/Algo - 4k algo plus vote token worth of 4k algo
-- Vote/USDC - USDC worth 4k algo plus vote token worth of 4k algo
-- Vote/BTC - BTC worth 4k algo plus vote token worth of 4k algo
-- Vote/Gold - ASA.Gold token worth 4k algo plus vote token worth of 4k algo
-
-Liqudity will be held at the pools for minimum of 3 months.
-
-Liquidity will not be locked in vault, as we reserve right to rebalance the the pools to express same share between assets in long run. We will create special account for this grant so that public can oversight the usage of the funds.
+With this grant request we ask for grant to fund creation of the video describing vote coin open standard and how it helps and may help Algorand ecosystem.
 
 ## Team
 Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gold">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
@@ -40,13 +30,16 @@ We provide many open source tools to help algorand communities - https://github.
 <a href="https://youtube.com/@EverydayAlgonaut">Everyday Algonaut channel</a>
 
 ## Present Proposal
-With this grant request we will increase the liqudity of the Vote Coin token.
+We will create video with minimum content on:
+- How to create a question
+- How to delegate the voting power
+- How to manage trusted list
+- How the calculation of voting results work
+- How is the vote coin project beneficial for the algorand ecosystem
 
 ## Benefits for the community
 
-- Better swap prices between algorand, bitcoin, usdc and gold.
+- Better understanding how to manage onchain community decisionmaking more efficient
 - Better marketing for vote coin project where community can start their own DAOs for free
 
 ## Additional information
-
--
