@@ -1,7 +1,7 @@
 ---
 id: 161
 period: 3
-title: VoteCoin - Introductionary video
+title: VoteCoin - Introduction Video
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/161
 company_name: VoteCoin DAO
