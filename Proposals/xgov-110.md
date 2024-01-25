@@ -3,7 +3,7 @@ id: 110
 period: 3
 title: Pixelnode - Oneclick node manager
 author: Shivaprasad Manupadi (@shivamanupadi)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/110
+discussions-to: https://forum.algorand.org/t/xgov-110-pixelnode-one-click-node-manager/11211
 company_name: Pixelnode
 category: Tools
 focus_area: Node
