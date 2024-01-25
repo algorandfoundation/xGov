@@ -29,7 +29,7 @@ A tool for generating Algorand vanity addresses using GPU acceleration.
 - The prefixes to look for can be specified as a command line argument or a text file
 - Licence: MIT
 - Includes best-effort maintenance for at least 3 months from the date of the first release
-- Delivery date: up to 3 months after receiving a confirmation that the xGov funding for the proposal has been secured
+- Delivery date: up to 3 months since signing the xGov funding contract
 
 ## Benefits for the community
 Allows the community to quickly and securely generate recognizable Algorand addresses for their projects or personal use.
