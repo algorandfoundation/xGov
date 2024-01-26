@@ -33,10 +33,12 @@ SilentRhetoric has been an active developer in the Algorand community since 2021
 
 ## Present Proposal
 
-The Community Code Contribution Contest will bring developers from around the Algorand ecosystem together to compete for prizes and social media recognition by having code contributions submitted as Pull Requests (PR) merged into selected Algorand libraries.  The prizes will be awarded in three categories:
-1. Speed - Four prizes total.  The first four PRs eligible under the rules to be merged will be awarded small prizes for the initiative.
-2. Difficulty - Three prizes.  In consultation with Algorand Technologies and Algorand Foundation, three particularly challenging and high-value tasks will be selected.  
-3. People's Choice - Three prizes.  A poll will be held in the Algorand Discord to identify the top three features and bug fixes that are important to builders' ability to build apps.
+The Community Code Contribution Contest will bring developers from around the Algorand ecosystem together to compete for prizes and social media recognition by having code contributions submitted as Pull Requests (PR) merged into selected Algorand libraries.  The eligible issues will be selected in partnership with Algorand Foundation and Algorand Technologies to ensure that they are a good fit for a community developer as well as their teams' fast-paced work to deliver their roadmaps.  
+
+Prizes will be awarded in three categories:
+1. Low-hanging Fruit - Four prizes.  Smaller work items that have particularly high value and limited interdependency on other areas of the codebase.  
+2. Difficulty - Three prizes.  More extensive and/or challenging tasks that may require creative solutions and/or managing interdependency with other components.
+3. People's Choice - Three prizes.  A poll will be held in the Algorand Discord to identify the top three eligible features and/or bug fixes that are important to builders' ability to build apps.
 
 All of the prize winners will have their work promoted in posts on social media channels including X, Reddit, and Discord.  I will also try to have the ten winners recognized at Deciper on a best efforts basis in collaboration with Algorand Foundation.
 
@@ -48,4 +50,4 @@ Algorand now has a clear roadmap to decentralizing the network through P2P nodes
 
 ## Additional information
 
-Specific rules and procedures for this community contest will be formulated together with Algorand Technologies and Algorand Foundation and announced within one month of the proposal passing.  To be eligible for the contest, no work started prior to the kickoff announcement will be eligible.  Additional terms may apply and will be communicated in due course in the Algorand Discord server.  All code contributions will be open source under the license of the repository to which the code was merged.
+Specific rules and procedures for this community contest will be formulated together with Algorand Foundation and Algorand Technologies and announced within one month of the proposal passing.  The target repositories for this content will likely be go-algorand, go-algorand-sdk, py-algorand-sdk, and js-algorand-sdk, pending agreement from Algorand Technologies and Algorand Foundation.  To be eligible for the contest, no work started prior to the kickoff announcement will be eligible.  Additional terms may apply and will be communicated in due course in the Algorand Discord server.  All code contributions will be open source under the license of the repository to which the code was merged.  All funds will go directly to prizes for the winning developers whose eligible PRs are merged successfully as determined by Algorand Foundation and Algorand Technologies.  Exactly zero (0) Algos of the grant will go to me.
