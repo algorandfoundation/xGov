@@ -2,7 +2,7 @@
 id: 170
 period: 3
 title: A Highly Intuitive Decentralized Voting System with Customizable Contract Deployer
-author: Mark Crae (@tropical-vacay), Jesco Brandt (@heartberg)
+author: Mark Crae (@dolphinkitty), Jesco Brandt (@heartberg)
 discussions-to: https://discord.gg/x4tExuwVXV
 company_name: Everyone
 category: dApps, Tools
