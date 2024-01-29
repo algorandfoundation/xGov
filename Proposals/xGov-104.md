@@ -25,33 +25,29 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Present Proposal
-In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord.Community members can join the group by just connecting their wallet. This will help them to maintain privacy. We will implement end to end encryption for better safety. 
+In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. Smaller projects can create a group by just connecting their wallet. Community members can join the group by just connecting their wallet and need not share any other information. This will help them to maintain privacy.
+
+We will implement end to end encryptionwhich will make sure that the communication is secure and cannot be leaked by malicious entities.
+
 NFDomains will be integrated for better user experience while chatting. The address and profile picture will be replaced by NFD (if there is one) which can also be considered as a digital idenity usecase for domain name service.
 
-Our chat application will be mobile first with implementation on iOS and Android. This is inline with the analysis that mobile phones are primarly used for chat applications when compared to web.
+Our group chat application will be mobile first with implementation on iOS and Android. This is inline with the analysis that mobile phones are primarly used for chat applications when compared to web.
+
+
 
 ## Future Blueprint
 
-### Milestone 2: Build a Group chat feature
-Time Taken: 2 months
+### Milestone 3: Notiboy Super App
+Time taken: 3 months
 
-Amount: 60000
-
-Description:
-    - Group Chat feature which will allow creation of web3 communities without revealing any personal information of users involved (Android & iOS).
-    - End to end encryption for better safety.
-    - Integrate NFDomains for better chat experience.
-
-### Milestone 3: Transfer of assets on chat
-Time taken: 1 months
-
-Amount: 50000
+Amount: 100000
 
 Description:
-    - Implemeting web3 chat in webapp.
-    - Swapping assets between addresses while chatting.
-    - Sending assets between addresses while chatting.
-    - Release apis as a service so that projects can integrate chat app into their web3 application.
+    - Transforming Notiboy into a super app for algorand with a service store (services include Node staking pool, swapping router and more...). 
+    - Implementing chat feature on webapp.
+    - Swapping assets between addresses while chatting (web).
+    - Sending assets between addresses while chatting (web).
+
 
 
 ## Benefits for the community
@@ -59,6 +55,8 @@ Description:
 
 2) Web3 projects on algorand can integrate our APIs to their application thus providing an in-app chat experience for 
 their end-users.
+
+3) Get concensus rewards by staking into our pool (once consensus rewards are live). This is useful for algo holders who cannot run their own node. Smart contract will be opensource and audited.
 
 ## Additional information
 Twitter: https://twitter.com/notiboyproject <br>
