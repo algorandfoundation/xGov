@@ -5,8 +5,8 @@ title: A Highly Intuitive Decentralized Voting System with Customizable Contract
 author: Mark Crae (@dolphinkitty), Jesco Brandt (@heartberg)
 discussions-to: https://discord.gg/x4tExuwVXV
 company_name: Everyone
-category: `dApps`, `Tools`
-focus_area: `Social`, `User Onboarding`
+category: dApps
+focus_area: Social
 open_source: No
 amount_requested: 50000
 status: Draft
