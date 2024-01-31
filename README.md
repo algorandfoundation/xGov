@@ -25,7 +25,7 @@ xgovw /path/to/xGovs/Proposals
 
 At the start of each governance period, the governance team will start the procedures to create a new xGov Voting Session. 
 
-To ensure your proposal is included in the quarter’s voting round, make sure it is submitted before the start of the next Review Phase and that the status is set to “Final” before the snapshot date for the xGov voting session, if your proposal is ready after the review phase.
+To ensure your proposal is included in the quarter’s voting round, make sure it is submitted before the start of the Review Phase and that the status is set to “Final” before the snapshot date for the xGov voting session, if your proposal is ready after the review phase.
 
 If you proposal is still in "Draft" after the review phase, that means it needs more feedback and it can be included in the following session, once status is “Final”.
 
