@@ -2,8 +2,7 @@
 id: 99
 period: 3
 title: AlgoLearn Platform; Interactive Learning for New Developers
-author: "Costa, Leo (@atsoc1993)"
-email: "atsoc1993@gmail.com"
+author: Costa Leo (@atsoc1993), atsoc1993@gmail.com
 discussions-to: https://forum.algorand.org/t/xgov-99-algolearn-platform-starting-with-an-algorand-based--bot-lecture-series-and-open-sourcing-python-puya/10791/4
 company_name: Independent
 category: Tools
