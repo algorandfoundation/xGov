@@ -68,3 +68,6 @@ Estimated Requirement: 300000 ALGO
 By connecting the EVM and AVM (Algorand) NFT ecosystems, Messina.one is enabling further cross chain integration and community growth in the NFT domain. It will give NFT communities in the Algorand space easy access to a greater audience and creators the opportunity to leverage their creative talent to bring new users into the Algorand ecosystem from EVM chains. 
 At the same time it allows NFT projects on EVM chains to explore the superior Algorand network at a lower cost and without spending big resources to launch an entire collection, and instead bridge parts of existing collections to test the waters first.
 Through these benefits it brings more buyers, more traders, and more capital into the Algorand NFT landscape, adding more diversity and creating an altogether more attractive ecosystem for all NFT stakeholders alike.
+
+## Additional information
+None
