@@ -79,7 +79,7 @@ The integration of blockchain technology into the learning ecosystem through Alg
 - **Onboarding Platform:** Funding will assist with development of AlgoLearn, which will facilitate an easy entry point for not only prospective developers, but our internal community members into Algorand development.
 - **Practical Learning:** Offers hands-on experience through guided and in-depth tutorials and interactive web IDE's.
 - **Innovation Stimulus:** Encourages the creation of new, blockchain-integrated projects and streamlined learning/research.
-- 
+
 ## Additional information
 **Timeline:**
 - The AlgoLearn Platform should be expected to be complete within 3-4 months, although I matriculate part-time— the funding will provide resources to fully commit to AlgoLearn and foster it to conception. 
