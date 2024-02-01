@@ -1,6 +1,6 @@
 ---
 id: 99
-period: 10
+period: 3
 title: AlgoLearn Platform; Interactive Learning for New Developers
 author: "Costa, Leo (@atsoc1993)"
 email: "atsoc1993@gmail.com"
