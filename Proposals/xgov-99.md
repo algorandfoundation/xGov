@@ -74,7 +74,7 @@ Based on community feedback, future proposals will focus on:
 - Development specifically in less popular languages; for example the Unity, Unreal or Swift Algorand SDK's available as per community interest.
 
 ## Benefits for the community
-The integration of blockchain technology into the learning ecosystem through AlgoLearn represents a transformative step for developers entering the blockchain space. The current landscape, while rich in potential, often leaves aspiring developers navigating a maze of disjointed resources. AlgoLearn is poised to bridge this gap by offering a structured, comprehensive, and interactive learning platform, specifically tailored to the Algorand ecosystem:
+The integration of blockchain technology into the learning ecosystem through AlgoLearn represents a transformative step not only for developers choosing to enter the space but for existing community members interested in programming. The current landscape, while rich in potential, often leaves aspiring developers navigating disjointed resources. AlgoLearn is poised to bridge this gap by offering a structured, comprehensive, and interactive learning platform.
 
 - **Onboarding Platform:** Funding will assist with development of AlgoLearn, which will facilitate an easy entry point for not only prospective developers, but our internal community members into Algorand development.
 - **Practical Learning:** Offers hands-on experience through guided and in-depth tutorials and interactive web IDE's.
