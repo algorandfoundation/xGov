@@ -82,4 +82,6 @@ The integration of blockchain technology into the learning ecosystem through Alg
 ## Additional information
 **Timeline:**
 - The AlgoLearn Platform should be expected to be complete within 3-4 months, although I matriculate part-time— the funding will provide resources to fully commit to AlgoLearn and foster it to conception.
-> Example for Proof of Work/Understanding: https://youtu.be/5SjGYC3Ub-0
+  
+**Example for Proof of Work/Understanding:**:
+- https://youtu.be/5SjGYC3Ub-0
