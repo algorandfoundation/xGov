@@ -3,7 +3,7 @@ id: 144
 period: 3
 title: Cosmic Champs x Algoleagues - Cross-community 3D NFT Collab
 author: Cosmic Champs (@madshapes-dev)
-discussions-to: https://discord.gg/cosmicchamps
+discussions-to: https://forum.algorand.org/t/xgov-144-cosmic-champs-x-algoleagues-cross-community-3d-nft-collab/11088/
 company_name: Cosmic Champs International Limited
 category: Community
 focus_area: Gaming
