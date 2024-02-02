@@ -3,7 +3,7 @@ id: 95
 period: 3
 title: Open-source "match-2" browser game to explore NFT ecosystem
 author: Cosmic Champs (@madshapes-dev)
-discussions-to: https://discord.gg/cosmicchamps
+discussions-to: https://forum.algorand.org/t/xgov-95-open-source-match-2-browser-game-to-explore-nft-ecosystem/11086/
 company_name: Cosmic Champs International Limited
 category: Tools
 focus_area: NFT
