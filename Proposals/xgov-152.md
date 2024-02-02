@@ -3,7 +3,7 @@ id: 152
 period: 3
 title: Algorand is THE chain for Gaming (establishing the RWA narrative)
 author: Cosmic Champs (@madshapes-dev)
-discussions-to: https://discord.gg/cosmicchamps
+discussions-to: https://forum.algorand.org/t/xgov-152-algorand-as-go-to-chain-for-gaming-establishing-the-rwa-narrative/11105/
 company_name: Cosmic Champs International Limited
 category: Community
 focus_area: User Onboarding
