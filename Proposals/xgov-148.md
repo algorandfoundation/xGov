@@ -7,7 +7,7 @@ discussions-to: https://github.com/algorandfoundation/xGov/pull/148
 company_name: CompX Labs
 category: dApps
 focus_area: Defi
-open_source: No
+open_source: Yes
 amount_requested: 50000
 status: Final
 ---
