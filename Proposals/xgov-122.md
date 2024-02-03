@@ -1,5 +1,6 @@
 ---
 id: 122
+period: 3
 title: Fast Cometa & New features
 author: Nikita Gorokhov (@nikitacometa)
 discussions-to: https://discord.gg/KnBEtH8gQQ
