@@ -59,6 +59,7 @@ DeFi needs not only investment mechanisms, but other useful tools as well. For t
 
 ### 3. Portfolio Tracker, 30k
 Why do DeFi on one website and then go to another just to check the portfolio of your wallet(-s)? We think it should be in one place. We'll start with a minimal version and upgrade it continuously. 
+Most likely we'll collaborate with ASA Stats or just use their API to have rich information from the start and filter what is the most crucial for users to see.
 
 ## Benefits for the community
 The overall goal of Cometa is to help projects to launch and/or grow ASAP: attract more liquidity, get new holders and gain more media attention. 
