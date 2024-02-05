@@ -13,21 +13,26 @@ status: Final
 ---
 
 ## Abstract
-Zorkin aims to implement a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> authentication solution that runs natively on Algorand, allowing Social Login like Facebook to authenticate access to an application specific self-custodial Algorand Account.
+Zorkin aims to implement a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> authentication solution that runs natively on Algorand, allowing Social Login like Facebook to authorize transactions from a linked self-custodial Algorand Account.
 
-A fiat on-ramp will be integrated into the solution to enable regulatory-compliant blockchain asset purchases using major payment methods such as credit card.
+A fiat on-ramp will be integrated into the solution for regulatory-compliant blockchain asset purchases using major payment methods such as credit card.
 
 ## Team
 - Winton Nathan-Roberts as Research, Design & Software Engineering lead
 - Skilled independent contractors for auxiliary tasks spanning software engineering, legal consultation, and financial services
 
-Contractor involvement in core system design and implementation will be minimal and subject to rigorous validation checks.
+Contractor work will be rigorously checked for validity.
 
 ## Experience with Algorand
 
-Winton Nathan-Roberts is a Machine Learning PhD dropout with over 4 years of industry experience in Software Engineering working for various Startups & Blue Chip companies like <a href="https://wargaming.com/en/" target="_blank">Wargaming</a>.
+Winton Nathan-Roberts is a Machine Learning PhD dropout boasting over 4 years of industry experience in Software Engineering with various startups and blue-chip companies, including [Wargaming](https://wargaming.com/en/).
 
-Over the last two years, he has been working largely in silence on an Algorand-based Web3 gaming venture. His current focus is on enhancing user onboarding for Web3 dApps and games, with a specific emphasis on regulatory-compliant authentication and fiat on-ramping. <a href="https://github.com/Helium-Labs/" target="_blank">Helium Labs</a> on GitHub represents some of this work, with many of its repositories private.
+He has dedicated over two years to developing an Algorand-based Web3 gaming venture. Currently he is focusing on streamlining the onboarding process, with solutions that lower friction in Algorand account authentication, transaction authorization, and fiat purchases. Some of his projects can be viewed at [Helium Labs](https://github.com/Helium-Labs/) on GitHub, though many repositories are private.
+
+Here are some relevant projects he has worked on, linked to videos for further detail:
+
+- [Aido: FIDO2 Transaction Authorization](https://www.youtube.com/watch?v=0_M8aunqZyA): Implements the passwordless & phishing-resistant FIDO2 protocol for transaction authorization from an Algorand account
+- [SessionWallet](https://www.youtube.com/watch?v=66N7bFn19Ck): Provides low-friction application specific account creation and transaction approval, leveraging transactions as session tokens via on-chain MsgPack parsing
 
 ## Present Proposal
 
