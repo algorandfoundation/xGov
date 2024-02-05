@@ -1,7 +1,8 @@
 ---
 id: 98
+period: 3
 title: Launch of Nimblr - Audits, Licensing, & GO LIVE!
-author: Adam Hofmann (@ahrevival) 
+author: Adam Hofmann (@ahrevival)
 discussions-to: 
 company_name: Nimblr
 category: dApps
