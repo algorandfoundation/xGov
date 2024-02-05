@@ -1,7 +1,7 @@
 ---
 id: 154
 period: 3
-title: Cosmic Champs partnering with legendary indie toy company to bring established physical toy in-game on Algorand
+title: Cosmic Champs partnering with legendary indie toy company to bring physical toy in-game on Algorand
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://forum.algorand.org/t/xgov-154-cosmic-champs-partnering-with-legendary-indie-toy-company-to-bring-physical-toys-in-game-on-algorand
 company_name: Cosmic Champs International Limited
