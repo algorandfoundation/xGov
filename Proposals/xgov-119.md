@@ -36,12 +36,25 @@ Here are some relevant projects he has worked on, linked to videos for further d
 
 ## Present Proposal
 
-Zorkin aims to implement a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenIDConnect</a> (OIDC) authentication solution, allowing Social Login like Facebook to authenticate access to an application specific self-custodial Algorand Account. A variant has been implemented by Mysten Labs for their Sui blockchain called <a href="https://sui.io/zklogin" target="_blank">ZK-Login</a>, which is only usable with Sui. Zorkin will attempt to improve upon ZK-Login, if possible. Some of Algorand's user experience (UX) challenges, like the need for explicit consent for asset Opt-In, will be mitigated by possibly leveraging <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a> whose development is proposed by <a href="https://github.com/algorandfoundation/xGov/pull/117
-" target="_blank">xGov-117</a>.
+Zorkin plans to develop a turnkey solution for low-friction user authentication and transaction authorization with Social Login via an OAuth provider (e.g. Google), linking an Algorand account to the user's OAuth identity. At its core, users authenticate themselves using a familiar <a href="https://openid.net/developers/how-connect-works/" target="_blank">OpenID Connect</a> experience. The resulting JSON Web Token (JWT) access token can then be utilized to create an authorized session wherein users can approve transactions from their linked Algorand account with the associated session parameters. <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARKs</a> are used to preserve the privacy of the JWT access token during session authorization, so it isn't revealed on-chain. The sensitive session access keys are stored within the interfacing application client, intended for management by the user, making the solution self-custodial.
 
-Multiple system designs are being explored, with one variant and its MVP implementation detailed at this <a href="https://github.com/Helium-Labs/Zorkin" target="_blank">Github repository</a>. However, the final deliverables will differ, as development is expected to lead to an enhanced design and implementation.
+<a href="https://sui.io/zklogin" target="_blank">ZK-Login</a> by Mysten Labs, created exclusively for the Sui blockchain, has inspired the development of Zorkin. Zorkin plans to introduce various improvements such as allowing seamless OAuth client migration, postponing session creation until necessary, among other enhancements.
 
-Zorkin will be integrated with a 3rd Party Fiat On-Ramp to allow users to buy approved crypto assets using major payment methods like credit card, taking care of relevant compliance. A Fiat On-Ramp such as <a href="https://www.moonpay.com/en-au" target="_blank">MoonPay</a> will be considered for integration.
+Zorkin aims to enhance the user experience on Algorand by tackling its inherent challenges, like the requirement for users to manually opt into assets. To that end, we may offer a compatible <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a> compliant plugin-based contract account. <a href="https://github.com/algorandfoundation/xGov/pull/117" target="_blank">xGov-117</a> proposes to develop ARC-56.
+
+Lastly, our plan includes adding a regulatory-compliant, third-party fiat on-ramp service like <a href="https://www.moonpay.com/en-au" target="_blank">MoonPay</a>. This will enable users to buy approved assets with popular payment methods, including credit cards.
+
+### Prototype Video Demonstration
+
+We are currently experimenting with several design variants. One notable variant can be found in the <a href="https://github.com/Helium-Labs/Zorkin" target="_blank">Zorkin GitHub repository</a>. For a preview of this variant, watch the video below showcasing a prototype demonstration.
+
+<center>
+    <a href="https://www.youtube.com/watch?v=ZJotF-RdKjA" target="_blank">
+        <img src="http://img.youtube.com/vi/ZJotF-RdKjA/0.jpg" alt="YouTube Video Thumbnail" style="width:500px;"/>
+    </a>
+</center>
+
+The final product may substantially change from the above preview after further development.
 
 ### Deliverables
 
@@ -61,16 +74,6 @@ In chronological order, the deliverables are:
 5. Mainnet Deployment of `ZorkinInfra`, with a tenant configurable via `Dashboard` and billed via `PaymentInfra`
 
 The delivery timeline is deliberately open-ended to prioritize legal compliance and consumer safety. The deliverables will be available for public access only in jurisdictions where they fully adhere to local laws. The deliverables will be adjusted against feedback from legal consultation to ensure legal feasibility. These services will be offered as long as they are financially viable and legally permissible, with a planned legal sunsetting and exit strategy to be devised and communicated to consumers through the terms of service.
-
-### Minimum-Viable Product Demo
-
-The following video showcases an early-stage design of Zorkin, featuring a demo of the Minimum Viable Product for this variant. Please be aware that the described variant is in its early stages; the final deliverables may differ significantly as the design will be refined throughout development.
-
-<div style="text-align: center;">
-    <a href="https://www.youtube.com/watch?v=ZJotF-RdKjA" target="_blank">
-        <img src="http://img.youtube.com/vi/ZJotF-RdKjA/0.jpg" alt="YouTube Video Thumbnail" style="width:500px;"/>
-    </a>
-</div>
 
 ## Benefits for the community
 
