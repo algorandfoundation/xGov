@@ -9,7 +9,7 @@ category: dApps
 focus_area: Defi
 open_source: Yes
 amount_requested: 358271
-status: Draft
+status: Final
 ---
 
 ## Abstract
