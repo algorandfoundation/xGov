@@ -25,7 +25,7 @@ Contractor work will be rigorously checked for validity.
 
 ## Experience with Algorand
 
-Winton Nathan-Roberts is a Machine Learning PhD dropout boasting over 4 years of industry experience in Software Engineering with various startups and blue-chip companies, including [Wargaming](https://wargaming.com/en/).
+Winton Nathan-Roberts is a Machine Learning PhD dropout boasting over 4 years of industry experience in Software Engineering with various startups and blue-chip companies, including <a href="https://wargaming.com/en/" target="_blank">Wargaming</a>.
 
 He has dedicated over two years to developing an Algorand-based Web3 gaming venture. Currently he is focusing on streamlining the onboarding process, with solutions that lower friction in Algorand account authentication, transaction authorization, and fiat purchases. Some of his projects can be viewed at <a href="https://github.com/Helium-Labs/" target="_blank">Helium Labs</a> on GitHub, though many repositories are private.
 
