@@ -13,7 +13,7 @@ status: Final
 ---
 
 ## Abstract
-Wallet Enhancer - Enhancement! In this proposal we want to add in Asset Details for when you click on an asset and it will show the asset details along with the metadata information. In addition, you can go on another wallet, select assets, and set up an atomic swap transfer. 
+Listening to community feedback, we want to enhance the wallet enhancer with this proposal! Users have requested Asset Details for when you click on an asset. This will show the asset information including the metadata and give the user the ability to add, opt out, or send right from that asset page. In addition we intend on allowing users to make trades where you can go on another wallet, select assets, and set up an atomic swap transfer for any algorand ASAs. 
 
 ## Team
 The team at Thurstober Digital Studios (xGov Periods 1 and 2 Awardees):
