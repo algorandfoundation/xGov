@@ -27,6 +27,10 @@ After our proposal was approved in last period we have seen great success with t
 We would like to repeat this cross community collabs and bring some healty engagement between some of the OG Algorand communities. This time we wish to join forces with AlgoBots - an Algorand OG project that has built a loyal and active community and create a signature NFT character (multimint) that will be fully functional in our game.
 We will provide these NFTs for free to their community and will do an exciting campaign to ensure fair and fun distribution. To get better idea here is two of our recent collab NFTs that are playable in our game: <a href="https://nft.cosmicchamps.com/nft/1280977773" target="_blank">MNGO</a> ,<a href="https://nft.cosmicchamps.com/nft/1108380528" target="_blank">PEPE</a> 
 
+We will aim to develop the NFT and prepare the campaign to be ready to launch(pending our partner approval) within two months of receiving the payment.
+
+We are asking for 100% of the funds to be paid in advance, as we need to pay for dev work involved with the creation of the NFTs.
+
 ## Future Blueprint
 In future we would like to create more of these NFTs focusing on cross-chain/non-algo project collabs to bring new users into our game and introduce multitude of algorand OG projects to these new players. E.g. focus on bringin new people to algorand itself and showcase them a select subset of trusted OG Algorand proejcts to get them started.
 
