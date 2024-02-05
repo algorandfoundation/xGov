@@ -77,14 +77,14 @@ The project will be implemented in three phases:
 3. **Phase Three:** Proposing an Algorand governance vote to allocate foundation funds for permanent liquidity support, creating a new income stream for Governance from liquidity pool fees.
 4. **Phase Four:** Potentially replace the portalbridge dependency with an Algorand native solution that relies on ZKPs to create wrapped tokens.
 
-## Benefits for the Community
+## Benefits for the community
 
 1. Reduced fees for moving funds between cash and Algorand, making it more cost-effective for users and increasing on chain liquidity.
 2. Expanded opportunities for both Algorand and Arbitrum communities through increased interaction and visibility.
 3. New income from liquidity pool fees post-Phase Three, diversifying Algorand Governance's revenue sources.
 4. Potential to expand this model to other cross-chain asset opportunities.
    1. For example, Coinbase's L2 Base, Optimism, Polygon, etc. 
-   2. Or if Algorand ever had broader exchange support for USDCa, this process could be flipped such that Algorand is a liquidity on/off ramp for other chains without USDC like [Mina](https://minaprotocol.com/)
+   2. Or if Algorand ever had broader exchange support for USDCa, this process could be flipped such that Algorand is a liquidity on/off ramp for other chains without USDC like <a href="https://minaprotocol.com/" target="_blank">Mina</a>
 
 ## Additional information
 
