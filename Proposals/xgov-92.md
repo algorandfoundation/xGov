@@ -1,5 +1,6 @@
 ---
 id: 92
+period: 3
 title: DAOsign
 author: TetianaRiabova (@TetianaRiabova), Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Misha Kushka, Oleksandra Burmenska <sandra@daosign.org>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/92
