@@ -103,7 +103,7 @@ The following is an argument as to why we think the Zorkin IP is safe to use and
 - ZK-Login is described and implemented by Mysten Labs with most of its components existing in an Open-Source codebase with an [APLv2](https://www.apache.org/licenses/LICENSE-2.0) license, and documentation that's covered by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Some components, in particular its circuit, are closed-source
 - The conclusion we can reach is that the design for ZK-Login is most likely subject to APLv2, on the basis it is nearly described in its entirety in codebases that are subject to APLv2
 
-Should any IP infringement dispute occur, or is predicted to occur, Zorkin will do anything it can to respect the law including preemptively shutting any public facing service with advanced notice per its Terms of Service. 
+Should any IP infringement dispute occur, or is predicted to occur, Zorkin will do anything it can to respect the law including preemptively terminating any public facing service with advanced notice per its Terms of Service. 
 
 ### Self-Custodial Definition
 
