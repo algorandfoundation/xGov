@@ -13,7 +13,7 @@ status: Final
 ---
 
 ## Abstract
-We're back! In this proposal we want to add in NFD Vault Support to reduce the opt-friction for new Algorand Users, Add ARC-36 Support (Non-Rarity Filters) to our Simple Mint and Update Tools, Add in advanced asset tools to change the Manager, Freeze, and Clawback Address, and add in a tool where you can enter a Wallet Address to download the tx history. In addition we plan on updating the site with a redesign. 
+The Team at Thurstober Tools (Formerly Evil Tools) has listened to the community requests for new tools. In this proposal we want to add in NFD Vault Support to reduce the opt-friction for new Algorand Users, Add in the ability to enter an NFD root and airdrop to all the segements, Add ARC-36 Support (Non-Rarity Filters) to our Simple Mint and Update Tools, Add in advanced asset tools to change the Manager, Freeze, and Clawback Address, and add in a tool where you can enter a Wallet Address to download the tx history. Included in this proposal free of charge will also be a site re-design.
 
 ## Team
 The team at Thurstober Digital Studios (xGov Periods 1 and 2 Awardees):
