@@ -83,7 +83,7 @@ If implemented, developers in supported countries can provide users with a ZK-SN
 
 ### Open Source Clarification
 
-The proposal's metadata suggests it will be Open Source, but this applies only to solution components chosen at our discretion such as certain frontend application clients. Each open-source component will be subject to a separate license with respective terms and conditions that must be adhered to.
+The proposal's metadata suggests it will be Open Source, but this applies only to solution components chosen at our discretion such as certain frontend application clients. It is guaranteed that at least one component of the solution will be open-source. Each open-source component will be subject to a separate license with respective terms and conditions that must be adhered to. Any third-party code or design dependency will have its respective trademark, copyright & patent licenses respected.
 
 ### Ownership of Deliverables & Intellectual Property
 
