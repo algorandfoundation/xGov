@@ -46,7 +46,7 @@ This proposal seeks funding of 175,000 ALGO to implement new and exciting featur
 - Auto-Compounding Rewards: Vaults will operate on an auto-compounding mechanism, ensuring continuous rewards are reinvested, contributing to the long-term health of the ecosystem.
 
 
-## Additional Information
+## Additional information
 
 <a href = "https://www.xbacked.io">Website</a>
 
