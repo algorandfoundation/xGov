@@ -19,6 +19,8 @@ If succesfully funded we are partnering with an established player in the collet
 
 We will do a limited physical run of a known collectible toy (not a cosmic champs character) and integrate it in our game as NFT. Each figurine will have its NFT counterpart. We will work on establishing a behaviour driven distribution channel, that will open Algorand to a whole new audience of collectors to interact ecosystem and pave the road for near future when industry behemots like Disney or Marvel will be looking for the blockchain to offer ther products as NFT + physicial collectibles.
 
+We see huge potential to onboard new community and also to establish the narrative that Algorand is the best chain for phigital (physical + digital) products. At the same time we do acknowledge that the costs of such endeavours are quite high and it is not possible to do it on our own budget.
+
 ## Team
 Cosmic champs team : <a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
 Our partner is a well established and long-time present entity in posession of multiple IPs in the collectible toys market. They have significant experience with sourcing manufacturing and distributing physical collectibles worldwide.
