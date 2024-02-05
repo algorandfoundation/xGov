@@ -1,14 +1,15 @@
 ---
-id: 105  
-title: "Cheaper USDC Onramp/Offramp for US Algorand Users" 
-author: pescennius ([pescennius.algo.xyz](https://pescennius.algo.xyz))
+id: 105
+period: 3
+title: "Cheaper USDC Onramp/Offramp for US Algorand Users"
+author: pescennius (@pescennius)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/105
 company_name: Anonymous Individual
 category: Community
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 10,000 ALGO  
-status: Draft  
+amount_requested: 10000
+status: Draft
 ---
 
 ## Abstract
@@ -47,19 +48,19 @@ Wrapped USDC becomes a more cost efficient way to cash out volumes between $75 a
 
 #### Sources
 
-1. [Tinyman Algo <> USDC](https://app.tinyman.org/#/swap?asset_in=31566704&asset_out=0)
-2. [Coinbase Fee Schedule](https://pro.coinbase.com/fees)
-3. [Kraken Fee Scheule](https://www.kraken.com/features/fee-schedule)
-4. [Coinbase Free USDC Withdrawal](https://www.coinbase.com/blog/increasing-access-to-usdc-internationally-commission-free-trading)
-5. [Kraken Withdrawal Fees](https://support.kraken.com/hc/en-us/articles/360000767986-Cryptocurrency-withdrawal-fees-and-minimums)
-6. [PortalBridge Wrapping Transactions with Fees](https://arbiscan.io/advanced-filter?fadd=0x0b2402144bb366a632d14b83f244d2e0e21bd39c&tadd=0x0b2402144bb366a632d14b83f244d2e0e21bd39c&txntype=0&mtd=0x9981509f%7eWrap+And+Transfer+ETH) (use column filter to make fees visible)
+1. <a href="https://app.tinyman.org/#/swap?asset_in=31566704&asset_out=0" target="_blank">Tinyman Algo <> USDC</a>
+2. <a href="https://pro.coinbase.com/fees" target="_blank">Coinbase Fee Schedule</a>
+3. <a href="https://www.kraken.com/features/fee-schedule" target="_blank">Kraken Fee Schedule</a>
+4. <a href="https://www.coinbase.com/blog/increasing-access-to-usdc-internationally-commission-free-trading" target="_blank">Coinbase Free USDC Withdrawal</a>
+5. <a href="https://support.kraken.com/hc/en-us/articles/360000767986-Cryptocurrency-withdrawal-fees-and-minimums" target="_blank">Kraken Withdrawal Fees</a>
+6. <a href="https://arbiscan.io/advanced-filter?fadd=0x0b2402144bb366a632d14b83f244d2e0e21bd39c&tadd=0x0b2402144bb366a632d14b83f244d2e0e21bd39c&txntype=0&mtd=0x9981509f%7eWrap+And+Transfer+ETH" target="_blank">PortalBridge Wrapping Transactions with Fees</a> (use column filter to make fees visible)
 
 
 #### Implementation
 To kickstart the viability of this process, the proposal seeks to accomplish the following:
 
-1. Get [Wrapped Arbitrum USDC ASA](https://algoexplorer.io/asset/1272612695) verified on relevant platforms (Pera, etc)
-3. Create Liquidity Pools for Wrapped Arbitrum. ([Pact.fi pool already exists as a demo](https://app.pact.fi/add-liquidity/1272627605))
+1. Get <a href="https://algoexplorer.io/asset/1272612695" target="_blank">Wrapped Arbitrum USDC ASA</a> verified on relevant platforms (Pera, etc)
+3. Create Liquidity Pools for Wrapped Arbitrum. (<a href="https://app.pact.fi/add-liquidity/1272627605" target="_blank">Pact.fi pool already exists as a demo</a>)
 2. Allocate 5K Algos to farming rewards on Tinyman, Pact, and Folks Finance for the USDCarb to USDCa pools.
 
 
@@ -85,7 +86,7 @@ The project will be implemented in three phases:
    1. For example, Coinbase's L2 Base, Optimism, Polygon, etc. 
    2. Or if Algorand ever had broader exchange support for USDCa, this process could be flipped such that Algorand is a liquidity on/off ramp for other chains without USDC like [Mina](https://minaprotocol.com/)
 
-## Additional Information
+## Additional information
 
 I value my privacy, hence my preference for anonymity in public. However, I am prepared to disclose my identity to the Algorand Foundation to ensure proper governance and accountability for the use of funds. I am open to the Algorand Foundation directly overseeing and executing this proposal if they are uncomfortable dispersing funds to an anonymous community member. As the proposal involves no new code development or complex deliverables, it can be effectively managed by a foundation employee. I never planned to be compensated for the data analysis and would still complete it in this scenario.
 
