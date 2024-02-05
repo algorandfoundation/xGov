@@ -4,7 +4,7 @@ period: 3
 title: GPU-based vanity address generator for Algorand
 author: Marcin Zawiejski (@dragmz)
 discussions-to: https://forum.algorand.org/t/xgov-100-gpu-based-vanity-address-generator-for-algorand/11067
-company_name: return4
+company_name: N/A
 category: Tools
 focus_area: Other
 open_source: Yes
