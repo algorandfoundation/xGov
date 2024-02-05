@@ -2,7 +2,7 @@
 id: 92
 period: 3
 title: DAOsign
-author: Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Oleksandra Burmenska <sandra@daosign.org>
+author: Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov (@ramilexe), Oleksandra Burmenska <sandra@daosign.org>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/92
 company_name: DAOsign
 category: Tools
