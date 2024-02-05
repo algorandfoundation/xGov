@@ -1,7 +1,7 @@
 ---
 id: 92
 title: DAOsign
-author: Eugene Fine (@ConsiderItDone) <eugene@daosign.org>, Ramil Amerzyanov (@ramilexe), Misha Kushka (@kushkamisha), Oleksandra Burmenska (@Burmenska) <sandra@daosign.org>
+author: TetianaRiabova (@TetianaRiabova), Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Misha Kushka, Oleksandra Burmenska <sandra@daosign.org>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/92
 company_name: DAOsign
 category: Tools
