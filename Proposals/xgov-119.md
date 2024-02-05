@@ -27,12 +27,12 @@ Contractor work will be rigorously checked for validity.
 
 Winton Nathan-Roberts is a Machine Learning PhD dropout boasting over 4 years of industry experience in Software Engineering with various startups and blue-chip companies, including [Wargaming](https://wargaming.com/en/).
 
-He has dedicated over two years to developing an Algorand-based Web3 gaming venture. Currently he is focusing on streamlining the onboarding process, with solutions that lower friction in Algorand account authentication, transaction authorization, and fiat purchases. Some of his projects can be viewed at [Helium Labs](https://github.com/Helium-Labs/) on GitHub, though many repositories are private.
+He has dedicated over two years to developing an Algorand-based Web3 gaming venture. Currently he is focusing on streamlining the onboarding process, with solutions that lower friction in Algorand account authentication, transaction authorization, and fiat purchases. Some of his projects can be viewed at <a href="https://github.com/Helium-Labs/" target="_blank">Helium Labs</a> on GitHub, though many repositories are private.
 
 Here are some relevant projects he has worked on, linked to videos for further detail:
 
-- [Aido - FIDO2 Transaction Authorization](https://www.youtube.com/watch?v=0_M8aunqZyA): Implements the passwordless & phishing-resistant FIDO2 protocol for transaction authorization from an Algorand account
-- [SessionWallet](https://www.youtube.com/watch?v=66N7bFn19Ck): Provides low-friction application specific account creation and transaction approval, leveraging transactions as session tokens via on-chain MsgPack parsing
+- <a href="https://www.youtube.com/watch?v=0_M8aunqZyA" target="_blank">Aido - FIDO2 Transaction Authorization</a>: Implements the passwordless & phishing-resistant FIDO2 protocol for transaction authorization from an Algorand account
+- <a href="https://www.youtube.com/watch?v=66N7bFn19Ck" target="_blank">SessionWallet</a>: Provides low-friction application specific account creation and transaction approval, leveraging transactions as session tokens via on-chain MsgPack parsing
 
 ## Present Proposal
 
