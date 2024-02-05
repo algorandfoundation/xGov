@@ -1,7 +1,7 @@
 ---
 id: 154
 period: 3
-title: Cosmic Champs partnering with legendary indie toy company to bring physical toys in-game on Algorand
+title: Cosmic Champs partnering with legendary indie toy company to bring established physical toy IP in-game on Algorand
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://forum.algorand.org/t/xgov-154-cosmic-champs-partnering-with-legendary-indie-toy-company-to-bring-physical-toys-in-game-on-algorand
 company_name: Cosmic Champs International Limited
@@ -15,9 +15,9 @@ status: Final
 ## Abstract
 The Toy Collectibles market was estimated at 13bilion in 2022 and is estimated to grow to 25bilion by 2025. It is rapidly growing market that is also a great match to combine with NFT technology.
 
-If succesfully funded we are partnering with an established player in the colletible toy industry that holds singinficant brand IPs for action toys that are also a perfect fit for our mobile game.
+If succesfully funded we are partnering with an established player in the colletible toy industry that holds singinficant brand IPs for action toys that are also a perfect fit for our mobile game (imagine transformers or gundam mobile suit IP being added to Cosmic Champs game).
 
-We will do a limited physical run of a known collectible toy and integrate it in our game as NFT. Each figurine will have its NFT counterpart. This will open Algorand to a whole new audience and pave the road for near future when industry behemots like Disney or Marvel will be looking for the blockchain to offer ther products as NFT + physicial collectibles.
+We will do a limited physical run of a known collectible toy (not a cosmic champs character) and integrate it in our game as NFT. Each figurine will have its NFT counterpart. We will work on establishing a behaviour driven distribution channel, that will open Algorand to a whole new audience of collectors to interact ecosystem and pave the road for near future when industry behemots like Disney or Marvel will be looking for the blockchain to offer ther products as NFT + physicial collectibles.
 
 ## Team
 Cosmic champs team : <a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
@@ -32,7 +32,19 @@ Our partner is new to Algorand and they are looking to do a pilot with a trusted
 ## Present Proposal
 We will launch a physical toy + NFT campaign with an established IP in the collectible world. Together with our partner we will produce a limited physical run of known action figurine, that will each be tied to an algorand NFT that will also be integrated with our mobile game. The figurine+nft pairs will be sold and distributed via online stores of our partner, in person on collectable/comics conventions, and via algorand NFT markets.
 
-Basically we will do what nextg3nz failed to do, but efficiently, organically with actual positive impact on Algorand and user onboarding, and for a lot less funds and with high certainty! Our and our partners combined experience has all parts of the process covered. Further more the collectible physical toys + game nfts are a lot more natural and "sane" combination of the Real world Asset and virtual good and are something we are cofident will become a very popular trend in near future.
+We will explore options on how to best incentivize and guide new audience (toy collectors) to engage with Algorand ecosystem and be rewarded for it with oppurtunity of the value they percieve high(limited collectible). For an example we could run a campaign to encourage new users to interact with Algorand through dedicates channels and earn a chance to buy this limited run collectible toy. This way we can ensure higher conversion rate of this new audience than what would be otherwise possible if we simply sold NFTs and Toys.
+
+Basically we will do what nextg3nz failed to do, but efficiently, organically with actual positive impact on Algorand and user onboarding, and for a lot less funds and with high certainty! Our and our partners combined experience has all parts of the process covered. Further more the collectible physical toys + game nfts are a lot more natural and "sane" combination of the Real world Asset and virtual good and are something we are cofident will become a very popular trend in near future. Each party involved in thsi process has shown in the past they can deliver on their part of the proejct, so we have high confidence of delivering on time and with highest quality of execution.
+
+We request 100% of the funds paid up front, as we need to pay for the production of a minimum inventory of toys in advance. Print on demand options are not viable, if we wish to ensure quality and no delays with shipping and distribution of the physical toy.
+Both our partner and our team are putting significant costs towards this effort, the grant is mostly to help cover the costs of the production of the pysical toys.
+
+deliverables are:
+- 3d character of the collectible toy added to Cosmic Champs game
+- a small limited run of physical collectible toys manufactured
+- NFTs minted for each of the manufactured figurines
+
+We are looking to wrap up the project within 3-6 months of the funding received.
 
 
 ## Future Blueprint
