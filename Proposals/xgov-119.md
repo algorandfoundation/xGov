@@ -101,8 +101,8 @@ The following is an argument as to why we think the Zorkin IP is safe to use and
 
 - Zorkin isn't a clone of any other solution. It is inspired by other solutions and makes several innovations
 - Currently there are no known patents or pending-patents for similar ideas
-- Several unpatented designs exist, including [Snark JWT Verify](https://github.com/TheFrozenFire/snark-jwt-verify) & [zkOauth](https://github.com/0xrishabh/zkOauth). These designs are over a year old suggesting the idea of using ZK-SNARKs for OAuth/OIDC transaction authorization is unpatentable
-- ZK-Login is described and implemented by Mysten Labs with most of its components existing in an Open-Source codebase with an [APLv2](https://www.apache.org/licenses/LICENSE-2.0) license, and documentation that's covered by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Some components, in particular its circuit, are closed-source
+- Several unpatented designs exist, like <a href="https://github.com/TheFrozenFire/snark-jwt-verify" target="_blank">Snark JWT Verify</a>. These designs are over a year old suggesting the idea of using ZK-SNARKs for OAuth/OIDC transaction authorization is unpatentable
+- ZK-Login is described and implemented by Mysten Labs with most of its components existing in an open-source codebase with an <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">APLv2</a> license, and documentation that's covered by <a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="_blank">CC-BY-4.0</a>. Some components, in particular its circuit, are closed-source
 - The conclusion we can reach is that the design for ZK-Login is most likely subject to APLv2, on the basis it is nearly described in its entirety in codebases that are subject to APLv2
 
 Should any IP infringement dispute occur, or is predicted to occur, Zorkin will do anything it can to respect the law including preemptively terminating any public facing service with advanced notice per its Terms of Service. 
