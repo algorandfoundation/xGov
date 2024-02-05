@@ -2,20 +2,30 @@
 id: 92
 period: 3
 title: DAOsign
-author: TetianaRiabova (@TetianaRiabova), Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Misha Kushka, Oleksandra Burmenska <sandra@daosign.org>
+author: Eugene Fine <eugene@daosign.org>, Ramil Amerzyanov, Oleksandra Burmenska <sandra@daosign.org>
 discussions-to: https://github.com/algorandfoundation/xGov/pull/92
 company_name: DAOsign
 category: Tools
 focus_area: Deployment
 open_source: Yes
 amount_requested: 270000
-status: Draft
+status: Final
 ---
 
 ## Abstract
-DAOsign is a smart signature and workflow automation platform, with publicly verifiable, cryptographic proofs-of-signature, designed for DAOs and WEB3 companies.
+
+**DAOsign: Workflow Orchestration platform built on decentralized Smart Signature protocol**
+
+DAOsign is a decentralized and customizable platform where collaboration, authorization, and workflow management are facilitated through cryptographic proofs stored on a blockchain
 
 Verifiable Signature is at the core of DAOsign and is based on 3 key proofs: proof-of-identify, proof-of-authority, and proof-of-agreement. Utilizing these proofs, DAOsign provides a platform to design and configure complex workflows that combine smart-contract-based automation with authorized approvals.
+
+**Problem:** Outdated Electronic Signatures Technologies
+Traditional electronic signatures are lack security and transparency, susceptible to compromise and forgery, with no unified system for robust verification.
+
+**Solution:** DAOsign Smart Signature
+DAOsign introduces cryptographic, decentralized signature standard, a technologically advanced alternative to traditional e-signatures, leveraging the security and transparency of blockchain. This technology aims to establish a global standard for secure and verifiable digital signatures, ensuring integrity across borders, legal jurisdictions, and administrative systems.
+
 
 ## Team
 Eugene Fine (CEO & Founder) - Over 20 years of building, scaling, and managing technology organizations. Recent experience includes a CTO role at Explorer Surgical Corp., which was recently acquired by GHX, and VP of Engineering at GHX. Eugene is a founder at consideritdone.tech, a Blockchain/WEB3 development studio.
@@ -24,16 +34,12 @@ GitHub: https://github.com/ConsiderItDone
 
 LinkedIn link: https://www.linkedin.com/in/eugenefine/
 
+
 Ramil Amerzyanov (CTO) - 15+ years building complex technical architecture and software solutions., focusing on Blockchain/WEB3 technologies over the past 7 years. Recent projects include the Fractional CTO role at Landslide Network and CTO role at consideritdone.tech.
 
 GitHub: https://github.com/ramilexe
 
 LinkedIn link: https://www.linkedin.com/in/ramil-amerzyanov/
-
-
-Misha Kushka (Technical Lead) - 6+ years developing Blockchain/WEB3 technical architecture and software solutions. Recent projects include Lead Technical Architect roles at Akiva Capita! Holdings and Avalaunch
-
-GitHub: https://github.com/kushkamisha
 
 
 Oleksandra Burmenska (Head of Partnerships) - Over 10 years of experience in Business Development and Management roles in Technology organizations, focusing on Blockchain/WEB3 technologies over the past 5 years. Recent projects include contributions to NEAR, Axelar, GnosisSafe, and Avalanche ecosystems.
@@ -56,10 +62,9 @@ We want to build our DAOsign tool on the Algorand blockchain, so the users can s
 ## Future Blueprint
 | Milestones # | Description | Deliverable | Completion Date | Funding |
 | --- | --- | --- | --- | --- |
-| Milestone 1 | Algorand Testnet Version | The ability to store proofs on the Algorand Testnet blockchain and verify them there. The functionality includes: “Create an agreement” implementation; Assigning signers and observers Implementation of Proof-of-Authority Implementation of Proof-of-Signature Implementation of Proof-of-Agreement. Early adopters program preparation | Q4 2023 | 200,000 |
-| Milestone 2 | Incentivized Testnet version | Early Adopters Program launch Online onboarding events Feedback collecting Roadmap adjustment | Q4 2023 | 10,000 |
-| Milestone 3 | Mainnet version | Launching blockchain-stored and verified proofs version of DAOsign. Production support System resiliency NFT-based Signer Authority Verification System | Q1 2024 | 50,000 |
-| Milestone 4 | Mainnet version extended | Snapshot integration. GPT3 integration Agreement legal templates | Q1 2024 | 10,000 |
+| Milestone 1 | Algorand Testnet Version | The ability to store proofs on the Algorand Testnet blockchain and verify them there. The functionality includes: “Create an agreement” implementation; Assigning signers and observers Implementation of Proof-of-Authority Implementation of Proof-of-Signature Implementation of Proof-of-Agreement. Early adopters program preparation | Q2 2024 | 200,000 |
+| Milestone 2 | Incentivized Testnet version | Early Adopters Program launch Online onboarding events Feedback collecting Roadmap adjustment | Q2 2024 | 20,000 |
+| Milestone 3 | Mainnet version | Launching blockchain-stored and verified proofs version of DAOsign. Production support System resiliency NFT-based Signer Authority Verification System | Q3 2024 | 50,000 |
 
 
 ## Benefits for the community
