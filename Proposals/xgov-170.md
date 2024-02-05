@@ -30,7 +30,7 @@ Mark Crae (@dolphinkitty)
 ## Experience with Algorand
 Jesco has been actively developing Algorand based projects for >3 years. In this time he has created ~20 PyTeal smart contracts and multiple Front / Back ends to support this. The smart contracts cover a wide range of application types, including staking, vesting, trading, and more.
 
-Together, Mark and Jesco have been building the [Everyone.space](http://everyone.space) platform for the past year. When launched, Everyone will provide important web3 utilities for the Algorand ecosystem.
+Together, Mark and Jesco have been building the <a href="http://everyone.space">Everyone.space</a> platform for the past year. When launched, Everyone will provide important web3 utilities for the Algorand ecosystem.
 
 ## Present Proposal
 The proposed Voting & Agreement Signing tool will enable anyone to create and deploy custom voting contracts aligned to their specific needs, whether that is critical decision-making, instant polling, agreement signing, or feedback acquisition.
