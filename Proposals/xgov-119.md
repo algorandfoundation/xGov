@@ -13,7 +13,11 @@ status: Final
 ---
 
 ## Abstract
-Zorkin plans to develop a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based solution for low-friction user authentication and transaction authorization with <a href="https://en.wikipedia.org/wiki/Social_login" target="_blank">Social Login</a> via supported OAuth providers (e.g. Google), linking the user's OAuth identity to a unique Algorand Account from which transactions can be authorized. Some Algorand specific user experience challenges, such as explicit asset Opt-In approval, will be addressed cohesively. A fiat on-ramp will be integrated into the solution for regulatory-compliant blockchain asset purchases using popular payment methods such as credit card.
+Zorkin plans to develop a <a href="https://z.cash/learn/what-are-zk-snarks/" target="_blank">ZK-SNARK</a> based solution for low-friction user authentication and transaction authorization with <a href="https://en.wikipedia.org/wiki/Social_login" target="_blank">Social Login</a> via supported OAuth providers (e.g. Google), linking the user's OAuth identity to a unique Algorand Account from which transactions can be authorized. Some Algorand specific user experience challenges, such as explicit asset Opt-In approval, will be addressed cohesively. A fiat on-ramp will be integrated into the solution for regulatory-compliant blockchain asset purchases using popular payment methods such as credit card. It will be launched as a paid service with pricing that is estimated, although not guaranteed, to be competitive with alternatives like <a href="https://web3auth.io/" target="_blank">Web3Auth</a>.
+
+Disclaimers:
+- The proposal is subject to terms, conditions and disclaimers as outlined in the body of the proposal
+- Should the proposal be unfunded or fail to pass, we reserve the right to discontinue Zorkin development, terminate our plans and close any public services
 
 ## Team
 - Winton Nathan-Roberts as Research, Design & Software Engineering lead
@@ -121,3 +125,5 @@ To the fullest extent permitted by law, this proposal and Zorkin are subject to 
 - IMPORTANT NOTICE: This document, including all disclaimers, should not be considered as legal or investment advice. The information provided is for general informational purposes only.
 
 Due to the research heavy nature of the proposal, all claims are subject to change. The scope of the proposal, including the deliverables, are completely limited to whatever is described in this proposal document and excludes any external resource or dependency such as a Github repository where some design or intention may be proposed.
+
+Should the proposal be unfunded or fail to pass, we reserve the right to discontinue Zorkin development, terminate our plans and close any public services.
