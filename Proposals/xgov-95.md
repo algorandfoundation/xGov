@@ -1,7 +1,7 @@
 ---
 id: 95
 period: 3
-title: Open-source browser game to Gamify Exploration and Engagement of NFT ecosystem.
+title: Gamify Exploration and Engagement of NFT ecosystem with Open-source browser game
 author: Cosmic Champs (@madshapes-dev)
 discussions-to: https://forum.algorand.org/t/xgov-95-open-source-match-2-browser-game-to-explore-nft-ecosystem/11086/
 company_name: Cosmic Champs International Limited
