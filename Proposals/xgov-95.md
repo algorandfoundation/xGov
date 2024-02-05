@@ -26,6 +26,7 @@ This open-source browser "match-2/memory" game will be available for use to anyo
 
 We are asking for 100% of the funds in advance as we've already invested resources in building the POC and we would like to compensate our team for the work they spend on this project going forward.
 We plan to finish the proejct in less than 3 months after funding is received.
+Source code will be available on github.
 
 try POC of the game here:  <a href="https://cosmic-match.vercel.app" target="_blank">https://cosmic-match.vercel.app</a>
 
