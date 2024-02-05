@@ -42,7 +42,7 @@ Zorkin plans to develop a drop-in solution for low-friction user authentication 
 
 <a href="https://sui.io/zklogin" target="_blank">ZK-Login</a> by Mysten Labs, created exclusively for the Sui blockchain, has inspired the development of Zorkin. Zorkin plans to introduce various improvements such as allowing seamless OAuth client migration, postponing session creation until necessary, among other enhancements.
 
-Zorkin aims to enhance the user experience on Algorand by tackling its inherent challenges, like the requirement for users to manually opt into assets. To that end, we may offer a compatible <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a> compliant plugin-based contract account. <a href="https://github.com/algorandfoundation/xGov/pull/117" target="_blank">xGov-117</a> proposes to develop ARC-56.
+Zorkin aims to enhance the user experience on Algorand by tackling its inherent challenges, like the requirement for users to manually opt into assets. To that end, we may offer a compatible <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a> compliant plugin-based contract account. [xGov-117](https://github.com/algorandfoundation/xGov/pull/117) proposes to develop ARC-56.
 
 Lastly, our plan includes adding a regulatory-compliant, third-party fiat on-ramp service like <a href="https://www.moonpay.com/en-au" target="_blank">MoonPay</a>. This will enable users to buy approved assets with popular payment methods, including credit cards.
 
