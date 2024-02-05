@@ -79,7 +79,7 @@ Note the scope of the proposal, including the deliverables, are completely limit
 
 ## Benefits for the community
 
-If implemented, developers in supported countries can provide users with a ZK-SNARK based OpenIdConnect authentication solution to access an application-specific self-custodial Algorand account linked to their OAuth credentials. The integrated 3rd party Fiat On-Ramp will enable users to buy approved crypto assets using major payment methods, including credit cards. Some of Algorand's UX challenges, like the need for explicit consent for asset Opt-In, will be mitigated by possibly leveraging <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a>. Estimates of operating expenses like cloud hosting suggest it may have competitive pricing to competitors in the space.
+If implemented, developers in supported countries could integrate Zorkin into their applications to facilitate Social Login for user authentication and transaction approval, creating a smoother experience. The inclusion of a third-party Fiat On-Ramp allows users to purchase approved assets using major payment methods, including credit cards. Some Algorand specific user experience challenges, such as explicit asset Opt-In approval, will be addressed cohesively. Furthermore, initial cost estimates for services like cloud hosting indicate that Zorkin could offer competitive pricing compared to alternative solutions like <a href="https://web3auth.io/" target="_blank">Web3Auth</a>.
 
 ## Additional information
 
@@ -91,6 +91,8 @@ The proposal's metadata suggests it will be Open Source, but this applies only t
 
 The deliverables and any related novel intellectual property (IP) will be fully owned by Winton Nathan-Roberts, who reserves the right to do anything with the property as permitted by law. To the best of our knowledge, the IP isn't conflicting with any patents. The intellectual property and deliverables might undergo ownership transfers, leading to possible rebranding or integration with other companies or products. For instance, Zorkin could be renamed and associated with a different product the author is affiliated with undergoing similar ownership changes. Zorkin, described by the proposal, is a commercial endeavour with the aim to profit.
 
+Zorkin will be a paid service, where users must pay for their usage covering operating expenses at minimum.
+
 ### Intellectual Property Clarity
 
 The following is an argument as to why we think the Zorkin IP is safe to use and unlikely to encounter any disputes due to IP infringement. In particular, whether it is okay that Zorkin is similar in concept to ZK-Login by Mysten Labs, sharing some degree of design overlap. The following should not be construed as legal advice, is not written by a legal professional and is accurate to the best of our knowledge.
@@ -98,8 +100,8 @@ The following is an argument as to why we think the Zorkin IP is safe to use and
 - Zorkin isn't a clone of any other solution. It is inspired by other solutions and makes several innovations
 - Currently there are no known patents or pending-patents for similar ideas
 - Several unpatented designs exist, including [Snark JWT Verify](https://github.com/TheFrozenFire/snark-jwt-verify) & [zkOauth](https://github.com/0xrishabh/zkOauth). These designs are over a year old suggesting the idea of using ZK-SNARKs for OAuth/OIDC transaction authorization is unpatentable
-- ZK-Login is described and implemented by Mysten Labs in an Open-Source codebase with an [APLv2](https://www.apache.org/licenses/LICENSE-2.0) license, and documentation that's covered by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
-- By the superposition of these licenses, APLv2 offers free use of any novel ideas conveyed in the codebase. The code itself is a detailed description of algorithms & systems, including ZK-Login
+- ZK-Login is described and implemented by Mysten Labs with most of its components existing in an Open-Source codebase with an [APLv2](https://www.apache.org/licenses/LICENSE-2.0) license, and documentation that's covered by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Some components, in particular its circuit, are closed-source
+- The conclusion we can reach is that the design for ZK-Login is most likely subject to APLv2, on the basis it is nearly described in its entirety in codebases that are subject to APLv2
 
 Should any IP infringement dispute occur, or is predicted to occur, Zorkin will do anything it can to respect the law including preemptively shutting any public facing service with advanced notice per its Terms of Service. 
 
