@@ -13,7 +13,7 @@ status: Final
 ---
 
 ## Abstract
-Easily Claim and Create Atomic Swap with this new tool for The Laboratory (formerly Evil Tools)
+This proposal has been highly requested from app developers on Discord and Telegram. Here users will be able to use new API endpoints to easily create automated swap links. This will help reduce the onboarding friction of having to add an ASA to claim something as the atomic swap will have the opt in and transfer in once signing. In addition to creating the ability for bots to tap into the website, we will be developing an example discord bot to make things easier to develop and have a manual swap creation feature, becuase why not? 
 
 ## Team
 The team at Thurstober Digital Studios (xGov Periods 1 and 2 Awardees):
