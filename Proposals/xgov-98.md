@@ -1,13 +1,13 @@
 ---
 id: 98
 title: Launch of Nimblr - Audits, Licensing, & GO LIVE!
-author: Adam Hofmann (ahrevival) 
+author: Adam Hofmann (@ahrevival) 
 discussions-to: 
 company_name: Nimblr
-category: Defi, Insurance
-focus_area: Defi, NFT, Infra
+category: dApps
+focus_area: Defi
 open_source: Yes
-amount_requested: 358,271
+amount_requested: 358271
 status: Draft
 ---
 
