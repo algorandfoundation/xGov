@@ -13,8 +13,8 @@ status: Final
 ---
 
 ## Abstract
-Chaintrail is a blockchain intelligence & insights platform solely focussed on uncovering Algorand blockchain in full. We help the Algorand community & investors understand what happens on-chain and which projects, RWA, NFT's are gaining real adoption.
-
+We'll be unraveling the landscape of Real-World Assets tokenized on Algorand. Showing web2 and web3 consumers that Algorand is 'the' blockchain best suited for RWA (using actual on-chain data). Made by Chaintrail, a blockchain intelligence & insights platform focussed on uncovering Algorand in full (Dapp impact, NFT's, RWA, Network insights, TVL, Stables, ...)
+ 
 ## Team
 Founded by Leander (@nfnomad). 15+ years of experience in building (mobile) apps and e-commerce platforms. ~9 years of it as tech-exec for 2 separate startups leading product & tech. One scaled towards 300+ employees (100 in tech & product). At the moment solely focussed on building chaintrail.
 
