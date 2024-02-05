@@ -75,6 +75,8 @@ In chronological order, the deliverables are:
 
 The delivery timeline is deliberately open-ended to prioritize legal compliance and consumer safety. The deliverables will be available for public access only in jurisdictions where they fully adhere to local laws. The deliverables will be adjusted against feedback from legal consultation to ensure legal feasibility. These services will be offered as long as they are financially viable and legally permissible, with a planned legal sunsetting and exit strategy to be devised and communicated to consumers through the terms of service.
 
+Note the scope of the proposal, including the deliverables, are completely limited to whatever is described in this proposal document and excludes any external resource or dependency such as a Github repository where some design or intention may be proposed.
+
 ## Benefits for the community
 
 If implemented, developers in supported countries can provide users with a ZK-SNARK based OpenIdConnect authentication solution to access an application-specific self-custodial Algorand account linked to their OAuth credentials. The integrated 3rd party Fiat On-Ramp will enable users to buy approved crypto assets using major payment methods, including credit cards. Some of Algorand's UX challenges, like the need for explicit consent for asset Opt-In, will be mitigated by possibly leveraging <a href="https://github.com/algorandfoundation/ARCs/pull/269" target="_blank">ARC-56</a>. Estimates of operating expenses like cloud hosting suggest it may have competitive pricing to competitors in the space.
@@ -118,4 +120,4 @@ To the fullest extent permitted by law, this proposal and Zorkin are subject to 
 - UNVERIFIED CLAIMS: Claims in the content are not independently verified; do your own research before relying on them.
 - IMPORTANT NOTICE: This document, including all disclaimers, should not be considered as legal or investment advice. The information provided is for general informational purposes only.
 
-Due to the research heavy nature of the proposal, all claims are subject to change.
+Due to the research heavy nature of the proposal, all claims are subject to change. The scope of the proposal, including the deliverables, are completely limited to whatever is described in this proposal document and excludes any external resource or dependency such as a Github repository where some design or intention may be proposed.
