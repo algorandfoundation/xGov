@@ -14,29 +14,41 @@ status: Final
 
 ## Abstract
 
-Meld Gold proposes to have GOLD$ & SILVER$ ASA’s listed on a global centralised exchange in conjunction with developing the ability to market make ensuring the assets readily available with minimal pricing spread.
+Meld Gold proposes to have GOLD$ & SILVER$ ASA’s listed on a global centralised exchange in conjunction with developing the ability to market make ensuring the assets are readily available with minimal pricing spread.
 
 ## Team
 
--   Michael Cotton - Founder
--   Dom Hawton - CTO
--   Brendan Biddell - CMO
+- Michael Cotton - Founder
+- Dom Hawton - CTO
+- Brendan Biddell - CMO
 
 ### Advisors
 
--   Brent Doughty
--   Michael Simpson
--   AJ Milne
+- Brent Doughty
+- Michael Simpson
+- AJ Milne
 
 Team and advisor backgrounds are available here: https://www.meld.gold/about
 
 ## Experience with Algorand
 
-The team has delivered GOLD$ and SILVER$ within the Algorand ecosystem including developing and launching market making capability connecting the liquidity within the traditional precious metals market into Algorand DeFi. Meld’s assets have had over 300,000 on chain transactions and over $1,500,000 in TVL within Algoran DeFi (according to Vestige.fi as at 22/01/24).
+The team has delivered GOLD$ and SILVER$ within the Algorand ecosystem including developing and launching market making capability connecting the liquidity within the traditional precious metals market into Algorand DeFi. Meld’s assets have had over 300,000 on chain transactions and over $1,500,000 in TVL within Algorand DeFi (according to Vestige.fi as at 22/01/24).
 
 ## Present Proposal
 
 Meld Gold is seeking 250,000 ALGO to cover the costs of listing GOLD$ & SILVER$ on a global exchange and develop market making capabilities to ensure the assets are readily available with minimal spreads. This is achieved by Meld Gold acting as the market maker between the traditional gold industry and the digital market, bridging the extreme deep and liquid bullion markets with the Web3 economy.
+
+Process if approved:
+
+1. Negotiations with exchanges to continue (initial discussions have already begun) locking in a selected exchange.
+
+2. Development of market making capabilities that will be adaptable for other future listings.
+
+3. Testing market making to ensure it is functioning as intended.
+
+4. Coordinate launch marketing with the partner exchange.
+
+5. Launch tokens live in conjunction with marketing making, exchange liquidity and marketing initiatives to capitalise on the new listing.
 
 ## Benefits for the community
 
