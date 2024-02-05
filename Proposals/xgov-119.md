@@ -31,7 +31,7 @@ He has dedicated over two years to developing an Algorand-based Web3 gaming vent
 
 Here are some relevant projects he has worked on, linked to videos for further detail:
 
-- [Aido: FIDO2 Transaction Authorization](https://www.youtube.com/watch?v=0_M8aunqZyA): Implements the passwordless & phishing-resistant FIDO2 protocol for transaction authorization from an Algorand account
+- [Aido - FIDO2 Transaction Authorization](https://www.youtube.com/watch?v=0_M8aunqZyA): Implements the passwordless & phishing-resistant FIDO2 protocol for transaction authorization from an Algorand account
 - [SessionWallet](https://www.youtube.com/watch?v=66N7bFn19Ck): Provides low-friction application specific account creation and transaction approval, leveraging transactions as session tokens via on-chain MsgPack parsing
 
 ## Present Proposal
