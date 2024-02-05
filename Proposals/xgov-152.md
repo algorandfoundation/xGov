@@ -37,11 +37,20 @@ Xgov grant will help us to maintain the industry standard performance without in
 
 The funds will be allocated 50% to our AWS account where we are subscribing our server fleet which we scale to meet the demand with increasing user base. We are happy to take/convert to AWS credits to ensure the funds are locked for this particular use.
 
-The other 50% will be allocated towards dev work involved with migrating the fleet and updating the server code as well as to cover other costs such as Certificates, subscriptions and non-AWS infrastructure for next few months (we try to disperse our infrastructure(within reason) so we don't have a single point of failure).
+The other 50% will be allocated towards dev work involved with migrating the fleet and updating the server code as well as to cover other costs such as Certificates, subscriptions and non-AWS infrastructure for next 6 months (we try to disperse our infrastructure(within reason) so we don't have a single point of failure).
 
 To date we have built and maintaned entire Cosmic champs platform (android + ios + browser game, 4 utility web pages and 2 seasons of innovative fully animated 3d game-ready AR compatibile NFTs) on our own (and VC) funding, we weren't recipient of any of the $8MM+ in grants that were allocated to the "algorand gaming" scene by the foundation neither have we received direct investment from them, yet we can easily be considered benchmark in the space.
 
 We are hopefull xgovs will recognize our contribution and value we bring to the ecosystem and will support our endeavours to ensure we remain on top of our game and fully prepared for the upcomming bull.
+
+Deliverables:
+- updating the server fleet and our codebase to support more powerfull instances that that can each support up to 6 concurent game sessions(12 player sessions)
+- purchasing AWS credits with 50% of the allocated grant, ensuring uptime and availablility of our game even during high stress, high spike, situations
+- We can privide AWS credits bill and game metrics during high stress events to showcase the update and it's impact on the overall game experience.
+Timeframe:
+- We will try and complete the migration within 2 months upon receiving the funding.
+
+We are asking for 100% of the grant to be available in advance as we would like to pay our devs for the work involved and to ensure we have enough AWS credits to actually pay for higher cost infrastructure that we'll migrate to.
 
 ## Future Blueprint
 In the future, with increased userbase, we plan to become profitable as soon as possible to ensure the platform can keep meeting and exceeding the needs of algorand(and wider) gaming scene.
