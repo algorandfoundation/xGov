@@ -7,17 +7,15 @@ discussions-to: https://forum.algorand.org/t/xgov-170-decentralized-voting-infra
 company_name: Everyone
 category: dApps
 focus_area: Other
-open_source: No
+open_source: Yes
 amount_requested: 125000
 status: Final
 ---
 
 ## Abstract
-This proposal seeks to fund a new no-code voting & agreement signing tool that will enable any user, brand, or community to deploy custom contracts for streamlined proposal creation, decentralized voting, agreement signing, and immutable record keeping.
+This proposal seeks to fund a new voting / agreement signing tool that enables any user, brand, or community to deploy custom contracts for streamlined proposal creation, decentralized voting, encrypted agreement signing, and immutable record keeping.
 
-The voting tool will be the most user-friendly voting & agreement signing tool within crypto, supporting a range of essential use cases for businesses and communities.
-
-By providing essential decision-making features within an intuitive user-experience, the proposed tool aims to target and onboard teams and communities from within and beyond the Algorand and web3.
+By providing these essential collaboration and decision-making features within a highly intuitive user-experience, we aim to attract and onboard teams and businesses, primarily from outside the Algorand ecosystem.
 
 ## Team
 Jesco Brandt (@heartberg)
@@ -33,30 +31,34 @@ Jesco has been actively developing Algorand based projects for >3 years. In this
 Together, Mark and Jesco have been building the <a href="http://everyone.space">Everyone.space</a> platform for the past year. When launched, Everyone will provide important web3 utilities for the Algorand ecosystem.
 
 ## Present Proposal
-The proposed Voting & Agreement Signing tool will enable anyone to create and deploy custom voting contracts aligned to their specific needs, whether that is critical decision-making, instant polling, agreement signing, or feedback acquisition.
+The proposed tool will enable anyone to easily create and deploy custom contracts aligned to their specific needs, whether that is:
+* Voting and critical decision-making
+* Encrypted agreement signing
+* Immutable record keeping
+  * client conversations, change logs, documents, etc
+* Instant polling for community engagement
+* Research and feedback acquisition
 
-The tool’s highly intuitive no-code UX will provide a streamlined and significantly improved experience across the whole proposal creation and voting lifecycle. The decentralized agreement signing features will be new capabilities within the Algorand ecosystem – providing essential tools for business.
+The tool’s highly intuitive no-code UX will provide a streamlined experience across a range of voting, signing, and record keeping workflows, and solve key problems that many teams and brands face while collaborating and transacting. Blockchain is the obvious solution to these issues, however most business people do not currently realize this. By building an easy to use tool that solves these problems in a way that no web2 solution can, and then communicating the value proposition, we can help bring many new users to Algorand.
 
-We plan to target customers outside of the Algorand ecosystem, and outside of crypto. However, they will be required to have an Algorand wallet to interact with voting contracts. We will provide the necessary information and tutorials to streamline onboarding of new users.
+For user acquisition, we plan to target teams and brands outside of the Algorand ecosystem and even outside of crypto. However, users will be required to have an Algorand wallet to interact with voting contracts. We will provide the necessary information and tutorials to streamline wallet creation and user onboarding.
 
-The voting tool will be integrated with the upcoming Everyone platform, joining a suite of user-friendly no-code utilities for the Algorand network. This integrated approach, combining voting, signing, and immutable record keeping, facilitate a more cohesive decision making process.
+The voting / agreement signing tool will be integrated within the upcoming Everyone platform, joining a suite of user-friendly no-code utilities for the Algorand network. By combining voting, signing, and immutable records with other community and creator commerce utilities, we aim to create a hub for projects to organize all their web3 and business activities.
 
-Community decision making is a core feature of decentralized networks; it is critical that attention is paid to this area. As Algorand grows and takes up its rightful leadership role within crypto, we need to showcase the best possible decision making processes.
-
-By providing best in class tools, we can increase participation in decision making, thereby promoting trust, community engagement, and inclusivity across the whole Algorand network.
+By taking advantage of the key user-experience benefits of the Algorand protocol such as speed to finality and low cost, we can create a best in class tool that attracts users and promotes trust, engagement, and inclusivity across the ecosystem.
 
 Key Features:
-* Voting contract configuration and deployment
-  * A core feature within the voting system are no-code forms to configure and deploy dedicated voting smart contracts per team or project
+* Voting and signing contract configuration and deployment
+  * A core feature within the system are no-code forms for configuring and deploying dedicated voting smart contracts per team or project
 * Multiple voting models to support diverse governance use cases
   * Simple Majority Voting
   * Supermajority Voting
   * Token-weighted voting
 * Dedicated webpage for project-specific voting experiences
   * Projects can create a dedicated mini websites associated with their voting contract, providing comprehensive project information to users
-  * Real-time voting and results
+  * Real-time voting activity and results
 * Public and private voting
-  * Support for sensitive decision-making and IP protection
+  * Support for sensitive decision-making, encrypted signing and IP protection
 * Access controls and user permissions
   * Specify requirements for proposal creation, voting, and agreement signing
 * Enhanced transparency and trust
@@ -68,8 +70,10 @@ We are here to support and update this project over the long term, far beyond th
 ## Benefits for the community
 Key benefits:
 * Build a product that is so useful and user-friendly that it helps drive the expansion of the Algorand user base.
+* We specifically plan to target non-Algorand teams and businesses
 * Provide an improved voting & agreement signing experience for Algorand ecosystem projects.
 * Promote a fairer, more engaged, and inclusive ecosystem.
 * We pledge to open-source the code in the event of any future project sunsetting
 
 ## Additional information
+The voting smart contract will be open-sourced to ensure transparency and trust. Additionally, of course the crucial parts of these systems will be audited by third parties. We will also document any necessary steps for creating a privacy layer.
