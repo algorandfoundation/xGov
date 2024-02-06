@@ -9,7 +9,7 @@ category: dApps
 focus_area: User Onboarding
 open_source: Yes
 amount_requested: 100000
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -126,4 +126,6 @@ To the fullest extent permitted by law, this proposal and Zorkin are subject to 
 
 Due to the research heavy nature of the proposal, all claims are subject to change. The scope of the proposal, including the deliverables, are completely limited to whatever is described in this proposal document and excludes any external resource or dependency such as a Github repository where some design or intention may be proposed.
 
-Should the proposal be unfunded or fail to pass, we reserve the right to discontinue Zorkin development, terminate our plans and close any public services.
+Additional disclaimers:
+- If the proposal is passed and approved, but we cannot convince ourselves that the intellectual property is acceptable for use, then we reserve the right to decline the funding and withdraw our proposal even after it has been passed. Should this happen, none of the terms will be delivered on.
+- Should the proposal be unfunded or fail to pass, we reserve the right to discontinue Zorkin development, terminate our plans and close any public services
