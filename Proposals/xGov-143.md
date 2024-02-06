@@ -3,7 +3,7 @@ id: 143
 period: 3
 title: Educational Fungi Farm
 author: Sean Deegan (@solluna168)
-discussions-to: https://forum.algorand.org/u/solluna168/activity/pending
+discussions-to: https://forum.algorand.org/t/x-gov-143-solluna-mushroom-farm/11338
 company_name: Solluna Mushroom Farm LLC
 category: Community
 focus_area: Other
