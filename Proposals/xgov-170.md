@@ -33,7 +33,7 @@ Together, Mark and Jesco have been building the <a href="http://everyone.space">
 ## Present Proposal
 The proposed tool will enable anyone to easily create and deploy custom contracts aligned to their specific needs, whether that is:
 * Encrypted agreement signing
-* Voting and critical decision-making
+* Voting and collective decision-making
 * Immutable record keeping
   * client conversations, change logs, documents, etc
 * Instant polling for community engagement
