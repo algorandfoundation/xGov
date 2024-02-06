@@ -9,7 +9,7 @@ category: Tools
 focus_area: NFT
 open_source: Yes
 amount_requested: 300000
-status: Draft
+status: Final
 ---
 
 ## Abstract
