@@ -8,7 +8,7 @@ category: Tools
 focus_area: Other
 open_source: Yes
 amount_requested: 40000
-status: Final
+status: Approved
 ---
 
 ## Abstract

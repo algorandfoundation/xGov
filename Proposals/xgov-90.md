@@ -8,7 +8,7 @@ category: Tools
 focus_area: Banking
 open_source: Yes
 amount_requested: 60000
-status: Final
+status: Approved
 ---
 
 ## Abstract
