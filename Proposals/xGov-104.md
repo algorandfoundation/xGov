@@ -1,14 +1,15 @@
 ---
-id: 74
+id: 104
+period: 3
 title: Notiboy Web3 Chat
 author: AP (@Vidhyanandcs)
-discussions-to: https://discord.com/channels/917745024106643487/961952985125113866
+discussions-to: https://forum.algorand.org/t/xgov-104-notiboy-web3-chat-milestone-2-group-chat-encryption-and-nfd-integration/11194
 company_name: Securecerts Technologies
 category: dApps
 focus_area: User Onboarding
 open_source: Yes
-amount_requested: 30000
-status: Approved
+amount_requested: 60000
+status: Final
 ---
 
 ## Abstract
@@ -24,36 +25,29 @@ We have been building the Notiboy project and won 2nd prize during the 1st Green
 Website: https://notiboy.com/
 
 ## Present Proposal
-In web3 an identity is represented by an address rather than a username or password. When a web3 entity try to communicate with other entities using web2 social media platforms, they find it difficult because of this difference in identity. We at notiboy are building applications that will make communication more effective for algofam. Our notification service helps the web3 projects to effectively communicate with end-user addresses. As a next step, we would like to build a web3 specific chat application that will facilitate address-to-address communication. This application will be integrated into our web and mobile apps. APIs will be made available that can be integrated by the web3 projects to provide a in-app chat experience for their end-users. This will have address to address chat feature, group chat feature which helps in development of web3 communities. The users will also be able to swap/transfer assets while chatting which adds to convenience of web3 ecosystem on Algorand. 
+In present proposal we would like to implement group chat which will allow projects to create communities without the complxities of discord. Smaller projects can create a group by just connecting their wallet. Community members can join the group by just connecting their wallet and need not share any other information. This will help them to maintain privacy.
+
+We will implement end to end encryptionwhich will make sure that the communication is secure and cannot be leaked by malicious entities.
+
+NFDomains will be integrated for better user experience while chatting. The address and profile picture will be replaced by NFD (if there is one) which can also be considered as a digital idenity usecase for domain name service.
+
+Our group chat application will be mobile first with implementation on iOS and Android. This is inline with the analysis that mobile phones are primarly used for chat applications when compared to web.
+
+
 
 ## Future Blueprint
 
-### Milestone 1: Build Chat Application.
-Time Taken : 3 months
-
-Amount: 30000
-
-Description:
-    -We intend to build a basic address-to-address chat application and integrate it into our current application.
-    - Featutrs include 1) Ping an address to start a chat 2) Start chat on approval from the pinged address. 
-
-### Milestone 2: Build a Group chat feature
-Time Taken: 2 months
-
-Amount: 30000
-
-Description:
-    - Group Chat feature which will allow cration of web3 communities without revealing any personal information of users involved.
-    - Release apis as a service so that projects can integrate chat app into their web3 application.
-
-### Milestone 3: Transfer of assets on chat
+### Milestone 3: Notiboy Super App
 Time taken: 3 months
 
-Amount: 40000
+Amount: 100000
 
 Description:
-    - Swapping assets between addresses while chatting
-    - Sending assets between addresses while chatting
+    - Transforming Notiboy into a super app for algorand with a service store (services include Node staking pool, swapping router and more...). 
+    - Implementing chat feature on webapp.
+    - Swapping assets between addresses while chatting (web).
+    - Sending assets between addresses while chatting (web).
+
 
 
 ## Benefits for the community
@@ -61,6 +55,8 @@ Description:
 
 2) Web3 projects on algorand can integrate our APIs to their application thus providing an in-app chat experience for 
 their end-users.
+
+3) Get concensus rewards by staking into our pool (once consensus rewards are live). This is useful for algo holders who cannot run their own node. Smart contract will be opensource and audited.
 
 ## Additional information
 Twitter: https://twitter.com/notiboyproject <br>
