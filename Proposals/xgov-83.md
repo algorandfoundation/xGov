@@ -8,7 +8,7 @@ category: Community
 focus_area: Gaming
 open_source: No
 amount_requested: 30000
-status: Final
+status: Approved
 ---
 
 ## Abstract
