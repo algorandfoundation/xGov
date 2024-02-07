@@ -1,6 +1,6 @@
 ---
 id: 171
-period: 3
+period: 4
 title: BlockStalker.IO v1.0 Feature Set
 author: Eric Kirse (@kirse)
 discussions-to: https://forum.algorand.org/
