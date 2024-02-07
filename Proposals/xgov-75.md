@@ -1,10 +1,10 @@
 ---
 id: 75
 period: 3
-title: <Algorand Impact DAO and Social Impact Staking Algo Governance (SISAG) program>
+title: Algorand Impact DAO and Social Impact Staking Algo Governance (SISAG) program
 author: Alex Macbeth <alex@innofund.io>, Gabriel Von Roda <alex@innofund.io>, Ben Wyeth <ben@thedesignspace.com.au>, Sanjay Mendis <sanjay@flexid.asia>, Claudio Parrinello <claudio.parrinello@planetwatch.io>, Michael Mazur <michael@colu.com>, Cashdillo (@CashdilloXGov)
-discussions-to: <Indicating the URL where the proposal is being discussed>
-company_name: <Cashdillo, Planet Watch, Goanna, UrbanChange>
+discussions-to: https://forum.algorand.org/t/social-impact-staking-proposal-for-next-governance-round/11331
+company_name: Cashdillo, Planet Watch, Goanna, UrbanChange
 category: Community
 focus_area: Defi
 open_source: Yes
