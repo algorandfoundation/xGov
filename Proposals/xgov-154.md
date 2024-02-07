@@ -15,7 +15,7 @@ status: Final
 ## Abstract
 The Toy Collectibles market was estimated at 13bilion in 2022 and is estimated to grow to 25bilion by 2025. It is rapidly growing market that is also a great match to combine with NFT technology.
 
-If succesfully funded we are partnering with an established player in the colletible toy industry that holds singinficant brand IPs for action toys that are also a perfect fit for our mobile game (imagine transformers or gundam mobile suit IP being added to Cosmic Champs game).
+If succesfully funded we are partnering with an established player in the collectible toy industry that holds singinficant brand IPs for action toys that are also a perfect fit for our mobile game (imagine transformers or gundam mobile suit IP being added to Cosmic Champs game).
 
 We will do a limited physical run of a known collectible toy (not a cosmic champs character) and integrate it in our game as NFT. Each figurine will have its NFT counterpart. We will work on establishing a behaviour driven distribution channel, that will open Algorand to a whole new audience of collectors to interact ecosystem and pave the road for near future when industry behemots like Disney or Marvel will be looking for the blockchain to offer ther products as NFT + physicial collectibles.
 
