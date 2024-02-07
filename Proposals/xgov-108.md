@@ -1,5 +1,6 @@
 ---
 id: 108
+period: 3
 title: Airgap vault & wallet integration via isolated modules
 author: AP (@Vidhyanandcs)
 discussions-to: https://forum.algorand.org/t/xgov-108-airgap-vault-wallet-integration-via-isolated-modules/11004
