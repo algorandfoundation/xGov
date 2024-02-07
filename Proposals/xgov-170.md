@@ -1,7 +1,7 @@
 ---
 id: 170
 period: 3
-title: An Intuitive Tool for Agreement Signing, Voting & Immutable Record Keeping with No-code Contract Configurator
+title: An Intuitive Tool for Agreement Signing, Voting & Immutable Record Keeping with No-code Contract
 author: Mark Crae (@dolphinkitty), Jesco Brandt (@heartberg)
 discussions-to: https://forum.algorand.org/t/xgov-170-decentralized-voting-infrastructure/11260
 company_name: Everyone
