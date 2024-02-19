@@ -19,7 +19,7 @@ To install `xgovw` and validate the xGovs repository:
 ```console
 git clone git@github.com:algorandfoundation/xgovw.git
 cargo install --path=xgovw xgovw
-xgovw /path/to/xGovs/Proposals
+xgovw Path-to-xGov-Folder/xGov/Proposals/xgov-xx.md
 ```
 ## Changing your Proposal Status Ahead of a Voting Session
 
