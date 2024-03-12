@@ -12,7 +12,7 @@ status: Draft
 ---
 
 ## Abstract
-This proposal seeks funding to facilitate research and development aimed at integrating Algorand's inner transactions into the Total Transactions Per Second (TPS) calculation on <a href="https://chainspect.app/"> Chainspect</a>, the biggest TPS tracker in the market. The allocated funds will support comprehensive research on Algorand's transaction structure, the refinement of TPS-tracking scripts, and the implementation of a new dashboard column for reporting Total TPS, encompassing both standard and inner transactions.
+This proposal seeks funding to facilitate research and development aimed at integrating Algorand's inner transactions into the Total Transactions Per Second (TPS) calculation and introducing the additional metric "failed transactions ratio" on <a href="https://chainspect.app/"> Chainspect</a>, the biggest TPS tracker in the market. The allocated funds will support comprehensive research on Algorand's transaction structure, the refinement of TPS-tracking scripts, and the implementation of 2 new dashboard metrics for reporting Total TPS, encompassing both standard and inner transactions and reporting the ratio of failed transactions in some timeframe.
 
 ## Team
 Elijah Andreev has 5+ years of experience in product management, out of which 3 years were spent in P&G focusing on the management and development of Big Data solutions. He has been in the blockchain industry for 3+ years.
@@ -26,8 +26,9 @@ Algorand has been integrated into the Chainspect analytics platform since its in
 The proposal will consist of several steps, which will be completed in a month after the proposal is approved and finalized:
 1. Deep dive into transaction structure on Algorand. This includes the research required to understand the details of inner transactions on Algorand and how they differ from inner transactions on other chains.
 2. Update of TPS calculating scripts. This includes the update of ETL scripts and DB schema to include inner transactions.
-3. Update the front-end side of the Chainspect platform with the new column Total TPS, which will include all of the transactions (inner and standard ones)
-4. Marketing of the new Chainspect's feature. This will include posts on X/Discord and Chainspect's blog on the nature of inner transactions.
+3. Introduction of the new metric "Failed Txn Ratio", which will show the percentage of failed transactions.
+3. Update the front-end side of the Chainspect platform with 2 new metrics Total TPS, which will include all of the transactions (inner and standard ones), and "Failed Txn Ratio", which will show the percentage of failed transactions.
+4. Marketing of the new Chainspect's features. This will include posts on X/Discord and Chainspect's blog on the nature of inner transactions and the importance of understanding the ratio of failed transactions.
 
 ## Future Blueprint
 <a href="https://chainspect.app/"> Chainspect</a> stands as a dedicated blockchain analytics platform, emphasizing technical metrics. As the leading TPS Tracker on the market, we aim to evolve into the foremost platform for fundamental blockchain analysis. Currently, we serve over 8k crypto investors and dApp developers monthly. You can think of it as CoinMarketCap, but instead focused on fundamental analysis and not price talks. 
@@ -40,7 +41,7 @@ In the next versions, we plan to focus on 3 types of metrics. Technicals, Commun
 
 ## Benefits for the community
 There are quite a few benefits:
-1. **Enhanced TPS Dashboard**: The introduction of a custom column dedicated to Algorand's inner transactions in the TPS dashboard will provide existing users with a more comprehensive view of the network's performance, encompassing both standard and inner transactions.
+1. **Enhanced TPS Dashboard**: The introduction of new metrics dedicated to Algorand's inner transactions and failed transaction ratio in the TPS dashboard will provide existing users with a more comprehensive view of the network's performance.
 
 2. **Increased Visibility and Interest**: The inclusion of Algorand's inner transactions on Chainspect, with its current user base exceeding 8,000 Monthly Active Users (MAU), will increase awareness about your network. This increased exposure is likely to attract interest from users who may consider investing in your token or building on your blockchain. Notably, Chainspect's user base primarily consists of crypto investors and dApp builders, emphasizing a more technically inclined and qualitative user base compared to the average blockchain audience.
 
