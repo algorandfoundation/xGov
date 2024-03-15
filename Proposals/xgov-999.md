@@ -3,15 +3,15 @@ id: 0
 period: 1
 title: <The proposal title is a few words, not a complete sentence>
 author: FirstName LastName (@GitHubUsername)
-email: toto@gmail.com
+email: toto@gmail
 discussions-to: https://github.com/
 company_name: <Name of the company>
 category: Other
 focus_area: NFT
 open_source: Yes
-funding_type: Retroactive
+funding_type: None
 amount_requested: 10999
-delivery_date: 2012-12-01
+delivery_date: 2012-12-99
 status: Approved
 ---
 
