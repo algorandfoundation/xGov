@@ -4,7 +4,7 @@ period: 4
 title: SIWA - Sign In With Algorand
 author: Aaron Martinez (@headline-design)
 email: aaron@headline.dev
-discussions-to: https://forum.algorand.org/t/
+discussions-to: https://forum.algorand.org/t/xgov-178-siwa-sign-in-with-algorand/11705
 company_name: HEADLINE
 category: Tools
 focus_area: Libraries
