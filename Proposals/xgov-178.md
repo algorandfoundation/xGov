@@ -10,7 +10,7 @@ category: Tools
 focus_area: Libraries
 open_source: Yes
 amount_requested: 150000
-funding: Proactive
+funding_type: Proactive
 status: Draft
 
 ---
