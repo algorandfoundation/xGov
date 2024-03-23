@@ -10,6 +10,7 @@ category: Tools
 focus_area: Libraries
 open_source: Yes
 amount_requested: 150000
+delivery_date: 2024-06-28
 funding_type: Proactive
 status: Draft
 
