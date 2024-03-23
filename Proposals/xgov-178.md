@@ -9,7 +9,9 @@ category: Tools
 focus_area: Libraries
 open_source: Yes
 amount_requested: 150000
+funding: Proactive
 status: Draft
+
 ---
 
 ## Abstract
