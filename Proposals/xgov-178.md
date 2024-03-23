@@ -3,6 +3,7 @@ id: 178
 period: 4
 title: SIWA - Sign In With Algorand
 author: Aaron Martinez (@headline-design)
+email: aaron@headline.dev
 discussions-to: https://forum.algorand.org/t/
 company_name: HEADLINE
 category: Tools
