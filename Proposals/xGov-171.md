@@ -1,10 +1,10 @@
 ---
-id: 171
+id: 179
 period: 4
 title: Thurstober Digital Studios - Open Source, No Code Tools
 author: Joseph Glenn (@loafpickleWW)
 email: loafpickle@gmail.com
-discussions-to: https://github.com/algorandfoundation/xGov/pull/171
+discussions-to: https://github.com/algorandfoundation/xGov/pull/179
 company_name: Thurstober Digital Studios
 category: Tools
 focus_area: User Onboarding
