@@ -4,7 +4,7 @@ period: <4>
 title: <Research Article on Algorand Voting Technologies>
 author: <Brian Haney (@Bhaney44)>
 email: <bhaney3@alumni.nd.edu>
-discussions-to: <https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744>
+discussions-to: <a href" https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744"> Forum </a>
 company_name: <Independent>
 category: <Other>
 focus_area: <Other>
@@ -24,14 +24,16 @@ Brian Haney
 ## Experience with Algorand
 I have full stack OSS experience building and managing development of voting software on Algorand.
 
-<a https://github.com/ChoiceCoin/v2> Choice Coin v2 </a>
+<a href="https://github.com/ChoiceCoin/v2"> Choice Coin v2 </a>
 <a https://github.com/ChoiceCoin/Voting> Choice Coin Voting </a>
 
 I also have extensive experience writing research on Algorand.
-<a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316> Decentralized Decisions on Algorand with Choice Coin </a>
-<a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055> Algorand Autonomous </a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316"> Decentralized Decisions on Algorand with Choice Coin </a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055"> Algorand Autonomous </a>
 
-I am also very active in the Algorand Developer Forum.
+I am also active in the Algorand Developer Forum and have been participating in discussion there since April of 2021. 
+
+<a href"https://forum.algorand.org/u/bhaney44/notifications">Brian Haney Algorand Forum</a>
 
 ## Present Proposal
 - Research. (2 weeks) Collecting data, articles, and information relating to voting technologies and Algorand.
