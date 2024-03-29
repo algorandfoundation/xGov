@@ -4,7 +4,7 @@ period: <4>
 title: <Research Article on Algorand Voting Technologies>
 author: <Brian Haney (@Bhaney44)>
 email: <bhaney3@alumni.nd.edu>
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: <https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744>
 company_name: <Independent>
 category: <Other>
 focus_area: <Other>
@@ -16,7 +16,7 @@ status: <Draft>
 ---
 
 ## Abstract
-With 2024 being an election year in the United States, voting security has never been a hotter or more important topic. Algorand has unique features that have allowed several voting technologies to be invented, which provide an order of magnitude improvement over tradition voting machines and paper ballots. This research seeks to explain the basis for these different voting technologies and explore potential avenues for scalable adoption in elections. This is important because voting is a real use case, where Algorand provides a huge advantage in cost, performance, and efficiency to legacy systems.
+With 2024 being an election year in the United States, voting security has never been a hotter or more important topic. Algorand has unique features that have allowed several voting technologies to be invented, which provide an order of magnitude improvement over traditional voting machines and paper ballots. This research seeks to explain the basis for these different voting technologies and explore potential avenues for scalable adoption of Algorand in election voting. This is important because voting is a real use case, where Algorand provides a huge advantage in cost, performance, and efficiency to legacy systems.
 
 ## Team
 Brian Haney
@@ -24,19 +24,12 @@ Brian Haney
 ## Experience with Algorand
 I have full stack OSS experience building and managing development of voting software on Algorand.
 
-[Choice Coin v2](https://github.com/ChoiceCoin/v2)
-
-[Choice Coin Voting](https://github.com/ChoiceCoin/Voting)
-
-I have contributed a tutorial to the Algorand Developer Portal on voting.
-
-[Voting using Choice Coin and Algorand Python SDK](https://developer.algorand.org/tutorials/voting-using-choice-coin/?from_query=voting%20with%20python)
+<a https://github.com/ChoiceCoin/v2> Choice Coin v2 </a>
+<a https://github.com/ChoiceCoin/Voting> Choice Coin Voting </a>
 
 I also have extensive experience writing research on Algorand.
-
-[Decentralized Decisions on Algorand with Choice Coin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316)
-
-[Algorand Autonomous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055)
+<a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316> Decentralized Decisions on Algorand with Choice Coin </a>
+<a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055> Algorand Autonomous </a>
 
 ## Present Proposal
 - Research. (2 weeks) Collecting data, articles, and information relating to voting technologies and Algorand.
@@ -45,7 +38,7 @@ I also have extensive experience writing research on Algorand.
 - Finalizing. (1 week) Reviewing, revising, and publishing the article.
 
 ### Deliverable
-The deliverable will be a research article of at least 7,500 words with at least 75 sources. The article will be published in an open source database and on GitHub.
+The deliverable will be a research article of at least 7,500 words with at least 75 sources. The article will be published in an open source database and on GitHub. 
 
 ## Benefits for the community
 Increased Adoption: Scalable adoption of Algorand-based voting technologies in elections could serve as a powerful use case showcasing the capabilities of the Algorand blockchain. As governments and organizations witness the benefits of using Algorand for voting, there could be increased interest in adopting Algorand for other applications, such as supply chain management, identity verification, and financial transactions. This expanded adoption could lead to a larger user base and ecosystem growth for Algorand.
