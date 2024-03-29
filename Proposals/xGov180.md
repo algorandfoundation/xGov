@@ -1,18 +1,18 @@
 ---
-id: <180>
-period: <4>
-title: <Research Article on Algorand Voting Technologies>
-author: <Brian Haney (@Bhaney44)>
-email: <bhaney3@alumni.nd.edu>
-discussions-to: <https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744>
-company_name: <Independent>
-category: <Other>
-focus_area: <Other>
-open_source: <Yes>
-funding_type: <Proactive>
-amount_requested: <14000>
-delivery_date: <project delivery date, in ISO 8601 (2024-mm-dd) format>
-status: <Draft>
+id: 180
+period: 4
+title: Research Article on Algorand Voting Technologies
+author: Brian Haney (@Bhaney44)
+email: bhaney3@alumni.nd.edu
+discussions-to: <a href ="https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744"> Forum</a>
+company_name: Independent
+category: Other
+focus_area: Other
+open_source: Yes
+funding_type: Proactive
+amount_requested: 14000
+delivery_date: (2024-8-15)
+status: Draft
 ---
 
 ## Abstract
