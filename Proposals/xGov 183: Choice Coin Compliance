@@ -64,10 +64,53 @@ Whether an asset is a security or non-security asset depends on various actors a
 
 Moreover, the Compliance AI will be structured, such that various reporting data are sent to and stored on the Algorand blockchain.
 
-The Choice Coin compliance offering has three main pillars: (1) a legal database with regulatory and legal data, such as cases, published law review articles, and regulatory texts; (2) a software for automation, which is open source and iteratively improved; and (3) human experts providing and developing the services and associated products.
+The Choice Coin compliance offering has three main pillars: 
+  (1) a legal database with regulatory and legal data, such as cases, published law review articles, and regulatory texts; 
+  (2) a software for automation, which is open source and iteratively improved; and 
+  (3) human experts providing and developing the services and associated products.
 
 
 ### Deliverable
+
+
+Milestone
+Deliverables
+Schedule
+Team Member Responsible
+Research and Development
+Research Paper, GitHub Repository, OSS Repo, OSS License, Milestone Report
+3 weeks
+Brian Haney 
+Database Generation
+Database, GitHub OSS Repository, Milestone Report
+3 weeks
+Brian Haney
+Compliance AI Application Deployment to Testnet
+Testnet application, GitHub OSS Repository, Milestone Report
+3 weeks
+Brian Haney
+Main Network Launch
+Mainnet web-application, GitHub OSS Repository, Milestone Report
+3 weeks
+Brian Haney
+
+
+Milestone
+Description
+Evaluation Metrics
+Research and Development
+This first phase will allow for the structured development of the web application. This will include writing a research paper outlining the software. Additionally, this phase will result in an initial prototype, which will be open source on GitHub.
+Research Paper, GitHub Repository, OSS Repo, OSS License, Milestone Report
+Database Generation
+This second phase will support the development of a comprehensive compliance database for digital assets and securities. The database will be open source and will include data regarding SEC enforcement efforts, cryptocurrency litigation, relevant case law, legislation and regulation, and secondary sources.
+Database, GitHub Repository, OSS Repo, Milestone Report
+Compliance AI Application Deployment to Testnet
+This third phase will support the development of the compliance AI for automation. The AI will use an embedded system to formalize expert knowledge to provide an automated regulatory risk assessment. The technology will also be used to generate a compliance report for customers and be integrated with the Algorand blockchain through a web-application. 
+Testnet application, GitHub OSS Repository, Milestone Report
+Main Network Launch
+The final phase will support the MainNet launch for both the Compliance AI and Algorand Compliance Web Application. This will include an internal security assessment, as well as an external analysis by a licensed regulatory attorney regarding the software. 
+Mainnet web-application, GitHub OSS Repository, Milestone Report
+
 
 
 ### Future Blue Print
@@ -75,6 +118,15 @@ The Choice Coin compliance offering has three main pillars: (1) a legal database
 
 
 ## Benefits for the community
+
+Enhanced Regulatory Compliance: By funding the Choice Coin Compliance AI proposal, the Algorand community can contribute to enhancing regulatory compliance within the ecosystem. The Compliance AI software will provide asset creators on Algorand with automated tools and resources to assess the regulatory status of their digital assets accurately. This proactive approach to compliance not only reduces the risk of regulatory scrutiny and enforcement actions but also fosters a culture of responsibility and professionalism within the Algorand community. Ultimately, enhanced regulatory compliance can attract more institutional investors, exchanges, and businesses to the Algorand ecosystem, driving broader adoption and sustainable growth.
+
+Increased Market Access and Liquidity: Funding the Choice Coin Compliance AI proposal can lead to increased market access and liquidity for Algorand-based assets. Exchanges and trading platforms often hesitate to list assets that may be classified as securities due to regulatory concerns. By leveraging the Compliance AI software to engineer digital assets for compliance with securities regulations, asset creators can enhance the likelihood of their assets being listed on reputable exchanges, thus increasing market liquidity and accessibility for investors. This, in turn, can attract more capital and liquidity to the Algorand ecosystem, fueling innovation and ecosystem development.
+
+Strengthened Reputation and Trust: Supporting the Choice Coin Compliance AI proposal can strengthen the reputation and trustworthiness of the Algorand blockchain as a compliant and reputable platform for digital asset issuance and trading. By providing asset creators with transparent and reliable compliance solutions, Algorand demonstrates its commitment to regulatory compliance and investor protection. This proactive approach not only mitigates legal and regulatory risks for Algorand-based projects but also builds trust and confidence among investors, users, and regulatory authorities. As a result, the Algorand community can attract more high-quality projects, partnerships, and investments, further solidifying its position as a leading blockchain platform for innovative solutions and responsible growth.
+
+Overall, funding the Choice Coin Compliance AI proposal can bring significant benefits to the Algorand community, including enhanced regulatory compliance, increased market access and liquidity, and strengthened reputation and trust. These benefits contribute to the long-term success and sustainability of the Algorand ecosystem, driving broader adoption, innovation, and ecosystem growth.
+
 
 ## Additional information
 Thank you for your consideration.
