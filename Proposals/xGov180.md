@@ -1,37 +1,49 @@
 ---
-id: <proposal number (same as PR)>
-period: <Period number (Integer) (When do you want to submit your proposal)>
-title: <The proposal title is a few words, not a complete sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-email: <Email address to start the contract process >
+id: <180>
+period: <4>
+title: <Research Article on Algorand Voting Technologies>
+author: <Brian Haney (@Bhaney44)>
+email: <bhaney3@alumni.nd.edu>
 discussions-to: <Indicating the URL where the proposal is being discussed>
-company_name: <Name of the company>
-category: <dApps, Tools, Community, Other>
-focus_area: <Banking,DEX,Defi,Deployment,Education,Gaming,IDE,Identity,Libraries,Metaverse,Monitoring,Node,NFT,Oracle,Social,Storage,Teal,User Onboarding,Wallet, Other>
-open_source: <Yes, No>
-funding_type: <Proactive, Retroactive>
-amount_requested: <Amount (integer) requested in ALGO, it should be at least 10000>
-delivery_date: <project delivery date, in ISO 8601 (yyyy-mm-dd) format>
-status: <Draft, Final, Approved>
+company_name: <Independent>
+category: <Other>
+focus_area: <Other>
+open_source: <Yes>
+funding_type: <Proactive>
+amount_requested: <14000>
+delivery_date: <project delivery date, in ISO 8601 (2024-mm-dd) format>
+status: <Draft>
 ---
 
 >Proposals that do not include information on all template sections will be rejected.
 >Please, before submitting the grant proposal, review the contract template and ensure you're comfortable with its terms.  <a href="https://drive.google.com/file/d/1bf8sIu6gohU6FvKtEiXLZ5oMd4a1ySdu/view?usp=sharing">Contract Template</a> 
 
 ## Abstract
-A summary of the project, including how the Algorand ecosystem would benefit  (proactive)/ has benefitted (retroactive) from its implementation.
+With 2024 being an election year in the United States, voting security has never been a hotter or more important topic. Algorand has unique features that have allowed several voting technologies to be invented, which provide an order of magnitude improvement over tradition voting machines and paper ballots. This research seeks to explain the basis for these different voting technologies and explore potential avenues for scalable adoption in elections. This is important because voting is a real use case, where Algorand provides a huge advantage in cost, performance, and efficiency to legacy systems.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+Brian Haney
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+I have full stack OSS experience building voting software on Algorand.
+
+[Choice Coin v2](https://github.com/ChoiceCoin/v2)
+
+[Choice Coin Compliance](https://github.com/ChoiceCoin/Compliance) 
+
+[Choice Coin Voting](https://github.com/ChoiceCoin/Voting)
+
+I have contributed a tutorial to the Algorand Developer Portal on voting.
+
+[Voting using Choice Coin and Algorand Python SDK](https://developer.algorand.org/tutorials/voting-using-choice-coin/?from_query=voting%20with%20python)
+
+I also have extensive experience writing research on Algorand.
+
+[Smart Contracts on Algorand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3887719)
+
+[Decentralized Decisions on Algorand with Choice Coin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316)
+
+[Algorand Autonomous](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055)
 
 ## Present Proposal
 A detailed plan for the development and implementation of the proposal.
