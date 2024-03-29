@@ -36,7 +36,7 @@ I also have extensive experience writing research on Algorand.
 
 I am also active in the Algorand Developer Forum and have been participating in discussion there since April of 2021. 
 
-<a href = "https://forum.algorand.org/u/bhaney44/notifications">Brian Haney Algorand Forum</a>
+<a href = "https://forum.algorand.org/u/bhaney44">Brian Haney Algorand Forum</a>
 
 ## Present Proposal
 - Research. (2 weeks) Collecting data, articles, and information relating to voting technologies and Algorand.
