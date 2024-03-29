@@ -1,0 +1,78 @@
+---
+id: 183
+period: 4
+title: Choice Coin Compliance
+author: Brian Haney (@Bhaney44)
+email: bhaney3@alumni.nd.edu
+discussions-to: []
+company_name: Choice Coin DAN - Indepedent
+category: dApps
+focus_area: Compliance
+open_source: Yes
+funding_type: Proactive
+amount_requested: 74000
+delivery_date: 2024-08-01
+status: Draft
+---
+
+## Abstract
+
+
+## Team
+Brian Haney
+
+## Experience with Algorand
+I have full stack OSS experience building and managing development of voting software on Algorand.
+
+<a href= "https://github.com/ChoiceCoin/v2"> Choice Coin v2 </a>
+
+<a href= "https://github.com/ChoiceCoin/Voting"> Choice Coin Voting </a>
+
+I also have extensive experience writing research on Algorand.
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316"> Decentralized Decisions on Algorand with Choice Coin </a>
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055"> Algorand Autonomous </a>
+
+I am also active in the Algorand Developer Forum and have been participating in discussion there since April of 2021. 
+
+<a href = "https://forum.algorand.org/u/bhaney44">Brian Haney Algorand Forum</a>
+
+## Present Proposal
+
+The purpose for this grant is providing a mechanism for establishing a culture of ethics and compliance for projects on Algorand. The focus for this work will center around U.S. securities compliance, providing new resources for structuring Algorand Standard Assets (ASAs) to ensure regulatory compliance. This software will add value to Algorand by: 1) helping to reduce regulatory risk; 2) reducing the risk of litigation or increasing the probability of success in the event of a class action lawsuit; and 3) help to streamline efficiency in the development of new assets in accordance with U.S. Law and create a more ethical and corporate culture on the Algorand network.
+
+Regulators nor legislators have any incentive to create clear rules or guidance for innovative or decentralized markets. As a result, asset creators are in a difficult position, where there are only two ways they can follow U.S. securities law. The first is to spend a lot of time and capital up front to create a security token and register the asset with the SEC. 
+This first option simply isn't possible for most new projects that lack the capital to hire legal counsel and pay SEC registration fees, as well as the time to wait for the SEC to register an asset. 
+
+The second way to follow the law is to engineer assets which are not securities and therefore not within the SEC's jurisdiction of regulation. This option comes with some drawbacks for new projects, however this is the only option in many circumstances due to the high cost of registration for small businesses and the nature of decentralized digital assets and applications. Moreover, this option focuses more on utility and applications which will help to grow value over time with the success of an underlying product.
+
+The goal is creating a culture of compliance, which is critical on Algorand to ensure value is captured in as cost-efficient manner as possible. Our solution, Choice Coin Compliance AI is an embedded system which formalizes human knowledge using natural language processing to statistically measure the probability that a particular asset is a security. The technology statistically measures digital assets on a scale of 0 to 1, where an asset with a score of 0 is almost certain to be considered a security and an asset with a score of 1 is almost certainly not a security. 
+
+The goal for this software is to help asset creators on Algorand that do not wish create security tokens, engineer their assets to reduce regulatory risk and comply with the law. Compliance protocols helps projects to reduce regulatory risk, promote professionalism, and stimulate cost-efficient business practices. For example, this work can help ASAs get listed on exchanges, which are scared to list assets which may be securities. In turn, these same benefits carry over to the layer-1 protocols on which projects are built, such as Algorand. 
+
+Our solution is a confluence of software and professional services for automating compliance for projects on Algorand, with the overall offering as compliance as a service. The Solution includes a software as a service product, a compliance AI web application, where projects can pay to access the data and generate a compliance report. 
+In other words, Choice Coin is inventing a Compliance AI for automating securities compliance. In fact, the first part of our solution is already in development and has had successful responses from preliminary customers.
+
+The goal for this software is to help asset creators that do not wish create security tokens, engineer their assets to reduce regulatory risk of the SEC inappropriately labeling a non-security asset as a security. The Compliance AI will use an embedded system to formalize expert knowledge to provide an automated regulatory risk assessment. The technology will also be used to generate a compliance report for customers and be integrated with the Algorand blockchain through a web-application.
+
+Whether an asset is a security or non-security asset depends on various actors analyzing certain attributes associated with the asset. This software defines the analysis using defined variables, which may be weighted and processed for producing probabilistic measurements. The probabilistic measurements correspond with a number between 0 and 1, where an asset with a score of 1 is statistically unlikely to be a security and an asset with a score of 0 is likely to be a security. 
+
+
+
+Moreover, the Compliance AI will be structured, such that various reporting data are sent to and stored on the Algorand blockchain.
+
+The Choice Coin compliance offering has three main pillars: (1) a legal database with regulatory and legal data, such as cases, published law review articles, and regulatory texts; (2) a software for automation, which is open source and iteratively improved; and (3) human experts providing and developing the services and associated products.
+
+
+### Deliverable
+
+
+### Future Blue Print
+
+
+
+## Benefits for the community
+
+## Additional information
+Thank you for your consideration.
