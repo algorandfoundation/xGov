@@ -11,7 +11,7 @@ focus_area: Other
 open_source: Yes
 funding_type: Proactive
 amount_requested: 14000
-delivery_date: (2024-8-15)
+delivery_date: 2024-8-15
 status: Draft
 ---
 
