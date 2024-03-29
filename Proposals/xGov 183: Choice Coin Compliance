@@ -11,12 +11,14 @@ focus_area: Compliance
 open_source: Yes
 funding_type: Proactive
 amount_requested: 74000
-delivery_date: 2024-08-01
+delivery_date: 2024-12-01
 status: Draft
 ---
 
 ## Abstract
-
+The purpose for this grant is providing a mechanism for establishing a culture of ethics and compliance for projects on Algorand. 
+The focus for this work will center around U.S. securities compliance, providing new resources for structuring Algorand Standard Assets (ASAs) to ensure regulatory compliance. 
+This software will add value to Algorand by: 1) helping to reduce regulatory risk; 2) reducing the risk of litigation or increasing the probability of success in the event of a class action lawsuit; and 3) help to streamline efficiency in the development of new assets in accordance with U.S. Law and create a more ethical and corporate culture on the Algorand network.
 
 ## Team
 Brian Haney
@@ -40,7 +42,7 @@ I am also active in the Algorand Developer Forum and have been participating in 
 
 ## Present Proposal
 
-The purpose for this grant is providing a mechanism for establishing a culture of ethics and compliance for projects on Algorand. The focus for this work will center around U.S. securities compliance, providing new resources for structuring Algorand Standard Assets (ASAs) to ensure regulatory compliance. This software will add value to Algorand by: 1) helping to reduce regulatory risk; 2) reducing the risk of litigation or increasing the probability of success in the event of a class action lawsuit; and 3) help to streamline efficiency in the development of new assets in accordance with U.S. Law and create a more ethical and corporate culture on the Algorand network.
+
 
 Regulators nor legislators have any incentive to create clear rules or guidance for innovative or decentralized markets. As a result, asset creators are in a difficult position, where there are only two ways they can follow U.S. securities law. The first is to spend a lot of time and capital up front to create a security token and register the asset with the SEC. 
 This first option simply isn't possible for most new projects that lack the capital to hire legal counsel and pay SEC registration fees, as well as the time to wait for the SEC to register an asset. 
