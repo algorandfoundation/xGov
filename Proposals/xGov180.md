@@ -31,6 +31,8 @@ I also have extensive experience writing research on Algorand.
 <a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913316> Decentralized Decisions on Algorand with Choice Coin </a>
 <a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3819055> Algorand Autonomous </a>
 
+I am also very active in the Algorand Developer Forum.
+
 ## Present Proposal
 - Research. (2 weeks) Collecting data, articles, and information relating to voting technologies and Algorand.
 - Outling. (1 week) Outlining the articles substance and identifying particular points and topics.
