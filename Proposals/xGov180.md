@@ -4,7 +4,7 @@ period: 4
 title: Research Article on Algorand Voting Technologies
 author: Brian Haney (@Bhaney44)
 email: bhaney3@alumni.nd.edu
-discussions-to: <a href ="https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744"> Forum</a>
+discussions-to: https://forum.algorand.org/t/xgov-180-research-on-algorand-voting-technologies/11744
 company_name: Independent
 category: Other
 focus_area: Other
