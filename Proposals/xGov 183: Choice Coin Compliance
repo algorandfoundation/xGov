@@ -42,8 +42,6 @@ I am also active in the Algorand Developer Forum and have been participating in 
 
 ## Present Proposal
 
-
-
 Regulators nor legislators have any incentive to create clear rules or guidance for innovative or decentralized markets. As a result, asset creators are in a difficult position, where there are only two ways they can follow U.S. securities law. The first is to spend a lot of time and capital up front to create a security token and register the asset with the SEC. 
 This first option simply isn't possible for most new projects that lack the capital to hire legal counsel and pay SEC registration fees, as well as the time to wait for the SEC to register an asset. 
 
@@ -60,8 +58,6 @@ The goal for this software is to help asset creators that do not wish create sec
 
 Whether an asset is a security or non-security asset depends on various actors analyzing certain attributes associated with the asset. This software defines the analysis using defined variables, which may be weighted and processed for producing probabilistic measurements. The probabilistic measurements correspond with a number between 0 and 1, where an asset with a score of 1 is statistically unlikely to be a security and an asset with a score of 0 is likely to be a security. 
 
-
-
 Moreover, the Compliance AI will be structured, such that various reporting data are sent to and stored on the Algorand blockchain.
 
 The Choice Coin compliance offering has three main pillars: 
@@ -71,7 +67,6 @@ The Choice Coin compliance offering has three main pillars:
 
 
 ### Deliverable
-
 
 Milestone
 Deliverables
