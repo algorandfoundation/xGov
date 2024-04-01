@@ -21,11 +21,18 @@ The focus for this work will center around U.S. securities compliance, providing
 This software will add value to Algorand by: 1) helping to reduce regulatory risk; 2) reducing the risk of litigation or increasing the probability of success in the event of a class action lawsuit; and 3) help to streamline efficiency in the development of new assets in accordance with U.S. Law and create a more ethical and corporate culture on the Algorand network.
 
 ## Team
-Brian Haney
 
+Brian Haney
 I have the unique expercience necessary to succeed with this project. 
 Indeed, I have substantial experience both as an OSS dev on Algorand and as a securities lawyer. 
 I have also been building the Choice Coin software over the past three years.
+
+David Kazeem
+
+
+Samuel Tosin
+
+
 
 ## Experience with Algorand
 I have full stack OSS experience building and managing development of voting software on Algorand.
@@ -112,7 +119,6 @@ Milestone 1: Database Generation
 Description: This first phase will support the development of a comprehensive compliance database for digital assets and securities. The database will be open source and will include data regarding SEC enforcement efforts, cryptocurrency litigation, relevant case law, legislation and regulation, and secondary sources.
 Database, GitHub Repository, OSS Repo, Milestone Report
 Evaluation Metrics: 
-
 
 Milestone 2: Research and Development
 Description: This second phase will allow for the structured development of the web application. 
