@@ -116,7 +116,8 @@ Team Member Responsible: Brian Haney
 
 
 Milestone 1: Database Generation 
-Description: This first phase will support the development of a comprehensive compliance database for digital assets and securities. The database will be open source and will include data regarding SEC enforcement efforts, cryptocurrency litigation, relevant case law, legislation and regulation, and secondary sources.
+Description: This first phase will support the development of a comprehensive compliance database for digital assets and securities. 
+The database will be open source and will include data regarding SEC enforcement efforts, cryptocurrency litigation, relevant case law, legislation and regulation, and secondary sources.
 Database, GitHub Repository, OSS Repo, Milestone Report
 Evaluation Metrics: 
 
@@ -139,6 +140,8 @@ Evaluation Metrics: Mainnet web-application, GitHub OSS Repository, Milestone Re
 
 
 ### Future Blue Print
+
+Our goal will be to start a non-profit for Choice Coin Compliance, which will provide a mechanism for helping projects comply with applicable legal regulations.
 
 In envisioning the future directions for scaling the Choice Coin Compliance software, several key avenues emerge that can further enhance its impact and effectiveness within the Algorand community and beyond.
 
