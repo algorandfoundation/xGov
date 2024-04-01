@@ -45,7 +45,7 @@ I am also active in the Algorand Developer Forum and have been participating in 
 - Finalizing. (1 week) Reviewing, revising, and publishing the article.
 
 ### Deliverable
-The deliverable will be a research article of at least 7,500 words with at least 75 sources. The article will be published in an open source database and on GitHub. 
+The deliverable will be a research article of at least 7,500 words with at least 75 sources. The sources will be professional, peer-reviewed, academic, and patent publications. The article will be published in an open source database and on GitHub. 
 
 ## Benefits for the community
 Increased Adoption: Scalable adoption of Algorand-based voting technologies in elections could serve as a powerful use case showcasing the capabilities of the Algorand blockchain. As governments and organizations witness the benefits of using Algorand for voting, there could be increased interest in adopting Algorand for other applications, such as supply chain management, identity verification, and financial transactions. This expanded adoption could lead to a larger user base and ecosystem growth for Algorand.
