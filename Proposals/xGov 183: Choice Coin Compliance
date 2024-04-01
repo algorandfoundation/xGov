@@ -10,7 +10,7 @@ category: dApps
 focus_area: Compliance
 open_source: Yes
 funding_type: Proactive
-amount_requested: 160000
+amount_requested: 170000
 delivery_date: 2024-12-01
 status: Draft
 ---
@@ -102,26 +102,35 @@ This will provide a risk insulation for projects and help to provide legal valid
 
 ### Deliverable
 
+Milestone 0: Grant Contract
+Deliverables: Signed Contract
+Schedule: 1 week
+Team Member Responsible: Brian Haney
+Grant Payment: 14,000 ALGO
+
 Milestone 1: Database Generation
 Deliverables: Database, GitHub OSS Repository, Milestone Report
 Schedule: 3 weeks
 Team Member Responsible: Brian Haney
+Grant Payment: 39,000 ALGO
 
 Milestone 2: Research and Development
 Deliverables: Research Paper, GitHub Repository, OSS Repo, OSS License, Milestone Report
 Schedule: 3 weeks
 Team Member Responsible: Brian Haney 
+Grant Payment: 39,000 ALGO
 
 Milestone 3: Compliance AI Application Deployment to Testnet
 Deliverables: Testnet application, GitHub OSS Repository, Milestone Report
 Schedule: 3 weeks
 Team Member Responsible: Brian Haney
+Grant Payment: 39,000 ALGO
 
 Milestone 4: Main Network Launch
 Deliverables: Mainnet web-application, GitHub OSS Repository, Milestone Report
 Schedule: 3 weeks
 Team Member Responsible: Brian Haney
-
+Grant Payment: 39,000 ALGO
 
 Milestone 1: Database Generation 
 Description: This first phase will support the development of a comprehensive compliance database for digital assets and securities. 
