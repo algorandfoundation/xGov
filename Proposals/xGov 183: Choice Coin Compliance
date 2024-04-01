@@ -91,6 +91,15 @@ The Choice Coin compliance offering has three main pillars:
   (2) a software for automation, which is open source and iteratively improved; and 
   (3) human experts providing and developing the services and associated products.
 
+The software will have various checkpoints.
+First, it will allow new users to on-board for a monthly subscription fee. 
+Next, the users will have a checklist of tasks they need to complete to ensure their project is in compliance with specified regulations.
+Throughout this process, additional services will be available to subscribers on a fee basis.
+Finally, once the tasks are complete, the software will provide a compliance certification form a licensed attorney.
+
+Then, users will have montly checkups and continuous tasks required to maintain their certification. 
+This will provide a risk insulation for projects and help to provide legal validation to projects as well.
+
 
 ### Deliverable
 
@@ -131,6 +140,7 @@ Milestone 3: Testnet application, GitHub OSS Repository, Milestone Report
 Description: This third phase will support the development of the compliance AI for automation. 
 The AI will use an embedded system to formalize expert knowledge to provide an automated regulatory risk assessment. 
 The technology will also be used to generate a compliance report for customers and be integrated with the Algorand blockchain through a web-application. 
+Users will have a interface, where they login and proceed through tasks to help to validate their legal compliance.
 Evaluation Metrics: Compliance AI Application Deployment to Testnet
 
 Milestone 4: Main Network Launch
@@ -184,6 +194,12 @@ Strengthened Reputation and Trust: Supporting the Choice Coin Compliance AI prop
 By providing asset creators with transparent and reliable compliance solutions, Algorand demonstrates its commitment to regulatory compliance and investor protection. 
 This proactive approach not only mitigates legal and regulatory risks for Algorand-based projects but also builds trust and confidence among investors, users, and regulatory authorities. 
 As a result, the Algorand community can attract more high-quality projects, partnerships, and investments, further solidifying its position as a leading blockchain platform for innovative solutions and responsible growth.
+
+Increases in centralized exchange listings for ASAs: Other L1s, such as Ethereum (ERC 20 tokens) and Solana (SPL tokens) have relationships with Coinbase that allows for their assets to be listed.
+Algorand does not have such a relationship with Coinbase, or any other major exchange.
+Probably the most important thing centralized exchanges consider when listing assets is compliance.
+Having a one-stop shop for Algorand projects with ASAs to certify compliance will enable them to improve the possibility of being listed on CEXs.
+This will significantly improve the value of ASAs, and ALGO in return.
 
 Overall, funding the Choice Coin Compliance AI proposal can bring significant benefits to the Algorand community, including enhanced regulatory compliance, increased market access and liquidity, and strengthened reputation and trust. 
 These benefits contribute to the long-term success and sustainability of the Algorand ecosystem, driving broader adoption, innovation, and ecosystem growth.
