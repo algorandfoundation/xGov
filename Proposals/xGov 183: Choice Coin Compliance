@@ -15,12 +15,12 @@ delivery_date: 2024-12-01
 status: Draft
 ---
 
-## Abstract
+### Abstract
 The purpose for this grant is building a mechanism for establishing a culture of ethics and compliance for projects on Algorand. 
 The focus for this work will center around U.S. securities compliance, providing new resources for structuring Algorand Standard Assets (ASAs) to ensure regulatory compliance. 
 This software will add value to Algorand by: 1) helping to reduce regulatory risk; 2) reducing the risk of litigation or increasing the probability of success in the event of a class action lawsuit; and 3) help to streamline efficiency in the development of new assets in accordance with U.S. Law and create a more ethical and corporate culture on the Algorand network.
 
-## Team
+### Team
 
 Brian Haney | GitHub @bhaney44
 I have the unique expercience necessary to succeed with this project. 
@@ -34,7 +34,7 @@ Samuel Tosin | GitHub @Samuellyworld
 
 
 
-## Experience with Algorand
+### Experience with Algorand
 We have full stack OSS experience building and managing development of voting software on Algorand.
 
 <a href= "https://github.com/ChoiceCoin/v2"> Choice Coin v2 </a>
