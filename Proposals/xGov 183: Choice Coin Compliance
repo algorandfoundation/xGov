@@ -136,13 +136,13 @@ Evaluation Metrics: Research Paper, GitHub Repository, OSS Repo, OSS License, Mi
 Milestone 3: Testnet application, GitHub OSS Repository, Milestone Report
 Description: This third phase will support the development of the compliance AI for automation. 
 The AI will use an embedded system to formalize expert knowledge to provide an automated regulatory risk assessment. 
-The technology will also be used to generate a compliance report for customers and be integrated with the Algorand blockchain through a web-application. 
-Users will have a interface, where they login and proceed through tasks to help to validate their legal compliance.
-Evaluation Metrics: Compliance AI Application Deployment to Testnet
+The technology will also be used to power the Choice Coin Compliance platform.
+Users will have an interface, where they login and proceed through tasks to help to validate their legal compliance.
+Evaluation Metrics: Compliance AI Application Deployment to Testnet; User Login; Key features available.
 
 Milestone 4: Main Network Launch
 Description: The final phase will support the MainNet launch for both the Compliance AI and Algorand Compliance Web Application. 
-This will include an internal security assessment, as well as an external analysis by a licensed regulatory attorney regarding the software. 
+This will include an internal security assessment, as well as an analysis by a licensed regulatory attorney regarding the software. 
 Evaluation Metrics: Mainnet web-application, GitHub OSS Repository, Milestone Report
 
 ### Future Blue Print
