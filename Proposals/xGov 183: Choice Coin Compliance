@@ -100,32 +100,32 @@ Grant Payment: 14,000 ALGO
 Milestone 1: Database Generation
 Deliverables: Database, GitHub OSS Repository, Milestone Report
 Schedule: 4 weeks
-Team Member Responsible: Brian Haney
+Team Member Responsible: Brian Haney and David Kazeem
 Grant Payment: 39,000 ALGO
 
 Milestone 2: Research and Development
 Deliverables: Research Paper, GitHub Repository, OSS Repo, OSS License, Milestone Report
 Schedule: 4 weeks
-Team Member Responsible: Brian Haney 
+Team Member Responsible: Brian Haney and David Kazeem
 Grant Payment: 39,000 ALGO
 
 Milestone 3: Compliance AI Application Deployment to Testnet
 Deliverables: Testnet application, GitHub OSS Repository, Milestone Report
 Schedule: 4 weeks
-Team Member Responsible: Brian Haney
+Team Member Responsible: Brian Haney and Sam Tosin
 Grant Payment: 39,000 ALGO
 
 Milestone 4: Main Network Launch
 Deliverables: Mainnet web-application, GitHub OSS Repository, Milestone Report
 Schedule: 4 weeks
-Team Member Responsible: Brian Haney
+Team Member Responsible: Brian Haney and Sam Tosin
 Grant Payment: 39,000 ALGO
 
 Milestone 1: Database Generation 
 Description: This first phase will support the development of a comprehensive compliance database for digital assets and securities. 
 The database will be open source and will include data regarding SEC enforcement efforts, cryptocurrency litigation, relevant case law, legislation and regulation, and secondary sources.
 Database, GitHub Repository, OSS Repo, Milestone Report
-Evaluation Metrics: 
+Evaluation Metrics: Clean open source database of information.
 
 Milestone 2: Research and Development
 Description: This second phase will allow for the structured development of the web application. 
