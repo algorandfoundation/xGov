@@ -12,7 +12,7 @@ open_source: Yes
 funding_type: Proactive
 amount_requested: 50000
 delivery_date: 2024-09-01
-status: Draft
+status: Final
 ---
 
 >Proposals that do not include information on all template sections will be rejected.
