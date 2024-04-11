@@ -43,28 +43,26 @@ All of the layer, trait, and image data is stored in a database in the browser's
 
 Using all of the different layers, trait images, and other settings the user defined (like collection size, collection name, and trait rarities), images are generated for the user to preview right on the website. This gives the user the ability to do QA on the generated images so much easier than they would be able to when using a script to generate them.
 
-There will also be a handful of useful tools that the user can use to create 1/1s within your randomly generated images, fine-tune their collection, and more. 
+There are also a handful of useful tools such as the ability to create 1/1s within your randomly generated images, fine-tune their collection, and more. 
 
 Once the user is satisfied with the generated images, the site allows the user to download all of the images in a zip file as well as gives the user a JSON file of the metadata necessary for the ARC69 specification when minting the NFTs.
 
-The app is free to test out with limited features. If the user pays 200 ALGO (for a year), they unlock all of the features below:
+The app is free to test out with limited caps on some features. If the user pays 200 ALGO (for a year), they unlock all of the features below:
 
 - Generate unlimited images
-- Images are downloadable without watermark
+- Images are downloadable without a watermark
 - Create more than 5 layers and 10 traits
 - Use alternative images for traits
 
 ## Future Blueprint
-- Implement Minting to TestNet and MainNet right on the site
+- Implement minting the generated NFTs to TestNet and MainNet directly from the dApp
 - Implement feedback from the Algorand community
 
 ## Benefits for the community
-I think there's a huge gap missing in this area. There's a good amount of Algorand users trying to make generative NFT collections that don't have experience with Python or other languages needed to write an NFT Image Generation Script.
+There's a huge gap missing in this area. There's a good amount of Algorand users trying to make generative NFT collections that don't have experience with Python or other languages needed to write an NFT Image Generation Script.
 This task is often outsourced to one of the amazing developers on Algorand, at the cost of the collection creator. This site allows anyone to design and generate their own generative Algorand NFT Collection with ease.
 
-I know that there are a few NFT Image Generator options being developed but I think competition breeds innovation and creativity, so one more won't hurt at all. 
-
-AlgoMinter offers a sleek UI, fast and efficient data storage, and my undying support for bugs and later updates to the dApp.
+There are a few NFT Image Generator options being developed but I think competition breeds innovation and creativity. AlgoMinter offers a sleek UI, fast and efficient data storage, and my undying support for bugs and later updates to the dApp.
 
 ## Additional information
 I have a proven track record of getting shit done and done well. Building websites/apps and interacting with the Algorand community through Shitty Kitties are some of my greatest passions. I love the work I do here and hope to continue building cool shit for Algorand for years to come.
