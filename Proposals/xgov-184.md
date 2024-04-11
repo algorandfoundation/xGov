@@ -9,7 +9,7 @@ company_name: Chaintrail
 category: Tools
 focus_area: Monitoring
 open_source: No
-funding_type: Proactive
+funding_type: Retroactive
 amount_requested: 28000
 delivery_date: 2024-04-01
 status: Draft
