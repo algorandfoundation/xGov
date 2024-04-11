@@ -4,7 +4,7 @@ period: 4
 title: TxnLab Use-Wallet
 author: John Mizzoni (johnmizz), Doug Richar (drichar)
 email: john@txnlab.dev, doug@txnlab.dev
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: (https://forum.algorand.org/t/xgov-186-txnlab-use-wallet-discussion/11797)
 company_name: TxnLab Inc.
 category: Tools
 focus_area: Libraries, wallet
