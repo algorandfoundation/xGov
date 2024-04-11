@@ -1,5 +1,5 @@
 ---
-id: <proposal number (same as PR)>
+id: 186
 period: 4
 title: TxnLab Use-Wallet
 author: John Mizzoni (johnmizz), Doug Richar (drichar)
