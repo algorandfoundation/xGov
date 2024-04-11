@@ -72,7 +72,7 @@ This funding would be partially retroactive and partially proactive. February, M
 ### Deliverable
 On March 28, 2024 we announced the first beta release of use-wallet v3. The new version has been rewritten as a framework-agnostic core library that can be used in any JavaScript or TypeScript project. It ships with framework specific adapters for major frameworks (currently React and Vue only), and example apps demonstrating various integrations.
 
-Progress can be tracked on the v3 development branch: <a href=https://github.com/TxnLab/use-wallet/tree/v3>ARC</a>
+Progress can be tracked on the v3 development branch: <a href=https://github.com/TxnLab/use-wallet/tree/v3>Use-Wallet-V3</a>
 
 By July we will deliver the first stable release. This will include an adapter for Solid.js, and potentially other frameworks. We will also continue ongoing maintenance and development: adding features/improvements, addressing issues, updating dependencies, and reviewing contributions.
 
