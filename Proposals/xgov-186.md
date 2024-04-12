@@ -11,7 +11,7 @@ focus_area: Libraries, wallet
 open_source:  Yes
 funding_type: Proactive & Retroactive
 amount_requested: 120,000 ALGO
-delivery_date: Jan - June 24
+delivery_date: Feb - July 2024
 status: Draft
 ---
 
