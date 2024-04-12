@@ -12,7 +12,7 @@ open_source: Yes
 funding_type: Proactive
 amount_requested: 14000
 delivery_date: 2024-08-01
-status: Draft
+status: Final
 ---
 
 ## Abstract
