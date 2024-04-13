@@ -4,7 +4,7 @@ period: 4
 title: PiPhi Network Smart Home Visualization Platform
 author: Justin Somerville (jsomerville@piphi.network), Kelvin Sanyaolu (ksanyaolu@piphi.network), Dylan Phillips-Levine (dphillipslevine@piphi.network)
 email: jsomerville@piphi.network
-discussions-to: <link to algorand xgov forum>
+discussions-to: https://forum.algorand.org/t/xgov-188-piphi-network-submission/11807
 company_name: PiPhi Network
 category: IOT, Community, DePin
 focus_area: Environmental Monitoring, Software, Developers
