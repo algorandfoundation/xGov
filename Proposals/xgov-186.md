@@ -2,16 +2,16 @@
 id: 186
 period: 4
 title: TxnLab Use-Wallet
-author: John Mizzoni (johnmizz), Doug Richar (drichar)
+author: John Mizzoni (@johnmizz), Doug Richar (@drichar)
 email: john@txnlab.dev, doug@txnlab.dev
 discussions-to: https://forum.algorand.org/t/xgov-186-txnlab-use-wallet-discussion/11797
 company_name: TxnLab Inc.
 category: Tools
-focus_area: Libraries, wallet
-open_source:  Yes
+focus_area: Libraries
+open_source: Yes
 funding_type: Proactive & Retroactive
-amount_requested: 120,000 ALGO
-delivery_date: Feb - July 2024
+amount_requested: 120000 ALGO
+delivery_date: 2024-07-01
 status: Draft
 ---
 
