@@ -47,7 +47,7 @@ Justin Somerville serves as a database administrator and is a co-founder. He has
 All members have worked together since PiPhi’s inception. 
 
 ## Experience with Algorand
-The evolution into PiPhi’s current state traces its origins bac to October of 2021. During this time, one of the cofounders developed the first smart contract in the Algorand Test Net to test the viability of Algorand as the mechanism to allow PiPhi to execute its vision. Even in the early stages of this project, Algorand impressed all founding members of this team with its ease of use and seamless user development experience. During PiPhi’s embryonic stages, the founders continued to repeat a single refrain that captured this seamless user experience: “It just works.” To date, PiPhi through the Algorand blockchain has performed over 470,000,000 transactions and we’re firm believers that Algorand “just works.”  
+The evolution into PiPhi’s current state traces its origins back to October of 2021. During this time, one of the cofounders developed the first smart contract in the Algorand Test Net to test the viability of Algorand as the mechanism to allow PiPhi to execute its vision. Even in the early stages of this project, Algorand impressed all founding members of this team with its ease of use and seamless user development experience. During PiPhi’s embryonic stages, the founders continued to repeat a single refrain that captured this seamless user experience: “It just works.” To date, PiPhi through the Algorand blockchain has performed over 470,000,000 transactions and we’re firm believers that Algorand “just works.”  
 
 ## Present Proposal
  
@@ -123,19 +123,15 @@ Tier 1: Full Funding
 
   
 
-PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires and marketing initiatives.  
+PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires.  
 
   
 
-Employee 1 ($75,000/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
+Employee 1 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
 
   
 
-Employee 2 ($75,000/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
-
-  
-
-Marketing initiatives & Legal Fees ($5,000) 
+Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
 
 
 Tier 2: Partial Funding 
