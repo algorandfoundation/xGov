@@ -2,16 +2,16 @@
 id: 188
 period: 4
 title: PiPhi Network Smart Home Visualization Platform
-author: Justin Somerville (jsomerville@piphi.network), Kelvin Sanyaolu (ksanyaolu@piphi.network), Dylan Phillips-Levine (dphillipslevine@piphi.network)
+author: Justin Somerville jsomerville@piphi.network, Kelvin Sanyaolu @KelvinSan
 email: jsomerville@piphi.network
 discussions-to: https://forum.algorand.org/t/xgov-188-piphi-network-submission/11807
 company_name: PiPhi Network
-category: IOT, Community, DePin
+category: Other
 focus_area: Environmental Monitoring, Software, Developers
-open_source: No, Proposal Includes Development of OpenSource Platform 
+open_source: No
 funding_type: Proactive
 amount_requested: 645833
-delivery_date: (2025-04-30)
+delivery_date: 2025-04-30
 status: Draft
 ---
 
