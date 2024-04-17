@@ -67,7 +67,7 @@ Use-wallet is purely a community good, and it takes considerable time to maintai
 
 There is no monetization path for use-wallet. While it simplifies the developer experience of app developers, if there were to be a cost they would just integrate the wallets one at a time. Then we would likely see apps only supporting certain wallets instead of a unified set of Algorand wallets that work out of the box.
 
-This funding would cover the past four months of work on Use-Wallet V2 (February - May) and some of the work that will go into V3.
+This funding would cover work done up until May 1st, 2024 - the 'delivery date'.
 
 ### Deliverable
 
@@ -79,12 +79,14 @@ On March 28, 2024 we announced the first beta release of use-wallet v3. The new 
 
 Progress can be tracked on the v3 development branch: <a href=https://github.com/TxnLab/use-wallet/tree/v3>Use-Wallet-V3</a>
 
-By July we will deliver the first stable release. This will include an adapter for Solid.js, and potentially other frameworks. We will also continue ongoing maintenance and development: adding features/improvements, addressing issues, updating dependencies, and reviewing contributions.
-
-The stable release will be accompanied by full documentation for both the core library and the supported framework adapters.
+To be abundantly clear, this grant is retroactive and is only for work before May 1st. We will continue working on use-wallet beyond that, such as what we plan for use-wallet v3.
 
 ## Future Blueprint
-We plan to continue maintaining and improving use-wallet as a public good for the ecosystem. We allocate a set amount of time per month to focus on use-wallet development and maintenance. The additional funding would let us dedicate even more time towards improving it. There are no ongoing costs associated with use-wallet aside from labor. We will continue pursuing public goods funding to ensure use-wallet remains sustainable.
+We plan to continue maintaining and improving use-wallet as a public good for the ecosystem. We allocate a set amount of time per month to focus on use-wallet development and maintenance. There are no ongoing costs associated with use-wallet aside from labor. We will continue pursuing public goods funding to ensure use-wallet remains sustainable.
+
+We expect by July we will deliver the first stable release of use-wallet v3. This will include an adapter for Solid.js, and potentially other frameworks. We will also continue ongoing maintenance and development: adding features/improvements, addressing issues, updating dependencies, and reviewing contributions.
+
+The stable release will be accompanied by full documentation for both the core library and the supported framework adapters.
 
 ## Benefits for the community
 Recently there have been significant advancements in Algorand developer tooling, including AlgoKit, TEALScript, and Python on Algorand, to name a few. They share a common theme: meeting developers where they are, using languages and tools they are already familiar with.
