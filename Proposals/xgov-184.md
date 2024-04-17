@@ -4,7 +4,7 @@ period: 4
 title: Algorand Scam Detector & RWA tokenization insights on Algorand
 author: Leander <nfnomad@chaintrail.io>, Chaintrail (@Chaintrail)
 email: nfnomad@chaintrail.io
-discussions-to: TBD
+discussions-to: https://forum.algorand.org/t/xgov-184-algorand-scam-detector-rwa-tokenization-insights-on-algorand/11821
 company_name: Chaintrail
 category: Tools
 focus_area: Monitoring
@@ -38,6 +38,7 @@ Furthermore tracking lots of projects in the ecosystem. However, I noticed a pla
 Algorand Scam Detector is a free and open-source API that runs on Cloudflare Workers (free to host). Anyone can clone and integrate it as they like.
 
 You can check out the API here: https://scam-detector.chaintrail.io/
+Github page: https://github.com/ChainTrail/algorand-scam-detector
 
 And an explainer page here: https://scam-detector.chaintrail.io/scam/HPAYDROTIM5TUJ5ZWHBMEH2WUZTW2TCIKOOEYUKAZ5DQLIS2CRAA (warning - this transaction is considered a scam)
 
