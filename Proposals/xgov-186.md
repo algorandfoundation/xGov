@@ -9,9 +9,9 @@ company_name: TxnLab Inc.
 category: Tools
 focus_area: Libraries
 open_source: Yes
-funding_type: Proactive & Retroactive
-amount_requested: 120000 ALGO
-delivery_date: 2024-07-01
+funding_type: Retroactive
+amount_requested: 120000
+delivery_date: 2024-05-01
 status: Draft
 ---
 
@@ -67,9 +67,14 @@ Use-wallet is purely a community good, and it takes considerable time to maintai
 
 There is no monetization path for use-wallet. While it simplifies the developer experience of app developers, if there were to be a cost they would just integrate the wallets one at a time. Then we would likely see apps only supporting certain wallets instead of a unified set of Algorand wallets that work out of the box.
 
-This funding would be partially retroactive and partially proactive. February, March, and April will be retroactive, while May, June and July will be proactive, splitting the total request of 120,000 into 60,000 and 60,000.
+This funding would cover the past four months of work on Use-Wallet V2 (February - May) and some of the work that will go into V3.
 
 ### Deliverable
+
+Please find the Github repo for use-wallet v2 here: <a href=https://github.com/TxnLab/use-wallet>Use-Wallet-V2</a>
+
+We will continue ongoing maintenance and devlopment on V2: adding features/improvements, addressing issues, updating dependencies, and reviewing contributions.
+
 On March 28, 2024 we announced the first beta release of use-wallet v3. The new version has been rewritten as a framework-agnostic core library that can be used in any JavaScript or TypeScript project. It ships with framework specific adapters for major frameworks (currently React and Vue only), and example apps demonstrating various integrations.
 
 Progress can be tracked on the v3 development branch: <a href=https://github.com/TxnLab/use-wallet/tree/v3>Use-Wallet-V3</a>
