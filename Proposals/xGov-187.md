@@ -37,6 +37,9 @@ I've also built over 12 websites/dApps for different Algorand collections as wel
 I build dApps using Next.js/TypeScript and I'm very familiar with the JavaScript AlgoSDK as well as AlgoNode APIs.
 
 ## Present Proposal
+
+Here is a link to the live website: https://www.algominter.art
+
 The Image Generator is the main feature of the app. A user defines "Layers" (ie. Backgrounds, Hats, Accessories) for their project. For each layer, the user can upload as many images as they want to represent different "traits" for that layer.
 
 All of the layer, trait, and image data is stored in a database in the browser's IndexedDB.
