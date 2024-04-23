@@ -10,7 +10,7 @@ category: dApps, Community, Other
 focus_area: Gaming, NFT, Social, User Onboarding
 open_source: No
 funding_type: Proactive
-amount_requested: <Amount (integer) requested in ALGO, it should be at least 10000>
+amount_requested: 120000 ALGO
 delivery_date: <project delivery date, in ISO 8601 (yyyy-mm-dd) format>
 status: Draft
 ---
