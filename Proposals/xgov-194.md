@@ -1,5 +1,5 @@
 ---
-id: <proposal number (same as PR)>
+id: 194
 period: 4
 title: Gunny Rush new features and improvements
 author: Aquiles Benitez <aquiles@gunnygames.com>, Sebastian Moncada <sebastian@gunnygames.com> and (@sebas6612)
