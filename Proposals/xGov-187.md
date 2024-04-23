@@ -20,8 +20,6 @@ I have developed an app that allows users to generate NFT collections utilizing 
 
 The dApp allows the user to upload layer files, set rules for specific traits, preview images based on collection size, and then download the images and ARC69 JSON data necessary to mint them on the Algorand blockchain.
 
-Here is a link to the live dApp: https://www.algominter.art
-
 ## Team
 My name is Zachary Minner. I've been a Web Developer for 10+ years. I've built over 100+ websites/apps through my day job as well as over 10 different websites for Algorand NFT collections.
 
