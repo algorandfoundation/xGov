@@ -1,8 +1,8 @@
 ---
-id: 188
+id: 192
 period: 4
 title: PiPhi Network Smart Home Visualization Platform
-author: Justin Somerville jsomerville@piphi.network, Kelvin Sanyaolu @KelvinSan
+author: Justin Somerville <jsomerville@piphi.network>, Kelvin Sanyaolu (@KelvinSan)
 email: jsomerville@piphi.network
 discussions-to: https://forum.algorand.org/t/xgov-188-piphi-network-submission/11807
 company_name: PiPhi Network
@@ -125,13 +125,16 @@ Tier 1: Full Funding
 
 PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires.  
 
+All new hires will be announced via the PiPhi Network Discord announcements channel which notifies the entire community and anyone who has alert following our channel. We also plan on launching a company LinkedIn profile which will display the currently active list of employees for our company.
+
+If approved, these resources will be hired immediately based on full funding plan. If only partial funding plan is granted, Milestone 1 will be completed and announced to our community immediately. However, milestone 2 is expected to take up to 6 months from the time of approval.
   
-
-Employee 1 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
+Milestone 1:
+Employee 1 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community. 
 
   
-
-Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. 
+Milestone 2:
+Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. Kelvin Sanyaolu, will be coming on full time to continue developement of software and enhance the transition to an open source platform.
 
 
 Tier 2: Partial Funding 
@@ -141,12 +144,13 @@ Tier 2: Partial Funding
 PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs. 
 
   
+Milestone 1:
+Employee 1 ($75,000/Yr): Responsible for customer service, resolving support tickets, and development. Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community. 
 
-Employee 1 ($75,000/Yr): Responsible for customer service, resolving support tickets, and development. 
 
   
-
-Employee 2 ($40,000): Responsible for customer service and resolving support tickets. 
+Milestone 2:
+Employee 2 ($40,000): Responsible for customer service and resolving support tickets. The team will be looking to hire a part-time developer, to assist and continue development of software and enhance the transition to an open source platform.
 
 
 
