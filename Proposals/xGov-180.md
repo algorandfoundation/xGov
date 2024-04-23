@@ -4,7 +4,7 @@ period: 4
 title: Thurstober Digital Studios - Open Source, No Code Tools
 author: Joseph Glenn (@loafpickleWW)
 email: loafpickle@gmail.com
-discussions-to: https://github.com/algorandfoundation/xGov/pull/179
+discussions-to: https://github.com/algorandfoundation/xGov/pull/180
 company_name: Thurstober Digital Studios
 category: Tools
 focus_area: User Onboarding
@@ -76,9 +76,9 @@ This would include a new tools.thurstober.com website that links to the labs (to
 In addition, this will upgrade the theming of the Labs webpage to match Wallet Enhancer to create a new uniform, upgraded look across all our platforms. 
 
 ### Deliverable
-Proposals must include clear, non-technical descriptions of deliverables. We encourage the use of multimedia (blog/video) to help explain your proposal's benefits to the community. 
+The deliverables for this are simple, they'll be open source tools. If they're not delivered, there will be no tool.
 
-Proposals that do not specify deliverables and a process to check deliverables will be rejected.
+You'll be able to check the status of the tools by using the tools tab at https://thurstober.com/
 
 ## Future Blueprint
 Once our Proposal hits 50% we will start building some of these tools. We understand how much the community needs these and hopes that our goodwill effort will propel this proposal past the finish line. 
