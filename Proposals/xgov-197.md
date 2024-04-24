@@ -6,7 +6,7 @@ author: Kieran Nelson (@xxiled-plastic-cat)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/197
 company_name: CompX Labs
 category: dApps
-focus_area: Tools
+focus_area: DeFi
 funding_type: Proactive
 open_source: Yes
 amount_requested: 60000
@@ -15,21 +15,25 @@ status: Draft
 ---
 
 ## Abstract
+
 Creation of an xUSD -> COMPX staking contract whichc will allow xbacked users to gain a position within CompX and accumulate what will become the governance token for the CompX platform - that xBacked is now part of.
 Secondly, this staking contract would give users additional reasons to use and hold their xUSD which will ultimatly help toward maintaining the soft USD peg for xUSD.
 
 ## Team
+
 Kieran Nelson  - CEO/Founder at CompXLabs
 Akingbesote Jesulonimi (Nimi) - Founder / Lead smart contract developer
 
 ## Experience with Algorand
+
 Kieran - 2.5 years working in the Algorand ecosystem across Algogator and CompX. Extensive experience with Algorand SDK and ecosystem APIs.
-Nimi - 2 years experience working with xBacked create smart contracts, front end and abckend for the platform. 
+Nimi - 2 years experience working with xBacked create smart contracts, front end and backend for the platform.
 
 ## Proposal
 The staking contracts for xUSD were previously made and audited however these were written in Reach.sh and are not upgradable and the limited expereince of Reach in the ecosystem makes them difficult to maintain. We will be re-writing these contracts in Tealish as this is Nimi's preferred SC language to use.
 
 ### Technical specifications
+
 The technical sepcifications for this contract and assosiated front end UI are presently below in psuedo-code/plain language - actual contract/code variables may differ in name.
 
 Global State variables: totalStake, totalRewards, state, numberOfStakers, lockPeriod, rewardTokenId, rewardsPerBlock, stakeTokenId, accessTokenId, accessTokenBalanceRequired, minimumStake, maximumStake
@@ -58,7 +62,6 @@ claimRewards
 
 User rewards are calculated based on the rewardsPerBlock variable which is set at deployment but can be updated by the contract manager. The variable, rewardsPerBlock, is the total rewards available to all stakers for that block. Rewards in that block are then split among stakers depending on their percentage of the total stake their stake represents.
 Rewards will continue to pay out until the totalRewards variable is exhausted where in the contract is set into the closed state.
-
 
 ## Future Blueprint
 
