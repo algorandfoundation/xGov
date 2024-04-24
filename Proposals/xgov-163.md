@@ -1,17 +1,20 @@
 ---
-id: 80
-title: Open source concentrated liqudity AMM
+id: 163
+period: 3
+title: Biatec AMM - Milestone 3
 author: Ludovit Scholtz (@scholtz)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/80
+discussions-to: https://github.com/algorandfoundation/xGov/pull/163
 company_name: Scholtz & Co
 category: dApps
 focus_area: Defi
 open_source: Yes
-amount_requested: 300000
-status: Approved
+amount_requested: 200000
+status: Final
 ---
 
 ## Abstract
+Biatec AMM has recevied xGov grant <a href="https://github.com/algorandfoundation/xGov/pull/80/files?short_path=213d36e#diff-213d36ec8d75cbf65265ce0a01b8ff8891715f15282f28bbd7b29d62ba85e050">#80</a> and is in process of creating concentrated liqudity AMM. This proposal requests funds for milestone 3 - Integration to DEX aggregator. Check our progress - <a href="https://dex.biatec.io">dex.biatec.io</a>.
+
 We will improve Algorand's DeFi ecosystem and with concentrated liquidity AMM we will give users better swap quotes and liquidity providers better yields in comparision with using traditional AMMs.
 
 This grant proposal aims to advance the development and open source implementation of Automated Market Makers (AMMs) with concentrated liquidity. AMMs have emerged as a crucial component of decentralized finance (DeFi), providing efficient and decentralized mechanisms for trading digital assets. However, traditional AMMs suffer from certain limitations, such as inefficient capital utilization and vulnerability to impermanent loss.

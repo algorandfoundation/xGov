@@ -1,13 +1,14 @@
 ---
-id: 79
+id: 160
+period: 3
 title: VoteCoin - GitHub tools
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/79
+discussions-to: https://github.com/algorandfoundation/xGov/pull/160
 company_name: Scholtz & Company, jsa
 category: Community
 focus_area: Deployment
 open_source: Yes
-amount_requested: 120000
+amount_requested: 80000
 status: Final
 ---
 
@@ -25,7 +26,7 @@ The successful implementation of this project will revolutionize source code man
 We kindly request your support in the form of a grant to bring this project to fruition and contribute to the advancement of decentralized governance within the software development ecosystem.
 
 ## Team
-Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gol">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
+Scholtz - Product owner. Active on <a href="https://forum.algorand.org/u/scholtz/summary">Algorand forum</a>, runs a few projects in Algorand ecosystem such as the <a href="https://www.vote-coin.com">VoteCoin</a>, <a href="https://www.a-wallet.net">A-Wallet</a>, <a href="https://aramid.finance">Aramid Bridge</a>, <a href="https://stabilitas.finance">Stabilitas</a>, <a href="https://www.asa.gold">ASA.Gold</a>. Has been winner in few hackathons, such as Algorand encode hack 2021, EUvsVirus, Swiss blockchain hackathon 2021, Bitcoin bankathon, Encode DAO hack, Algo HackJam, Greenhouse hack III, Mega Ace Hackathon, ...
 
 ## Experience with Algorand
 Scholtz & Co is relay node runner.
@@ -62,4 +63,4 @@ Overall, the implementation of onchain voting tools using Vote Coin on Algorand 
 
 ## Additional information
 
-It is ok for us to be paid after the project is developed and working.
+

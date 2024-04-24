@@ -28,6 +28,10 @@ a-education: this?.new?.focus_area == "Education"
 # Open Source
 o-open_source: this?.new?.open_source == "Yes"
 
+# Funding
+f-proactive: this?.new?.funding_type == "Proactive"
+f-retroactive: this?.new?.funding_type == "Retroactive"
+
 # Status
 s-draft: this?.new?.status == "Draft"
 s-final: this?.new?.status == "Final"
