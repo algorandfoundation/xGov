@@ -6,9 +6,9 @@ author: Kieran Nelson (@xxiled-plastic-cat)
 discussions-to: https://forum.algorand.org/t/xgov-197-compx-xusd-compx-staking/11849
 company_name: CompX Labs
 category: dApps
-focus_area: DeFi
-funding_type: Proactive
+focus_area: Defi
 open_source: Yes
+funding_type: Proactive
 amount_requested: 60000
 delivery_date: 2024-06-30
 status: Final
@@ -30,6 +30,7 @@ Kieran - 2.5 years working in the Algorand ecosystem across Algogator and CompX.
 Nimi - 2 years experience working with xBacked create smart contracts, front end and backend for the platform.
 
 ## Proposal
+
 The staking contracts for xUSD were previously made and audited however these were written in Reach.sh and are not upgradable and the limited expereince of Reach in the ecosystem makes them difficult to maintain. We will be re-writing these contracts in Tealish as this is Nimi's preferred SC language to use.
 
 See the video below for more info:
