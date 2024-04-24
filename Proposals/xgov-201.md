@@ -61,6 +61,8 @@ We already have a contract for selling, need to test it. Other then that:
 
 Currently Cometa focused on helping small and middle sized projects to get liqudity and attention. With the Launchpad we're leveraging that attracting new users and gathering much more funds.
 
+Bringing memecoins to the next level, which is sadly the current engine of progress for any DeFi. It will attract people from other chains now that they have an easy instrument.
+
 ## Benefits for the community
 
 - Easily create, sell, distribute and get liquidity for your token, with just a few clicks.
