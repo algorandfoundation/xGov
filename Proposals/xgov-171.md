@@ -3,14 +3,14 @@ id: 171
 period: 4
 title: Pact.fi Retroactive Stableswaps
 author: Andrew Kotulak
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: <https://github.com/algorandfoundation/xGov/pull/202>
 company_name: Pact
 category: dApps
 focus_area: Dex
 open_source: Yes (upon approval)
 funding_type: Retroactive
 amount_requested: 135000
-delivery_date: -
+delivery_date: 2024-04-24
 status: Draft
 ---
 
@@ -40,9 +40,12 @@ Stable swaps are a type of cryptocurrency exchange mechanism designed primarily 
 Having tools like Stable Swaps is very important both for Algorand & Pact as it signals to new potential users that we have a robust DeFi landscape and can be competitive with other chains. These futures are, but not limited to:
 
 **Low Slippage**: Slippage refers to the difference between the expected price of a trade and the price at which the trade is executed. Stable swaps are optimized for assets whose values are supposed to remain constant or nearly constant, thus reducing slippage even during large trades.
+
 **Efficient Use of Liquidity**: These swaps utilize specialized mathematical formulas (like the StableSwap invariant from Curve) that require less liquidity to achieve the same level of slippage compared to traditional Automated Market Makers (AMMs) used for more volatile cryptocurrencies.
+
 **Lower Fees**: Because these trades involve lower risk and volatility, the transaction fees are lower than those for trading highly volatile crypto assets.
 Focused on Stablecoins: While traditional AMMs can handle a wide range of cryptocurrencies, stable swaps are specifically designed for stablecoins or similarly behaving assets, providing a more tailored and effective solution for these types of trades.
+
 **Arbitrage Opportunities**: Despite the primary focus on stablecoins, price discrepancies can still occur, and stable swaps provide opportunities for arbitrage, allowing traders to profit from differences in pricing between different stablecoins.
 
 ## Additional information
