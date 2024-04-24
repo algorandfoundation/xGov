@@ -2,12 +2,12 @@
 id: 196
 period: 4
 title: TealCraft - Remix-like IDE for TealScript
-author: Shivaprasad Manupadi (@shivamanupadi)FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+author: Shivaprasad Manupadi (@shivamanupadi)
 email: shivaprasadmanupadi@gmail.com
 discussions-to: https://forum.algorand.org/t/xgov-196-tealcraft-remix-like-ide-for-tealscript/11845
 company_name: TealCraft
 category: Tools
-focus_area: DevTools
+focus_area: IDE
 open_source: Yes
 funding_type: Retroactive
 amount_requested: 175000
