@@ -35,9 +35,7 @@ Auto-compounding farms take advantage of the composability of Algorand smart con
 
 ### Technical specifications
 
-Please see the video below for an overview of how the farms work in practice.
-
-[Auto-Compounding Tutorial](https://youtu.be/ibKb0oQEi_4?si=oBuS5AWjCy37tRga)
+See forum comments for video outlineing auto-compounding farms.
 
 ## Future Blueprint
 
