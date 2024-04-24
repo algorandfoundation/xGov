@@ -58,12 +58,12 @@ Arcpay is built on principles of flexibility and user-friendliness, with a commi
     - **NFTs**
       - **ASA**
         - ARC3
-        - ARC13
+        - ARC19
         - ARC69
     - **SFTs**
       - **ASA**
         - ARC3
-        - ARC13
+        - ARC19
         - ARC69
   - **Buying Assets**
     - **Tokens**
