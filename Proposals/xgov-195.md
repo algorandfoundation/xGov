@@ -6,8 +6,8 @@ author: Wilder Stubbs (@WilderStubbs)
 email: wilder@frostbits.solutions
 discussions-to: https://forum.algorand.org/t/xgov-195-arcpay/11843
 company_name: Frostbits Solutions
-category: dApps, SDK
-focus_area: Payment Processing, NFT
+category: dApps
+focus_area: Banking
 open_source: Yes
 funding_type: Proactive
 amount_requested: 149000
@@ -47,7 +47,7 @@ Arcpay will bridge traditional applications and blockchain by providing:
 - **Smart Contracts as a Service**: Transparent, customizable, ready-to-deploy smart contracts for various transaction types.
 - **Dual Integration Modes**: Magic link-based setup for non-technical users and advanced development kit integration for tailored user experiences.
  
-## Deliverable
+### Deliverable
 #### Technical Approach
 Arcpay is built on principles of flexibility and user-friendliness, with a commitment to open-source development and community collaboration. Security strategies include community-driven vulnerability assessments and periodic expert reviews if financially viable, ensuring a reliable and secure platform. The Algorand native solution will build upon and refine the Arcpay platform created for Voi Phase1 testnet.
 
@@ -180,7 +180,7 @@ We envision Arcpay’s success playing out in two sequential stages:
 #### Contact Information
 This proposal is supported by Frostbits Solutions, a Canadian company specialized in custom, cutting-edge software, that leverages decentralized networks to facilitate rapid, secure, and cost-effective exchanges of digital goods.
 
-**Website**: [frostbits.solutions](https://frostbits.solutions/)  
+**Website**: <a href="https://frostbits.solutions/">frostbits.solutions</a> 
 **Email**: wilder@frostbits.solutions  
 **Twitter**: @WilderStubbs  
 **Discord**: Wilder
