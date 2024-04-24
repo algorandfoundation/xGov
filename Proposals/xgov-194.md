@@ -4,7 +4,7 @@ period: 4
 title: Gunny Rush new features and improvements
 author: Aquiles Benitez <aquiles@gunnygames.com>, Sebastian Moncada <sebastian@gunnygames.com>, sebas6612 (@sebas6612)
 email: aquiles@gunnygames.com
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: https://forum.algorand.org/t/xgov-194-gunny-rush-new-features-and-improvements/11853
 company_name: Gunny Games
 category: Other
 focus_area: Gaming
