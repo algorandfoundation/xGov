@@ -1,5 +1,6 @@
 ---
 id: 1
+period: 3
 title: Mock Proposal
 author: Stéphane BARROSO (@SudoWeezy)
 discussions-to: https://github.com/algorandfoundation/xGov/pull/1

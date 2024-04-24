@@ -8,7 +8,7 @@ category: dApps
 focus_area: Defi
 open_source: Yes
 amount_requested: 350000
-status: Final
+status: Approved
 ---
 
 ## Abstract

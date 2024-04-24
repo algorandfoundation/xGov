@@ -8,7 +8,7 @@ category: dApps
 focus_area: Social
 open_source: Yes
 amount_requested: 100000
-status: Final
+status: Approved
 ---
 
 ## Abstract

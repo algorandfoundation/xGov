@@ -8,7 +8,7 @@ category: Tools
 focus_area: Wallet
 open_source: Yes
 amount_requested: 15000
-status: Final
+status: Approved
 ---
 
 ## Abstract

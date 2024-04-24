@@ -1,14 +1,15 @@
 ---
-id: 70
+id: 141
+period: 3
 title: Securing ASA Stats API high availability for the next 2 years
 author: Ivica Paleka (@ipaleka)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/70
+discussions-to: https://forum.algorand.org/t/xgov-141-securing-asa-stats-api-high-availability-for-the-next-2-years-milestone-2/11335
 company_name: ASA Stats
 category: Tools
 focus_area: Other
 open_source: No
-amount_requested: 42000
-status: Approved
+amount_requested: 58000
+status: Final
 ---
 
 ## Abstract
@@ -28,9 +29,9 @@ ASA Stats API makes all the ASA Stats website's functionalities available to any
  - junior developer
 
 ## Experience with Algorand
-Ivica Paleka has been completely devoted to the ASA Stats project since October 2021. He created a few comprehensive articles/tutorials for the Algorand developer portal (https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/, https://developer.algorand.org/tutorials/create-and-test-smart-contracts-using-python/) and created a repository with an Ansible script for provisioning the Algorand Node on all the popular contemporary operating systems (https://github.com/ipaleka/algorand-provisioning).
+Ivica Paleka has been completely devoted to the ASA Stats project since October 2021. He created a few comprehensive articles/tutorials for the Algorand developer portal (<a href="https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/" target="_blank" >Getting started with Python Algorand SDK and Django</a> , <a href="https://developer.algorand.org/tutorials/create-and-test-smart-contracts-using-python/" target="_blank" >Create and test smart contracts using Python</a>) and created a repository with an Ansible script for provisioning the Algorand Node on all the popular contemporary operating systems (<a href="https://github.com/ipaleka/algorand-provisioning" target="_blank" >Algorand provisioning</a>).
 
-Marcin Zawiejski is one of the most productive and valuable developers in the ecosystem. On top of his work in ASA Stats, he created a C to Algorand TEAL compiler (https://github.com/dragmz/ceal), Algorand MultiSig tools (https://github.com/dragmz/ams), Algorand TEAL language support for Visual Studio Code (https://github.com/dragmz/vscode-teal), as well as ASA Stats terminal app (https://github.com/dragmz/goas-release).
+Marcin Zawiejski is one of the most productive and valuable developers in the ecosystem. On top of his work in ASA Stats, he created a <a href="https://github.com/dragmz/ceal" target="_blank" >C to Algorand TEAL compiler</a>, <a href="https://github.com/dragmz/ams" target="_blank" >Algorand MultiSig tools</a>, <a href="https://github.com/dragmz/vscode-teal" target="_blank" >Algorand TEAL language support for Visual Studio Code</a>, as well as <a href="https://github.com/dragmz/goas-release" target="_blank" >ASA Stats terminal app</a>.
 
 Eduard Ravnic is a junior developer providing a lot of work administrating ASA Stats community channels, researching dApps for implementation in ASA Stats, bug testing, etc. He has developed new features and fixed the bugs in the ASA Stats mobile app (iOS and Android) which completely utilizes the ASA Stats API.
 
@@ -43,7 +44,7 @@ This proposal also covers the research and the development of the emergency fail
 
 Once Milestone 2 is finished and all the planned hardware resources are purchased, as well as all the research and administration tasks are done, it is expected that all the issues on any endpoint will be resolved automatically - no user should be aware of any problem we could have on our side. The goal is to achieve high availability and an uptime of 100% for all the ASA Stats users.
 
-Finished Milestone 3 implies deployed asynchronous WebSocket server to be used both by the advanced API endpoint users and by the website subscribers. On top of the currently existing request-response cycle, it will allow automatic bidirectional data refresh in real time the very moment when any target data update arrives on the Algorand Mainnet.
+Finished Milestone 2 implies start of the development of an asynchronous WebSocket service and the related server will be used both by the advanced API endpoint users and by the website subscribers. On top of the currently existing request-response cycle, it will allow automatic bidirectional data refresh in real time the very moment when any target data update arrives on the Algorand Mainnet.
 
 ### Vertical and/or horizontal scaling
 This proposal covers purchasing all the hardware resources ASA Stats would need in the next two years to provide API access to subscribers.
@@ -61,7 +62,7 @@ If the ecosystem recovers and we decide to spend our resources on developing the
 ### ASA Stats Avatar NFTs
 
 #### Introduction
-There's a note in the abstract section of this proposal stating that the ASA Stats API is provided to the users for the cost of next to nothing - we are referring to the fact that to get access to our API, users just need to stake at least 500,000 ASASTATS (cca US$23) in our governance staking pool on the Cometa platform. If they choose to stake for at least 10 months then they get lifetime access to our API (after 12 months pass). Afterward, they are free to completely withdraw their ASASTATS or they can continue to stake with the aim of getting increased permission to the ASA Stats services (https://github.com/asastats/channel/wiki/ASA-Stats-Token-utilization).
+There's a note in the abstract section of this proposal stating that the ASA Stats API is provided to the users for the cost of next to nothing - we are referring to the fact that to get access to our API, users just need to stake at least 500,000 ASASTATS (cca US$23) in our governance staking pool on the Cometa platform. If they choose to stake for at least 10 months then they get lifetime access to our API (after 12 months pass). Afterward, they are free to completely withdraw their ASASTATS or they can continue to stake with the aim of getting increased permission to the ASA Stats services (<a href="https://github.com/asastats/channel/wiki/ASA-Stats-Token-utilization" target="_blank" >ASA Stats Token utilization</a>).
 
 #### Permission
 Every ASA Stats user gets a related *permission* number that will be used by the ASA Stats engine to allow or deny the user's access to various services/functionalities. The default permission for an unauthenticated user is 0 and it means that the user has access only to the base/free website. It is worth noting that all the website's functionalities currently implemented (plus NFT beta bringing price evaluation for all ecosystem's NFTs) will remain free for everyone.
@@ -81,7 +82,7 @@ Algorand boxes will be used internally by the ASA Stats engine to identify permi
 
 However, only selected governors (the existing ASA Stats DAO governors and those who have staked at least 500,000 ASASTATS for 12 months or more) will receive an NFT minted for the purpose.
 
-The same as for the Algorand boxes, this proposal's research implication should reveal the exact technology for NFTs - it is expected that we use either ARC72 (https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0072.md) or ARC19/ARC3 combination (https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0019.md; https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md).
+The same as for the Algorand boxes, this proposal's research implication should reveal the exact technology for NFTs - it is expected that we use either <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0072.md" target="_blank" >ARC72</a> or <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0019.md" target="_blank" >ARC19</a/<a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md" target="_blank" >ARC3</a> combination.
 
 NFTs will be used as profile pictures for the authenticated users on the ASA Stats website. It is yet to be decided about the exact time in the process when an NFT should be minted for the users that stake ASASTATS in the governance pool, but there's a possibility that an avatar will be presented as a user's profile picture even before it is actually allocated to the user's account or even before it's minted.
 
@@ -108,175 +109,175 @@ Use the presented data just as a starting point as we're fully open for suggesti
 1. dragmz
 
 Role: First Developer  
-Model on: https://avatars.githubusercontent.com/u/447143?v=4  
+Model on: <a href="https://avatars.githubusercontent.com/u/447143?v=4" target="_blank" >image</a>  
 Description: The ecosystem's human Oracle.  
 Value: 5.6  
 
 2. AlgoRhythMatic
 
 Role: First Writer  
-Model on: https://www.youtube.com/watch?v=D8MFhizIs_8  
+Model on: <a href="https://www.youtube.com/watch?v=D8MFhizIs_8" target="_blank" >video</a>  
 Description: He has established the ASA Stats rewards system and he *dances* it out every month.  
 Value: 4.0  
 
 3. TresTres
 
 Role: OG  
-Model on: https://www.google.com/search?q=flamingo&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=flamingo&tbm=isch" target="_blank" >search images</a>  
 Description: If you think ASA Stats documents are well-crafted then you've found who to blame for.  
 Value: 3.8  
 
 4. kerr
 
 Role: First Admin  
-Model on: https://www.google.com/search?&q=german+shepherd&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=german+shepherd&tbm=isch" target="_blank" >search images</a>  
 Description: ASA Stats' Renaissance man, or rather to say Renaissance *dog* (from the nick origin).  
 Value: 3.7  
 
 5. GamingToups
 
 Role: OG  
-Model on: https://www.google.com/search?q=bear&tbm=isch  
-Description: Those who are cautious sound like bears in the world of bulls,  
+Model on: <a href="https://www.google.com/search?q=bear&tbm=isch" target="_blank" >search images</a>  
+Description: Those who are cautious sound like bears in the world of bulls.  
 Value: 3.4  
 
 6. ipaleka
 
 Role: OG  
-Model on: https://www.google.com/search?q=alpaca&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=alpaca&tbm=isch" target="_blank" >search images</a>  
 Description: Some community members visualize nick `ipaleka` as alpaca.  
 Value: 3.2  
 
 7. moloch10
 
 Role: OG  
-Model on: https://www.google.com/search?q=ant&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=ant&tbm=isch" target="_blank" >search images</a>  
 Description: ASA Stats' top contributor.  
 Value: 3.2  
 
 8. SCN9A
 
 Role: First Debater  
-Model on: https://www.google.com/search?q=wise+owl&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=wise+owl&tbm=isch" target="_blank" >search images</a>  
 Description: ASA Stats' voice of reason.  
 Value: 3.1  
 
 9. Damo
 
 Role: First Contributor  
-Model on: https://www.google.com/search?q=hammer+shark&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=hammer+shark&tbm=isch" target="_blank" >search images</a>  
 Description: He breaks every system with his hammer. There are many damos, but only one Damo.  
 Value: 2.7  
 
 10. Babbexx22
 
 Role: OG  
-Model on: https://www.google.com/search?q=horse&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=horse&tbm=isch" target="_blank" >search images</a>  
 Description: His hard work and dedication allowed us to shape the ASA Stats community for the future. kerr pretty much took over his legacy.  
 Value: 2.3  
 
 11. Investordooh
 
 Role: First Investor  
-Model on: https://www.google.com/search?q=bull&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=bull&tbm=isch" target="_blank" >search images</a>  
 Description: No person has been more bullish on ASA Stats.  
 Value: 2.0  
 
 12. UncleDooom
 
 Role: OG  
-Model on: https://www.google.com/search?q=dragon&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=dragon&tbm=isch" target="_blank" >search images</a>  
 Description: Boom shaka laka dooom!  
 Value: 2.0  
 
 13. motuwagon
 
 Role: OG  
-Model on: https://www.google.com/search?&q=cat&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=cat&tbm=isch" target="_blank" >search images</a>  
 Description: If we can make sound come out of our Discord, it would be purring.  
 Value: 1.6  
 
 14. Urtho
 
 Role: governor coming from the Algorand community  
-Model on: https://www.google.com/search?&q=albatross&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=albatross&tbm=isch" target="_blank" >search images</a>  
 Description: The ecosystem's most important individual.  
 Value: 1.0  
 
 15. Unohim
 
 Role: First Community Manager  
-Model on: https://www.google.com/search?q=dolphin&tbm=isch  
+Model on: <a href="https://www.google.com/search?q=dolphin&tbm=isch" target="_blank" >search images</a>  
 Description: He's saving the planet for us.  
 Value: 0.9  
 
 16. Milesmile
 
 Role: Asastatser  
-Model on: https://www.google.com/search?&q=chameleon&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=chameleon&tbm=isch" target="_blank" >search images</a>  
 Description: Yep, he's over there, take a closer look.  
 Value: 0.9  
 
 17. Mocha
 
 Role: Asastatser  
-Model on: https://www.google.com/search?&q=dromedary&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=dromedary&tbm=isch" target="_blank" >search images</a>  
 Description: I'm easy, easy like Sunday morning.  
 Value: 0.9  
 
 18. Algoworm
 
 Role: Asastatser  
-Model on: https://www.google.com/search?&q=worm+cartoon&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=worm+cartoon&tbm=isch" target="_blank" >search images</a>  
 Description: Like a sculptor who sees contours inside a stone, he sees a hole ready to be dug in every system.  
 Value: 0.9  
 
 19. rach
 
 Role: Asastatser  
-Model on: https://www.google.com/search?&q=lioness&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=lioness&tbm=isch" target="_blank" >search images</a>  
 Description: AlgoRhythMatic and SCN9A took over her legacy.  
 Value: 0.6  
 
 20. RandomTask
 
 Role: OG  
-Model on: https://www.google.com/search?&q=sea+turtle&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=sea+turtle&tbm=isch" target="_blank" >search images</a>  
 Description: Who said Redditors can't Discord?  
 Value: 0.6  
 
 21. Kenny | TGA
 
 Role: OG  
-Model on: https://www.google.com/search?&q=golden+retriever&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=golden+retriever&tbm=isch" target="_blank" >search images</a>  
 Description: Our first Reddit admin and "Tasker".  
 Value: 0.6  
 
 22. LudovitScholtz
 
 Role: governor coming from the Algorand community  
-Model on: https://www.google.com/search?&q=giraffe&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=giraffe&tbm=isch" target="_blank" >search images</a>  
 Description: One of the most prominent ecosystem's contributors who acts as the opposition.  
 Value: 0.5  
 
 23. Swenor
 
 Role: governor coming from the Algorand community  
-Model on: https://i.imgur.com/hqYjPkg.png  
+Model on: <a href="https://i.imgur.com/hqYjPkg.png" target="_blank" >image</a>  
 Description: Main character in a popular ecosystem's game.  
 Value: 0.5  
 
 24. Shaman
 
 Role: governor coming from the Algorand community  
-Model on: https://www.google.com/search?&q=fox&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=fox&tbm=isch" target="_blank" >search images</a>  
 Description: The ecosystem's spiritual leader.  
 Value: 0.5  
 
 25. patrick.algo
 
 Role: governor coming from the Algorand community  
-Model on: https://www.google.com/search?&q=whale&tbm=isch  
+Model on: <a href="https://www.google.com/search?&q=whale&tbm=isch" target="_blank" >search images</a>  
 Description: He names things.  
 Value: 0.5  
 
@@ -295,22 +296,22 @@ It is expected that NFTs allocated in shuffle indeed reach the open market after
 
 Every other ASA Stats DAO governor (besides those 25 from the previous section) will receive one NFT based on their permission number. There will be overlapping in the initial/predefined permission values for different NFTs between groups, so the exact rules for the allocation process are yet to be defined.
 
-The existing ASA Stats DAO governors (https://github.com/asastats/channel/wiki/Governors) will receive their NFTs after the whole subscription system is established and the initial set of NFTs are minted, while the NFTs allocation for those who have staked in the governance pool is expected to start in March 2024. (12 months after the establishment of the first incarnation of our governance staking pool).
+The existing <a href="https://github.com/asastats/channel/wiki/Governors" target="_blank" >ASA Stats DAO governors</a> will receive their NFTs after the whole subscription system is established and the initial set of NFTs are minted, while the NFTs allocation for those who have staked in the governance pool is expected to start in March 2024. (12 months after the establishment of the first incarnation of our governance staking pool).
 
 ## Future Blueprint
+
 ### Milestone 1: VPSes purchase and setup; NFT research
-Date: 3 months  
-Amount: 42,000    
-Description: In the first phase, the team will be focused on the following tasks:  
-- Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats API server in the first year.
-- Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats Web server in the first year.
-- Allocation of the funds needed for purchasing a VPS for the ASA Stats API server in the second year (or adequate Kubernetes cluster working nodes).
-- Research into dApps or scripts that will be used to create subscribers' Algorand boxes and update related permission values.
-- Research into optimal NFT technology to be used for the ASA Stats Avatar NFTs.
+Date: -  
+Amount: 42,000  
+Description: On December 2, 2023, the ASA Stats Team purchased two new and improved servers to be used as Web and API servers for a period of 24 months. More details can be found in the <a href="https://www.asastats.com/tokenomics/#reports" target="_blank" >ASA Stats Transparency Report for 12/23</a>. Starting with December 27, 2023, the ASA Stats website has run on new servers.
+
+Initial research of dApps and scripts that will be used to create subscribers' Algorand boxes and update related permission values has been conducted by the Team members.
+
+ASA Stats Team contacted some of known Algorand ecosystem's NFT artists and it is expected that they provide samples for review inside the ASA Stats community.
 
 ### Milestone 2: VPSes and Load Balancer purchases and setup: Users authentication NFT minting
 Date: 3 months  
-Amount: 58,000    
+Amount: 58,000  
 Description: In the second phase, the team will be focused on the following tasks:  
 - Purchasing and setting up a VPS that will (primarily) be used as the ASA Stats WebSocket server in the first year.
 - Purchasing and setting up a Load Balancer for the first year.
@@ -339,17 +340,18 @@ The first section's setting `open_source` is set as `No` in this proposal as the
 
 The development and administration of ASA Stats were funded by a few early adopters and investors. The ASA Stats project has never received any grant from the Algorand Foundation.
 
-In the very first establishment of the xGovernors platform, ASA Stats's proposal has received a third of all allocated xGovernors ALGO (proposal #17 at https://xgov.algorand.foundation/vote/1158913461).
+In the very first establishment of the xGovernors platform, ASA Stats's proposal has received a third of all allocated xGovernors ALGO (<a href="https://xgov.algorand.foundation/vote/1158913461" target="_blank" >proposal #17</a>).
 
-From the very start, the ASA Stats team creates monthly transparency reports and publishes them on the ASA Stats website (https://www.asastats.com/tokenomics/). It is expected that all the funds from this proposal get related entries in future transparency reports.
+From the very start, the ASA Stats team creates monthly transparency reports and publishes them on the ASA Stats website (<a href="https://www.asastats.com/tokenomics/" target="_blank" >ASA Stats Transparency reports</a>). It is expected that all the funds from this proposal get related entries in future transparency reports.
 
 ### Project links
-https://www.asastats.com/  
-https://www.asastats.com/tokenomics/  
-https://www.asastats.com/whitepaper.pdf  
-https://github.com/asastats/channel/wiki/ASA-Stats-Token-utilization
-https://github.com/asastats/docs/blob/main/roadmap.md  
-https://github.com/asastats/channel  
-https://discord.com/invite/Vjx7w7pAC7  
-https://www.reddit.com/r/asastats/  
-https://twitter.com/asastatscom  
+
+<a href="https://www.asastats.com/" target="_blank" >ASA Stats website</a>  
+<a href="https://www.asastats.com/tokenomics/" target="_blank" >Tokenomics page</a>  
+<a href="https://www.asastats.com/whitepaper.pdf" target="_blank" >ASA Stats whitepaper</a>  
+<a href="https://github.com/asastats/channel/wiki/ASA-Stats-Token-utilization" target="_blank" >ASA Stats Token utilization document</a>  
+<a href="https://github.com/asastats/docs/blob/main/roadmap.md" target="_blank" >ASA Stats Roadmap</a>  
+<a href="https://github.com/asastats/channel" target="_blank" >ASA Stats Channel (official communication channel)</a>  
+<a href="https://discord.com/invite/Vjx7w7pAC7" target="_blank" >ASA Stats Discord (community channel)</a>  
+<a href="https://www.reddit.com/r/asastats/" target="_blank" >ASA Stats subreddit (community channel)</a>  
+<a href="https://twitter.com/asastatscom" target="_blank" >ASA Stats Twitter (community channel)</a>  
