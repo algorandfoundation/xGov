@@ -4,7 +4,7 @@ period: 4
 title: Frostbits Solutions Arcpay
 author: Wilder Stubbs (@WilderStubbs)
 email: wilder@frostbits.solutions
-discussions-to: 
+discussions-to: https://forum.algorand.org/t/xgov-195-arcpay/11843
 company_name: Frostbits Solutions
 category: dApps, SDK
 focus_area: Payment Processing, NFT
