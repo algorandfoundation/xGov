@@ -4,7 +4,7 @@ period: 4
 title: Cometa Launchpad
 author: Nikita Cometa (@nikitacometa)
 email: nikita@cometa.wtf
-discussions-to: 
+discussions-to: https://forum.algorand.org/t/xgov-201-cometa-launchpad/
 company_name: Cometa
 category: dApps
 focus_area: Defi
