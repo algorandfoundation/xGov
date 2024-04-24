@@ -1,8 +1,9 @@
 ---
 id: 197
 period: 4
-title: CompX - xUSD -> COMPX Staking 
+title: CompX - xUSD -> COMPX Staking
 author: Kieran Nelson (@xxiled-plastic-cat)
+email: kieran@compx.io
 discussions-to: https://forum.algorand.org/t/xgov-197-compx-xusd-compx-staking/11849
 company_name: CompX Labs
 category: dApps
