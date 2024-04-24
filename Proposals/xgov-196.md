@@ -1,58 +1,101 @@
 ---
 id: 196
-period: <Period number (Integer) (When do you want to submit your proposal)>
-title: <The proposal title is a few words, not a complete sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-email: <Email address to start the contract process >
-discussions-to: <Indicating the URL where the proposal is being discussed>
-company_name: <Name of the company>
-category: <dApps, Tools, Community, Other>
-focus_area: <Banking,DEX,Defi,Deployment,Education,Gaming,IDE,Identity,Libraries,Metaverse,Monitoring,Node,NFT,Oracle,Social,Storage,Teal,User Onboarding,Wallet, Other>
-open_source: <Yes, No>
-funding_type: <Proactive, Retroactive>
-amount_requested: <Amount (integer) requested in ALGO, it should be at least 10000>
-delivery_date: <project delivery date, in ISO 8601 (yyyy-mm-dd) format>
-status: <Draft, Final, Approved>
+period: 4
+title: TealCraft - Remix-like IDE for TealScript
+author: Shivaprasad Manupadi (@shivamanupadi)FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+email: shivaprasadmanupadi@gmail.com
+discussions-to: https://forum.algorand.org/t/xgov-196-tealcraft-remix-like-ide-for-tealscript/11845
+company_name: TealCraft
+category: Tools
+focus_area: DevTools
+open_source: Yes
+funding_type: Retroactive
+amount_requested: 175000
+delivery_date: 2024-04-01
+status: Final
 ---
 
->Proposals that do not include information on all template sections will be rejected.
->Please, before submitting the grant proposal, review the contract template and ensure you're comfortable with its terms.  <a href="https://drive.google.com/file/d/1dsKwQGhnS3h_PrSkoidhnvqlX7soLpZ-/view">Contract Template</a> 
-
 ## Abstract
-A summary of the project, including how the Algorand ecosystem would benefit  (proactive)/ has benefitted (retroactive) from its implementation.
+Remix-like web IDE to write, compile, test, and deploy smart contracts on Algorand using TealScript.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+Shivaprasad - Developer
+- 10 years of experience in building web applications.
+- Core expertise in TypeScript.
 
 ## Experience with Algorand
-Details about the team's experience with the Algorand protocol and any previous projects built on it.
-> eg
-    > Using SDKs 
-    > Building applications
-    > Understanding of DApps
-    > Knowledge about the ecosystem
-    > Running nodes
+
+Developer of AlgoDesk, DappFlow, and PixelNode, contributing to the Algorand ecosystem over the past 2 years.
 
 ## Present Proposal
-A detailed plan for the development and implementation of the proposal.
 
-To enhance clarity and accountability, we're asking proposers to detail the maintenance period, availability, and sustainability plans for their projects. This includes information on potential costs and the duration for which services will be offered at no or reduced cost
+TealCraft IDE is a pioneering web-based development environment tailored for TealScript on the Algorand blockchain, akin to Remix for Solidity. 
+With a focus on accessibility, efficiency, and collaboration, TealCraft IDE eliminates the need for extensive setup, requiring only a web browser such as Chrome.
 
-### Deliverable
-Proposals must include clear, non-technical descriptions of deliverables. We encourage the use of multimedia (blog/video) to help explain your proposal's benefits to the community. 
+Why TealCraft IDE?
 
-Proposals that do not specify deliverables and a process to check deliverables will be rejected.
+**Zero Setup, Seamless Workflow:**
+No installations, no complications. TealCraft IDE ensures a hassle-free experience - just open Chrome, and you're ready to write, compile, deploy, and test your TealScript contracts.
 
-## Future Blueprint
-> This part can be optional for one-time grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
+**Intuitive and Collaborative Development:**
+TealCraft IDE boasts a user-friendly interface supporting complete TealScript IntelliSense. The workflow is streamlined, enabling developers to effortlessly create, manage, and share workspaces with a single click.
 
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
+**Instant Sharing:**
+Share your TealScript contracts effortlessly. TealCraft IDE simplifies collaboration by allowing developers to share contracts and workspaces through straightforward URL sharing.
+
+**Onboarding Simplicity:**
+Facilitate the onboarding process for new developers with an easy-to-use interface. TealCraft IDE aims to make the Algorand ecosystem accessible to developers of all skill levels.
+
+**Key Features:**
+
+**Workspace Management:**
+
+Create, delete, and switch between workspaces effortlessly.
+
+**TealScript Contracts:**
+
+Create, import, delete, and rename TealScript contracts with ease.
+
+**IntelliSense Support:**
+
+TealScript Typings support for IntelliSense, enhancing code completions and suggestions.
+
+**Demo Workspace:**
+
+A pre-configured workspace for developers to import and kick-start their journey.
+
+**Compilation and Error Handling:**
+
+Compile TealScript contracts and provide clear error messages on compilation failure.
+
+**Output Console:**
+
+    1. ABI - Display ABI with easy-to-understand UI. List of methods, expand each method, and view the details.
+    2. App spec- View & download the App spec
+    3. Programs - View & download approval, clear programs.
+    4. Schema - View Global & state schema
+    5. TSClient - Generate TS client and download.
+    6. Download the source map file
+
+**Shareable URLs:**
+
+Generate shareable URLs for easy contract and workspace sharing.
+
+**Browser Storage:**
+
+The initial version stores workspaces and contracts in the browser itself, providing flexibility for developers.
+
+**Export and Import:**
+
+Effortlessly export and import workspaces/contracts between browsers.
+
+
 
 ## Benefits for the community
-A description of the potential benefits that the proposal could bring to the Algorand community and its users.
+
+    1. Onboarding new developers is as simple as just sharing a simple workspace URL containing the contract. instead of asking them to set up everything.
+    2. The ability to share contracts and workspaces with a simple URL makes it easy to collaborate.
+    3. Are you trying to invoke someone else's contract? TealCraft makes it easy to understand the application structure like methods(), states etc...
 
 ## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
+<a href="https://tealcraft.org" target="_blank" >TealCraft</a>
