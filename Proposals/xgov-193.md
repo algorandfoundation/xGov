@@ -1,15 +1,15 @@
 ---
 id: 193
-period: 3
+period: 4
 title: Ghetto Pigeons Warzones Game Integration and Expansion
-author: Declan O'callahan <@declanocallahan6@gmail.com> 
+author: Declan O'callahan <declanocallahan6@gmail.com>, decanabis (@decanabis)
 email: ghettopigeons@gmail.com
 discussions-to: https://github.com/algorandfoundation/xGov/pull/193
 company_name: Ghetto Pigeons
-category: Gaming, NFT, Community, Play-to-Earn
-focus_area: Gaming, NFT, User Onboarding
+category: Other
+focus_area: Gaming
 open_source: No
-funding_type: proactive
+funding_type: Proactive
 amount_requested: 100000
 delivery_date: 2024-09-30
 status: Draft
