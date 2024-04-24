@@ -7,7 +7,7 @@ email: jsomerville@piphi.network
 discussions-to: https://forum.algorand.org/t/xgov-188-piphi-network-submission/11807
 company_name: PiPhi Network
 category: Other
-focus_area: Environmental Monitoring, Software, Developers
+focus_area: Other
 open_source: No
 funding_type: Proactive
 amount_requested: 645833
