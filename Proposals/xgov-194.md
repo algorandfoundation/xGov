@@ -2,15 +2,15 @@
 id: 194
 period: 4
 title: Gunny Rush new features and improvements
-author: Aquiles Benitez <aquiles@gunnygames.com>, Sebastian Moncada <sebastian@gunnygames.com> and (@sebas6612)
+author: Aquiles Benitez <aquiles@gunnygames.com>, Sebastian Moncada <sebastian@gunnygames.com>, sebas6612 (@sebas6612)
 email: aquiles@gunnygames.com
 discussions-to: <Indicating the URL where the proposal is being discussed>
 company_name: Gunny Games
-category: dApps, Community, Other
-focus_area: Gaming, NFT, Social, User Onboarding
+category: Other
+focus_area: Gaming
 open_source: No
 funding_type: Proactive
-amount_requested: 120000 ALGO
+amount_requested: 120000
 delivery_date: <project delivery date, in ISO 8601 (yyyy-mm-dd) format>
 status: Draft
 ---
