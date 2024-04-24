@@ -1,5 +1,5 @@
 ---
-id: <proposal number (same as PR)>
+id: 196
 period: <Period number (Integer) (When do you want to submit your proposal)>
 title: <The proposal title is a few words, not a complete sentence>
 author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
