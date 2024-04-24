@@ -3,7 +3,7 @@ id: 197
 period: 4
 title: CompX - xUSD -> COMPX Staking 
 author: Kieran Nelson (@xxiled-plastic-cat)
-discussions-to: https://github.com/algorandfoundation/xGov/pull/197
+discussions-to: https://forum.algorand.org/t/xgov-197-compx-xusd-compx-staking/11849
 company_name: CompX Labs
 category: dApps
 focus_area: DeFi
