@@ -132,6 +132,6 @@ In a groundbreaking initiative aimed at further enriching our community experien
 Users would be airdropped rewards of diverse ASA tokens simply for their loyalty and engagement. Picture a scenario where any Algorand project can seamlessly list their token and reward token, effortlessly implementing soft staking. For instance, users could receive a predetermined allocation of RWA tokens for every Coo token in their wallet every week. This symbiotic relationship between projects and users not only fosters loyalty but also cultivates a thriving ecosystem built on reciprocity and mutual benefit.
 
 ## Additional information
- - Website: <a href="https://warzones.ghettopigeon.com" target="_blank" >Visit our Website</a>
+ - Website: <a href="https://ghettopigeon.com" target="_blank" >Visit our Website</a>
  - Discord: <a href="https://discord.com/invite/zS44EyHF" target="_blank" >Join Our Discord</a>
  - Twitter: <a href="https://twitter.com/Ghettopigeons" target="_blank" >Follow us on Twitter</a>
