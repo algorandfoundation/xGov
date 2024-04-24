@@ -3,6 +3,7 @@ id: 197
 period: 4
 title: CompX - Auto-Compounding Farms
 author: Kieran Nelson (@xxiled-plastic-cat)
+email: kieran@compx.io
 discussions-to: 
 company_name: CompX Labs
 category: dApps
