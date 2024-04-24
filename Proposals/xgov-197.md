@@ -1,22 +1,24 @@
 ---
-id: 148
+id: 197
 period: 3
-title: CompX - CoinTracker+
+title: CompX - xUSD -> COMPX Staking 
 author: @xxiled-plastic-cat for CompXLabs
-discussions-to: https://github.com/algorandfoundation/xGov/pull/148
+discussions-to: https://github.com/algorandfoundation/xGov/pull/197
 company_name: CompX Labs
 category: dApps
 focus_area: Tools
 open_source: TBD
-amount_requested: 30000
+amount_requested: 50000
 status: Draft
 ---
 
 ## Abstract
-A brief overview of the proposal and its main objectives.
+Creation of an xUSD -> COMPX staking contract whichc will allow xbacked users to gain a position within CompX and accumulate what will become the governance token for the CompX platform - that xBacked is now part of.
+Secondly, this staking contract would give users additional reasons to use and hold their xUSD which will ultimatly help toward maintaining the soft USD peg for xUSD.
 
 ## Team
-Information about the team members and their qualifications, including relevant experience and skills.
+Kieran Nelson  - CEO/Founder at CompXLabs
+Akingbesote Jesulonimi - Founder / Lead smart contract developer
 
 ## Experience with Algorand
 Details about the team's experience with the Algorand protocol and any previous projects built on it.
