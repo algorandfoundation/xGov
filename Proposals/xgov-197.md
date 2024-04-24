@@ -17,7 +17,7 @@ status: Final
 
 ## Abstract
 
-Creation of an xUSD -> COMPX staking contract whichc will allow xbacked users to gain a position within CompX and accumulate what will become the governance token for the CompX platform - that xBacked is now part of.
+Creation of an xUSD -> COMPX staking contract which will allow xbacked users to gain a position within CompX and accumulate what will become the governance token for the CompX platform - that xBacked is now part of.
 Secondly, this staking contract would give users additional reasons to use and hold their xUSD which will ultimatly help toward maintaining the soft USD peg for xUSD.
 
 ## Team
