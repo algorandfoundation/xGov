@@ -1,7 +1,7 @@
 ---
 id: 193
 period: 4
-title: Ghetto Pigeons Warzones Game Integration and Expansion
+title: xGov-193-Ghetto Pigeons Warzones Game Integration and Expansion
 author: Declan O'callahan <declanocallahan6@gmail.com>, decanabis (@decanabis)
 email: ghettopigeons@gmail.com
 discussions-to: https://github.com/algorandfoundation/xGov/pull/193
@@ -89,9 +89,9 @@ In our commitment to accessibility, we are diligently working towards launching 
 Acknowledging the diverse preferences of our gaming community, we are crafting Pigeon Puffs, a delightful spin-off project tailored for casual gamers. Embracing the simplicity of classic 2D games like Bounce, Super Mario, and Doodle Jump, Pigeon Puffs offers a charming retreat for those seeking a more relaxed gaming environment within the beloved pigeon-themed universe.
 
 ### Deliverable
-To ensure a steady stream of excitement and continuous improvement, we will be rolling out the new features every month. Each feature release will be well-documented and accompanied by demonstrative videos to provide our users with a clear understanding of the enhancements and how they contribute to the overall gaming experience.
+To ensure a steady stream of excitement and continuous improvement, we will be rolling out the new features every month. Each feature release will be well-documented and accompanied by demonstrative videos to provide our users with a clear understanding of the enhancements and how they contribute to the overall gaming experience.  
 
-Our commitment to transparency is reflected in our approach to tracking progress and deliverables:
+Our commitment to transparency is reflected in our approach to tracking progress and deliverables: <a href="https://www.linkedin.com/in/emmanuel-agbavwe/" target="_blank">Ghetto Pigeons: Roadmap</a>
 
 #### Monthly Feature Releases 
 New enhancements will be introduced each month, keeping the community engaged and the gameplay experience fresh.
