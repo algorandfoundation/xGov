@@ -44,6 +44,7 @@ AWallet has many features that other wallets does not have:
 - Multiaccount operations - generate many algorand accounts, send to multiple accounts, send from multiple accounts, ..
 - SWAP - Person can use different DEX aggregators quotes and exucute at better price
 - ARC14 support - Authorization
+- ARC26 support - QR Payments
 - ARC76 support - Email & Password accounts
 - ARC200 Payments - Smart contract tokens
 - Payment gateway
