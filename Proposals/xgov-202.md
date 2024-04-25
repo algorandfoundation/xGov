@@ -1,13 +1,14 @@
 ---
-id: 171
+id: 202
 period: 4
 title: Pact.fi Retroactive Stableswaps
-author: Andrew Kotulak
+author: Andrew Kotulak (@temptemp3)
+email: "TODO: Please add you email for the contract here"
 discussions-to: https://forum.algorand.org/t/xgov-202-pact-stableswap-retroactive-grant/11859
 company_name: Pact
 category: dApps
 focus_area: Dex
-open_source: Yes (upon approval)
+open_source: Yes
 funding_type: Retroactive
 amount_requested: 135000
 delivery_date: 2024-04-24
@@ -33,6 +34,12 @@ This proposal is for retroactive funding for Pacts StableSwap Pools. StableSwaps
 
 Stable swaps are a type of cryptocurrency exchange mechanism designed primarily for trading between stablecoins or other assets with low price volatility. They were first introduced by the protocol Curve Finance. The primary aim of stable swaps is to allow users to trade between different stablecoins (like USD Coin, Tether, Dai, etc.) efficiently, with minimal slippage and lower fees compared to traditional exchange mechanisms used for more volatile cryptocurrencies.
 
+### Deliverable
+TODO: complete this part
+Proposals must include clear, non-technical descriptions of deliverables. We encourage the use of multimedia (blog/video) to help explain your proposal's benefits to the community.
+
+Proposals that do not specify deliverables and a process to check deliverables will be rejected.
+
 ## Benefits for the community
 
 **Increased Awareness to Algorand & Pact**:
@@ -50,6 +57,6 @@ Focused on Stablecoins: While traditional AMMs can handle a wide range of crypto
 
 ## Additional information
 
-[pact.fi](https://www.pact.fi/)  
+<a href="https://www.pact.fi/">pact.fi</a> 
 Pact | The home of liquidity on Algorand 1  
 Low cost, fast swaps on Algorand’s secure network.
