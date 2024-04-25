@@ -4,7 +4,7 @@ period: 4
 title: Cosmic Champs P2E game - RETROACTIVE
 author: Cosmic Champs (@madshapes-dev)
 email: simon@madshapes.com
-discussions-to: 
+discussions-to: https://forum.algorand.org/t/xgov-205-cosmic-champs-p2e-game-retroactive/11863
 company_name: Cosmic Champs International Limited
 category: Community
 focus_area: Gaming
