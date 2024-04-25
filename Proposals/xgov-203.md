@@ -3,7 +3,7 @@ id: 203
 period: 4
 title: Everyone Launchpad Security Audit
 author: Jesco Brandt (@heartberg), Mark Crae (@dolphinkitty)
-email: admin@everyone.space
+email: hi@everyone.space
 discussions-to: <Indicating the URL where the proposal is being discussed>
 company_name: Everyone
 category: dApps
@@ -102,6 +102,10 @@ Delivery can be checked by performing the necessary steps within the launchpad a
 
 Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May). And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet, around the time that voting commences on 13 May.
 
+## Future Blueprint
+#### Project Longevity
+We are committed to the long-term development of the Everyone platform. We will continuously add new features, expand to support adjacent use cases, and ensure the platform’s economic sustainability.
+
 ## Benefits for the community
 Key benefits
 - Provide a new and critically needed funding mechanism for developers, teams and projects within the Algorand ecosystem.
@@ -109,3 +113,6 @@ Key benefits
 - Promote an accessible, secure, more transparent, and inclusive launchpad participation process. We are not planning to release a utility token for the launchpad, therefor there - will be no whales that receive preferential access. We want to ensure a broad distribution of tokens from each launch to aid the long term sustainability of each launched projects
 - The launchpad fills a key missing component within the Algorand ecosystem that inhibits adoption by new developers and projects.
 - As the launchpad is where new projects present themselves, it acts as a key entry point for new users to Agorand. Consequently. we are building the product with a high user-experience to ensure that users receive a good impression of what the Algorand ecosystem has to offer.
+
+## Additional Info
+We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in the launchpad or partnerships can contact us at: hi@everyone.space
