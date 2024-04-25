@@ -4,7 +4,7 @@ period: 4
 title: Everyone Launchpad Security Audit
 author: Jesco Brandt (@heartberg), Mark Crae (@dolphinkitty)
 email: hi@everyone.space
-discussions-to: <Indicating the URL where the proposal is being discussed>
+discussions-to: https://forum.algorand.org/t/xgov-204-everyone-launchpad-security-audit/11870
 company_name: Everyone
 category: dApps
 focus_area: Defi
@@ -115,5 +115,5 @@ Key benefits
 - The launchpad fills a key missing component within the Algorand ecosystem that inhibits adoption by new developers and projects.
 - As the launchpad is where new projects present themselves, it acts as a key entry point for new users to Agorand. Consequently. we are building the product with a high user-experience to ensure that users receive a good impression of what the Algorand ecosystem has to offer.
 
-## Additional Info
+## Additional information
 We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in the launchpad or partnerships can contact us at: hi@everyone.space
