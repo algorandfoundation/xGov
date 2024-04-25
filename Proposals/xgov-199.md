@@ -4,7 +4,7 @@ period: 4
 title: AWallet - Retroactive
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 email: xgov199@asa.gold
-discussions-to: https://forum.algorand.org/t/xgov-203-warn-scam-bot-retroactive-txn-fees-on-chain-scam-warnings/11857
+discussions-to: https://forum.algorand.org/t/xgov-199-awallet-retroactive/11866
 company_name: Scholtz & Co
 category: Tools
 focus_area: User Onboarding
