@@ -1,5 +1,5 @@
 ---
-id: 203
+id: 204
 period: 4
 title: Everyone Launchpad Security Audit
 author: Jesco Brandt (@heartberg), Mark Crae (@dolphinkitty)
@@ -30,12 +30,13 @@ By providing a reliable and user-friendly funding platform, the Everyone launchp
 
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
+
 Jesco Brandt (@heartberg)
-** Full Stack Engineer with 5+ years of professional experience
-** GitHub: heartberg (Everyone) · GitHub 3
+- Full Stack Engineer with 5+ years of professional experience
+- GitHub: heartberg (Everyone)
 
 Mark Crae (@dolphinkitty)
-** Product Manager / Designer with 10+ years of experience
+- Product Manager / Designer with 10+ years of experience
 
 ## Experience with Algorand
 Jesco has been actively developing Algorand based projects for >3 years. In this time he has created ~20 PyTeal and Python smart contracts, and multiple Front / Back ends to support this. These smart contracts cover a wide range of application types, including staking, vesting, trading, and more.
