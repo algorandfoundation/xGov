@@ -21,21 +21,21 @@ Retroactive & fee funding request for the WARN..SCAM bot. It has been "dusting" 
 
 ## Team
 
-- Bit D13
-Smart contract/dApp/web developer &amp; whitehat hacker.
+- Bit D13: Smart contract/dApp/web developer &amp; whitehat hacker
 
 ## Experience with Algorand
 Smart contract & dApps:
 
+- <a href="https://github.com/CupStakes/cupstakes-smart-contracts/">CupStakes - 2022 World Cup VRF Lottery Sweepstakes</a>
 - <a href="https://d13.co/posts/implementing-on-chain-vrf-shuffle-for-exa-lootbox-reveals/">EXA Market Lootbox Reveal VRF shuffle</a>
 - <a href="https://docs.voi.green/">dVOI Liquid staking derivative</a>
-- etc, see CV
+- see CV for full list
 
 Web 2.5 sites:
 
 - <a href="https://flow.algo.surf/">Flow algo surf</a>
 - <a href="https://pixel.pyreneespack.com/">Pixel Pups NFT Upgrade site</a>
-- etc, see CV
+- see CV for full list
 
 Whitehat work:
 
@@ -45,14 +45,14 @@ Whitehat work:
 Community work:
 
 - <a href="https://d13.co/algorand-20-02-2023-thefts-preliminary-advisory-report/">MyAlgo hack: started/led community side of investigation</a>
-- Guides, on-chain load testing, data visualizations, etc. on my <a href=""https://d13.co>site</a> and <a href="https://x.com/d13_co">X account</a>
-- WARN..SCAM &lt;- you are here
+- Guides, load testing, data analysis,  etc. on my <a href="https://d13.co">site</a> and <a href="https://x.com/d13_co">X account</a>
+- WARN..SCAM bot
 
 <a href="https://docs.google.com/document/d/1XMQ-4RzkK_BCcLlg77kA7Dk_c3JyWgfB2NtnBpN9oH0">Full CV here</a>.
 
 ## Present Proposal
 
-Since October 2022, <a href="https://allo.info/WARN666I6ITOTBIFMYOOYDAT2JA63QQO2Y6MJCNER5YAF4L6MQO7W6SCAM">WARN..SCAM</a> (and its <a href="https://allo.info/account/ALERTFAKEKMGANB2VGCH5FWTDGVUEOX4C4DV2WFIERWFWSFBPX6FS2KALE/txns/">predecessor</a>) have delivered <a href="https://flow.algo.surf/address/WARN666I6ITOTBIFMYOOYDAT2JA63QQO2Y6MJCNER5YAF4L6MQO7W6SCAM">5,244,514 warning transactions</a> to 319,416 addresses (current as of April 25th, 2024.)
+Since October 2022, <a href="https://allo.info/account/WARN666I6ITOTBIFMYOOYDAT2JA63QQO2Y6MJCNER5YAF4L6MQO7W6SCAM">WARN..SCAM</a> has delivered <a href="https://flow.algo.surf/address/WARN666I6ITOTBIFMYOOYDAT2JA63QQO2Y6MJCNER5YAF4L6MQO7W6SCAM">5,244,514 warning transactions</a> to 319,416 addresses (current as of April 25th, 2024.)
 
 Three types of warning notes are sent:
 
@@ -62,7 +62,9 @@ Three types of warning notes are sent:
 
 The few legitimate projects that do send links in transaction notes are excluded with a manually curated list.
 
-WARN..SCAM runs through my private network of nodes through a highly available load balancer. The most transactions per hour was recorded on March 27th, 2024: approx. 62,000 sent between 4 and 5 AM UTC.
+WARN..SCAM runs through my private network of nodes through a highly available load balancer. The most transactions per hour were recorded on March 27th, 2024: approx. 62,000 sent between 4 and 5 AM UTC.
+
+The transaction fees so far have been mostly funded by individual community members who responded to a call for donations after the funds I provided were depleted.
 
 ### Deliverable
 
@@ -72,7 +74,7 @@ Of the requested amount, 10,000 ALGO will be allocated to the WARN..SCAM bot acc
 
 The proposal does not include open-sourcing the code, as that would provide a blueprint for scammers to evade it.
 
-I intend to keep running the bot as long as it is funded. If I am unable to do so, I will either find an alternative operator or open source it.
+I intend to keep running the bot as long as it is funded. If I am unable to do so, I will either find an alternative operator to continue, or open source the code.
 
 ## Future Blueprint
 
@@ -88,7 +90,7 @@ While I intend to pursue this approach and test its viability, **this is not a m
 
 Scam prevention & education.
 
-By following transactions with links and issuing warning transactions, WARN..SCAM hopes to warn and educate Algorand users about the nature of specific scam links, and generally about following links from transaction notes, wherever they may happen to view these transactions: wallets, explorers, etc.
+By following transactions with links and issuing warning transactions, WARN..SCAM hopes to warn and educate Algorand users about the nature of specific scam links, and generally about following links from transaction notes, wherever the users may happen to view these transactions: wallets, explorers, etc.
 
 ## Additional information
 
