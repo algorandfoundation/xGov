@@ -4,7 +4,7 @@ period: 4
 title: Biatec - Onchain identity
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
 email: xgov200@asa.gold
-discussions-to: https://forum.algorand.org/t/xgov-199-awallet-retroactive/11866
+discussions-to: https://forum.algorand.org/t/xgov-200-biatec-identity/11871
 company_name: Scholtz & Co
 category: dApps
 focus_area: Identity
