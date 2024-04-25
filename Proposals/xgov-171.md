@@ -3,7 +3,7 @@ id: 171
 period: 4
 title: Pact.fi Retroactive Stableswaps
 author: Andrew Kotulak
-discussions-to: <https://github.com/algorandfoundation/xGov/pull/202>
+discussions-to: https://forum.algorand.org/t/xgov-202-pact-stableswap-retroactive-grant/11859
 company_name: Pact
 category: dApps
 focus_area: Dex
