@@ -35,7 +35,7 @@ Nimi - 2 years experience working with xBacked create smart contracts, front end
 The staking contracts for xUSD were previously made and audited however these were written in Reach.sh and are not upgradable and the limited expereince of Reach in the ecosystem makes them difficult to maintain. We will be re-writing these contracts in Tealish as this is Nimi's preferred SC language to use.
 
 See the video below for more info:
-[xUSD Staking Explained](https://youtu.be/slxuiTNG6BY)
+<a href="https://youtu.be/slxuiTNG6BY">xUSD Staking Explained</a>
 
 ### Technical specifications
 
