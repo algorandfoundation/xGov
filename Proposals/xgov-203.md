@@ -78,13 +78,13 @@ I intend to keep running the bot as long as it is funded. If I am unable to do s
 
 ## Future Blueprint
 
-**This section is strictly informational. The grant request is retroactive and does not promise delivery of these features**.
+**This section is strictly informational. The grant request is retroactive and does not promise delivery of these changes**.
 
 A sustainable future WARN..SCAM bot could utilize Ora mining.
 
 With Algorand's fee pooling feature, the warning transactions could be bundled in an atomic group with an Ora mining transaction. The mining application call would cover the fees for the entire group, and mine some ORA tokens which could then be sold for ALGO to replenish the bot's coffers.
 
-While I intend to pursue this approach and test its viability, **this is not a milestone of the present grant proposal**. It is included as a possible path to follow for building a more sustainable version of the bot.
+While I intend to pursue this approach and test its viability, _**this is not a milestone of the present grant proposal**_. It is included as a possible path to follow for building a more sustainable version of the bot.
 
 ## Benefits for the community
 
