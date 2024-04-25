@@ -9,7 +9,7 @@ company_name: AgorApp LTD
 category: Tools
 focus_area: Education
 open_source: Yes
-funding_type: Retroactive
+funding_type: Proactive
 amount_requested: 30.000
 delivery_date: 2024-06-25
 status: Final
