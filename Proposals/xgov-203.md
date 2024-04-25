@@ -4,14 +4,14 @@ period: 4
 title: WARN..SCAM bot
 author: Bit D13 (@d13co)
 email: bit@d13.co
-discussions-to: 
+discussions-to:
 company_name: D13
 category: Other
 focus_area: Monitoring
 open_source: No
 funding_type: Retroactive
 amount_requested: 36913
-delivery_date: 2023-04-13
+delivery_date: 2022-10-16
 status: Draft
 ---
 
