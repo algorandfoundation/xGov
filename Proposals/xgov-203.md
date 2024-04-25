@@ -90,7 +90,7 @@ While I intend to pursue this approach and test its viability, _**this is not a 
 
 Scam prevention & education.
 
-By following transactions with links and issuing warning transactions, WARN..SCAM hopes to warn and educate Algorand users about the nature of specific scam links, and generally about following links from transaction notes, wherever the users may happen to view these transactions: wallets, explorers, etc.
+By issuing these warning transactions, WARN..SCAM hopes to warn and educate Algorand users about the nature of specific scam links, and generally about following links from transaction notes, wherever the users may happen to view these transactions: wallets, explorers, etc.
 
 ## Additional information
 
