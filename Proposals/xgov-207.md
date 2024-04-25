@@ -3,7 +3,7 @@ id: 207
 period: 3
 title: DigiLeaf Electric Vehicle Chargers
 author: Trenton Austin
-discussions-to: xGov-207:
+discussions-to: https://forum.algorand.org/t/xgov-207-digileaf-electric-vehicle-chargers/11861
 company_name: DigiLeaf Inc.
 category: Infrastructure
 focus_area: Renewable
