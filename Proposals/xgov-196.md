@@ -10,7 +10,7 @@ category: Tools
 focus_area: IDE
 open_source: Yes
 funding_type: Retroactive
-amount_requested: 200000
+amount_requested: 195000
 delivery_date: 2024-04-20
 status: Final
 ---
