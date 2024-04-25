@@ -4,7 +4,7 @@ period: 4
 title: WARN..SCAM bot retroactive & txn fees (on-chain scam warnings)
 author: Bit D13 (@d13co)
 email: bit@d13.co
-discussions-to:
+discussions-to: https://forum.algorand.org/t/xgov-203-warn-scam-bot-retroactive-txn-fees-on-chain-scam-warnings/11857
 company_name: D13
 category: Other
 focus_area: Monitoring
