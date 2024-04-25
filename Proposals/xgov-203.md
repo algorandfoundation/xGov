@@ -1,7 +1,7 @@
 ---
 id: 203
 period: 4
-title: WARN..SCAM bot: retroactive & txn fees
+title: WARN..SCAM bot
 author: Bit D13 (@d13co)
 email: bit@d13.co
 discussions-to: 
