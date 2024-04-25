@@ -6,13 +6,13 @@ author: Jesco Brandt (@heartberg), Mark Crae (@dolphinkitty)
 email: admin@everyone.space
 discussions-to: <Indicating the URL where the proposal is being discussed>
 company_name: Everyone
-category: <dApps, Tools, Community, Other>
-focus_area: <Banking,DEX,Defi,Deployment,Education,Gaming,IDE,Identity,Libraries,Metaverse,Monitoring,Node,NFT,Oracle,Social,Storage,Teal,User Onboarding,Wallet, Other>
-open_source: <Yes, No>
+category: dApps
+focus_area: Defi
+open_source: No
 funding_type: Proactive
-amount_requested: <Amount (integer) requested in ALGO, it should be at least 10000>
+amount_requested: 65000
 delivery_date: 2024-08-30
-status: <Draft, Final, Approved>
+status: Draft
 ---
 
 ## Abstract
@@ -31,7 +31,7 @@ By providing a reliable and user-friendly funding platform, the Everyone launchp
 ## Team
 Information about the team members and their qualifications, including relevant experience and skills.
 Jesco Brandt (@heartberg)
-** Full Stack Engineer with 3 years of professional experience
+** Full Stack Engineer with 5+ years of professional experience
 ** GitHub: heartberg (Everyone) · GitHub 3
 
 Mark Crae (@dolphinkitty)
@@ -102,12 +102,6 @@ Delivery can be checked by performing the necessary steps within the launchpad a
 
 Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May). And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet, around the time that voting commences on 13 May.
 
-## Future Blueprint
-> This part can be optional for one-time grants.
-A high-level plan, defining an overarching strategic objective and capturing the major steps planned for achieving the project at a greater scale.
-
-> For Milestone-based grants, please refer to <a href="https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0034.md#submit-a-proposal"> How to submit a proposal</a>.
-
 ## Benefits for the community
 Key benefits
 - Provide a new and critically needed funding mechanism for developers, teams and projects within the Algorand ecosystem.
@@ -115,8 +109,3 @@ Key benefits
 - Promote an accessible, secure, more transparent, and inclusive launchpad participation process. We are not planning to release a utility token for the launchpad, therefor there - will be no whales that receive preferential access. We want to ensure a broad distribution of tokens from each launch to aid the long term sustainability of each launched projects
 - The launchpad fills a key missing component within the Algorand ecosystem that inhibits adoption by new developers and projects.
 - As the launchpad is where new projects present themselves, it acts as a key entry point for new users to Agorand. Consequently. we are building the product with a high user-experience to ensure that users receive a good impression of what the Algorand ecosystem has to offer.
-
-## Additional information
-Any other relevant details or documentation that the team would like to include in the proposal.
-> To prevent malicious links and allow front-end to display links properly, **External Links** should be in this format `<a href="https://arc.algorand.foundation/">ARC</a>`
-> To create a new tab when people click on your links, you can use `target="_blank"` like this `<a href="https://arc.algorand.foundation/" target="_blank" >ARC</a>`
