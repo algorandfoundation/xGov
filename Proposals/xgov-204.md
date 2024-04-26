@@ -20,11 +20,11 @@ This proposal seeks funding for a security audit of the Everyone launchpad, a co
 
 Engineering work for the v1 launchpad’s smart contracts, front-end interface, and back-end functionality are already complete, and have undergone extensive QA on Testnet. We are not requesting funds for any core development work – this funding request is purely to pay for a security audit.
 
-We have communicated with all reputable audit service providers on Algorand and received multiple price quotes and timelines.
+We have communicated with all reputable Algorand smart contract auditors and received multiple price quotes and timelines.
 
 XGov funding will enable us to immediately proceed with an audit, then go live with the launchpad within weeks.
 
-Once released, the Everyone launchpad will provide critically needed utilities within the Algorand ecosystem to kickstart funding for new Algorand projects.
+Once released, the Everyone launchpad will provide a critically needed utility to kickstart funding for new projects within the Algorsnd ecosystem.
 
 By providing a reliable and user-friendly funding platform, the Everyone launchpad has the potential to significantly accelerate Algorand's adoption, mirroring the success driven by similar launchpads on other blockchains.
 
@@ -48,7 +48,7 @@ Together, Mark and Jesco have been building the Everyone platform (including the
 ## Present Proposal
 The Everyone launchpad will enable any developer, project, or team to mint assets and deploy dedicated token sale contracts on the Algorand blockchain.
 
-The launchpad includes all the necessary launchpad features, but also integrates many additional features that you will not see on other launchpad platforms, for example: token locking, staking, project promotion, and community engagement, etc.
+The launchpad includes all the necessary launchpad features as well as many features not seen in other launchpad platforms, for example: token locking, staking, and community engagement tools.
 Key features include:
 
 ### Accessibility and permissions
@@ -80,7 +80,7 @@ Projects can configure optional token vesting for both team tokens and purchased
 The Vesting dashboard enables users to track their token vesting across multiple project launches. This integrates with portfolio management tools.
 
 ### UX
-On the admin side, the launchpad’s easy to use no-code UX provides a streamlined configuration process. On the user facing side, an intuitive UX enables easy onboard, whitelisting, sale participation, and token claim.
+On the admin side, the launchpad’s easy to use no-code UX provides a streamlined configuration process. On the user facing side, an intuitive UX enables easy onboarding, whitelisting, sale participation, and token claim.
 
 ### Everyone platform
 The launchpad is integrated within the Everyone platform, joining a suite of other user-friendly no-code utilities for the Algorand network.
@@ -99,21 +99,20 @@ The necessary features of the launchpad are already complete and have been exten
 
 Usage of the launchpad on Mainnet will commence once xGov funds are received and the necessary audit has been completed. We believe that reward distribution will occur on 7 July, after which auditors have indicated that they will require approx 3 weeks to complete the audit. Therefor we anticipate that the audit will be complete by 7 Aug, unless any issues need to be addressed. Allowing for all the unknowns, we will aim to have the launchpad operational on Mainnet by 30 Aug.
 
-Delivery can be checked by performing the necessary steps within the launchpad app to configure and run a demo token sale, or the Everyone team would be happy to demonstrate the deliverables via zoom.
+Delivery can be checked by performing the necessary launch configuration steps within the launchpad app to mint a token, deploy a sale contract, and run a live token sale. Or the Everyone team would be happy to walk through the deliverables via zoom.
 
 Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May). And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet, around the time that voting commences on 13 May.
 
 ## Future Blueprint
-#### Project Longevity
 We are committed to the long-term development of the Everyone platform. We will continuously add new features, expand to support adjacent use cases, and ensure the platform’s economic sustainability.
 
 ## Benefits for the community
 Key benefits
 - Provide a new and critically needed funding mechanism for developers, teams and projects within the Algorand ecosystem.
 - Kickstart adoption of Algorand by new developers, teams and projects.
-- Promote an accessible, secure, more transparent, and inclusive launchpad participation process. We are not planning to release a utility token for the launchpad, therefor there - will be no whales that receive preferential access. We want to ensure a broad distribution of tokens from each launch to aid the long term sustainability of each launched projects
+- Promote a secure, transparent, and more inclusive launchpad participation process. We are not planning to release a utility token for the launchpad, therefor there will be no whales that receive preferential access. We want to ensure a broad distribution of tokens from each launch to aid the long term sustainability of each launched projects
 - The launchpad fills a key missing component within the Algorand ecosystem that inhibits adoption by new developers and projects.
-- As the launchpad is where new projects present themselves, it acts as a key entry point for new users to Agorand. Consequently. we are building the product with a high user-experience to ensure that users receive a good impression of what the Algorand ecosystem has to offer.
+- As launchpads are where new projects first present themselves, they act as a key entry point for new users into Agorand. We are building the product with a high quality user-experience to ensure that users receive the best first impression of what the Algorand ecosystem has to offer.
 
 ## Additional information
 We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in the launchpad or partnerships can contact us at: hi@everyone.space
