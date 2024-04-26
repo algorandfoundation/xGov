@@ -9,7 +9,7 @@ category: dApps
 focus_area: Dex
 open_source: No
 amount_requested: 130000
-status: Final
+status: Approved
 ---
 
 ## Abstract
