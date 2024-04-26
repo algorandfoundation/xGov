@@ -16,7 +16,7 @@ status: Final
 ---
 
 ## Abstract
-Remix-like web IDE to write, compile, test, and deploy smart contracts on Algorand using TealScript.
+Remix-like web IDE to write, compile, test deploy, and invoke smart contract calls on Algorand using TealScript.
 
 ## Team
 Shivaprasad - Developer
@@ -38,10 +38,13 @@ Why TealCraft IDE?
 No installations, no complications. TealCraft IDE ensures a hassle-free experience - just open Chrome, and you're ready to write, compile, deploy, and test your TealScript contracts.
 
 **Intuitive and Collaborative Development:**
-TealCraft IDE boasts a user-friendly interface supporting complete TealScript IntelliSense. The workflow is streamlined, enabling developers to effortlessly create, manage, and share workspaces with a single click.
+TealCraft IDE boasts a user-friendly interface supporting complete TealScript IntelliSense. The streamlined workflow enables developers to effortlessly create, manage, and share workspaces with a single click.
 
 **Instant Sharing:**
 Share your TealScript contracts effortlessly. TealCraft IDE simplifies collaboration by allowing developers to share contracts and workspaces through straightforward URL sharing.
+
+**Playground:**
+Not just compiling, you can deploy & interact with your smart contract by invoking its methods. Playground provides an intuitive and easy-to-use user interface to invoke the methods of your contract.
 
 **Onboarding Simplicity:**
 Facilitate the onboarding process for new developers with an easy-to-use interface. TealCraft IDE aims to make the Algorand ecosystem accessible to developers of all skill levels.
@@ -76,6 +79,9 @@ Compile TealScript contracts and provide clear error messages on compilation fai
     4. Schema - View Global & state schema
     5. TSClient - Generate TS client and download.
     6. Download the source map file
+
+**Playground:**
+Once the contract is compiled, You can deploy and interact with your contracts. Local temporary accounts are created and you can instantly dispense Algos to those accounts if your connected network is local-net. Select the method, account, and invoke the contract call with a button click. Boxes and foreign arguments are auto-populated using simulate call without any user inputs. This makes the method invocation flawless and quick.
 
 **Shareable URLs:**
 
