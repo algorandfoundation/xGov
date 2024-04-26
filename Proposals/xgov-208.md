@@ -1,14 +1,17 @@
 ---
-id: 207
+id: 208
 period: 3
 title: DigiLeaf Electric Vehicle Chargers
-author: Trenton Austin
+author: Trenton Austin (@bigbulb)
+email: TODO
 discussions-to: https://forum.algorand.org/t/xgov-207-digileaf-electric-vehicle-chargers/11873
 company_name: DigiLeaf Inc.
-category: Infrastructure
-focus_area: Renewable
+category: Other
+focus_area: Other
 open_source: No
+funding_type: Proactive
 amount_requested: 300000
+delivery_date: 2024-08-01
 status: Final
 ---
 
@@ -56,6 +59,12 @@ Charger Uptime - Connectivity and availability
 ## Present Proposal
 
 DigiLeaf proposes to operate a (4) stall 250 Amp super charger station in Southern California
+
+### Deliverable
+TODO
+Proposals must include clear, non-technical descriptions of deliverables. We encourage the use of multimedia (blog/video) to help explain your proposal's benefits to the community. 
+
+Proposals that do not specify deliverables and a process to check deliverables will be rejected.
 
 ## Future Blueprint
 
