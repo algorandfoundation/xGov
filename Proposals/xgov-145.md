@@ -9,7 +9,7 @@ category: Community
 focus_area: Education
 open_source: No
 amount_requested: 12000
-status: Final
+status: Approved
 ---
 
 ## Abstract
