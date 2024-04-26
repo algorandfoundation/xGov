@@ -2,7 +2,7 @@
 id: 206
 period: 4
 title: Tealscript-interactive-developer-course (agorapp)
-author: Ethan Clime
+author: Ethan Clime (@eclime)
 email: ethan@agorapp.dev
 discussions-to: https://forum.algorand.org/t/ide-integration-course/11872
 company_name: AgorApp LTD
@@ -10,11 +10,11 @@ category: Tools
 focus_area: Education
 open_source: Yes
 funding_type: Proactive
-amount_requested: 30.000
+amount_requested: 30000
 delivery_date: 2024-06-25
 status: Final
 ---
-# Abstract
+## Abstract
 A summary of the project, including how the Algorand ecosystem would benefit from its implementation.
 
 AgorApp is a cutting-edge educational platform, similar to Codecademy, but designed specifically for Web3 chains and protocols. Founded in 2022 and officially launched in the summer of 2023, AgorApp has established strategic partnerships with industry leaders such as Internet Computer Protocol, NEAR, Lisk L1, The Open Network, Solana, Ethereum Swarm, and Massa.
@@ -55,7 +55,7 @@ A detailed plan for the development and implementation of the proposal.
    - Time duration: 1 month
    - Cost: 15,000 ALGO
 
-## Deliverable
+### Deliverable
 Proposals must include clear, non-technical descriptions of deliverables.
 
 **Deliverable: Opensource Tealscript Advanced IDE**
@@ -81,12 +81,12 @@ We are also volunteering with Ludo Scholtz helping organize the Algorand Prague 
 
 [LinkedIn and Meetup Links](#additional-links)
 
-## Links
-- [Riccardo Dal Pio Luogo](https://www.linkedin.com/in/riccardo-dal-pio-luogo-5a7b18192/)
-- [Ethan Clime](https://www.linkedin.com/in/ethan-clime-93a42b89/)
-- [Roman Masek](https://www.linkedin.com/in/romanmasek/)
-- [Jakub Boukal](https://www.linkedin.com/in/boukal/)
-- [Petr Havel](https://www.linkedin.com/in/petr-havel-8b984962/)
-- [Max Marian Acsinia](https://www.linkedin.com/in/max-marian-acsinia-a04008210/)
-- [Meetup Link](https://www.meetup.com/web3-on-chain-dev-meetup-group/events/292148486/?isFirstPublish=true)
-- [Workspace Board](#)
+### Links
+- <a href="https://www.linkedin.com/in/riccardo-dal-pio-luogo-5a7b18192/">Riccardo Dal Pio Luogo</a>
+- <a href="https://wwwinasidebar/>Ethan Clime</a>
+- <a href="https://www.linkedin.com/in/romanmasek/">Roman Masek</a>
+- <a href="https://www.linkedin.com/in/boukal/">Jakub Boukal</a>
+- <a href="https://www.linkedin.com/in/petr-havel-8b984962/">Petr Havel</a>
+- <a href="https://www.linkedin.com/in/max-marian-acsinia-a04008210/">Max Marian Acsinia</a>
+- <a href="https://www.meetup.com/web3-on-chain-dev-meetup-group/events/292148486/?isFirstPublish=true" >Meetup Link</a>
+- <a href="#">Workspace Board</a>
