@@ -9,7 +9,7 @@ category: Community
 focus_area: User Onboarding
 open_source: Yes
 amount_requested: 16000
-status: Final
+status: Approved
 ---
 
 ## Abstract

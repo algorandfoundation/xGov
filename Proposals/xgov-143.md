@@ -9,7 +9,7 @@ category: Community
 focus_area: Other
 open_source: Yes
 amount_requested: 55000
-status: Final
+status: Approved
 ---
 
 ## Abstract
