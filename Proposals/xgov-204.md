@@ -16,7 +16,7 @@ status: Final
 ---
 
 ## Abstract
-This proposal seeks funding for a security audit of the Everyone launchpad, a comprehensive crowdfunding platform enabling developers, teams, and projects to seamlessly mint, sell, and distribute tokens within the Algorand ecosystem.
+This proposal seeks funding for a security audit of the Everyone launchpad, a new crowdfunding platform within the Algorand ecosystem, that enables developers, teams, and projects to seamlessly mint, sell, and distribute tokens.
 
 Engineering work for the v1 launchpad’s smart contracts, front-end interface, and back-end functionality are already complete, and have undergone extensive QA on Testnet. We are not requesting funds for any core development work – this funding request is purely to pay for a security audit.
 
@@ -54,7 +54,8 @@ Key features include:
 ### Accessibility and permissions
 The launchpad support for both permissioned and permissionless tokens sales
 - Initially, we plan to offer permissioned launches to ensure user safety. This approach integrates a (human + AI) review step within the permissionless configuration flow
-- Support for private and public token sales – Flexible whitelisting options enable projects to control who can access and participate in their sale.
+
+Support for private and public token sales – Flexible whitelisting options enable projects to control who can access and participate in their sale.
 - Public sales – enable any user to request whitelisting. Non-whitelisted users can also participate on a FCFS basis
     - Whitelist spots can be purchased or distributed via lottery / FCFS
 - Private sales – enable teams to create their own private whitelist to facilitate invite only participation in token sales
@@ -80,7 +81,7 @@ Projects can configure optional token vesting for both team tokens and purchased
 The Vesting dashboard enables users to track their token vesting across multiple project launches. This integrates with portfolio management tools.
 
 ### UX
-On the admin side, the launchpad’s easy to use no-code UX provides a streamlined configuration process. On the user facing side, an intuitive UX enables easy onboarding, whitelisting, sale participation, and token claim.
+On the admin side, the launchpad’s easy to use no-code UX provides a streamlined configuration process. On the user facing side, an intuitive UX enables easy onboarding, whitelisting, sale participation, token claim, and liquidity pool creation.
 
 ### Everyone platform
 The launchpad is integrated within the Everyone platform, joining a suite of other user-friendly no-code utilities for the Algorand network.
@@ -98,10 +99,12 @@ We are in this for the long haul. We expect the Everyone platform to be around f
 The necessary features of the launchpad are already complete and have been extensively tested, hence we are ready to undertake the security audit. We have shared detailed information regarding our smart contract code with auditors, and have received pricing quotes and timelines.
 
 Usage of the launchpad on Mainnet will commence once xGov funds are received and the necessary audit has been completed. We believe that reward distribution will occur on 7 July, after which auditors have indicated that they will require approx 3 weeks to complete the audit. Therefor we anticipate that the audit will be complete by 7 Aug, unless any issues need to be addressed. Allowing for all the unknowns, we will aim to have the launchpad operational on Mainnet by 30 Aug.
+Once the Mainnet version is live, delivery can be checked by performing the necessary configuration steps within the launchpad app at: [Link will be provided]
 
-Delivery can be checked by performing the necessary launch configuration steps within the launchpad app to mint a token, deploy a sale contract, and run a live token sale. Or the Everyone team would be happy to walk through the deliverables via zoom.
+Or the Everyone team can demonstrate the deliverables via zoom.
 
-Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May). And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet, around the time that voting commences on 13 May.
+Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May) at: [Link will be provided]
+And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet around the time that voting commences on 13 May at: [Link will be provided]
 
 ## Future Blueprint
 We are committed to the long-term development of the Everyone platform. We will continuously add new features, expand to support adjacent use cases, and ensure the platform’s economic sustainability.
@@ -115,4 +118,4 @@ Key benefits
 - As launchpads are where new projects first present themselves, they act as a key entry point for new users into Agorand. We are building the product with a high quality user-experience to ensure that users receive the best first impression of what the Algorand ecosystem has to offer.
 
 ## Additional information
-We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in the launchpad or partnerships can contact us at: hi@everyone.space
+We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in launching or partnering, please contact us at: hi@everyone.space
