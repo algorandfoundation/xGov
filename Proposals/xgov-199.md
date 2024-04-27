@@ -17,7 +17,7 @@ status: Final
 
 ## Abstract
 
-AWallet is one of the most advanced wallets on Algorand. This is retroactive grant for work done done in years 2021 until 2023.
+<a href="https://www.a-wallet.net">AWallet</a> is one of the most advanced wallets on Algorand. This is retroactive grant for work done done in years 2021 until 2023.
 
 ## Team
 
