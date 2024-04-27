@@ -1,5 +1,5 @@
 ---
-id: 199
+id: 200
 period: 4
 title: Biatec - Onchain identity
 author: Everyday Algonaut, Ludo Scholtz (@scholtz)
@@ -10,7 +10,7 @@ category: dApps
 focus_area: Identity
 open_source: Yes
 funding_type: Proactive
-amount_requested: 149999
+amount_requested: 148999
 delivery_date: 2024-12-31
 status: Final
 ---
