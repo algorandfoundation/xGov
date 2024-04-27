@@ -17,7 +17,7 @@ status: Final
 
 ## Abstract
 
-We will build identity solution where users can pair their algorand account, verify their identity and use more services on algorand blockchain.
+<a href="https://www.biatec.io">www.biatec.io</a> - We will build identity solution where users can pair their algorand account, verify their identity and use more services on algorand blockchain.
 
 MiCA and other EU regulations requires independent entity to verify the identity of users, even self custody accounts. 
 
