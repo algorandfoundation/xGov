@@ -12,7 +12,7 @@ open_source: Yes
 funding_type: Proactive
 amount_requested: 84530
 delivery_date: 2024-08-01
-status: Draft
+status: Final
 ---
 
 ## Abstract
@@ -55,6 +55,8 @@ Update the isolated modules wrt updates in the ecosystem.
 4) Airgap has multi-chain presence and code is open-source. This means developers from multiple ecosystem is looking into the code which ensures better security.
 
 5) Access to algorad for more than 20,000 users of airgap.
+
+6) Pera wallet and defly wallet can support sigining transactions via Airgap vault (metamask currently support) which increases security of wallets.
 
 ## Additional information
 
