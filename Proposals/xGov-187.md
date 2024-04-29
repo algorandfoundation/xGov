@@ -4,7 +4,7 @@ period: 4
 title: AlgoMinter - NFT Image Generator
 author: Zachary Minner (@1forh)
 email: zach@skycatchfire.com
-discussions-to: https://github.com/algorandfoundation/xGov/pull/187
+discussions-to: https://forum.algorand.org/t/xgov-187-algominter-nft-image-generator/11841
 company_name: minner.algo
 category: dApps
 focus_area: NFT
