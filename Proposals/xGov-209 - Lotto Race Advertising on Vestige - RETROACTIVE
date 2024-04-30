@@ -1,0 +1,42 @@
+---
+id: 209
+period: 4
+title: Lotto Race Advertising on Vestige - RETROACTIVE
+author: Massimo Morselli (@mmorselli)
+email: massimo@morselli.com
+discussions-to: https://forum.algorand.org/t/xgov-209-lotto-race-advertising-on-vestige-retroactive/11908
+company_name: Massimo Morselli
+category: Community
+focus_area: Gaming
+open_source: No
+funding_type: Retroactive
+amount_requested: 10000
+delivery_date: 2023-11-01
+status: Draft
+---
+
+## Abstract
+LOTTO RACE is a multi-token crypto game. Currently, it consists of two lotteries: a traditional one with a 24-hour draw where users bet against each other, and an instant one where users bet against the computer. The main feature of the game is fairness, with the 24-hour lottery having no house fees, with 100% of what is played returning to the players, while the instant lottery has fees only to fund jackpots and payback (any excess is used for token buybacks). The project has been operational since November 2023, but has remained largely unknown since then, despite efforts to promote it on social networks and among the (small) communities of supported coins. A lottery without users doesn't work, so I'm applying for a grant to fund a long-term Vestige campaign (banner). 
+
+## Team
+LOTTO RACE is written and maintained only by its author
+
+## Experience with Algorand
+The author has combined his knowledge in this project (Using SDKs, Building applications, Understanding of DApps, Knowledge about the ecosystem, Running nodes, Managing communities)
+
+## Present Proposal
+LOTTO RACE is a multi-token crypto game. Currently, it consists of two lotteries: a traditional one with a 24-hour draw where users bet against each other, and an instant one where users bet against the computer. Although it has its native token (LOTTOR), the game is open to any Algorand ASA that can ensure a decent number of players, currently supporting 6 coins. The main feature of the game is fairness, with the 24-hour lottery having no house fees, with 100% of what is played returning to the players, while the instant lottery has fees only to fund jackpots and payback (any excess is used for token buybacks). The project has been operational since November 2023, but has remained largely unknown since then, despite efforts to promote it on social networks and among the (small) communities of supported coins. A lottery without users doesn't work, so I'm applying for a grant to fund a long-term Vestige campaign (banner). The requested amount should finance at least 300 days of visibility, probably divided into shorter periods with pauses to maximize the outcome. 100% of the grant will be paid to Vestige, so the contribution will not only benefit this project but also one of the best Algorand projects.
+
+
+### Deliverable
+The game has been running since November 2023 and can be reached at <a href="https://www.lottorace.cloud/" target="_blank">https://www.lottorace.cloud/</a>. 
+
+## Future Blueprint
+If the user base grows in the future, additional games beyond the two currently present will be added. No grants will be required for the development or system maintenance. 
+
+
+## Benefits for the community
+The main benefit for the community is to provide a use case for community coins that often have no use case. Blockchain Gaming are essential to attract users to Algorand as we cannot expect large user bases only from financial applications
+
+## Additional information
+The entire project is described in detail in the website <a href="https://project.lottorace.cloud/" target="_blank">https://project.lottorace.cloud/</a> 
