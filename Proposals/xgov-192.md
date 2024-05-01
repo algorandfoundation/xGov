@@ -119,38 +119,42 @@ Funding Allocation
 
   
 
-Tier 1: Full Funding 
+Tier 1: Full Funding
+Q1 July(24')-September(24') = $27,000 (USD) 17.4%
+Q2 October(24')-December(24') = $35,000 (USD) 22.6%
+Q3 January(25')-March(25') = $46,500(USD) 30%
+Q4 April(25')-June(25') = $46,500(USD) 30%
 
-  
+PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires and marketing initiatives.  
 
-PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires.  
-
-All new hires will be announced via the PiPhi Network Discord announcements channel which notifies the entire community and anyone who has alert following our channel. We also plan on launching a company LinkedIn profile which will display the currently active list of employees for our company.
+All new hires will be announced via the PiPhi Network Discord announcements channel which notifies the entire community and anyone who has alert following our channel. We also plan on launching a company linkedin profile which will display the currently active list of employees for our company.
 
 If approved, these resources will be hired immediately based on full funding plan. If only partial funding plan is granted, Milestone 1 will be completed and announced to our community immediately. However, milestone 2 is expected to take up to 6 months from the time of approval.
   
 Milestone 1:
-Employee 1 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community. 
+Employee 1 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
 
   
 Milestone 2:
-Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. Kelvin Sanyaolu, will be coming on full time to continue developement of software and enhance the transition to an open source platform.
+Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching. Kelvin Sanyaolu, will be coming on full time to continue development of software and enhance the transition to an open source platform. 
 
 
-Tier 2: Partial Funding 
+Tier 2: Partial Funding
+Q1 July(24')-September(24') = $20,010 (USD) 17.4%
+Q2 October(24')-December(24') = $25,990 (USD) 22.6%
+Q3 January(25')-March(25') = $34,500(USD) 30%
+Q4 April(25')-June(25') = $34,500(USD) 30%
 
   
-
-PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs. 
+PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs.
 
   
 Milestone 1:
-Employee 1 ($75,000/Yr): Responsible for customer service, resolving support tickets, and development. Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community. 
+Employee 1 ($75,000/Yr): Responsible for customer service, resolving support tickets, and development. Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
 
 
   
 Milestone 2:
 Employee 2 ($40,000): Responsible for customer service and resolving support tickets. The team will be looking to hire a part-time developer, to assist and continue development of software and enhance the transition to an open source platform.
-
 
 
