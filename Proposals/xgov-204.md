@@ -52,13 +52,11 @@ The launchpad includes all the necessary launchpad features as well as many feat
 Key features include:
 
 ### Accessibility and permissions
-The launchpad support for both permissioned and permissionless tokens sales
-- Initially, we plan to offer permissioned launches to ensure user safety. This approach integrates a (human + AI) review step within the permissionless configuration flow
-
-Support for private and public token sales – Flexible whitelisting options enable projects to control who can access and participate in their sale.
+The launchpad supports for both permissioned (manually reviewed) and permissionless (unreviewed) token sales. This approach makes the launchpad suitable for funding a range of project types including high quality projects and lower quality memecoins – processes have been built to support each scenario in a safe way. For unreviewed launches there are strict constraints on liquidity amounts and handling (enforced by the contract), whereas reviewed launches with doxxed teams are able to retain a larger portion of the sale proceeds for project development.
+The launchpad supports both private and public token sales. Flexible whitelisting options enable projects to control who can access and participate in their sale.
 - Public sales – enable any user to request whitelisting. Non-whitelisted users can also participate on a FCFS basis
     - Whitelist spots can be purchased or distributed via lottery / FCFS
-- Private sales – enable teams to create their own private whitelist to facilitate invite only participation in token sales
+- Private sales – enable teams to create their own private whitelist to facilitate invite only participation in token
 
 ### Target raise / Allocations
 Teams can configure every aspect of their token sale including:
@@ -72,6 +70,13 @@ Teams can define the start time and durations of each phase of the token sale:
 - Token sale phase – whitelisted participants
 - Token sale phase – non-whitelisted participants
 - 2x Allocation phase for all sale participants
+
+### Liquidity pools
+Project teams must configure their liquidity pool including LP token lock duration, prior to the token sale.
+- After a successful sale, all ALGO proceeds remain locked in the token sale contract out of reach of the project team.
+- The Everyone liquidity manager contract creates a liquidity pool via contract calls to the TinyMan API (Support for more DEXs later)
+- Trading pair funds are transferred to the pool
+- The resulting LP tokens are sent back to the liquidity manager contract where they are locked for the defined lock duration
 
 ### Token vesting and claim
 All purchased tokens can be claimed after the sale.
