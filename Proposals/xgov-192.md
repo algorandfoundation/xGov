@@ -115,15 +115,39 @@ https://chibisafe.piphi.network/Q9QBXgJ38Set.png
 Beyond a customizable and centralized smart home visualization platform, cross platform compatibility for hardware distributed projects and partnerships, the Algorand community will benefit from the additional interest of developers. PiPhi Network software is a developer focused incentive framework. Developers are compensated through the PIPHIN token for participating in further development of the Algorand ecosystem and PiPhi network by writing code, adding new sensors, and/or features to the software.  
 
 ## Additional information
-Funding Allocation 
 
-  
+The suggested XGov Injection term will cover a period of 12 months with quarterly injections. // Dates posted presume a July 1st 2024 date as the start of the first quarter.
+ 
+Funding Allocation   
 
 Tier 1: Full Funding
-Q1 July(24')-September(24') = $27,000 (USD) 17.4%
-Q2 October(24')-December(24') = $35,000 (USD) 22.6%
-Q3 January(25')-March(25') = $46,500(USD) 30%
-Q4 April(25')-June(25') = $46,500(USD) 30%
+<table>
+ <tr>
+  <th>Quarter</th>
+  <th>Amount</th>
+  <th>Percentage of total ask</th>
+ </tr>
+ <tr>
+  <td>Q1 July(24')-September(24')</td>
+  <td>$27,000</td>
+  <td>17.4%</td>
+ </tr>
+ <tr>
+  <td>Q2 October(24')-December(24')</td>
+  <td>$35,000</td>
+  <td>22.6%</td>
+ </tr>
+ <tr>
+  <td>January(25')-March(25')</td>
+  <td>$46,500</td>
+  <td>30%</td>
+ </tr>
+ <tr>
+  <td>April(25')-June(25')</td>
+  <td>$46,500</td>
+  <td>30%</td>
+ </tr>
+</table>
 
 PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires and marketing initiatives.  
 
@@ -140,11 +164,33 @@ Employee 2 ($77,500/Yr): Responsible for PiPhi development, coding, testing, err
 
 
 Tier 2: Partial Funding
-Q1 July(24')-September(24') = $20,010 (USD) 17.4%
-Q2 October(24')-December(24') = $25,990 (USD) 22.6%
-Q3 January(25')-March(25') = $34,500(USD) 30%
-Q4 April(25')-June(25') = $34,500(USD) 30%
-
+<table>
+ <tr>
+  <th>Quarter</th>
+  <th>Amount</th>
+  <th>Percentage of total ask</th>
+ </tr>
+ <tr>
+  <td>Q1 July(24')-September(24')</td>
+  <td>$20,010</td>
+  <td>17.4%</td>
+ </tr>
+ <tr>
+  <td>Q2 October(24')-December(24')</td>
+  <td>$25,990</td>
+  <td>22.6%</td>
+ </tr>
+ <tr>
+  <td>January(25')-March(25')</td>
+  <td>$34,500</td>
+  <td>30%</td>
+ </tr>
+ <tr>
+  <td>April(25')-June(25')</td>
+  <td>$34,500</td>
+  <td>30%</td>
+ </tr>
+</table>
   
 PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs.
 
