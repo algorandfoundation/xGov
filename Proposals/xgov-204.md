@@ -52,7 +52,7 @@ The launchpad includes all the necessary launchpad features as well as many feat
 Key features include:
 
 ### Accessibility and permissions
-The launchpad supports for both permissioned (manually reviewed) and permissionless (unreviewed) token sales. This approach makes the launchpad suitable for funding a range of project types including high quality projects and lower quality memecoins – processes have been built to support each scenario in a safe way. For unreviewed launches there are strict constraints on liquidity amounts and handling (enforced by the contract), whereas reviewed launches with doxxed teams are able to retain a larger portion of the sale proceeds for project development.
+The launchpad supports both permissioned (manually reviewed) and permissionless (unreviewed) token sales. This approach makes the launchpad suitable for funding a range of project types including high quality projects and lower quality memecoins. We have implemented processes to ensure the safety of each funding scenario. For unreviewed launches there are strict constraints on liquidity amounts and handling (enforced by the contract), whereas reviewed launches with doxxed teams are able to retain a larger portion of the sale proceeds for project development.
 The launchpad supports both private and public token sales. Flexible whitelisting options enable projects to control who can access and participate in their sale.
 - Public sales – enable any user to request whitelisting. Non-whitelisted users can also participate on a FCFS basis
     - Whitelist spots can be purchased or distributed via lottery / FCFS
@@ -98,7 +98,7 @@ The platform's integrated approach, combining a launchpad with other key apps an
 ### Sustainability and maintenance
 Our goal is to build the launchpad into a sustainable business, however, we acknowledge the current low-level of launch activity on the Algorand network. We believe that by providing a high quality launchpad that the community can get behind, we will be able to generate more launch and funding activity in the months and years ahead. We also assume that other ecosystem expansion drivers will help make a dedicated Algorand launchpad a viable business / utility.
 
-We are in this for the long haul. We expect the Everyone platform to be around for many years, even in a worst case scenario we will keep the platform running fully maintained for multiple years.
+We are in this for the long haul and expect the Everyone platform to be fully maintained for many years to come. In a worst case scenario where we are forced to sunset the project, we commit to open-sourcing all code within the audited contract.
 
 ### Deliverable
 The necessary features of the launchpad are already complete and have been extensively tested, hence we are ready to undertake the security audit. We have shared detailed information regarding our smart contract code with auditors, and have received pricing quotes and timelines.
