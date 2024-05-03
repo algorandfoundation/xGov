@@ -156,7 +156,7 @@ All new hires will be announced via the PiPhi Network Discord announcements chan
 If approved, these resources will be hired immediately based on full funding plan. If only partial funding plan is granted, Milestone 1 will be completed and announced to our community immediately. However, milestone 2 is expected to take up to 6 months from the time of approval.
   
 Milestone 1 - (Q1 July(24')-September(24')) Current Proposal Milestone:
-Employee 1 ($27000/140296 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
+Employee 1 ($27,000/140296 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
 
 Milestone 2 (Q2 October(24')-December(24')):
 Employee 2 ($35,000/181865 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Hire another development resource, to develop on the platform for 3 month contract durations.
@@ -200,7 +200,7 @@ Tier 2: Partial Funding
 PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs.
 
 Milestone 1 - (Q1 July(24')-September(24')) Current Proposal Milestone:
-Employee 1 ($20010/103975 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
+Employee 1 ($20,010/103975 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
 
 Milestone 2 (Q2 October(24')-December(24')):
 Employee 2 ($25,990/135048 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Hire another development resource, to develop on the platform for 3 month contract durations.
