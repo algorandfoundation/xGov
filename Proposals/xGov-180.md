@@ -10,7 +10,7 @@ category: Tools
 focus_area: User Onboarding
 open_source: Yes
 funding_type: Proactive
-amount_requested: 50000
+amount_requested: 75000
 delivery_date: 2024-09-01
 status: Final
 ---
