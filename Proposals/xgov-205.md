@@ -10,13 +10,13 @@ category: Community
 focus_area: Gaming
 open_source: No
 funding_type: Retroactive
-amount_requested: 69420
+amount_requested: 50000
 delivery_date: 2021-01-28
 status: Final
 ---
 
 ## Abstract
-<a href="https://www.youtube.com/watch?v=6tCHmn3vTrU">Video</a> | Cosmic champs is FREE to play, AAA-quality, Action-packed PVP strategy game that combines elements from collectible card games, tower defense and online battle arena! It is available on Android, iOS and Web since 2022. Game was frequenty featured in articles and publications and had presence in wider web3 ecosystem. It has consistently kept high social media score ever since launch - putting gaming on Algorand on the map. We are asking for a retroactive grant for our efforts in building and advertising gaming on Algorand which we firmly believe is yet to shine!
+<a href="https://www.youtube.com/watch?v=6tCHmn3vTrU">Video</a> | Cosmic champs is FREE to play, AAA-quality, Action-packed PVP strategy game that combines elements from collectible card games, tower defense and online battle arena! It is available on Android, iOS and Web since 2022. Game is frequenty featured in articles and publications and has presence in wider web3 ecosystem. It keeps high social media score ever since launch - putting gaming on Algorand on the map. We are asking for a retroactive grant for our efforts in building and providing free game and advancing gaming ecosystem on Algorand! The funds received will be put towards updating our game in preparation for launching the game officially on the google play in Q3.
 
 ## Team
 <a href="https://cosmicchamps.com/#team" target="_blank">https://cosmicchamps.com/#team</a>
@@ -31,7 +31,7 @@ Cosmic champs is FREE to play, AAA-quality, Action-packed PVP strategy game that
 
 Blockchain Gaming will onboard the next big wave of users to Algorand. As one of the oldest and biggest games on algorand we are uniquely positioned to to carry lions share of that influx. To date, we are the only game that supports real time 3d PVP, with authoritative servers (more secure) on Algorand. This increased security and performance - which are both crucial as they implicity represent Algorand itself.
 
-To date we have built and maintaned entire Cosmic champs platform (android + ios + browser game, 4 utility web pages and 2 seasons of innovative fully animated 3d game-ready AR compatibile NFTs) on our own (and VC) funding, we weren't recipient of any of the $8MM+ in grants that were allocated to the "algorand gaming" scene by the AF, yet we can easily be considered benchmark in the space.
+To date we have built and maintaned entire Cosmic champs platform (android + ios + browser game, 4 utility web pages and 2 seasons of innovative fully animated 3d game-ready AR compatibile NFTs). We can easily be considered benchmark in the space with active community and constant social engagement.
 
 This type and scope of secure and performant infrastructure is expensive, and our current active userbase doesn't allow for profitability at this  stage so we are hopefull xgovs will recognize our contribution and value we bring to the ecosystem and will support our endeavours to ensure we remain on top of our game and fully prepared for the upcomming bull - we are commited to support the platform and keep updating and promoting the game and Algorand through 2024.
 
