@@ -12,7 +12,7 @@ open_source: No
 funding_type: Retroactive
 amount_requested: 28000
 delivery_date: 2024-04-01
-status: Draft
+status: Final
 ---
 
 ## Abstract
