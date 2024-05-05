@@ -37,6 +37,7 @@ The AirGap Vault is responsible for secure secret recovery phrase generation and
 
 The AirGap Wallet creates transactions, broadcasts transactions and shows a portfolio overview. The Wallet is installed on your everyday smartphone with network access. The wallet stores public information. The secret recovery phrase is only stored and used in the AirGap Vault, which does not have access to the internet at any time, thus making it inherently more secure than your regular software wallet with internet access.
 
+### Deliverable
 We intend to integrate airgap vault and airgap wallet to algorand via isolated modules. Once integartion is audited and merged by airgap team it can be verified at
 https://github.com/airgap-it/airgap-coin-lib
 
