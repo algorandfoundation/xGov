@@ -66,7 +66,7 @@ The specific improvements we will make with the support of the community are bas
 Constant updates of the application, both for Android and iOS where functions, experience, mechanics, animations and other features of the game will be gradually improved.
 
 #### NOTE:
-in the "delivery date" we put "2024-08-03" because an exact date must be assigned, BUT the deliveries would be gradual in the form of app updates and we estimate 2 months from the end of the xGov 4 voting (2024-06-03) where we will know if we were elected. 
+in the "delivery date" we put "2024-08-03" because an exact date must be assigned, BUT the deliveries would be gradual in the form of app updates and we estimate 2 months from the end of the voting period (2024-06-03) where we will know if we were elected. 
 
 ## Future Blueprint
 We at Gunny Games have great plans and great ideas for the future but the most important thing for us is the community, that's why we will align our direction according to what the community wants or needs, but in the future we want to keep improving both Gunny Rush and Gunny shooter.
