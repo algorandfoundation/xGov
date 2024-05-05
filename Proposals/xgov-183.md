@@ -15,7 +15,7 @@ delivery_date: 2024-12-01
 status: Final
 ---
 
-### Abstract
+## Abstract
 
 The purpose for this grant is building a mechanism for establishing a culture of ethics and compliance for projects on Algorand. 
 The focus for this work will center around U.S. securities compliance, providing new resources for structuring Algorand Standard Assets (ASAs) to ensure regulatory compliance. 
@@ -26,7 +26,7 @@ This software will add value to Algorand by:
 
 This grant is milestone based and this specific proposal is for the completion of milestone 1.
 
-### Team
+## Team
 
 Brian Haney | GitHub @bhaney44
 Brian has the unique expercience necessary to succeed with this project. 
@@ -39,7 +39,7 @@ David is an award winning developer with expertise in systems architecture and e
 Samuel Tosin | GitHub @Samuellyworld
 Sam is a full-stack developer with extensive experience building on Algorand and in Web 3.
 
-### Experience with Algorand
+## Experience with Algorand
 
 We have full stack OSS experience building and managing development of voting software on Algorand.
 
@@ -61,7 +61,7 @@ I am also active in the Algorand Developer Forum and have been participating in 
 
 <a href = "https://forum.algorand.org/u/bhaney44">Brian Haney Algorand Forum</a>
 
-### Present Proposal
+## Present Proposal
 
 Problem Statement:
 Regulatory ambiguity and high costs hinder innovation in decentralized markets.
@@ -105,9 +105,7 @@ The database will be open source and will include data regarding SEC enforcement
 Database, GitHub Repository, OSS Repo, Milestone Report
 Evaluation Metrics: Clean open source database of information.
 
-
-
-### Future Blue Print
+## Future Blueprint
 
 Milestone 2: Research and Development
 Deliverables: Research Paper, GitHub Repository, OSS Repo, OSS License, Milestone Report
@@ -173,7 +171,7 @@ Additionally, establishing partnerships with industry organizations, academic in
 In summary, the future directions for scaling the Choice Coin Compliance software involve a multi-faceted approach that encompasses technological innovation, regulatory expansion, and community engagement. 
 By continually refining the software's capabilities, extending its regulatory coverage, and nurturing a vibrant ecosystem of contributors and users, Choice Coin can position itself as a trusted and indispensable compliance solution for asset creators on the Algorand blockchain and beyond.
 
-### Benefits for the community
+## Benefits for the community
 
 Enhanced Regulatory Compliance: By funding the Choice Coin Compliance AI proposal, the Algorand community can contribute to enhancing regulatory compliance within the ecosystem. 
 The Compliance AI software will provide asset creators on Algorand with automated tools and resources to assess the regulatory status of their digital assets accurately. 
@@ -199,5 +197,5 @@ This will significantly improve the value of ASAs, and ALGO in return.
 Overall, funding the Choice Coin Compliance AI proposal can bring significant benefits to the Algorand community, including enhanced regulatory compliance, increased market access and liquidity, and strengthened reputation and trust. 
 These benefits contribute to the long-term success and sustainability of the Algorand ecosystem, driving broader adoption, innovation, and ecosystem growth.
 
-### Additional information
+## Additional information
 Thank you for your consideration.
