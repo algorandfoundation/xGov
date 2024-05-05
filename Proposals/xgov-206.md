@@ -1,7 +1,7 @@
 ---
 id: 206
 period: 4
-title: Tealscript-interactive-developer-course (agorapp)
+title: Tealscript (and/or PyTeal) interactive developer course (AgorApp)
 author: Ethan Clime (@eclime)
 email: ethan@agorapp.dev
 discussions-to: https://forum.algorand.org/t/ide-integration-course/11872
@@ -15,11 +15,9 @@ delivery_date: 2024-06-25
 status: Final
 ---
 ## Abstract
-A summary of the project, including how the Algorand ecosystem would benefit from its implementation.
+<a href="https://agorapp.dev/" target="_self" rel="noreferrer"> AgorApp</a> is a cutting-edge educational platform, similar to Codecademy, but designed specifically for Web3 chains and protocols. Founded in 2022 and officially launched in the summer of 2023, AgorApp has established strategic partnerships with industry leaders such as Internet Computer Protocol, NEAR, Lisk L1, The Open Network, Solana, Ethereum Swarm, and Massa.
 
-AgorApp is a cutting-edge educational platform, similar to Codecademy, but designed specifically for Web3 chains and protocols. Founded in 2022 and officially launched in the summer of 2023, AgorApp has established strategic partnerships with industry leaders such as Internet Computer Protocol, NEAR, Lisk L1, The Open Network, Solana, Ethereum Swarm, and Massa.
-
-AgorApp has developed the most advanced chain agnostic IDE in Web3 bringing in users from around the world to take our courses and challenges. Through AgorApp, Algorand will get new developers in both Web3 and Web2 from first-hand interactive coding lessons to spark interest for further growth.
+AgorApp has developed the most advanced chain-agnostic IDE in Web3 bringing in users from around the world to take our courses and challenges. Through AgorApp, Algorand will get new developers in both Web3 and Web2 from first-hand interactive coding lessons to spark interest for further growth.
 
 The goal of the project is to integrate the Tealscript language into our IDE and develop a proof of concept course to be displayed in our education catalog. From there, we have the ability to expand on education and create competition challenges for future consideration.
 
@@ -45,15 +43,17 @@ AgorApp’s approach as a team is to enhance our knowledge of top chains in Web3
 ## Present Proposal
 A detailed plan for the development and implementation of the proposal.
 
-1) **Integrate TealScript within IDE Environment**
+1) **Integrate TealScript (or PyTeal) within IDE Environment**
    - Description: Integrating the Tealscript runtime with our infrastructure to run and evaluate user-submitted Algorand smart contracts. Extending IDE to support Tealscript.
    - Time duration: 1 month
    - Cost: 15,000 ALGO
 
-2) **Build your first smart contract in Tealscript (proof-of-concept course)**
+2) **Build your first smart contract in Tealscript (or PyTeal) (proof-of-concept course)**
    - Description: Guiding users through the interactive development of their first Tealscript smart contract.
    - Time duration: 1 month
    - Cost: 15,000 ALGO
+  
+As mentioned above, we are available to adjust the focus of the course based on the community feedback - for instance, if the community values more an interactive coding course on PyTeal, then we are happy to ship it either as a replacement or as a complement to the TealScript course.
 
 ### Deliverable
 Proposals must include clear, non-technical descriptions of deliverables.
@@ -83,10 +83,10 @@ We are also volunteering with Ludo Scholtz helping organize the Algorand Prague 
 
 ### Links
 - <a href="https://www.linkedin.com/in/riccardo-dal-pio-luogo-5a7b18192/">Riccardo Dal Pio Luogo</a>
-- <a href="https://wwwinasidebar/>Ethan Clime</a>
+- <a href="https://wwwinasidebar">Ethan Clime</a>
 - <a href="https://www.linkedin.com/in/romanmasek/">Roman Masek</a>
 - <a href="https://www.linkedin.com/in/boukal/">Jakub Boukal</a>
 - <a href="https://www.linkedin.com/in/petr-havel-8b984962/">Petr Havel</a>
 - <a href="https://www.linkedin.com/in/max-marian-acsinia-a04008210/">Max Marian Acsinia</a>
 - <a href="https://www.meetup.com/web3-on-chain-dev-meetup-group/events/292148486/?isFirstPublish=true" >Meetup Link</a>
-- <a href="#">Workspace Board</a>
+- <a href="https://agorapp.dev/workspace/jobs">Workspace Board</a>
