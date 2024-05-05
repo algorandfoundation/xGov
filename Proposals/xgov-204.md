@@ -101,15 +101,15 @@ Our goal is to build the launchpad into a sustainable business, however, we ackn
 We are in this for the long haul and expect the Everyone platform to be fully maintained for many years to come. In a worst case scenario where we are forced to sunset the project, we commit to open-sourcing all code within the audited contract.
 
 ### Deliverable
-The necessary features of the launchpad are already complete and have been extensively tested, hence we are ready to undertake the security audit. We have shared detailed information regarding our smart contract code with auditors, and have received pricing quotes and timelines.
+The v1 launchpad features are already complete and have been extensively tested, hence we are ready to undertake the security audit. We have shared detailed information regarding our smart contract code with auditors, and have received pricing quotes and timelines.
 
-Usage of the launchpad on Mainnet will commence once xGov funds are received and the necessary audit has been completed. We believe that reward distribution will occur on 7 July, after which auditors have indicated that they will require approx 3 weeks to complete the audit. Therefor we anticipate that the audit will be complete by 7 Aug, unless any issues need to be addressed. Allowing for all the unknowns, we will aim to have the launchpad operational on Mainnet by 30 Aug.
-Once the Mainnet version is live, delivery can be checked by performing the necessary configuration steps within the launchpad app at: [Link will be provided]
+Usage of the launchpad on Mainnet will commence once xGov funds are received and the audit has been completed. We believe that xGov fund distribution will occur on 7 July, after which auditors have indicated that they will require approx 3 weeks to complete the audit. Therefor we anticipate that the audit will be complete by 7 Aug, unless any issues need to be addressed. Allowing for some unknowns, we will aim to have the launchpad operational on Mainnet by 30 Aug. Once the Mainnet version is live, delivery can be checked by performing the necessary steps within the launchpad app at: https://everyone.space
 
 Or the Everyone team can demonstrate the deliverables via zoom.
 
-Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May) at: [Link will be provided]
-And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet around the time that voting commences on 13 May at: [Link will be provided]
+Prior to this, we will begin beta signup for the launchpad app before the session 4 review phase ends (5 May) at: https://beta.everyone.space
+
+And to give governors more insight into the scope and quality of the built product, we will open up access to explore and use the launchpad via Testnet around the time that voting commences on 13 May at: https://everyone.space
 
 ## Future Blueprint
 We are committed to the long-term development of the Everyone platform. We will continuously add new features, expand to support adjacent use cases, and ensure the platform’s economic sustainability.
@@ -123,4 +123,4 @@ Key benefits
 - As launchpads are where new projects first present themselves, they act as a key entry point for new users into Agorand. We are building the product with a high quality user-experience to ensure that users receive the best first impression of what the Algorand ecosystem has to offer.
 
 ## Additional information
-We look forward to collaborating with developers and partners to bring a wider range of Algorand projects to the ecosystem. Projects interested in launching or partnering, please contact us at: hi@everyone.space
+We look forward to collaborating with developers and partners to bring a wide range of new projects to the Algorand ecosystem. Any projects interested in launching or partnering, please contact us at: hi@everyone.space
