@@ -95,6 +95,8 @@ The initial version stores workspaces and contracts in the browser itself, provi
 
 Effortlessly export and import workspaces/contracts between browsers.
 
+### Deliverable
+Web-based TealScript IDE to Write & Compile TealScript contracts without any setup. You can also invoke the smart contract methods using playground.
 
 
 ## Benefits for the community
