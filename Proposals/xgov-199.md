@@ -57,6 +57,28 @@ AWallet has many features that other wallets does not have:
 - AWallet is open source from the start
 - Public docker image
 
+### Past xgov proposals
+
+- xgov-9 was proactive grant to establist the two factor authentication, redisign, and collecting new feedback
+- xgov-90 was proactive grant regarding the scheduled payment
+
+### Repo & Deployment
+
+#### Github repo
+
+http://github.com/scholtz/wallet
+
+#### Most stable deployment
+
+https://www.a-wallet.net - Private onprem K8S cluster run by Scholtz&Co. Docker image released after some time in main branch deployment.
+
+#### Main branch deployments
+
+- https://main.h3.a-wallet.net - Private onprem K8S cluster run by Scholtz&Co
+- https://ww2.a-wallet.net - Built by github and hosted on github pages
+- https://vercel.a-wallet.net - Built and hosted by vercel
+- https://awallet.vercel.app - Built and hosted by vercel on vercel domain
+
 ### Deliverable
 
 We just continue building and supporting the open source algorand. We listen to the issues raised and build new features as they come.
