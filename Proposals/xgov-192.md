@@ -10,7 +10,7 @@ category: Other
 focus_area: Other
 open_source: No
 funding_type: Proactive
-amount_requested: 140296
+amount_requested: 396014
 delivery_date: 2025-04-30
 status: Final
 ---
@@ -118,97 +118,12 @@ Beyond a customizable and centralized smart home visualization platform, cross p
 
 The suggested XGov Injection term will cover a period of 12 months with quarterly injections. // Dates posted presume a July 1st 2024 date as the start of the first quarter.
  
-Funding Allocation   
+Funding Allocation
 
-Tier 1: Full Funding
-<table>
- <tr>
-  <th>Quarter</th>
-  <th>Amount</th>
-  <th>Percentage of total ask</th>
- </tr>
- <tr>
-  <td>Q1 July(24')-September(24')</td>
-  <td>$27,000</td>
-  <td>17.4%</td>
- </tr>
- <tr>
-  <td>Q2 October(24')-December(24')</td>
-  <td>$35,000</td>
-  <td>22.6%</td>
- </tr>
- <tr>
-  <td>January(25')-March(25')</td>
-  <td>$46,500</td>
-  <td>30%</td>
- </tr>
- <tr>
-  <td>April(25')-June(25')</td>
-  <td>$46,500</td>
-  <td>30%</td>
- </tr>
-</table>
+PiPhi requests $77500 (396014 ALGO) in outside funding to support operations and development for the next 3 months. This amount will sustain the development and testing of new sensor integrations and develop additional features such as the remote visualization platform.
 
-PiPhi requests $155,000 (645833 ALGO) in outside funding to support operations and development for the next 12 months. This amount will sustain the salaries of two full-time hires and marketing initiatives.  
+This milestone will be achieved at the time we hire our first salaried employee. 
 
-All new hires will be announced via the PiPhi Network Discord announcements channel which notifies the entire community and anyone who has alert following our channel. We also plan on launching a company linkedin profile which will display the currently active list of employees for our company.
-
-If approved, these resources will be hired immediately based on full funding plan. If only partial funding plan is granted, Milestone 1 will be completed and announced to our community immediately. However, milestone 2 is expected to take up to 6 months from the time of approval.
-  
-Milestone 1 - (Q1 July(24')-September(24')) Current Proposal Milestone:
-Employee 1 ($27,000/140296 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
-
-Milestone 2 (Q2 October(24')-December(24')):
-Employee 2 ($35,000/181865 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Hire another development resource, to develop on the platform for 3 month contract durations.
-
-Milestone 3 (January(25')-March(25')):
-Employee 2 or 3 ($46,500/239023 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Retaining development help or adding more development resources for Milestone duration.
-
-Milestone 4 (January(25')-March(25')):
-Employee 2 or 3 ($46,500/239023 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Retaining development help or adding more development resources for Milestone duration.
-
-
-Tier 2: Partial Funding
-<table>
- <tr>
-  <th>Quarter</th>
-  <th>Amount</th>
-  <th>Percentage of total ask</th>
- </tr>
- <tr>
-  <td>Q1 July(24')-September(24')</td>
-  <td>$20,010</td>
-  <td>17.4%</td>
- </tr>
- <tr>
-  <td>Q2 October(24')-December(24')</td>
-  <td>$25,990</td>
-  <td>22.6%</td>
- </tr>
- <tr>
-  <td>January(25')-March(25')</td>
-  <td>$34,500</td>
-  <td>30%</td>
- </tr>
- <tr>
-  <td>April(25')-June(25')</td>
-  <td>$34,500</td>
-  <td>30%</td>
- </tr>
-</table>
-  
-PiPhi requests $115,000 (479,166 ALGO) in outside funding to support operations for the next 12 months. This amount will sustain the salary of one full-time and one part-time hire. Part-time work is defined as work that does not exceed 20 hours per standard work week. Hourly wage is approximately $38/Hour. Timelines for milestone completion will likely exceed 12 months and be in the range of 16 to 18 months. This could require further cash injections to cover operating and development costs.
-
-Milestone 1 - (Q1 July(24')-September(24')) Current Proposal Milestone:
-Employee 1 ($20,010/103975 algos): Responsible for PiPhi development, coding, testing, error identification and error patching.Justin Somerville, will be coming on full time to help with development of software and initiate the transition to bring the platform to the open source community.
-
-Milestone 2 (Q2 October(24')-December(24')):
-Employee 2 ($25,990/135048 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Hire another development resource, to develop on the platform for 3 month contract durations.
-
-Milestone 3 (January(25')-March(25')):
-Employee 2 or 3 ($34500/179267 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Retaining development help or adding more development resources for Milestone duration.
-
-Milestone 4 (January(25')-March(25')):
-Employee 2 or 3 ($34500/179267 algos): Responsible for PiPhi development, coding, testing, error identification and error patching. Retaining development help or adding more development resources for Milestone duration.
+Employee 1 ($77500/Yr): Responsible for PiPhi development, coding, testing, error identification and error patching.
 
 
