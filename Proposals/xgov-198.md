@@ -30,7 +30,8 @@ Kieran - 2.5 years working in the Algorand ecosystem across Algogator and CompX.
 Nimi - 2 years experience working with xBacked create smart contracts, front end and backend for the platform.
 
 ## Present Proposal
-
+### Deliverable
+Proposals must include clear, non-technical descriptions of deliverables.
 Auto-compounding farms take advantage of the composability of Algorand smart contracts and allow CompX to add a layer on top of Pact.fi farm contracts. This extra layer allows us to offer users the ability to claim, swap and restake their rewards on a frequent basis. This results in higher yields for the user.
 
 ### Technical specifications
