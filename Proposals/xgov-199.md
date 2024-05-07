@@ -59,8 +59,8 @@ AWallet has many features that other wallets does not have:
 
 ### Past xgov proposals
 
-- xGov-9 was proactive grant to establist the two factor authentication, redisign, and collecting new feedback
-- xGov-90 was proactive grant regarding the scheduled payment
+- [xGov-9](https://github.com/algorandfoundation/xGov/pull/9/files) was proactive grant to establist the two factor authentication, redisign, and collecting new feedback
+- [xGov-90](https://github.com/algorandfoundation/xGov/pull/90/files) was proactive grant regarding the scheduled payment
 
 ### Repo & Deployment
 
