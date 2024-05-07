@@ -31,7 +31,8 @@ Kieran - 2.5 years working in the Algorand ecosystem across Algogator and CompX.
 Nimi - 2 years experience working with xBacked create smart contracts, front end and backend for the platform.
 
 ## Present Proposal
-
+### Deliverable
+Proposals must include clear, non-technical descriptions of deliverables.
 The staking contracts for xUSD were previously made and audited however these were written in Reach.sh and are not upgradable and the limited expereince of Reach in the ecosystem makes them difficult to maintain. We will be re-writing these contracts in Tealish as this is Nimi's preferred SC language to use.
 
 See the video below for more info:
