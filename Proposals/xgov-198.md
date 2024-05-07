@@ -4,7 +4,7 @@ period: 4
 title: CompX - Auto-Compounding Farms
 author: Kieran Nelson (@xxiled-plastic-cat)
 email: kieran@compx.io
-discussions-to: 
+discussions-to: https://forum.algorand.org/t/xgov-198-compx-auto-compounding-farms/11850
 company_name: CompX Labs
 category: dApps
 focus_area: Defi
@@ -30,9 +30,12 @@ Kieran - 2.5 years working in the Algorand ecosystem across Algogator and CompX.
 Nimi - 2 years experience working with xBacked create smart contracts, front end and backend for the platform.
 
 ## Present Proposal
-### Deliverable
-Proposals must include clear, non-technical descriptions of deliverables.
+
 Auto-compounding farms take advantage of the composability of Algorand smart contracts and allow CompX to add a layer on top of Pact.fi farm contracts. This extra layer allows us to offer users the ability to claim, swap and restake their rewards on a frequent basis. This results in higher yields for the user.
+
+### Deliverable
+
+Auto-Compounding farms were delivered and went live on 20th November 2023 and currently hold over $1mm of TVL.
 
 ### Technical specifications
 
