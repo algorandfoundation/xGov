@@ -36,8 +36,6 @@ I build dApps using Next.js/TypeScript and I'm very familiar with the JavaScript
 
 ## Present Proposal
 
-Here is a link to the live website: https://www.algominter.art
-
 The Image Generator is the main feature of the app. A user defines "Layers" (ie. Backgrounds, Hats, Accessories) for their project. For each layer, the user can upload as many images as they want to represent different "traits" for that layer.
 
 All of the layer, trait, and image data is stored in a database in the browser's IndexedDB.
@@ -54,6 +52,10 @@ The app is free to test out with limited caps on some features. If the user pays
 - Images are downloadable without a watermark
 - Create more than 5 layers and 10 traits
 - Use alternative images for traits
+
+## Deliverables
+
+Here is a link to the live website: https://www.algominter.art
 
 ## Future Blueprint
 - Implement minting the generated NFTs to TestNet and MainNet directly from the dApp
