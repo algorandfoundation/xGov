@@ -53,7 +53,7 @@ The app is free to test out with limited caps on some features. If the user pays
 - Create more than 5 layers and 10 traits
 - Use alternative images for traits
 
-## Deliverables
+### Deliverables
 
 Here is a link to the live website: https://www.algominter.art
 
