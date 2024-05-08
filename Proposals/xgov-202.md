@@ -36,7 +36,7 @@ Stable swaps are a type of cryptocurrency exchange mechanism designed primarily 
 
 ### Deliverable
 
-* [Open source Stable Swap Pools to Github](https://github.com/pactfi/stable-pools)
+* Open source Stable Swap Pools to Github https://github.com/pactfi/stable-pools
 
 ## Benefits for the community
 
