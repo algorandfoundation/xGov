@@ -72,7 +72,7 @@ Protocol publication - total: (150,000A)
 - Full documentation site
 - NPM package publication
 - Production integrations
-- Deliverables: https://github.com/headline-design/siwa
+- Deliverables: https://github.com/headline-design/avmkit/tree/main/packages/siwa
 
 ## Benefits for the community
 
