@@ -1,6 +1,8 @@
 # xGov Proposals Repository
 This repository contains proposals for the xGov program.
 
+Proposals must be posted on the <a href="https://forum.algorand.org/">Algorand Forum</a> (using tags: Governance and xGov Proposals) and discussed with the community during the review phased. Proposals without a discussion thread WILL NOT be included in the voting session. 
+
 ## Submitting a Proposal
 
 To submit a proposal, a proposer must create a pull request on the repository. 

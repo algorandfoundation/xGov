@@ -1,14 +1,17 @@
 ---
-id: 108
-period: 3
+id: 182
+period: 4
 title: Airgap vault & wallet integration via isolated modules
 author: AP (@Vidhyanandcs)
-discussions-to: https://forum.algorand.org/t/xgov-108-airgap-vault-wallet-integration-via-isolated-modules/11004
+email: vidhyanandcs@gmail.com
+discussions-to: https://forum.algorand.org/t/xgov-182-integrating-algorand-to-airgap-vault-wallet-via-isolated-modules/11818
 company_name: Securecerts Technologies
 category: Tools
 focus_area: Deployment
 open_source: Yes
+funding_type: Proactive
 amount_requested: 84530
+delivery_date: 2024-08-01
 status: Final
 ---
 
@@ -34,7 +37,9 @@ The AirGap Vault is responsible for secure secret recovery phrase generation and
 
 The AirGap Wallet creates transactions, broadcasts transactions and shows a portfolio overview. The Wallet is installed on your everyday smartphone with network access. The wallet stores public information. The secret recovery phrase is only stored and used in the AirGap Vault, which does not have access to the internet at any time, thus making it inherently more secure than your regular software wallet with internet access.
 
-We intend to integrate airgap vault and airgap wallet to algorand via isolated modules.
+### Deliverable
+We intend to integrate airgap vault and airgap wallet to algorand via isolated modules. Once integartion is audited and merged by airgap team it can be verified at
+https://github.com/airgap-it/airgap-coin-lib
 
 ## Future Blueprint
 
@@ -50,6 +55,9 @@ Update the isolated modules wrt updates in the ecosystem.
 
 4) Airgap has multi-chain presence and code is open-source. This means developers from multiple ecosystem is looking into the code which ensures better security.
 
+5) Access to algorad for more than 20,000 users of airgap.
+
+6) Pera wallet and defly wallet can support sigining transactions via Airgap vault (metamask currently support) which increases security of wallets.
 
 ## Additional information
 
