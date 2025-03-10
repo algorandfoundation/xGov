@@ -1,10 +1,10 @@
 ---
 id: 216
-period: 4
+period: 14
 title: Eliza Algorand Integration
 author: Mihail Kirov (@mikirov), Tyler Ellis McWilliams (@tylermcwilliams)
 email: me@mikirov.xyz
-discussions-to: https://forum.algorand.foundation/t/eliza-algorand-integration-proposal/12345
+discussions-to: https://forum.algorand.org/t/xgov-216-elizaos-plugin-alogrand/14305
 company_name: Esscrypt Ltd.
 category: dApps
 focus_area: Deployment
