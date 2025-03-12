@@ -1,9 +1,9 @@
 ---
-id: 196
+id: 217
 title: Mock Application
 author: Stéphane BARROSO (@SudoWeezy)
 email: mock@algorand.foundation
-status: Candidate
+status: Candidates
 ---
 
 ## Rationale
