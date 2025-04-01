@@ -1,18 +1,26 @@
 ---
-id: 196
-title: Mock Application
-author: Stéphane BARROSO (@SudoWeezy)
-email: mock@algorand.foundation
-status: Candidate
+id: 1
+author: Stéphane (@sudoweezy)
+email: toto@gmail.com
+address: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ
+status: Not Elected
 ---
 
-## Rationale
+## Introduction
 
 This is a mock application for the xGov council membership.
+
+## Social Profiles
+
+@sudoweezy Github
 
 ## Relevant Experience
 
 Currently employed at the Algorand Foundation.
+
+## Projects Affiliation
+
+Algorand Foundation.
 
 ## Additional Information
 
