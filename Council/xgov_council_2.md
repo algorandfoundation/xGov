@@ -12,10 +12,10 @@ I am enterpreneur and full stack developer building on Algorand for 5 years.
 
 ## Social Profiles
 
-@scholtz Github
-[@EverydayAlgonaut YouTube](https://www.youtube.com/@EverydayAlgonaut)
-LudovitScholtz#9304 Discord
-[Algorand Forum Profile](https://forum.algorand.org/u/scholtz/summary)
+- @scholtz Github
+- [@EverydayAlgonaut YouTube](https://www.youtube.com/@EverydayAlgonaut)
+- LudovitScholtz#9304 Discord
+- [Algorand Forum Profile](https://forum.algorand.org/u/scholtz/summary)
 
 ## Relevant Experience
 
