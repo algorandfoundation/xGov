@@ -8,7 +8,9 @@ status: Registered for elections to xGov council
 
 ## Introduction
 
-I am enterpreneur and full stack developer building on Algorand for 5 years. 
+I am an entrepreneur and full-stack developer with five years of experience building on Algorand. My focus has been on developing innovative blockchain solutions, fostering community engagement, and enhancing decentralized governance.
+
+By joining the xGov council, I aim to further strengthen the decentralization aspect of the AF governance model, bring new ideas for improvements, advocate for open-source development, and ensure meaningful contributions that benefit the entire community.
 
 ## Social Profiles
 
