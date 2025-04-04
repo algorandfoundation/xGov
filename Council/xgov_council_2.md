@@ -21,7 +21,9 @@ By joining the xGov council, I aim to further strengthen the decentralization as
 
 ## Relevant Experience
 
-With the xGov my company has delivered following projects:
+I was overall winner at Swiss Blockchain Hackathon and Algo HackJam, and winner at Encode Hack, El Salvador Bitcoin bankathon, DAO Hack, eID Hackathon and EU vs Virus Hackathon.
+
+With the xGov program my company has delivered following projects:
 
 ### Voting session 1
 - [#9 2FA algorand authentication](https://github.com/algorandfoundation/xGov/pull/9/files?short_path=f70bb7a#diff-f70bb7a4120977b83828e9dc82d687bf46e6faf394d3aa1a47506a31bcd274c5)
