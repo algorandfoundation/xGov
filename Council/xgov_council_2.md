@@ -55,7 +55,7 @@ With the xGov program my company has delivered following projects:
 - [Invoicing - Issue multicurrency invoices](https://accounting.biatec.io)
 - [Biatec Learn - Airdop application with learning incentives](https://learn.biatec.io)
 - [Biatec NFTs](https://nft.biatec.io/)
-- [Explodinos - Multiplier real time card game](https://www.explodinos.com/)
+- [ExploDinos - Multiplier real time card game](https://www.explodinos.com/)
 - [Vote Coin - Scalable efficient onchain community voting tools and standards](https://www.vote-coin.com)
 - [Everyday Algonaut youtube channel](https://www.youtube.com/@EverydayAlgonaut)
 - [C# Algo Nuget](https://github.com/scholtz/dotnet-algorand-sdk)
