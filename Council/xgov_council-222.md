@@ -27,6 +27,7 @@ Cosmic Champs
 
 ## Additional Information
 
+In the past i've been actively promoting and helping onboard Algorand projects to get involved with xgov program. I've participated in twitter spaces, attended x-gov workshop at Decipher and have also on many occasions discussed it in-person with builders from ecosystem as-well as Algorand foundation employees.
 Previous activity on Algorand forums (most of my posts are xGov-related; however, I’ve also been active in general governance-related topics)
 https://forum.algorand.org/u/simonb/activity
 
