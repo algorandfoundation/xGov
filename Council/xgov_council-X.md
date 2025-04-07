@@ -1,9 +1,9 @@
 ---
-id: <progressive number, starts with 1 and incremented for each new application>
-author: <John Mizzoni (@johnmizz, @fisherman.algo)>
-email: <john@txnlab.dev>
-address: <fisherman.algo>
-status: <Draft>
+id: 4
+author: John Mizzoni (@johnmizz)
+email: john@txnlab.dev
+address: fisherman.algo
+status: Draft
 ---
 
 ## Introduction
@@ -14,9 +14,9 @@ As an xGov Council member, I will bring a thoughtful, principled approach to dec
 
 ## Social Profiles
 
-- [@prob_fishing](https://x.com/prob_fishing)
-- [fisherman.algo](https://app.nf.domains/name/fisherman.algo)
-- [fisherman.algo](https://medium.com/@fishermanalgo)
+- Twitter - https://x.com/prob_fishing
+- NFD - https://app.nf.domains/name/fisherman.algo
+- Medium - https://medium.com/@fishermanalgo
 
 ## Relevant Experience
 
@@ -26,25 +26,24 @@ Since joining the Algorand ecosystem, I’ve been a part of many communities, bu
 
 I’ve also written extensively about governance, public goods, and economic design in crypto. Find links below.
 
-
 ## Projects Affiliation
 
-- [TxnLab](https://www.txnlab.dev/)
-- [NFDomains](https://app.nf.domains/)
-- [Use-wallet](https://github.com/TxnLab/use-wallet)
-- [Reti Pooling](https://reti.nodely.io/)
-- [Algotardio](https://algotard.io/tardly)
+- TxnLab - https://www.txnlab.dev/
+- NFDomains - https://app.nf.domains/
+- Use-Wallet - https://github.com/TxnLab/use-wallet
+- Reti Pooling - https://reti.nodely.io/
+- Algotardio - https://algotard.io/tardly
 
 ## Additional Information
 
 Previous activity on Algorand forum 
-- (https://forum.algorand.org/u/fisherman.algo/activity)
+- https://forum.algorand.org/u/fisherman.algo/activity
 
 Blog posts relevent to xGov 
-- (https://medium.com/@fishermanalgo/who-said-governance-was-simple-c8230788bd76) 
-- (https://medium.com/@fishermanalgo/algorand-governance-26b18106e589)
+- https://medium.com/@fishermanalgo/who-said-governance-was-simple-c8230788bd76
+- https://medium.com/@fishermanalgo/algorand-governance-26b18106e589
 
 Discussion with FrugalBC on xGov
-- (https://www.youtube.com/live/uGATysYeA_E?si=04cHJHiNSoN7GfyZ&t=3547)
+- https://www.youtube.com/live/uGATysYeA_E?si=04cHJHiNSoN7GfyZ&t=3547
 
 
