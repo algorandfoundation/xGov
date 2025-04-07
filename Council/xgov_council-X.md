@@ -2,7 +2,7 @@
 id: 4
 author: John Mizzoni (@johnmizz)
 email: john@txnlab.dev
-address: fisherman.algo
+address: FISHERMANBPAHXQJEBJNIMMTBVNCOTXG6TUHYXQNE64FEJRVDTO3E3A43E
 status: Draft
 ---
 
