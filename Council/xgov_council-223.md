@@ -1,9 +1,9 @@
 ---
 id: 223
-author: <the candidate's name + GitHub username (in parenthesis) Example, FirstName LastName (@GitHubUsername)>
-email: <Email address where you can be reached for KYC process>
-address: <Your Algorand wallet address>
-status: <Draft/Final/Elected/Not Elected>
+author: Kieran Nelson (@xxiled-plastic-cat)
+email: kieran@compx.io
+address: RS7TLLQRXKBAQDAVTSZC2ZLMVMLNSCL3FOUOESJJZ5XSKFFL56UI6X33CI
+status: Draft
 ---
 
 ## Introduction
