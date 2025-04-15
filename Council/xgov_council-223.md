@@ -12,7 +12,7 @@ I beleive my technical skills and experience within the ecosystem would make me 
 
 ## Social Profiles
 
-Add links to the social profiles you will use during the campaign.
+X - https://x.com/xxiled1
 
 ## Relevant Experience
 
@@ -38,6 +38,5 @@ CompX - https://app.compx.io
 Citrus Swap - https://citrusswap.app
 weDev - https://wedev.run
 
-X - https://x.com/xxiled1
 CompX X - https://x.com/compxlabs
 CompX Discord - https://discord.gg/pSG93C6UN8
