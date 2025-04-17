@@ -18,7 +18,9 @@ I humbly ask the Algorand community to support my candidacy, and let's make Algo
 ## Social Profiles
 
 LinkedIn https://www.linkedin.com/in/joseph-wu-293855106/
+
 X/Twitter https://x.com/scripledger_jw
+
 Github https://github.com/josephwu95
 
 ## Relevant Experience
@@ -38,8 +40,11 @@ General Experience - Most of my formal work experience (8 years post Education) 
 ## Projects Affiliation
 
 Scrip Ledger, formerly Gift Ledger https://scripledger.com/  - Founder, Head of Product
+
 Rand Gallery https://www.randgallery.com/ - Buyer, Seller, Creator
+
 AlgoExplorer (defunct) - Developer, Contributor
+
 Folks Finance - Governance, Staking
 
 ## Additional Information
