@@ -71,7 +71,7 @@ With the xGov program my company has delivered following projects:
 
 ### My vision where Algorand should be headed
 
-In my opinion the algorand should be public entity with very decentralized management. Every decision should be made public with the public voting session for it. The accounting must be completely open and all agreements as well.
+In my opinion the algorand should be public entity with very decentralized management. Every decision should be made public with the public voting session for it. The accounting must be completely open and all agreements as well. Algorand source code must be also managed with decetralized manner.
 
 The funding of startups should work as following: 
 First stage is local or global ideathon events. Next stage is the hackathons with the reward that the best project gets to the accelerator phase. The results of the hackathons must be transparent and feedback for projects should be ensured. Further engagement with the projects which were funded must be ensured so that the project reach the critical threshold of users and are sustainable.
