@@ -69,4 +69,13 @@ With the xGov program my company has delivered following projects:
 
 ## Additional Information
 
-No further details to provide.
+### My vision where Algorand should be headed
+
+In my opinion the algorand should be public entity with very decentralized management. Every decision should be made public with the public voting session for it. The accounting must be completely open and all agreements as well.
+
+The funding of startups should work as following: 
+First stage is local or global ideathon events. Next stage is the hackathons with the reward that the best project gets to the accelerator phase. The results of the hackathons must be transparent and feedback for projects should be ensured. Further engagement with the projects which were funded must be ensured so that the project reach the critical threshold of users and are sustainable.
+
+In principle I am against the retroactive grants. There is no point to fund the work which has been already done. If projects needs to reach the critical threshold of mass addoption it should go through the accelerator phase. The selection of projects to the accelerator phase should be fully transparent and projects should receive feedback what should be done better to be able to go to the accelerator phase. However if the AF decides the public funding of projects should be only retroactive, I have many projects which were not funded at all and will request the funding. I will obstain on voting on my proposals.
+
+All projects should have equal rights. There should be no direct funding from the algorand to any of the projects. All projects that need the funding should go through the public funding requests - the accelerator phase.
