@@ -15,9 +15,9 @@ By joining the xGov council, I aim to further strengthen the decentralization as
 ## Social Profiles
 
 - @scholtz Github
-- [@EverydayAlgonaut YouTube](https://www.youtube.com/@EverydayAlgonaut)
+- <a href="https://www.youtube.com/@EverydayAlgonaut">@EverydayAlgonaut YouTube</a>
 - LudovitScholtz#9304 Discord
-- [Algorand Forum Profile](https://forum.algorand.org/u/scholtz/summary)
+- <a href="https://forum.algorand.org/u/scholtz/summary">Algorand Forum Profile</a>
 
 ## Relevant Experience
 
@@ -26,47 +26,47 @@ I was overall winner at Swiss Blockchain Hackathon and Algo HackJam, and winner 
 With the xGov program my company has delivered following projects:
 
 ### Voting session 1
-- [#9 2FA algorand authentication](https://github.com/algorandfoundation/xGov/pull/9/files?short_path=f70bb7a#diff-f70bb7a4120977b83828e9dc82d687bf46e6faf394d3aa1a47506a31bcd274c5)
+- <a href="https://github.com/algorandfoundation/xGov/pull/9/files?short_path=f70bb7a#diff-f70bb7a4120977b83828e9dc82d687bf46e6faf394d3aa1a47506a31bcd274c5">#9 2FA algorand authentication</a>
 
 ### Voting session 2
-- [#80 Open source clamm](https://github.com/algorandfoundation/xGov/pull/80) [App](https://dex.biatec.io)
-- [#81 VoteCoin - DAO Liquidity](https://github.com/algorandfoundation/xGov/pull/81)
-- [#89 Biatec invoicing app](https://github.com/algorandfoundation/xGov/pull/89) [App](https://accounting.biatec.io)
-- [#90 Biatec scheduler and smart contract builder using blockly](https://github.com/algorandfoundation/xGov/pull/90) [App](https://scheduler.biatec.io)
+- <a href="https://github.com/algorandfoundation/xGov/pull/80">#80 Open source clamm</a> <a href="https://dex.biatec.io">App</a>
+- <a href="https://github.com/algorandfoundation/xGov/pull/81">#81 VoteCoin - DAO Liquidity</a>
+- <a href="https://github.com/algorandfoundation/xGov/pull/89">#89 Biatec invoicing app</a> <a href="https://accounting.biatec.io">App</a>
+- <a href="https://github.com/algorandfoundation/xGov/pull/90">#90 Biatec scheduler and smart contract builder using blockly</a> <a href="https://scheduler.biatec.io">App</a>
 
 ### Voting session 3
-- [#161 Introduction to vote coin project](https://forum.algorand.org/t/xgov-prop-161-votecoin-introduction-video/11365/12?u=scholtz)
-- [#162 Tokenized gold with publicly auditable gold reserves](https://forum.algorand.org/t/xgov-prop-162-asa-gold-introduction-video/11366/14?u=scholtz)
-- [#164 Prague community meetup](https://forum.algorand.org/t/xgov-prop-164-prague-community-meetup/11368/12?u=scholtz)
+- <a href="https://forum.algorand.org/t/xgov-prop-161-votecoin-introduction-video/11365/12?u=scholtz">#161 Introduction to vote coin project</a>
+- <a href="https://forum.algorand.org/t/xgov-prop-162-asa-gold-introduction-video/11366/14?u=scholtz">#162 Tokenized gold with publicly auditable gold reserves</a>
+- <a href="https://forum.algorand.org/t/xgov-prop-164-prague-community-meetup/11368/12?u=scholtz">#164 Prague community meetup</a>
 
 ### Voting session 4
-- [#164 AWallet retroactive grant](https://forum.algorand.org/t/xgov-199-awallet-retroactive/11866)
-- [#200 Biatec Identity - Open source secure KYC system](https://forum.algorand.org/t/xgov-200-biatec-identity/11871)
+- <a href="https://forum.algorand.org/t/xgov-199-awallet-retroactive/11866">#164 AWallet retroactive grant</a>
+- <a href="https://forum.algorand.org/t/xgov-200-biatec-identity/11871">#200 Biatec Identity - Open source secure KYC system</a>
 
 ## Projects Affiliation
 
-- [Biatec Group](https://www.biatec.io)
-- [Biatec Wallet](https://wallet.biatec.io) / [AWallet](https://www.a-wallet.net)
-- [ASA.Gold - Tokenized gold with publicly auditable gold reserves with MiCA whitepapers](https://asa.gold)
-- [Biatec DEX](https://dex.biatec.io)
-- [Decentralized scheduler](https://scheduler.biatec.io)
-- [Biatec Audits](https://audits.biatec.io/)
-- [Aramid Bridge - Multichain permissionless decentralized bridge](https://aramid.finance)
-- [Invoicing - Issue multicurrency invoices](https://accounting.biatec.io)
-- [Biatec Learn - Airdop application with learning incentives](https://learn.biatec.io)
-- [Biatec NFTs](https://nft.biatec.io/)
-- [ExploDinos - Multiplier real time card game](https://www.explodinos.com/)
-- [Vote Coin - Scalable efficient onchain community voting tools and standards](https://www.vote-coin.com)
-- [Everyday Algonaut youtube channel](https://www.youtube.com/@EverydayAlgonaut)
-- [C# Algo Nuget](https://github.com/scholtz/dotnet-algorand-sdk)
-- [C# Algorand Authentication ARC14 Nuget](https://github.com/scholtz/algorand-authentication-component-vue)
-- [C# Algorand ARC76 Account](https://github.com/scholtz/AlgorandARC76AccountDotNet)
-- [TypeScript Algorand Authentication ARC14 NPM](https://github.com/scholtz/arc14-npm)
-- [TypeScript Algorand ARC76 Account](https://github.com/scholtz/arc76-npm)
-- [Algorand public data git repo](https://github.com/scholtz/AlgorandPublicData)
-- [Algorand node docker images](https://github.com/scholtz/AlgorandNodes)
-- [Many more smaller open source apps or scripts](https://github.com/scholtz)
- 
+- <a href="https://www.biatec.io">Biatec Group</a>
+- <a href="https://wallet.biatec.io">Biatec Wallet</a> / <a href="https://www.a-wallet.net">AWallet</a>
+- <a href="https://asa.gold">ASA.Gold - Tokenized gold with publicly auditable gold reserves with MiCA whitepapers</a>
+- <a href="https://dex.biatec.io">Biatec DEX</a>
+- <a href="https://scheduler.biatec.io">Decentralized scheduler</a>
+- <a href="https://audits.biatec.io/">Biatec Audits</a>
+- <a href="https://aramid.finance">Aramid Bridge - Multichain permissionless decentralized bridge</a>
+- <a href="https://accounting.biatec.io">Invoicing - Issue multicurrency invoices</a>
+- <a href="https://learn.biatec.io">Biatec Learn - Airdop application with learning incentives</a>
+- <a href="https://nft.biatec.io/">Biatec NFTs</a>
+- <a href="https://www.explodinos.com/">ExploDinos - Multiplier real time card game</a>
+- <a href="https://www.vote-coin.com">Vote Coin - Scalable efficient onchain community voting tools and standards</a>
+- <a href="https://www.youtube.com/@EverydayAlgonaut">Everyday Algonaut youtube channel</a>
+- <a href="https://github.com/scholtz/dotnet-algorand-sdk">C# Algo Nuget</a>
+- <a href="https://github.com/scholtz/algorand-authentication-component-vue">C# Algorand Authentication ARC14 Nuget</a>
+- <a href="https://github.com/scholtz/AlgorandARC76AccountDotNet">C# Algorand ARC76 Account</a>
+- <a href="https://github.com/scholtz/arc14-npm">TypeScript Algorand Authentication ARC14 NPM</a>
+- <a href="https://github.com/scholtz/arc76-npm">TypeScript Algorand ARC76 Account</a>
+- <a href="https://github.com/scholtz/AlgorandPublicData">Algorand public data git repo</a>
+- <a href="https://github.com/scholtz/AlgorandNodes">Algorand node docker images</a>
+- <a href="https://github.com/scholtz">Many more smaller open source apps or scripts</a>
+
 ## Additional Information
 
 No further details to provide.
