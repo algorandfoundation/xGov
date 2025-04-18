@@ -3,7 +3,7 @@ id: 2
 author: Ľudovít Scholtz (@scholtz)
 email: xgov-council-scholtz@biatec.io
 address: ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY
-status: Registered for elections to xGov council
+status: Final
 ---
 
 ## Introduction
