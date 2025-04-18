@@ -1,6 +1,6 @@
 ---
 id: 1
-author: Ľudovít Scholtz (@scholtz)
+author: Ľudovít Scholtz aka Everyday Algonaut (@scholtz)
 email: xgov-council-scholtz@biatec.io
 address: ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY
 status: Final
