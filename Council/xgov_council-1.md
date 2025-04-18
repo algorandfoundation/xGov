@@ -71,7 +71,7 @@ With the xGov program my company has delivered following projects:
 
 ### My Vision for the Future of Algorand
 
-In my view, Algorand should evolve into a truly public entity with a highly decentralized governance structure. All decisions should be made transparently and be subject to public voting. Financial accounting, along with all agreements, should be fully open and accessible. Likewise, the management of the Algorand source code should follow a decentralized model.
+In my view, Algorand should evolve into a truly public entity with a highly decentralized governance structure. All decisions should be made transparently and be subject to public voting. Financial accounting, along with all agreements, should be fully open and accessible. Likewise, the management of the Algorand source code and even elections of C-level representatives should follow a decentralized model.
 
 Startup funding could follow a structured approach:
 The first stage would consist of local or global ideathon events. The next phase would be hackathons, where the best-performing projects are rewarded and offered entry into an accelerator program. The outcomes of these hackathons should be transparent, and constructive feedback must be provided to all participating teams. Continued engagement with funded projects should be prioritized to help them reach a critical mass of users and long-term sustainability.
