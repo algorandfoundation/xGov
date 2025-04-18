@@ -1,5 +1,5 @@
 ---
-id: 2
+id: 1
 author: Ľudovít Scholtz (@scholtz)
 email: xgov-council-scholtz@biatec.io
 address: ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY
