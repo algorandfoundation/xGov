@@ -9,7 +9,9 @@ status: Final
 ## Introduction
 
 Hello. I work in Japan’s education industry, primarily handling general administrative tasks including office PC support and accounting. I have been involved with Algorand since 2021, during which time I have observed both successful and failed blockchain projects. I actively share this knowledge within the Japanese community. Utilizing that experience, I also participated in a government-led PoC (Proof of Concept) project in Japan in 2023 that leveraged the Algorand blockchain.
+
 As an xGov Council member, I will critically evaluate proposals from a managerial standpoint to determine whether they truly serve as meaningful and necessary public goods. In my involvement with Algorand, I believe the real reward lies in the appreciation of ALGO's value, which would in turn increase the value of my own holdings. Therefore, I am not fixated on receiving compensation. If possible, I will decline any rewards. If compensation must be accepted, I will use it to support events aimed at increasing awareness of Algorand in Japan.
+
 Additionally, while I am able to read and write in English, I cannot speak it. For this reason, if participation in xGov Council discussions requires real-time spoken communication, I will not be able to take part. I kindly ask that this be taken into consideration when voting.
 
 
