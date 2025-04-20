@@ -33,13 +33,15 @@ Algorand x Draper accelerator - I was a part of the Algorand x Draper accelerato
 
 Algorand General - I was the global and blockchain category winner of the Algorand sponsored Duke-Harvard hackathon by Live AI. I've had experience interacting with major DeFi systems in Algorand such as Folks Finance, Messina, and Tinyman. I have submitted and reviewed ARC proposals on Algorand forum, engaged on Algorand Discord server and Reddit forum. 
 
-Blockchain General - I was a category winner in ETHDenver 2023. I was invited as a builder to the Solana IslandDAO hacker house in 2024. I was a category winner in the Permissionless III hackathon, where I worked with various techonologies from Bitcoin L2 and L1 chains like Supra. Experience and exposure to various technologies in the blockchain space will help me bring valuable insight and perspective to the role of a council member. I'm also a coordinator and active member of blockchain organizations around Washington DC, including DC DAO, Virginia Blockchain Council, Blockchain Policy Institute.
+Blockchain General - I was a category winner in ETHDenver 2023. I was invited as a builder to the Solana IslandDAO hacker house in 2024. I was a category winner in the Permissionless III hackathon, where I worked with various techonologies from Bitcoin L2 and L1 chains like Supra. Experience and exposure to various technologies in the blockchain space will help me bring valuable insight and perspective to the role of a council member. 
+
+I'm a coordinator and active member of blockchain organizations around Washington DC, including DC DAO, Virginia Blockchain Council, Blockchain Policy Institute. I've been a part of various blockchain policy discussions/forums at the Capitol as well as workshops at the Federal Reserve. I have contacts with lobbyists and staffers who work in the blockchain space. I believe my proximity and network in the DC scene will be an additional value add as Algorand continues to make inroads with enterprise and government use cases (e.g. Silvio's Fiat Chain announcement).
 
 General Experience - Most of my formal work experience (8 years post Education) has been in Product Development/Management. I'm a decent programmer and have done extensive programming in prototyping and validation in blockchain, esp in Algorand. Combination of Product/Business and Technical skills will serve my candidacy well. 
 
 ## Projects Affiliation
 
-Scrip Ledger, formerly Gift Ledger https://scripledger.com/  - Founder, Head of Product
+Scrip Ledger, formerly Gift Ledger https://scripledger.com/ - Founder, Head of Product
 
 Rand Gallery https://www.randgallery.com/ - Buyer, Seller, Creator
 
