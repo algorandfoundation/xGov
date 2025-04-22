@@ -1,6 +1,6 @@
 ---
 id: 9
-author: Robbie Baxter (@fifthrace) 
+author: Robbie Baxter
 email: fifth.race@gmail.com
 address: D3S6VBVPDD2Y2SNYFAT65AL25KUCKMY5IYM7RK3N4LMJIW44G2OWKBRSOI
 status: Final
@@ -14,9 +14,9 @@ I’m excited to be considered for xGov and contribute meaningfully to its futur
 
 ## Social Profiles
 
-- X: [@fifthrace](https://x.com/fifthrace)
-- NFD: [robbie.algo](https://app.nf.domains/name/robbie.algo)
-- Discord: [User Profile](https://discordapp.com/users/240945521026400266)
+- X: @fifthrace
+- NFD: robbie.algo
+- Discord: https://discordapp.com/users/240945521026400266
 
 ## Relevant Experience
 
@@ -28,10 +28,9 @@ In 2023, I joined my first nonprofit board, gaining valuable experience in gover
 
 ## Projects Affiliation
 
-- 🛠 **Creator**: [Arbitraz](https://vestige.fi/asset/1285492943)
-- 🔁 **Node Runner**: [BAJO](https://reti.nodely.io/validators/40)
-- 🧩 **Creator**: [Algorand Scavenger Hunt](https://x.com/algoscavhunt)
-
+- 🛠 **Creator**: Arbitraz
+- 🔁 **Node Runner**: BAJO
+- 🧩 **Creator**: Algorand Scavenger Hunt
 
 ## Additional Information
 
