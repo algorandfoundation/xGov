@@ -1,9 +1,9 @@
 ---
-id: 4
+id: 3
 author: John Mizzoni (@johnmizz)
 email: john@txnlab.dev
 address: FISHERMANBPAHXQJEBJNIMMTBVNCOTXG6TUHYXQNE64FEJRVDTO3E3A43E
-status: Draft
+status: Final
 ---
 
 ## Introduction
@@ -20,9 +20,9 @@ As an xGov Council member, I will bring a thoughtful, principled approach to dec
 
 ## Relevant Experience
 
-My background is in finance and accounting. I’ve been in crypto since 2017, and began actively building in 2021. While I’m not a developer, I’ve developed a nuanced understanding of Algorand through hands-on involvement in multiple protocols. I view blockchains not only as technical marvels, but as economic ones and that perspective shapes how I think about governance and incentives.
+My background is in finance and accounting. I’ve been in crypto since 2017, and began actively building in 2021. While I’m not a trained developer, I have a solid understanding of Algorand through hands-on involvement in building multiple protocols. I view blockchains not only as technical marvels, but as economic ones and that perspective shapes how I think about governance and incentives.
 
-Since joining the Algorand ecosystem, I’ve been a part of many communities, but my proudest contribution is co-founding TxnLab. We’ve built several core products including nf.domains, use-wallet, and most recently, the Reti Pooling Protocol.
+Since joining the Algorand ecosystem, I’ve been a part of many communities, but my proudest contribution is co-founding TxnLab. We’ve built several core products including nf.domains, use-wallet, the Reti Pooling Protocol, and most recently, Haydrops.
 
 I’ve also written extensively about governance, public goods, and economic design in crypto. Find links below.
 
@@ -32,6 +32,7 @@ I’ve also written extensively about governance, public goods, and economic des
 - NFDomains - https://app.nf.domains/
 - Use-Wallet - https://github.com/TxnLab/use-wallet
 - Reti Pooling - https://reti.nodely.io/
+- Haydrops - https://drops.hay.app/drops
 - Algotardio - https://algotard.io/tardly
 
 ## Additional Information
