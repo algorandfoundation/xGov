@@ -8,46 +8,56 @@ status: Final
 
 ## Introduction
 
-Hey Algofam, many of you may recognize me from around the ecosystem. I've been a part of Algorand since 2020, am a full stack developer, and building my brand AoA on Algorand. I believe I have the necessary skill set to be a great addition to the council, as I have extensive knowledge of the Algorand ecosystem from DeFi to NFTs to dApps to community, you name it. I have a Bachelor in Electrical Engineering and daytrade for a living.
+Hey Algofam!
 
-As part of the council, I would serve to the best of my ability in pushing the space forward, dedicating my time and effort to diligently covering my tasks and beyond. Thank your for the consideration.
+I’m Mohamed Majdalawieh, known as Angel of Ares, and I’ve been active in the Algorand ecosystem since 2020. As a full-stack developer and founder of Angels of Ares on Algorand, I have deep knowledge of DeFi, NFTs, dApps, and community projects. With a Bachelor’s in Electrical Engineering and experience as a day trader, I’m ready to contribute to the Algorand Governance Council.
+
+If elected, I’ll work hard to push the ecosystem forward, taking on my responsibilities and going beyond what’s expected. Thank you for considering my candidacy.
 
 ## Social Profiles
 
-Website - https://angelsofares.xyz
+Website: https://angelsofares.xyz
 
-X - https://x.com/TheAngelOfAres
+X: https://x.com/TheAngelOfAres
 
-Discord - angel_of_ares
+Discord: angel_of_ares
 
-Github - https://github.com/AngelsOfAres
+GitHub: https://github.com/AngelsOfAres
 
 ## Relevant Experience
 
-I have been extensively trading and participating in the ecosystem since 2020, I own or have owned hundreds of wallets with tens of millions of transactions, verifiable on chain. During my time on Algorand, I have tried most dApps, including our various DeFi suites, staking platforms, NFT marketplaces, Discord games, tools, and everything in between.
+Since 2020, I’ve been heavily involved in Algorand, managing hundreds of wallets and millions of transactions, all verifiable on-chain. I’ve used a wide range of dApps, including DeFi platforms, staking tools, NFT marketplaces, Discord games, and more.
 
-I am also a full stack developer. Below are examples of apps I've built:
+As a full-stack developer, I’ve built several applications, including:
 
 Websites:
-- Fallen Order MMORPG - https://fallenorder.xyz
-- Samurai - https://samurai.angelsofares.xyz
-- Creator Tools - https://fallenorder.xyz/tools
+
+- Fallen Order MMORPG: https://fallenorder.xyz
+
+- Samurai: https://samurai.angelsofares.xyz
+
+- Creator Tools: https://fallenorder.xyz/tools
 
 Discord Bots:
-- 6 bots for Fallen Order to handle the game
-- Funman, built as a free service for Algorand projects to provide community activities to their servers
-- Voiman, built as a free service for projects on Voi, however we decided to not pursue a path into Voi as it has an extremely centralized nature compared to Algorand
-- Ninjaman, a bot that monitors the Rug Ninja platform on-chain and reports all related activities to Discord in realtime
-- Swapman, a bot that monitors the network block by block and reports and swaps made via dexes directly to Discord in realtime
+
+- Six bots for Fallen Order to manage gameplay
+
+- Funman: A free service for Algorand projects to boost community engagement
+
+- Voiman: Built as a free service for projects on Voi, however we decided to not pursue a path into Voi due to its extremely centralized nature compared to Algorand
+
+- Ninjaman: Tracks Rug Ninja platform activity on-chain and reports to Discord in real-time
+
+- Swapman: Monitors Algorand blocks and reports DEX swaps to Discord in real-time
 
 ## Projects Affiliation
 
-Angels of Ares, personal project on Algorand
+- Angels of Ares: Personal brand on Algorand
 
 ## Additional Information
 
 There are many great candidates out there for a council position, and I wholeheartedly believe I match that criteria to serve Algorand well and provide support where needed.
 
-I bring a wide variety of knowledge to the table, have various connections across the ecosystem, am building on Algorand, and intend to continue learning and growing with the network.
+I bring a wide variety of knowledge to the table, have various connections across the ecosystem, utilize the chain heavily, build on Algorand, and intend to continue learning and growing with the network.
 
 I appreciate this opportunity and thank you for giving this proposal a glance!
