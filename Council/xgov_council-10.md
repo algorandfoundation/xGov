@@ -1,5 +1,5 @@
 ---
-id: 8
+id: 10
 author: Mohamed Majdalawieh aka Angel of Ares (@TheAngelOfAres)
 email: aoa@angelsofares.xyz
 address: IEDYR4YZTV22AZW7Q4UILNMHJN256MBBYOSKUK6RD6DSL5JSM46DTYJQKU
@@ -16,13 +16,13 @@ If elected, I’ll work hard to push the ecosystem forward, taking on my respons
 
 ## Social Profiles
 
-Website: https://angelsofares.xyz
+Website: angelsofares.xyz
 
-X: https://x.com/TheAngelOfAres
+X: TheAngelOfAres
 
 Discord: angel_of_ares
 
-GitHub: https://github.com/AngelsOfAres
+GitHub: AngelsOfAres
 
 ## Relevant Experience
 
@@ -32,11 +32,11 @@ As a full-stack developer, I’ve built several applications, including:
 
 Websites:
 
-- Fallen Order MMORPG: https://fallenorder.xyz
+- Fallen Order MMORPG: fallenorder.xyz
 
-- Samurai: https://samurai.angelsofares.xyz
+- Samurai: samurai.angelsofares.xyz
 
-- Creator Tools: https://fallenorder.xyz/tools
+- Creator Tools: fallenorder.xyz/tools
 
 Discord Bots:
 
