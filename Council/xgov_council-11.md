@@ -1,9 +1,14 @@
 
  id: 
+ 
  author: Paul Hinrichsen (@paulhinrichsen)
+ 
  email: paulhinrichsen@gmail.com
+ 
  address: 3HOQI46R2WNG2NIUYZRTXUAMCJBED7ZBPQ7J5WV7K4LM2POBSUCLJWMUZA
+ 
  status: Submitted
+ 
  ---
  
  ## Introduction
@@ -11,6 +16,7 @@
  I am a long-time community member and current node runner (700+ blocks proposed), applying to join the xGov council to serve the community with responsible decisions that aim to steer Algorand towards long-term success. I have been part of the Algorand community dating back to late 2020, and I have held Algo ever since I first discovered the chain. I have no affiliation with any project in Algorand, and I am largely running because I see some people running who are. I am a truly independent actor and promise to post a Twitter discussion and a poll to the community to gauge responses, and hope to learn more points of view from any proposal I am asked to vote for. I cannot guarantee that the outcome of the poll or discussion will 100% decide my answer, but my goal here is to make the most informed decision for the community.
  
  # What I Will Vote For
+ 
 My goal is to vote for improvements to the Algorand ecosystem that benefit all stakeholders in the ecosystem, not only certain market participants. All of my support will go to long term solutions that are aimed at improving the continued success, functionality, capability, and attractiveness of Algorand as the future of finance. Proposals that do not meet this requirement will be voted down.
  
  Examples
@@ -20,6 +26,7 @@ My goal is to vote for improvements to the Algorand ecosystem that benefit all s
  - Furthering decentralization of nodes/relay nodes
 
 # What I Will NOT For
+
 I will not vote for proposals that favor a specific market participant over another, and I will not vote for any initiatives that are short-term or price-focused.
 
 Examples:
@@ -32,11 +39,15 @@ Examples:
  
  
  ## Social Profiles
+ 
  https://x.com/conscious_algo
+ 
  https://forum.algorand.org/u/conscious/summary
+ 
  https://allo.info/account/3HOQI46R2WNG2NIUYZRTXUAMCJBED7ZBPQ7J5WV7K4LM2POBSUCLJWMUZA
  
  ## Relevant Experience
+ 
  I currently work for a software startup, building lending and deposit products in Tradfi for the last 3 years. Previous experience, 6 years as a Product Manager at a large Credit Union, and 3 years at the investment bank at JP Morgan. While never officially working in Crypto, I have been a long-time member of the Bitcoin Community (2014) and Algorand (2020). If you are not familiar with me, you can track my Algorand Forums profile and view any posts and comments I've made on there. (https://forum.algorand.org/u/conscious/summary) I have also been very active in the Algorand Twitter and Discord community.) 
  
  ## Projects Affiliation
