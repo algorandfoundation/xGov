@@ -31,3 +31,10 @@ I’ve been an active member of the Algorand Discord since 2019, helping users a
 - [Use-Wallet](https://github.com/TxnLab/use-wallet)
 - [Reti Pooling](https://reti.nodely.io/)
 - [Haydrops](https://drops.hay.app/drops)
+
+## Additional Information
+
+- Various appearances, most recent:
+- Verifiably Random: https://youtu.be/Tvpgrw6Jp9s?si=gplps0e8_nFPt49T&t=928
+- AlgoRanch: https://www.youtube.com/watch?v=K6cebiBbMsQ
+- Decipher 2022: https://www.youtube.com/watch?v=l5TFlphojnQ
