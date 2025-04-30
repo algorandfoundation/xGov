@@ -39,7 +39,7 @@ I'm a coordinator and active member of blockchain organizations around Washingto
 
 General Experience - Most of my formal work experience (8 years post Education) has been in Product Development/Management. I'm a decent programmer and have done extensive programming in prototyping and validation in blockchain, esp in Algorand. Combination of Product/Business and Technical skills will serve my candidacy well. 
 
-## Projects Affiliation
+## Project Affiliations
 
 Scrip Ledger, formerly Gift Ledger https://scripledger.com/ - Founder, Head of Product
 

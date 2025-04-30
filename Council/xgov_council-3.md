@@ -26,7 +26,7 @@ Since joining the Algorand ecosystem, I’ve been a part of many communities, bu
 
 I’ve also written extensively about governance, public goods, and economic design in crypto. Find links below.
 
-## Projects Affiliation
+## Project Affiliations
 
 - TxnLab - https://www.txnlab.dev/
 - NFDomains - https://app.nf.domains/

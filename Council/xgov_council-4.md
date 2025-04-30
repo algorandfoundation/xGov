@@ -22,7 +22,7 @@ I'm a full-stack developer by trade, turned crypto founder in 2021, proudly wear
 I have extensive technical knowledge in VR, AR, Metaverse and Gaming fields and have a thorough understanding of all processes involved in ideation, bootstrapping, MVP, fund-raising and running a project.
 I believe that my technical knowledge, combined with my experience as a Web3 project founder within the Algorand ecosystem, gives me a unique perspective with insights specific to this space that would greatly benefit the proposal evaluation process.
 
-## Projects Affiliation
+## Project Affiliations
 
 Cosmic Champs -> co-founder
 

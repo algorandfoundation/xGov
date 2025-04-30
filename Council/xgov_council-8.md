@@ -36,7 +36,7 @@ https://www.blockchain.t.u-tokyo.ac.jp/post/2024%E5%B9%B4%E5%BA%A6%E5%85%AC%E9%9
 I am also continuously engaged in activities under xGov145 to expand the Japanese Algorand user base.
 https://github.com/algorandfoundation/xGov/pull/145/files
 
-## Projects Affiliation
+## Project Affiliations
 
 Algorand Japan Discord - https://discord.gg/JzTjpkf79N
 

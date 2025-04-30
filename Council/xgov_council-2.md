@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/12bTauRWOsFZyf6cKl4_HanCD7G-d-_Sj
 
 https://www.youtube.com/@VoiNetwork/streams
 
-## Projects Affiliation
+## Project Affiliations
 
 - Frostbits Solutions - https://frostbits.solutions
 - Gems - https://algogems.io

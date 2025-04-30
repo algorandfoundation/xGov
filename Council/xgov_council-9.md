@@ -26,7 +26,7 @@ In my current role, I lead programs that span an organization of over 80,000 emp
 
 In 2023, I joined my first nonprofit board, gaining valuable experience in governance, mission alignment, and collaboration. This role has given me a strong foundation for thoughtful, mission-driven leadership that balances community input with long-term vision.
 
-## Projects Affiliation
+## Project Affiliations
 
 - 🛠 **Creator**: Arbitraz
 - 🔁 **Node Runner**: BAJO
