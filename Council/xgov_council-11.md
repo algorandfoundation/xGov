@@ -50,7 +50,7 @@ Examples:
  
  I currently work for a software startup, building lending and deposit products in Tradfi for the last 3 years. Previous experience, 6 years as a Product Manager at a large Credit Union, and 3 years at the investment bank at JP Morgan. While never officially working in Crypto, I have been a long-time member of the Bitcoin Community (2014) and Algorand (2020). If you are not familiar with me, you can track my Algorand Forums profile and view any posts and comments I've made on there. (https://forum.algorand.org/u/conscious/summary) I have also been very active in the Algorand Twitter and Discord communities. 
  
- ## Projects Affiliation
+ ## Project Affiliations
  
  None, personally I think this is a benefit for a position like this.
  
