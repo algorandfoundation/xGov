@@ -23,7 +23,7 @@ General Experience: I've been a developer for over 10 years, having started in t
 
 In web3 I try to stand for transparency, openness and a willingness to learn. 
 
-## Projects Affiliation
+## Project Affiliations
 
 CompX - Founder
 weDev - Co-Founder

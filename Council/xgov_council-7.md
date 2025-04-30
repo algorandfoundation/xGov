@@ -24,7 +24,7 @@ I’ve also worked on tokenomics design, staking contracts, smart contract libra
 
 This combination of technical and community work gives me a well-rounded perspective that I’d bring to reviewing proposals, flagging potential issues, and helping others refine ideas to get them over the line.
 
-## Projects Affiliation
+## Project Affiliations
 
 - PactFi → CTO  
 - HumbleSwap → CTO  

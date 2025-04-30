@@ -1,6 +1,6 @@
 ---
 id: 12
-author: Paul Hinrichsen (@conscious.algo)
+author: Paul Hinrichsen (@paulhinrichsen)
 email: paulhinrichsen@gmail.com
 address: 3HOQI46R2WNG2NIUYZRTXUAMCJBED7ZBPQ7J5WV7K4LM2POBSUCLJWMUZA
 status: Final

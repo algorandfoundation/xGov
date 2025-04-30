@@ -43,7 +43,7 @@ With the xGov program my company has delivered following projects:
 - <a href="https://forum.algorand.org/t/xgov-199-awallet-retroactive/11866">#164 AWallet retroactive grant</a>
 - <a href="https://forum.algorand.org/t/xgov-200-biatec-identity/11871">#200 Biatec Identity - Open source secure KYC system</a>
 
-## Projects Affiliation
+## Project Affiliations
 
 - <a href="https://www.biatec.io">Biatec Group</a>
 - <a href="https://wallet.biatec.io">Biatec Wallet</a> / <a href="https://www.a-wallet.net">AWallet</a>

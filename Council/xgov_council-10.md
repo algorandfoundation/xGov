@@ -50,7 +50,7 @@ Discord Bots:
 
 - Swapman: Monitors Algorand blocks and reports DEX swaps to Discord in real-time
 
-## Projects Affiliation
+## Project Affiliations
 
 - Angels of Ares: Personal brand on Algorand
 
