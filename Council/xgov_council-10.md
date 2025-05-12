@@ -1,7 +1,7 @@
 ---
 id: 10
 author: Mohamed Majdalawieh aka Angel of Ares (@TheAngelOfAres)
-email: aoa@angelsofares.xyz
+email: angelsofaresyt@gmail.com
 address: IEDYR4YZTV22AZW7Q4UILNMHJN256MBBYOSKUK6RD6DSL5JSM46DTYJQKU
 status: Final
 ---
