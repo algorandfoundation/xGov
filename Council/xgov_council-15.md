@@ -3,7 +3,7 @@ id: 15
 author: Paweł Pierścionek (@urtho)
 email: urtho@nodely.io
 address: YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU
-status: Draft
+status: Final
 ---
 
 ## Introduction
@@ -33,12 +33,13 @@ Programming by night in C, Go, TS. Sponsoring a few open source projects as well
 
 ## Additional Information
 
-### Notable private contributions (code or $$$):
+### Notable Algorand projects of mine :
 - [3D Algorand explorer](http://algo3d.live/) 
 - [Algorand metrics public API](https://afmetrics.api.nodely.io/v1/api-docs/)
 - [Keyreg via QR code](https://github.com/AlgoNode/algourl) - original idea, now part of nodekit
 - [Light indexer](https://github.com/AlgoNode/light-indexer)
-- [🩏 Reti commercial audit](https://github.com/algorandfoundation/reti/tree/main/contracts/contracts/audit/CoinFabrik)
+- [Algorand Network dashboard](https://tps.nodely.io)
+- [Algorand Node telemetry](http://telemetry.nodely.link)
 
 ### Algorand support in other projects or services:
 - [BigQuery dataset](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1snodely-data-pub!2salgorand_mainnet_daily) - public Algorand Mainnet dataset 
@@ -46,3 +47,17 @@ Programming by night in C, Go, TS. Sponsoring a few open source projects as well
 - [Nebula P2P scanner](https://github.com/AlgoNode/nebula)
 - [Nansen.ai](https://app.nansen.ai/macro/blockchains?chain=algorand)
 - [Artemis Terminal](https://app.artemis.xyz/project/algorand?from=chains&type=chains)
+
+### OSS projects sponsored:
+
+#### Algorand related:
+- [Allo explorer](https://allo.info) (up to 2023)
+- [🩏 Reti commercial audit](https://github.com/algorandfoundation/reti/tree/main/contracts/contracts/audit/CoinFabrik)
+- [Funk node](https://github.com/GalaxyPay/func)
+- [Use Wallet](https://github.com/TxnLab/use-wallet)
+
+#### Other:
+- [Coolify](https://www.coolify.io/)
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+- [Graphile](https://github.com/graphile)
+
