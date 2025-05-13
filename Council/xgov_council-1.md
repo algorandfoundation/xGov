@@ -17,6 +17,7 @@ By joining the xGov council, I aim to further strengthen the decentralization as
 - @scholtz Github
 - <a href="https://www.youtube.com/@EverydayAlgonaut">@EverydayAlgonaut YouTube</a>
 - LudovitScholtz#9304 Discord
+- <a href="https://x.com/EAlgonaut">X - @EAlgonaut</a>
 - <a href="https://forum.algorand.org/u/scholtz/summary">Algorand Forum Profile</a>
 
 ## Relevant Experience
