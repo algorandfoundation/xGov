@@ -3,7 +3,7 @@ id: 18
 author: Sean Menstell-Fraser (@sean-fraser)
 email: sean.66.fraser@gmail.com
 address: NRXRF5I3IYRF6XCFIITU6IGH2XNJEPC42TMPVRCSTBOQDME4LMUDTO4BOU
-status: Candidate
+status: Final
 ---
 
 ## Introduction
