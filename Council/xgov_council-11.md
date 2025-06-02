@@ -3,12 +3,12 @@ id: 11
 author: Patrick Bennett (@pbennett)
 email: patrick@txnlab.dev
 address: patrick.algo
-status: Draft
+status: Final
 ---
 
 ## Introduction
 
-I've been involved in the Algorand ecosystem since late 2019 and actively building since 2020. I created the smart contracts for NFDs and Reti, as well as all the backend services and infrastructure for TxnLab projects.
+I've been involved in the Algorand ecosystem since late 2019 and actively building since 2020. I created the smart contracts for NFDs, the contracts and node daemon for Reti open-pooling, the Haydrops contracts, as well as all the backend services, public APIs and infrastructure for TxnLab projects.
 
 With extensive knowledge of the chain, I aim to ensure that any proposals meet the appropriate criteria for the betterment of the network and its ecosystem.
 
@@ -20,7 +20,7 @@ With extensive knowledge of the chain, I aim to ensure that any proposals meet t
 
 ## Relevant Experience
 
-I’ve been a programmer for over four decades, with deep experience in databases, systems programming, networking, cloud infrastructure, email systems, build pipelines, CI/CD, and most recently, blockchain dApps (including smart contracts and backend-to-frontend integrations).
+I’ve been a programmer for over four decades, with deep experience in databases, systems programming, networking, cloud infrastructure, email systems, build pipelines, CI/CD, and since 2020, blockchain dApps (including smart contracts and backend-to-frontend integrations).  
 
 I’ve been an active member of the Algorand Discord since 2019, helping users and builders. I also created and manage a long-standing Algorand 'unofficial' Telegram channel.
 
