@@ -4,7 +4,7 @@ author: Taras Hirniak (@Tarpoz)
 email: taras0078
 address: @Tarpoz
 status: Draft
----
+
 
 ## Introduction
 I want to become part of something greater — to take an active role in the development of the Algorand ecosystem. I tell my friends and family about the potential of this blockchain and I want to be part of the change that is happening. I am ready to contribute and grow with the process.
