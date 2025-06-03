@@ -15,6 +15,10 @@ I'm applying to become an xGov council member to represent the Russian-speaking 
 - https://twitter.com/mredgarcross
 - https://t.me/MREDGARCROSS
 - https://mredgarcross.com/
+- https://www.youtube.com/@MREDGARCROSS
+- https://web.telegram.org/k/#@PROCENT666
+- https://forum.algorand.co/u/mredgarcross/activity
+
 
 ## Relevant Experience
 
