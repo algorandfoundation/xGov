@@ -3,7 +3,7 @@ id: 18
 author: Taras Hirniak (@Tarpoz)
 email: taras.trombon@gmail.com
 address: 67OLU3IO4YWOAYJK273DQJS6RU2ES45WPAYHWNIQJNYKRXGZ5NPBMMEK3I
-status: Draft
+status: Final
 ---
 
 ## Introduction
