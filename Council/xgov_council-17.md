@@ -1,20 +1,23 @@
+| id  | author                      | email             | address               | status |
+|-----|-----------------------------|-------------------|------------------------|--------|
+| TBD | Taras Hirniak (@Tarpoz)     | taras0078         | @Tarpoz               | Draft  |
 
-# Taras Hirniak (@Tarpoz)
+### Introduction
+I want to become part of something greater — to take an active role in the development of the Algorand ecosystem. I tell my friends and family about the potential of this blockchain and I want to be part of the change that is happening. I am ready to contribute and grow with the process.
 
-**Algorand Address**  
-67OLU3IO4YWOAYJK273DQJS6RU2ES45WPAYHWNIQJNYKRXGZ5NPBMMEK3I
+### Social Profiles
+- GitHub: [https://github.com/Tarpoz](https://github.com/Tarpoz)
+- Discord: `taras0078` *(no discriminator shown)*
+- Telegram: `@Tarpoz`
+- Twitter/X: [https://twitter.com/GirnakT](https://twitter.com/GirnakT)
+- Country: Ukraine
+- Languages: Ukrainian, Russian, English
 
-**Email**  
-taras.trombon@gmail.com
+### Relevant Experience
+Since February 2023, I have been accumulating ALGO. Starting from Governance Period 8, I’ve actively participated in voting, including in xGov rounds. I consistently accumulate the token for long-term holding and believe in its enormous potential.
 
-## Motivation
+### Project Affiliations
+Active participant in xGov governance and Algorand community. Long-term holder and ecosystem supporter.
 
-I want to contribute to the development of the Algorand ecosystem, influence decision-making processes, and represent the interests of an active and engaged community. 
-
-I have experience using the Algorand Wallet, participating in governance votes, and engaging with DeFi projects. Additionally, I’m familiar with other blockchain networks, such as Ethereum, Cosmos, and Bitcoin. 
-
-My main focus is to promote educational efforts around Algorand, improve accessibility of information for newcomers, support decentralized tools, and encourage the growth of local grassroots initiatives.
-
-## Acknowledgements
-
-I confirm that I am submitting this application with my real name, agree to share my public Algorand address, and understand the responsibilities and expectations of an xGov Council member. I acknowledge that I will undergo KYC with the Algorand Foundation if selected.
+### Additional Information
+I confirm that I am ready to undergo KYC with the Algorand Foundation if selected. I have no conflicts of interest to declare.
