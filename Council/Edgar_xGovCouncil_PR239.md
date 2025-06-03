@@ -12,7 +12,7 @@ I'm applying to become an xGov council member to represent the Russian-speaking 
 
 ## Social Profiles
 
-- https://twitter.com/mredgarcrossss
+- https://twitter.com/mredgarcross
 - https://t.me/MREDGARCROSS
 - https://mredgarcross.com/
 
