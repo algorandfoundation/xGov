@@ -1,6 +1,6 @@
 ---
 id: 23
-author: MG (@emg110)
+author: Mohammad Ghaisi (@emg110)
 email: emg110@goplausible.com
 address: emg110.algo
 status: Final
