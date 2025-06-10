@@ -1,5 +1,5 @@
 ---
-id: 25 
+id: 25
 author: Alexander Fadeev aka Danko (@sashafadeev)
 email: porodistaia@gmail.com
 address: GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA
