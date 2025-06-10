@@ -1,6 +1,6 @@
 ---
 id: 21
-author: Andrew (Shaman) Kotulak (@HumbleShaman)
+author: Andrew Shaman Kotulak (@HumbleShaman)
 email: andrew@pact.fi
 address: IICAB345T3BQTQVTKUI24CV2VPEKBTVWGUCXXNTVXX2NNQDUMZBLTDOPAM
 status: Final
