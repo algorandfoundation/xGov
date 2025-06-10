@@ -1,9 +1,10 @@
-id    author    email    address    status
-1  
-Alexander Fadeev aka Danko (@sashafadeev)  
-porodistaia@gmail.com  
-GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA  
-Final  
+---
+id: 25 
+author: Alexander Fadeev aka Danko (@sashafadeev)
+email: porodistaia@gmail.com
+address: GPN2XGX42DW4BNMVW27YUO7U7VLK2A4SKMP3CZ34ENTPCZ2URBK4YSSFJA
+status: Final
+---
 
 ## Introduction
 
