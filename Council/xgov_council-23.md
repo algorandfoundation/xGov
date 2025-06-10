@@ -3,7 +3,7 @@ id: 23
 author: MG (@emg110)
 email: emg110@goplausible.com
 address: emg110.algo
-status: Draft
+status: Final
 ---
 
 ## Introduction
