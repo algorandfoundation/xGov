@@ -3,7 +3,7 @@ id: 5
 author: Kieran Nelson (@xxiled-plastic-cat)
 email: kieran@compx.io
 address: RS7TLLQRXKBAQDAVTSZC2ZLMVMLNSCL3FOUOESJJZ5XSKFFL56UI6X33CI
-status: Final
+status: Elected
 ---
 
 ## Introduction

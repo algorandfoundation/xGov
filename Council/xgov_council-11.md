@@ -3,7 +3,7 @@ id: 11
 author: Patrick Bennett (@pbennett)
 email: patrick@txnlab.dev
 address: patrick.algo
-status: Final
+status: Elected
 ---
 
 ## Introduction

@@ -3,7 +3,7 @@ id: 9
 author: Robbie Baxter (@fifthrace)
 email: fifth.race@gmail.com
 address: D3S6VBVPDD2Y2SNYFAT65AL25KUCKMY5IYM7RK3N4LMJIW44G2OWKBRSOI
-status: Final
+status: Elected
 ---
 
 ## Introduction

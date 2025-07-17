@@ -3,7 +3,7 @@ id: 22
 author: Dr. Uroš Hudomalj (@uhudo)
 email: uros.hudomalj@valar.solutions
 address: ZJC56ESEXZRYYWTVEZ56HFPDI54FTJ2WK3RJMVZRPVXR2KKWIHDA7EPSZM
-status: Final
+status: Elected
 ---
 
 ## Introduction

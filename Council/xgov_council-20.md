@@ -3,7 +3,7 @@ id: 20
 author: Julian van der Welle (@jdvanderwelle)
 email: vanderwelle.jd@hotmail.com
 address: DPSDCMAH6Z4GXXQOFNJAFJEOT6PNRZDO4R5N7WKJD5FH77EKEPTICH4FCQ
-status: Final
+status: Not Elected
 ---
 
 ## Introduction

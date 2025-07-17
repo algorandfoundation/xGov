@@ -3,7 +3,7 @@ id: 23
 author: Mohammad Ghaisi (@emg110)
 email: emg110@goplausible.com
 address: emg110.algo
-status: Final
+status: Elected
 ---
 
 ## Introduction

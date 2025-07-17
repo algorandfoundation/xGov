@@ -3,7 +3,7 @@ id: 15
 author: Paweł Pierścionek (@urtho)
 email: urtho@nodely.io
 address: YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU
-status: Final
+status: Elected
 ---
 
 ## Introduction

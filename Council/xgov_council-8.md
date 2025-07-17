@@ -3,7 +3,7 @@ id: 8
 author: Naoki Yamamoto (@apar0xmei)
 email: n_yamamoto_al@outlook.jp
 address: 5HHP6MI64C6LJJBEUHDHBB4HZEKUI43KMMUJKJWZOLVD2FYSPFD5SOHQYA
-status: Final
+status: Elected
 ---
 
 ## Introduction

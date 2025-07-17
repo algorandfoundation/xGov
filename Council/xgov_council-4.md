@@ -3,7 +3,7 @@ id: 4
 author: Simon Belingar (@simonbelingar)
 email: simon@cosmicchamps.com
 address: YIP5W6ISX2GLMMF4FZD3GPXUFPTQKWQGGBJJW2ZIRLRQARZ4TUWBRBT37Q
-status: Final
+status: Elected
 ---
 
 ## Introduction

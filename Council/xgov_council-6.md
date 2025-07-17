@@ -1,10 +1,9 @@
 ---
 id: 6
-title: xGov Council Application for Joseph Wu
 author: Joseph Wu (@josephwu95)
 email: jwu7@alumni.stanford.edu
 address: YM7DVJVUCHAC42QPRMIX5XUPU6W2DIPU6ZNOEYTZ6Z2HISYNE4SQF5PLOA
-status: Final
+status: Not Elected
 ---
 
 ## Introduction
