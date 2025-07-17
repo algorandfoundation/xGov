@@ -3,7 +3,7 @@ id: 7
 author: Nicholas Shellabarger aka Shelly (@NicholasShella2)
 email: nickat9t@gmail.com
 address: 7UBGYVIHJKBIDSVZABRZSGAMN55HZSBX4MK3VBCHVM6F7OIWSGEN3Z75L4
-status: Final
+status: Not Elected
 ---
 
 ## Introduction

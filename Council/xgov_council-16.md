@@ -3,7 +3,7 @@ id: 16
 author: Scott Bolasevich aka Flipping (@FlippingMfer)
 email: flippingalgos@gmail.com
 address: 7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA
-status: Final
+status: Not Elected
 ---
 
 ## Introduction

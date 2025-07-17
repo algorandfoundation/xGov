@@ -3,7 +3,7 @@ id: 24
 author: Michael T Chuang (@michaeltchuang)
 email: hello@michaeltchuang.com
 address: michaeltchuang.algo
-status: Final
+status: Elected
 ---
 
 ## Introduction

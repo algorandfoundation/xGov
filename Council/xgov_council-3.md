@@ -3,7 +3,7 @@ id: 3
 author: John Mizzoni (@johnmizz)
 email: john@txnlab.dev
 address: FISHERMANBPAHXQJEBJNIMMTBVNCOTXG6TUHYXQNE64FEJRVDTO3E3A43E
-status: Final
+status: Elected
 ---
 
 ## Introduction
