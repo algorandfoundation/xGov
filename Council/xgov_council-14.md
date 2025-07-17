@@ -3,7 +3,7 @@ id: 14
 author: Gábor Lipovszki (@a-maugli)
 email: gabor.lipovszki@gmail.com
 address: KXK5TLUOTPXI36YJXMGDHGONH2CXAHPRU5ZPQRFFAYVKBAFNWGOOAUDMZE
-status: Not Elected
+status: Final
 ---
 
 ## Introduction
