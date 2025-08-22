@@ -2,7 +2,7 @@
 id: 11
 author: Patrick Bennett (@pbennett)
 email: patrick@txnlab.dev
-address: patrick.algo
+address: IPYITVHGDSHWK3KH6MVWXLKVCGWWK2EM7YXLI5ANJR2A7KM5PLVQZVJ6XQ
 status: Elected
 ---
 
